@@ -1,0 +1,16 @@
+# поддержка Telegram
+python-telegram-bot
+requests
+PySocks
+# для обработки естественного языка
+scikit-learn
+razdel
+navec
+natasha
+pymorphy2
+cython
+pyyaml
+# для работы с графами в лингвистическом процессоре
+pycairo
+python-igraph
+

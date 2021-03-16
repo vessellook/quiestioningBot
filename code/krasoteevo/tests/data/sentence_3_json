@@ -1,0 +1,49 @@
+{
+  "sentence": "Ваня идёт гулять.",
+  "tokens": [
+    "Ваня",
+    "идёт",
+    "гулять",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "ваня",
+        "lexem": "ваня",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "идёт",
+        "lexem": "идти",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "гулять",
+        "lexem": "гулять",
+        "tags": "OpencorporaTag('INFN,impf,intr')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      0,
+      "предик",
+      "идёт",
+      "ваня"
+    ],
+    [
+      1,
+      2,
+      "обст",
+      "идёт",
+      "гулять"
+    ]
+  ]
+}

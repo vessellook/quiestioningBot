@@ -1,0 +1,205 @@
+    {
+  "sentence": "Школьник высадил полностью заряженный гаджет, потратив на игры и учёбу одинаковое время.",
+  "tokens": [
+    "Школьник",
+    "высадил",
+    "полностью",
+    "заряженный",
+    "гаджет",
+    ",",
+    "потратив",
+    "на",
+    "игры",
+    "и",
+    "учёбу",
+    "одинаковое",
+    "время",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "школьник",
+        "lexem": "школьник",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "высадил",
+        "lexem": "высадить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "полностью",
+        "lexem": "полностью",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "заряженный",
+        "lexem": "зарядить",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "гаджет",
+        "lexem": "гаджет",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "потратив",
+        "lexem": "потратить",
+        "tags": "OpencorporaTag('GRND,perf,tran past')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "игры",
+        "lexem": "игра",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "игры",
+        "lexem": "игра",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "учёбу",
+        "lexem": "учёба",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "одинаковое",
+        "lexem": "одинаковый",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "время",
+        "lexem": "время",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      12,
+      11,
+      "опред",
+      "время",
+      "одинаковое"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "на",
+      "игры"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "на",
+      "игры"
+    ],
+    [
+      3,
+      2,
+      "огранич",
+      "заряженный",
+      "полностью"
+    ],
+    [
+      1,
+      6,
+      "обст",
+      "высадил",
+      "потратив"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "высадил",
+      "школьник"
+    ],
+    [
+      1,
+      12,
+      "1-компл",
+      "высадил",
+      "время"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "заряженный",
+      "гаджет"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "потратив",
+      "на"
+    ],
+    [
+      9,
+      10,
+      "соч-союзн",
+      "и",
+      "учёбу"
+    ],
+    [
+      8,
+      9,
+      "сочин",
+      "игры",
+      "и"
+    ],
+    [
+      8,
+      9,
+      "сочин",
+      "игры",
+      "и"
+    ],
+    [
+      6,
+      7,
+      "обст",
+      "потратив",
+      "на"
+    ]
+  ]
+}
