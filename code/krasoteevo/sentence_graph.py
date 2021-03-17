@@ -2,7 +2,6 @@
 
 import json
 from typing import Any
-from requests import Response
 
 from igraph import Graph
 
@@ -49,23 +48,29 @@ class SentenceGraph(Graph):
 
     class MorphInfo:
         """Class representing morphological information about word"""
-        def __init__(self, word: str, lexeme: str, tags: str):
+
+        def __init__(self, word: str, lexeme: str, tags: str, tag_class: type = None):
             """
 
             :param word: word in some form
             :param lexeme: word in the main form
             :param tags: string of word tags in special format. Example of format:
                          <i>OpencorporaTag('NOUN,inan,masc sing,accs')<i/>
+            :param tag_class: it is OpencorporaTag class passed from pymorphy2
+             (see <a href="https://pymorphy2.readthedocs.io/en/stable/user/guide.html#id4">
+             docs about OpencorporaTag class</a>).
             """
             self.word = word
             self.lexeme = lexeme
-            self.raw_tags = tags
             left = "OpencorporaTag('"
             right = "')"
-            self.tags = tags[len(left):-len(right)].split(',')
-            self.type = tags[0]
+            self.raw_tags = tags[len(left):-len(right)]
+            if tag_class is not None:
+                self.tags = tag_class(self.raw_tags)
+            else:
+                self.tags = None
 
-    def __init__(self, sentence: Any):
+    def __init__(self, sentence: Any, tag_class: type = None):
         """
 
         :param sentence: a sentence to parse. Instead of string sentence, it can be
@@ -84,7 +89,7 @@ class SentenceGraph(Graph):
             json_obj = sentence
         sentence = json_obj['sentence']
 
-        vertex_attrs = SentenceGraph._vertex_attrs(json_obj)
+        vertex_attrs = SentenceGraph._vertex_attrs(json_obj, tag_class)
         edges, edge_attrs = SentenceGraph._edges(json_obj)
 
         super().__init__(self, directed=True, graph_attrs={'json': json_obj, 'sentence': sentence},
@@ -92,13 +97,16 @@ class SentenceGraph(Graph):
                          edges=edges, edge_attrs=edge_attrs)
 
     @staticmethod
-    def _vertex_attrs(json_obj):
+    def _vertex_attrs(json_obj, tag_class: type = None):
         def get_attrs(mi_list):
             if len(mi_list) > 0:
                 # word token
-                mi_list = [SentenceGraph.MorphInfo(word=item['word'], lexeme=item['lexem'],
-                                                   tags=item['tags']) for item in mi_list]
-                return list(mi_list), True
+                mi_list_converted = []
+                for item in mi_list:
+                    morph_info = SentenceGraph.MorphInfo(word=item['word'], lexeme=item['lexem'],
+                                                         tags=item['tags'], tag_class=tag_class)
+                    mi_list_converted.append(morph_info)
+                return mi_list_converted, True
             # punctuation mark
             return None, False
 
