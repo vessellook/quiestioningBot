@@ -1,5 +1,6 @@
 """Classes to use syntax analysis results"""
 
+import json
 from typing import Any
 from requests import Response
 
@@ -71,11 +72,17 @@ class SentenceGraph(Graph):
          a JSON object
         """
         if isinstance(sentence, str):
-            response = request_syntax_analysis(sentence)
-            json_obj = response.json()
+            try:
+                # JSON string passed
+                json_obj = json.loads(sentence)
+            except json.JSONDecodeError:
+                # sentence passed
+                response = request_syntax_analysis(sentence)
+                json_obj = response.json()
         else:
+            # JSON object passed
             json_obj = sentence
-            sentence = json_obj['sentence']
+        sentence = json_obj['sentence']
 
         vertex_attrs = SentenceGraph._vertex_attrs(json_obj)
         edges, edge_attrs = SentenceGraph._edges(json_obj)
