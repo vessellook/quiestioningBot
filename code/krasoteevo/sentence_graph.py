@@ -89,40 +89,41 @@ class SentenceGraph(Graph):
             json_obj = sentence
         sentence = json_obj['sentence']
 
-        vertex_attrs = SentenceGraph._vertex_attrs(json_obj, tag_class)
-        edges, edge_attrs = SentenceGraph._edges(json_obj)
+        vertex_count, vertex_attrs = _extract_vertices(json_obj, tag_class)
+        edges, edge_attrs = _extract_edges(json_obj)
 
         super().__init__(self, directed=True, graph_attrs={'json': json_obj, 'sentence': sentence},
-                         n=len(vertex_attrs), vertex_attrs=vertex_attrs,
+                         n=vertex_count, vertex_attrs=vertex_attrs,
                          edges=edges, edge_attrs=edge_attrs)
 
-    @staticmethod
-    def _vertex_attrs(json_obj, tag_class: type = None):
-        def get_attrs(mi_list):
-            if len(mi_list) > 0:
-                # word token
-                mi_list_converted = []
-                for item in mi_list:
-                    morph_info = SentenceGraph.MorphInfo(word=item['word'], lexeme=item['lexem'],
-                                                         tags=item['tags'], tag_class=tag_class)
-                    mi_list_converted.append(morph_info)
-                return mi_list_converted, True
-            # punctuation mark
-            return None, False
 
-        attrs = {'morph_info_list': [], 'is_word': [], 'token': []}
-        for token, morph_info_list in zip(json_obj['tokens'], json_obj['morphs']):
-            attrs['token'].append(token)
-            morph_info_list, is_word = get_attrs(morph_info_list)
-            attrs['morph_info_list'].append(morph_info_list)
-            attrs['is_word'].append(is_word)
-            return attrs
+def _extract_vertices(json_obj, tag_class: type = None):
+    def get_attrs(mi_list):
+        if len(mi_list) > 0:
+            # word token
+            mi_list_converted = []
+            for item in mi_list:
+                morph_info = SentenceGraph.MorphInfo(word=item['word'], lexeme=item['lexem'],
+                                                     tags=item['tags'], tag_class=tag_class)
+                mi_list_converted.append(morph_info)
+            return mi_list_converted, True
+        # punctuation mark
+        return None, False
 
-    @staticmethod
-    def _edges(json_obj):
-        edges = []
-        attrs = {'type': []}
-        for item in json_obj['synts']:
-            edges.append((item[0], item[1]))
-            attrs['type'].append(item[2])
-        return edges, attrs
+    attrs = {'morph_info_list': [], 'is_word': [], 'token': [], 'id': []}
+    for token, morph_info_list, num in zip(json_obj['tokens'], json_obj['morphs'], range(len(json_obj['morphs']))):
+        attrs['token'].append(token)
+        morph_info_list, is_word = get_attrs(morph_info_list)
+        attrs['morph_info_list'].append(morph_info_list)
+        attrs['is_word'].append(is_word)
+        attrs['id'].append(num)
+    return len(attrs), attrs
+
+
+def _extract_edges(json_obj):
+    edges = []
+    attrs = {'type': []}
+    for item in json_obj['synts']:
+        edges.append((item[0], item[1]))
+        attrs['type'].append(item[2])
+    return edges, attrs
