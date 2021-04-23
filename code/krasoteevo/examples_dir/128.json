@@ -1,0 +1,336 @@
+{
+  "sentence": "И был темный, отвратительный вечер, когда я ехал на вокзал, все внутри у меня замирало от тревоги и холода.",
+  "tokens": [
+    "И",
+    "был",
+    "темный",
+    ",",
+    "отвратительный",
+    "вечер",
+    ",",
+    "когда",
+    "я",
+    "ехал",
+    "на",
+    "вокзал",
+    ",",
+    "все",
+    "внутри",
+    "у",
+    "меня",
+    "замирало",
+    "от",
+    "тревоги",
+    "и",
+    "холода",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "был",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "тёмный",
+        "lexem": "тёмный",
+        "tags": "OpencorporaTag('ADJF,Qual inan,masc,sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "отвратительный",
+        "lexem": "отвратительный",
+        "tags": "OpencorporaTag('ADJF,Qual inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "вечер",
+        "lexem": "вечер",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "когда",
+        "lexem": "когда",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "ехал",
+        "lexem": "ехать",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "вокзал",
+        "lexem": "вокзал",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "все",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro plur,nomn')"
+      },
+      {
+        "word": "все",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro inan,plur,accs')"
+      },
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,nomn')"
+      },
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "внутри",
+        "lexem": "внутри",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "у",
+        "lexem": "у",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,accs')"
+      },
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "замирало",
+        "lexem": "замирать",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "от",
+        "lexem": "от",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тревоги",
+        "lexem": "тревога",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "холода",
+        "lexem": "холод",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      10,
+      11,
+      "предл",
+      "на",
+      "вокзал"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "у",
+      "меня"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "у",
+      "меня"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "от",
+      "тревоги"
+    ],
+    [
+      1,
+      5,
+      "предик",
+      "был",
+      "вечер"
+    ],
+    [
+      9,
+      8,
+      "предик",
+      "ехал",
+      "я"
+    ],
+    [
+      9,
+      10,
+      "1-компл",
+      "ехал",
+      "на"
+    ],
+    [
+      9,
+      13,
+      "1-компл",
+      "ехал",
+      "все"
+    ],
+    [
+      9,
+      13,
+      "1-компл",
+      "ехал",
+      "все"
+    ],
+    [
+      9,
+      13,
+      "1-компл",
+      "ехал",
+      "всё"
+    ],
+    [
+      9,
+      13,
+      "1-компл",
+      "ехал",
+      "всё"
+    ],
+    [
+      17,
+      14,
+      "1-компл",
+      "замирало",
+      "внутри"
+    ],
+    [
+      17,
+      15,
+      "1-компл",
+      "замирало",
+      "у"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "замирало",
+      "от"
+    ],
+    [
+      7,
+      9,
+      "подч-союзн",
+      "когда",
+      "ехал"
+    ],
+    [
+      0,
+      1,
+      "соч-союзн",
+      "и",
+      "был"
+    ],
+    [
+      20,
+      21,
+      "соч-союзн",
+      "и",
+      "холода"
+    ],
+    [
+      9,
+      17,
+      "сочин",
+      "ехал",
+      "замирало"
+    ],
+    [
+      19,
+      20,
+      "сочин",
+      "тревоги",
+      "и"
+    ],
+    [
+      9,
+      10,
+      "обст",
+      "ехал",
+      "на"
+    ],
+    [
+      17,
+      18,
+      "обст",
+      "замирало",
+      "от"
+    ]
+  ]
+}

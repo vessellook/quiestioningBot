@@ -1,0 +1,372 @@
+{
+  "sentence": "Они косматы, ресницы у них большие, на усах засохшее тесто - боже, какой родной, не городской, а деревенский, зимний, бесконечно милый вид у них!",
+  "tokens": [
+    "Они",
+    "косматы",
+    ",",
+    "ресницы",
+    "у",
+    "них",
+    "большие",
+    ",",
+    "на",
+    "усах",
+    "засохшее",
+    "тесто",
+    "-",
+    "боже",
+    ",",
+    "какой",
+    "родной",
+    ",",
+    "не",
+    "городской",
+    ",",
+    "а",
+    "деревенский",
+    ",",
+    "зимний",
+    ",",
+    "бесконечно",
+    "милый",
+    "вид",
+    "у",
+    "них",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "они",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "косматы",
+        "lexem": "косматый",
+        "tags": "OpencorporaTag('ADJS,Qual plur')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "ресницы",
+        "lexem": "ресница",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "у",
+        "lexem": "у",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,gent,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,loct,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "большие",
+        "lexem": "больший",
+        "tags": "OpencorporaTag('ADJF,Qual inan,plur,accs')"
+      },
+      {
+        "word": "большие",
+        "lexem": "большой",
+        "tags": "OpencorporaTag('ADJF,Qual inan,plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "усах",
+        "lexem": "ус",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,loct')"
+      }
+    ],
+    [
+      {
+        "word": "засохшее",
+        "lexem": "засохнуть",
+        "tags": "OpencorporaTag('PRTF,perf,intr,past,actv neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "тесто",
+        "lexem": "тесто",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "родной",
+        "lexem": "родной",
+        "tags": "OpencorporaTag('ADJF masc,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "городской",
+        "lexem": "городской",
+        "tags": "OpencorporaTag('ADJF masc,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "деревенский",
+        "lexem": "деревенский",
+        "tags": "OpencorporaTag('ADJF masc,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "зимний",
+        "lexem": "зимний",
+        "tags": "OpencorporaTag('ADJF masc,sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "милый",
+        "lexem": "милый",
+        "tags": "OpencorporaTag('ADJF,Subx,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "вид",
+        "lexem": "вид",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "у",
+        "lexem": "у",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,gent,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,loct,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,accs,Af-p')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      6,
+      "опред",
+      "них",
+      "большие"
+    ],
+    [
+      5,
+      6,
+      "опред",
+      "них",
+      "большие"
+    ],
+    [
+      11,
+      10,
+      "опред",
+      "тесто",
+      "засохшее"
+    ],
+    [
+      28,
+      22,
+      "опред",
+      "вид",
+      "деревенский"
+    ],
+    [
+      28,
+      27,
+      "опред",
+      "вид",
+      "милый"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "у",
+      "них"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "у",
+      "них"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "у",
+      "них"
+    ],
+    [
+      8,
+      9,
+      "предл",
+      "на",
+      "усах"
+    ],
+    [
+      29,
+      30,
+      "предл",
+      "у",
+      "них"
+    ],
+    [
+      29,
+      30,
+      "предл",
+      "у",
+      "них"
+    ],
+    [
+      29,
+      30,
+      "предл",
+      "у",
+      "них"
+    ],
+    [
+      19,
+      18,
+      "огранич",
+      "городской",
+      "не"
+    ],
+    [
+      3,
+      4,
+      "атриб",
+      "ресницы",
+      "у"
+    ],
+    [
+      28,
+      29,
+      "атриб",
+      "вид",
+      "у"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "косматы",
+      "они"
+    ],
+    [
+      1,
+      3,
+      "1-компл",
+      "косматы",
+      "ресницы"
+    ],
+    [
+      10,
+      11,
+      "1-компл",
+      "засохшее",
+      "тесто"
+    ],
+    [
+      21,
+      28,
+      "соч-союзн",
+      "а",
+      "вид"
+    ],
+    [
+      1,
+      21,
+      "сочин",
+      "косматы",
+      "а"
+    ],
+    [
+      16,
+      19,
+      "сочин",
+      "родной",
+      "городской"
+    ],
+    [
+      22,
+      24,
+      "сочин",
+      "деревенский",
+      "зимний"
+    ]
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "sentence": "Ну, а мы вчера еще жару поддали, ты то есть, этими рассказами-то... о маляре-то; хорош разговор, когда он, может, сам на этом с ума сошел!",
+  "tokens": [
+    "Ну",
+    ",",
+    "а",
+    "мы",
+    "вчера",
+    "еще",
+    "жару",
+    "поддали",
+    ",",
+    "ты",
+    "то",
+    "есть",
+    ",",
+    "этими",
+    "рассказами-то",
+    "...",
+    "о",
+    "маляре-то",
+    ";",
+    "хорош",
+    "разговор",
+    ",",
+    "когда",
+    "он",
+    ",",
+    "может",
+    ",",
+    "сам",
+    "на",
+    "этом",
+    "с",
+    "ума",
+    "сошел",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "мы",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "вчера",
+        "lexem": "вчера",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "ещё",
+        "lexem": "ещё",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "жару",
+        "lexem": "жара",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Sgtm sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "поддали",
+        "lexem": "поддать",
+        "tags": "OpencorporaTag('VERB,perf,tran plur,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "ты",
+        "lexem": "ты",
+        "tags": "OpencorporaTag('NPRO,2per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "есть",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      },
+      {
+        "word": "есть",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "этими",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "рассказами-то",
+        "lexem": "рассказ-то",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "о",
+        "lexem": "о",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "маляре-то",
+        "lexem": "маляр-то",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "хорош",
+        "lexem": "хороший",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [
+      {
+        "word": "разговор",
+        "lexem": "разговор",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "может",
+        "lexem": "мочь",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "сам",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      },
+      {
+        "word": "сам",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "этом",
+        "lexem": "это",
+        "tags": "OpencorporaTag('NPRO,neut sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "ума",
+        "lexem": "ум",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "сошёл",
+        "lexem": "сойти",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      11,
+      14,
+      "агент",
+      "есть",
+      "рассказами-то"
+    ],
+    [
+      7,
+      3,
+      "предик",
+      "поддали",
+      "мы"
+    ],
+    [
+      11,
+      9,
+      "предик",
+      "есть",
+      "ты"
+    ],
+    [
+      19,
+      20,
+      "предик",
+      "хорош",
+      "разговор"
+    ],
+    [
+      25,
+      23,
+      "предик",
+      "может",
+      "он"
+    ],
+    [
+      7,
+      6,
+      "1-компл",
+      "поддали",
+      "жару"
+    ],
+    [
+      11,
+      10,
+      "1-компл",
+      "есть",
+      "то"
+    ],
+    [
+      11,
+      13,
+      "1-компл",
+      "есть",
+      "этими"
+    ],
+    [
+      11,
+      14,
+      "1-компл",
+      "есть",
+      "рассказами-то"
+    ],
+    [
+      11,
+      27,
+      "1-компл",
+      "есть",
+      "сам"
+    ],
+    [
+      11,
+      27,
+      "1-компл",
+      "есть",
+      "сам"
+    ],
+    [
+      19,
+      16,
+      "1-компл",
+      "хорош",
+      "о"
+    ],
+    [
+      25,
+      27,
+      "1-компл",
+      "может",
+      "сам"
+    ],
+    [
+      25,
+      27,
+      "1-компл",
+      "может",
+      "сам"
+    ],
+    [
+      25,
+      28,
+      "1-компл",
+      "может",
+      "на"
+    ],
+    [
+      32,
+      30,
+      "1-компл",
+      "сошёл",
+      "с"
+    ],
+    [
+      2,
+      7,
+      "соч-союзн",
+      "а",
+      "поддали"
+    ],
+    [
+      7,
+      32,
+      "сочин",
+      "поддали",
+      "сошёл"
+    ],
+    [
+      11,
+      25,
+      "сочин",
+      "есть",
+      "может"
+    ],
+    [
+      7,
+      4,
+      "обст",
+      "поддали",
+      "вчера"
+    ],
+    [
+      7,
+      5,
+      "обст",
+      "поддали",
+      "ещё"
+    ],
+    [
+      11,
+      14,
+      "присвяз",
+      "есть",
+      "рассказами-то"
+    ],
+    [
+      11,
+      17,
+      "присвяз",
+      "есть",
+      "маляре-то"
+    ],
+    [
+      11,
+      29,
+      "присвяз",
+      "есть",
+      "этом"
+    ],
+    [
+      11,
+      31,
+      "присвяз",
+      "есть",
+      "ума"
+    ]
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "sentence": "И какой долгий прекрасный день впереди!",
+  "tokens": [
+    "И",
+    "какой",
+    "долгий",
+    "прекрасный",
+    "день",
+    "впереди",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "какой",
+        "lexem": "какой",
+        "tags": "OpencorporaTag('ADJF,Apro inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "долгий",
+        "lexem": "долгий",
+        "tags": "OpencorporaTag('ADJF,Qual inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "прекрасный",
+        "lexem": "прекрасный",
+        "tags": "OpencorporaTag('ADJF,Qual inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "день",
+        "lexem": "день",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "впереди",
+        "lexem": "впереди",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      2,
+      "опред",
+      "день",
+      "долгий"
+    ],
+    [
+      4,
+      3,
+      "опред",
+      "день",
+      "прекрасный"
+    ],
+    [
+      4,
+      1,
+      "опред",
+      "день",
+      "какой"
+    ],
+    [
+      4,
+      5,
+      "атриб",
+      "день",
+      "впереди"
+    ],
+    [
+      0,
+      4,
+      "соч-союзн",
+      "и",
+      "день"
+    ]
+  ]
+}

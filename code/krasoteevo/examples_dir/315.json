@@ -1,0 +1,186 @@
+{
+  "sentence": "— Ведь он никого не любит; может, и никогда не полюбит, — отрезал Разумихин.",
+  "tokens": [
+    "—",
+    "Ведь",
+    "он",
+    "никого",
+    "не",
+    "любит",
+    ";",
+    "может",
+    ",",
+    "и",
+    "никогда",
+    "не",
+    "полюбит",
+    ",",
+    "—",
+    "отрезал",
+    "Разумихин",
+    "."
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "никого",
+        "lexem": "никто",
+        "tags": "OpencorporaTag('NPRO sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "любит",
+        "lexem": "любить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "может",
+        "lexem": "мочь",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "никогда",
+        "lexem": "никогда",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "полюбит",
+        "lexem": "полюбить",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,3per,futr,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "отрезал",
+        "lexem": "отрезать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      },
+      {
+        "word": "отрезал",
+        "lexem": "отрезать",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "разумихин",
+        "lexem": "разумихин",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      4,
+      "огранич",
+      "любит",
+      "не"
+    ],
+    [
+      12,
+      11,
+      "огранич",
+      "полюбит",
+      "не"
+    ],
+    [
+      5,
+      2,
+      "предик",
+      "любит",
+      "он"
+    ],
+    [
+      15,
+      16,
+      "предик",
+      "отрезал",
+      "разумихин"
+    ],
+    [
+      15,
+      16,
+      "предик",
+      "отрезал",
+      "разумихин"
+    ],
+    [
+      5,
+      3,
+      "1-компл",
+      "любит",
+      "никого"
+    ],
+    [
+      9,
+      12,
+      "соч-союзн",
+      "и",
+      "полюбит"
+    ],
+    [
+      5,
+      7,
+      "сочин",
+      "любит",
+      "может"
+    ],
+    [
+      7,
+      9,
+      "сочин",
+      "может",
+      "и"
+    ],
+    [
+      12,
+      10,
+      "обст",
+      "полюбит",
+      "никогда"
+    ]
+  ]
+}

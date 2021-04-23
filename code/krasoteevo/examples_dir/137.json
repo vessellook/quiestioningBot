@@ -1,0 +1,433 @@
+{
+  "sentence": "Но тотчас вслед за тем был поражен его высокой фигурой, офицерским картузом, узкой шинелью и рукой в замшевой перчатке, которой он, широко шагая, держал ее под руку.",
+  "tokens": [
+    "Но",
+    "тотчас",
+    "вслед",
+    "за",
+    "тем",
+    "был",
+    "поражен",
+    "его",
+    "высокой",
+    "фигурой",
+    ",",
+    "офицерским",
+    "картузом",
+    ",",
+    "узкой",
+    "шинелью",
+    "и",
+    "рукой",
+    "в",
+    "замшевой",
+    "перчатке",
+    ",",
+    "которой",
+    "он",
+    ",",
+    "широко",
+    "шагая",
+    ",",
+    "держал",
+    "ее",
+    "под",
+    "руку",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "но",
+        "lexem": "но",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "тотчас",
+        "lexem": "тотчас",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "вслед",
+        "lexem": "вслед",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "за",
+        "lexem": "за",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тем",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "был",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "поражён",
+        "lexem": "поразить",
+        "tags": "OpencorporaTag('PRTS,perf,past,pssv masc,sing')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent')"
+      },
+      {
+        "word": "его",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "высокой",
+        "lexem": "высокий",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "фигурой",
+        "lexem": "фигура",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "офицерским",
+        "lexem": "офицерский",
+        "tags": "OpencorporaTag('ADJF neut,sing,ablt')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "узкой",
+        "lexem": "узкий",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "шинелью",
+        "lexem": "шинель",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "рукой",
+        "lexem": "рука",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "замшевой",
+        "lexem": "замшевый",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "перчатке",
+        "lexem": "перчатка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "которой",
+        "lexem": "который",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,gent')"
+      },
+      {
+        "word": "которой",
+        "lexem": "который",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,datv')"
+      },
+      {
+        "word": "которой",
+        "lexem": "который",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "широко",
+        "lexem": "широко",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "шагая",
+        "lexem": "шагать",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "держал",
+        "lexem": "держать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,accs')"
+      },
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "под",
+        "lexem": "под",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "руку",
+        "lexem": "рука",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      9,
+      8,
+      "опред",
+      "фигурой",
+      "высокой"
+    ],
+    [
+      15,
+      14,
+      "опред",
+      "шинелью",
+      "узкой"
+    ],
+    [
+      20,
+      19,
+      "опред",
+      "перчатке",
+      "замшевой"
+    ],
+    [
+      20,
+      22,
+      "опред",
+      "перчатке",
+      "которой"
+    ],
+    [
+      20,
+      22,
+      "квазиагент",
+      "перчатке",
+      "которой"
+    ],
+    [
+      20,
+      22,
+      "квазиагент",
+      "перчатке",
+      "которой"
+    ],
+    [
+      30,
+      31,
+      "предл",
+      "под",
+      "руку"
+    ],
+    [
+      17,
+      18,
+      "атриб",
+      "рукой",
+      "в"
+    ],
+    [
+      5,
+      6,
+      "пасс-анал",
+      "был",
+      "поражён"
+    ],
+    [
+      28,
+      23,
+      "предик",
+      "держал",
+      "он"
+    ],
+    [
+      5,
+      2,
+      "1-компл",
+      "был",
+      "вслед"
+    ],
+    [
+      5,
+      3,
+      "1-компл",
+      "был",
+      "за"
+    ],
+    [
+      5,
+      4,
+      "1-компл",
+      "был",
+      "тем"
+    ],
+    [
+      28,
+      17,
+      "1-компл",
+      "держал",
+      "рукой"
+    ],
+    [
+      28,
+      29,
+      "1-компл",
+      "держал",
+      "её"
+    ],
+    [
+      28,
+      30,
+      "1-компл",
+      "держал",
+      "под"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "поражён",
+      "его"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "поражён",
+      "его"
+    ],
+    [
+      28,
+      29,
+      "1-компл",
+      "держал",
+      "её"
+    ],
+    [
+      0,
+      5,
+      "соч-союзн",
+      "но",
+      "был"
+    ],
+    [
+      16,
+      28,
+      "соч-союзн",
+      "и",
+      "держал"
+    ],
+    [
+      5,
+      16,
+      "сочин",
+      "был",
+      "и"
+    ],
+    [
+      8,
+      11,
+      "сочин",
+      "высокой",
+      "офицерским"
+    ],
+    [
+      5,
+      1,
+      "обст",
+      "был",
+      "тотчас"
+    ],
+    [
+      26,
+      25,
+      "обст",
+      "шагая",
+      "широко"
+    ],
+    [
+      28,
+      30,
+      "обст",
+      "держал",
+      "под"
+    ]
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "sentence": "— После, маменька, — вмешалась Дуня, — ведь они еще не знают, кто такая Марфа Петровна.",
+  "tokens": [
+    "—",
+    "После",
+    ",",
+    "маменька",
+    ",",
+    "—",
+    "вмешалась",
+    "Дуня",
+    ",",
+    "—",
+    "ведь",
+    "они",
+    "еще",
+    "не",
+    "знают",
+    ",",
+    "кто",
+    "такая",
+    "Марфа",
+    "Петровна",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "после",
+        "lexem": "после",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "маменька",
+        "lexem": "маменька",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "вмешалась",
+        "lexem": "вмешаться",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "они",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "ещё",
+        "lexem": "ещё",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "знают",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran plur,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "кто",
+        "lexem": "кто",
+        "tags": "OpencorporaTag('NPRO,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "такая",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "марфа",
+        "lexem": "марфа",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "петровна",
+        "lexem": "петрович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      18,
+      17,
+      "опред",
+      "марфа",
+      "такая"
+    ],
+    [
+      18,
+      19,
+      "аппоз",
+      "марфа",
+      "петровна"
+    ],
+    [
+      14,
+      13,
+      "огранич",
+      "знают",
+      "не"
+    ],
+    [
+      6,
+      3,
+      "предик",
+      "вмешалась",
+      "маменька"
+    ],
+    [
+      14,
+      11,
+      "предик",
+      "знают",
+      "они"
+    ],
+    [
+      6,
+      1,
+      "1-компл",
+      "вмешалась",
+      "после"
+    ],
+    [
+      16,
+      18,
+      "подч-союзн",
+      "кто",
+      "марфа"
+    ],
+    [
+      14,
+      12,
+      "обст",
+      "знают",
+      "ещё"
+    ]
+  ]
+}

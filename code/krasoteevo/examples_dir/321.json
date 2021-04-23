@@ -1,0 +1,141 @@
+{
+  "sentence": "Ах, боже мой, что это у вас правая рука!",
+  "tokens": [
+    "Ах",
+    ",",
+    "боже",
+    "мой",
+    ",",
+    "что",
+    "это",
+    "у",
+    "вас",
+    "правая",
+    "рука",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "мой",
+        "lexem": "мыть",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,impr,excl')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "это",
+        "lexem": "это",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "у",
+        "lexem": "у",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "вас",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,accs')"
+      },
+      {
+        "word": "вас",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,gent')"
+      },
+      {
+        "word": "вас",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,loct')"
+      }
+    ],
+    [
+      {
+        "word": "правая",
+        "lexem": "правый",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "рука",
+        "lexem": "рука",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      10,
+      9,
+      "опред",
+      "рука",
+      "правая"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "у",
+      "вас"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "у",
+      "вас"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "у",
+      "вас"
+    ],
+    [
+      3,
+      5,
+      "предик",
+      "мой",
+      "что"
+    ],
+    [
+      10,
+      6,
+      "предик",
+      "рука",
+      "это"
+    ],
+    [
+      3,
+      7,
+      "1-компл",
+      "мой",
+      "у"
+    ],
+    [
+      5,
+      10,
+      "подч-союзн",
+      "что",
+      "рука"
+    ]
+  ]
+}

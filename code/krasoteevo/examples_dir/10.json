@@ -1,0 +1,20 @@
+{
+  "sentence": "Не полегчало?",
+  "tokens": [
+    "Не",
+    "полегчало",
+    "?"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "полегчало",
+        "lexem": "полегчать",
+        "tags": "OpencorporaTag('VERB,perf,intr neut,sing,past,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": []
+}

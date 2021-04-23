@@ -1,0 +1,569 @@
+{
+  "sentence": "Была оттепель, стояли теплые и сырые дни, русские, уездные, каких было уже много, много в этом старом степном городишке, и приехал к Саше отец из деревни.",
+  "tokens": [
+    "Была",
+    "оттепель",
+    ",",
+    "стояли",
+    "теплые",
+    "и",
+    "сырые",
+    "дни",
+    ",",
+    "русские",
+    ",",
+    "уездные",
+    ",",
+    "каких",
+    "было",
+    "уже",
+    "много",
+    ",",
+    "много",
+    "в",
+    "этом",
+    "старом",
+    "степном",
+    "городишке",
+    ",",
+    "и",
+    "приехал",
+    "к",
+    "Саше",
+    "отец",
+    "из",
+    "деревни",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "была",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "оттепель",
+        "lexem": "оттепель",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "стояли",
+        "lexem": "стоять",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "сырые",
+        "lexem": "сырой",
+        "tags": "OpencorporaTag('ADJF,Qual plur,nomn')"
+      },
+      {
+        "word": "сырые",
+        "lexem": "сырой",
+        "tags": "OpencorporaTag('ADJF,Qual inan,plur,accs')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "русские",
+        "lexem": "русский",
+        "tags": "OpencorporaTag('ADJF,Subx plur,nomn')"
+      },
+      {
+        "word": "русские",
+        "lexem": "русский",
+        "tags": "OpencorporaTag('ADJF,Subx inan,plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "уездные",
+        "lexem": "уездный",
+        "tags": "OpencorporaTag('ADJF,Qual plur,nomn')"
+      },
+      {
+        "word": "уездные",
+        "lexem": "уездный",
+        "tags": "OpencorporaTag('ADJF,Qual inan,plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "каких",
+        "lexem": "какой",
+        "tags": "OpencorporaTag('ADJF,Apro plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "уже",
+        "lexem": "уже",
+        "tags": "OpencorporaTag('ADVB')"
+      },
+      {
+        "word": "уже",
+        "lexem": "уж",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,loct')"
+      },
+      {
+        "word": "уже",
+        "lexem": "узкий",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [
+      {
+        "word": "много",
+        "lexem": "много",
+        "tags": "OpencorporaTag('NUMR nomn')"
+      },
+      {
+        "word": "много",
+        "lexem": "много",
+        "tags": "OpencorporaTag('NUMR accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "много",
+        "lexem": "много",
+        "tags": "OpencorporaTag('NUMR nomn')"
+      },
+      {
+        "word": "много",
+        "lexem": "много",
+        "tags": "OpencorporaTag('NUMR accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "этом",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "старом",
+        "lexem": "старое",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,loct')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "приехал",
+        "lexem": "приехать",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "саше",
+        "lexem": "саша",
+        "tags": "OpencorporaTag('NOUN,anim,ms-f,Name sing,datv')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саше",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd sing,gent')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саше",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd sing,datv')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саше",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd sing,accs')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саше",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd sing,ablt')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саше",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd sing,loct')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саше",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd plur,gent')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саше",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd plur,datv')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саше",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd plur,accs')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саше",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd plur,ablt')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саше",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd plur,loct')"
+      },
+      {
+        "word": "саше",
+        "lexem": "саша",
+        "tags": "OpencorporaTag('NOUN,anim,ms-f,Name sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "отец",
+        "lexem": "отец",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "деревни",
+        "lexem": "деревня",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "деревни",
+        "lexem": "деревня",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      21,
+      20,
+      "опред",
+      "старом",
+      "этом"
+    ],
+    [
+      15,
+      16,
+      "нум-аппоз",
+      "уже",
+      "много"
+    ],
+    [
+      15,
+      16,
+      "аппрокс-колич",
+      "уже",
+      "много"
+    ],
+    [
+      16,
+      18,
+      "аддит",
+      "много",
+      "много"
+    ],
+    [
+      16,
+      18,
+      "аддит",
+      "много",
+      "много"
+    ],
+    [
+      16,
+      18,
+      "аддит",
+      "много",
+      "много"
+    ],
+    [
+      16,
+      18,
+      "аддит",
+      "много",
+      "много"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "к",
+      "саше"
+    ],
+    [
+      30,
+      31,
+      "предл",
+      "из",
+      "деревни"
+    ],
+    [
+      30,
+      31,
+      "предл",
+      "из",
+      "деревни"
+    ],
+    [
+      15,
+      21,
+      "об-аппоз",
+      "уже",
+      "старом"
+    ],
+    [
+      0,
+      1,
+      "предик",
+      "была",
+      "оттепель"
+    ],
+    [
+      26,
+      29,
+      "предик",
+      "приехал",
+      "отец"
+    ],
+    [
+      14,
+      13,
+      "1-компл",
+      "было",
+      "каких"
+    ],
+    [
+      26,
+      27,
+      "1-компл",
+      "приехал",
+      "к"
+    ],
+    [
+      5,
+      14,
+      "соч-союзн",
+      "и",
+      "было"
+    ],
+    [
+      25,
+      26,
+      "соч-союзн",
+      "и",
+      "приехал"
+    ],
+    [
+      0,
+      3,
+      "сочин",
+      "была",
+      "стояли"
+    ],
+    [
+      3,
+      5,
+      "сочин",
+      "стояли",
+      "и"
+    ],
+    [
+      14,
+      25,
+      "сочин",
+      "было",
+      "и"
+    ],
+    [
+      6,
+      9,
+      "сочин",
+      "сырые",
+      "русские"
+    ],
+    [
+      6,
+      9,
+      "сочин",
+      "сырые",
+      "русские"
+    ],
+    [
+      9,
+      11,
+      "сочин",
+      "русские",
+      "уездные"
+    ],
+    [
+      9,
+      11,
+      "сочин",
+      "русские",
+      "уездные"
+    ],
+    [
+      14,
+      15,
+      "обст",
+      "было",
+      "уже"
+    ],
+    [
+      26,
+      27,
+      "обст",
+      "приехал",
+      "к"
+    ],
+    [
+      26,
+      30,
+      "обст",
+      "приехал",
+      "из"
+    ],
+    [
+      14,
+      15,
+      "присвяз",
+      "было",
+      "уже"
+    ]
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "sentence": "— Да вздор же, говорю; какая твердая мысль!",
+  "tokens": [
+    "—",
+    "Да",
+    "вздор",
+    "же",
+    ",",
+    "говорю",
+    ";",
+    "какая",
+    "твердая",
+    "мысль",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "вздор",
+        "lexem": "вздор",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "говорю",
+        "lexem": "говорить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "какая",
+        "lexem": "какать",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    [
+      {
+        "word": "твёрдая",
+        "lexem": "твёрдый",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "мысль",
+        "lexem": "мысль",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      9,
+      8,
+      "опред",
+      "мысль",
+      "твёрдая"
+    ],
+    [
+      5,
+      7,
+      "обст",
+      "говорю",
+      "какая"
+    ],
+    [
+      5,
+      2,
+      "предик",
+      "говорю",
+      "вздор"
+    ]
+  ]
+}

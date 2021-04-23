@@ -1,0 +1,460 @@
+{
+  "sentence": "Стукнуло в прихожей, — Нефед принес соломы на топку, свалил ее на пол, отдуваясь, утираясь, дыша холодом и вьюжной свежестью, приотворил дверь, заглянул:\n— Ну что, барыня, как?",
+  "tokens": [
+    "Стукнуло",
+    "в",
+    "прихожей",
+    ",",
+    "—",
+    "Нефед",
+    "принес",
+    "соломы",
+    "на",
+    "топку",
+    ",",
+    "свалил",
+    "ее",
+    "на",
+    "пол",
+    ",",
+    "отдуваясь",
+    ",",
+    "утираясь",
+    ",",
+    "дыша",
+    "холодом",
+    "и",
+    "вьюжной",
+    "свежестью",
+    ",",
+    "приотворил",
+    "дверь",
+    ",",
+    "заглянул",
+    ":",
+    "—",
+    "Ну",
+    "что",
+    ",",
+    "барыня",
+    ",",
+    "как",
+    "?"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "стукнуло",
+        "lexem": "стукнуть",
+        "tags": "OpencorporaTag('VERB,perf,tran neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "прихожей",
+        "lexem": "прихожая",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "прихожей",
+        "lexem": "прихожая",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "прихожей",
+        "lexem": "прихожая",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      },
+      {
+        "word": "прихожей",
+        "lexem": "прихожая",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "нефёд",
+        "lexem": "нефёд",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "принёс",
+        "lexem": "принести",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "соломы",
+        "lexem": "солома",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "топку",
+        "lexem": "топка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "свалил",
+        "lexem": "свалить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      },
+      {
+        "word": "свалил",
+        "lexem": "свалить",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,accs')"
+      },
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "пол",
+        "lexem": "полый",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "отдуваясь",
+        "lexem": "отдуваться",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "утираясь",
+        "lexem": "утираться",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "дыша",
+        "lexem": "дышать",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    [
+      {
+        "word": "холодом",
+        "lexem": "холод",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "вьюжной",
+        "lexem": "вьюжный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "свежестью",
+        "lexem": "свежесть",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "приотворил",
+        "lexem": "приотворить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "дверь",
+        "lexem": "дверь",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "заглянул",
+        "lexem": "заглянуть",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      24,
+      23,
+      "опред",
+      "свежестью",
+      "вьюжной"
+    ],
+    [
+      14,
+      21,
+      "агент",
+      "пол",
+      "холодом"
+    ],
+    [
+      26,
+      24,
+      "агент",
+      "приотворил",
+      "свежестью"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "в",
+      "прихожей"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "в",
+      "прихожей"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "в",
+      "прихожей"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "в",
+      "прихожей"
+    ],
+    [
+      8,
+      9,
+      "предл",
+      "на",
+      "топку"
+    ],
+    [
+      14,
+      16,
+      "обст",
+      "пол",
+      "отдуваясь"
+    ],
+    [
+      14,
+      18,
+      "обст",
+      "пол",
+      "утираясь"
+    ],
+    [
+      14,
+      20,
+      "обст",
+      "пол",
+      "дыша"
+    ],
+    [
+      6,
+      5,
+      "предик",
+      "принёс",
+      "нефёд"
+    ],
+    [
+      29,
+      27,
+      "предик",
+      "заглянул",
+      "дверь"
+    ],
+    [
+      0,
+      1,
+      "1-компл",
+      "стукнуло",
+      "в"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "принёс",
+      "соломы"
+    ],
+    [
+      11,
+      12,
+      "1-компл",
+      "свалил",
+      "её"
+    ],
+    [
+      11,
+      12,
+      "1-компл",
+      "свалил",
+      "её"
+    ],
+    [
+      14,
+      13,
+      "1-компл",
+      "пол",
+      "на"
+    ],
+    [
+      29,
+      33,
+      "1-компл",
+      "заглянул",
+      "что"
+    ],
+    [
+      11,
+      12,
+      "1-компл",
+      "свалил",
+      "её"
+    ],
+    [
+      11,
+      12,
+      "1-компл",
+      "свалил",
+      "её"
+    ],
+    [
+      22,
+      26,
+      "соч-союзн",
+      "и",
+      "приотворил"
+    ],
+    [
+      0,
+      6,
+      "сочин",
+      "стукнуло",
+      "принёс"
+    ],
+    [
+      6,
+      11,
+      "сочин",
+      "принёс",
+      "свалил"
+    ],
+    [
+      6,
+      11,
+      "сочин",
+      "принёс",
+      "свалил"
+    ],
+    [
+      26,
+      29,
+      "сочин",
+      "приотворил",
+      "заглянул"
+    ],
+    [
+      11,
+      22,
+      "сочин",
+      "свалил",
+      "и"
+    ],
+    [
+      11,
+      22,
+      "сочин",
+      "свалил",
+      "и"
+    ],
+    [
+      0,
+      1,
+      "обст",
+      "стукнуло",
+      "в"
+    ],
+    [
+      6,
+      8,
+      "обст",
+      "принёс",
+      "на"
+    ]
+  ]
+}

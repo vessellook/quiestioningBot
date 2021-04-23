@@ -1,0 +1,76 @@
+{
+  "sentence": "Глупая отговорка, еще более его унижающая!",
+  "tokens": [
+    "Глупая",
+    "отговорка",
+    ",",
+    "еще",
+    "более",
+    "его",
+    "унижающая",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "глупая",
+        "lexem": "глупый",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "отговорка",
+        "lexem": "отговорка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "ещё",
+        "lexem": "ещё",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "более",
+        "lexem": "более",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "унижающая",
+        "lexem": "унижать",
+        "tags": "OpencorporaTag('PRTF,impf,tran,pres,actv femn,sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      0,
+      "опред",
+      "отговорка",
+      "глупая"
+    ],
+    [
+      6,
+      3,
+      "обст",
+      "унижающая",
+      "ещё"
+    ],
+    [
+      6,
+      4,
+      "обст",
+      "унижающая",
+      "более"
+    ]
+  ]
+}

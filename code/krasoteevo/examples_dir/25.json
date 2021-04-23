@@ -1,0 +1,34 @@
+{
+  "sentence": "В лавку.",
+  "tokens": [
+    "В",
+    "лавку",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "лавку",
+        "lexem": "лавка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      0,
+      1,
+      "предл",
+      "в",
+      "лавку"
+    ]
+  ]
+}

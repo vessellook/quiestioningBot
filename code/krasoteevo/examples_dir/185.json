@@ -1,0 +1,116 @@
+{
+  "sentence": "Стало быть, есть же и в нем достоинства.",
+  "tokens": [
+    "Стало",
+    "быть",
+    ",",
+    "есть",
+    "же",
+    "и",
+    "в",
+    "нем",
+    "достоинства",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "стало",
+        "lexem": "стать",
+        "tags": "OpencorporaTag('VERB,perf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "быть",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('INFN,impf,intr')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "есть",
+        "lexem": "есть",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      },
+      {
+        "word": "есть",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      },
+      {
+        "word": "есть",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нем",
+        "lexem": "немой",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [
+      {
+        "word": "достоинства",
+        "lexem": "достоинство",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      7,
+      6,
+      "1-компл",
+      "нем",
+      "в"
+    ],
+    [
+      7,
+      8,
+      "1-компл",
+      "нем",
+      "достоинства"
+    ],
+    [
+      5,
+      7,
+      "соч-союзн",
+      "и",
+      "нем"
+    ],
+    [
+      1,
+      3,
+      "сочин",
+      "быть",
+      "есть"
+    ],
+    [
+      0,
+      1,
+      "обст",
+      "стало",
+      "быть"
+    ]
+  ]
+}

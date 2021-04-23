@@ -1,0 +1,364 @@
+{
+  "sentence": "Когда глаз привыкал к темноте, выступали вверху звезды и гребни гор, над деревней вырисовывались деревья, которых мы не замечали днем.",
+  "tokens": [
+    "Когда",
+    "глаз",
+    "привыкал",
+    "к",
+    "темноте",
+    ",",
+    "выступали",
+    "вверху",
+    "звезды",
+    "и",
+    "гребни",
+    "гор",
+    ",",
+    "над",
+    "деревней",
+    "вырисовывались",
+    "деревья",
+    ",",
+    "которых",
+    "мы",
+    "не",
+    "замечали",
+    "днем",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "глаз",
+        "lexem": "глаз",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "привыкал",
+        "lexem": "привыкать",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "темноте",
+        "lexem": "темнота",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Sgtm sing,loct')"
+      },
+      {
+        "word": "темноте",
+        "lexem": "темнота",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Sgtm sing,datv')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "выступали",
+        "lexem": "выступать",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "вверху",
+        "lexem": "вверху",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "звезды",
+        "lexem": "звезда",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "звезды",
+        "lexem": "звезда",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,gent')"
+      },
+      {
+        "word": "звёзды",
+        "lexem": "звезда",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "гребни",
+        "lexem": "гребень",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,nomn')"
+      },
+      {
+        "word": "гребни",
+        "lexem": "гребнуть",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,impr,excl')"
+      }
+    ],
+    [
+      {
+        "word": "гор",
+        "lexem": "гора",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "над",
+        "lexem": "над",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "деревней",
+        "lexem": "деревня",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "вырисовывались",
+        "lexem": "вырисовываться",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "деревья",
+        "lexem": "дерево",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "которых",
+        "lexem": "который",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "мы",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "замечали",
+        "lexem": "замечать",
+        "tags": "OpencorporaTag('VERB,impf,tran plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "днём",
+        "lexem": "день",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      },
+      {
+        "word": "днём",
+        "lexem": "днём",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      16,
+      18,
+      "квазиагент",
+      "деревья",
+      "которых"
+    ],
+    [
+      15,
+      14,
+      "агент",
+      "вырисовывались",
+      "деревней"
+    ],
+    [
+      21,
+      22,
+      "агент",
+      "замечали",
+      "днём"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "к",
+      "темноте"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "к",
+      "темноте"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "вверху",
+      "звезды"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "вверху",
+      "звезды"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "вверху",
+      "звёзды"
+    ],
+    [
+      21,
+      20,
+      "огранич",
+      "замечали",
+      "не"
+    ],
+    [
+      10,
+      11,
+      "атриб",
+      "гребни",
+      "гор"
+    ],
+    [
+      2,
+      1,
+      "предик",
+      "привыкал",
+      "глаз"
+    ],
+    [
+      15,
+      10,
+      "предик",
+      "вырисовывались",
+      "гребни"
+    ],
+    [
+      21,
+      19,
+      "предик",
+      "замечали",
+      "мы"
+    ],
+    [
+      2,
+      3,
+      "1-компл",
+      "привыкал",
+      "к"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "выступали",
+      "вверху"
+    ],
+    [
+      15,
+      13,
+      "1-компл",
+      "вырисовывались",
+      "над"
+    ],
+    [
+      15,
+      16,
+      "1-компл",
+      "вырисовывались",
+      "деревья"
+    ],
+    [
+      21,
+      22,
+      "1-компл",
+      "замечали",
+      "днём"
+    ],
+    [
+      2,
+      6,
+      "сочин",
+      "привыкал",
+      "выступали"
+    ],
+    [
+      6,
+      9,
+      "сочин",
+      "выступали",
+      "и"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "привыкал",
+      "к"
+    ],
+    [
+      6,
+      7,
+      "обст",
+      "выступали",
+      "вверху"
+    ],
+    [
+      21,
+      22,
+      "обст",
+      "замечали",
+      "днём"
+    ],
+    [
+      16,
+      21,
+      "релят",
+      "деревья",
+      "замечали"
+    ]
+  ]
+}

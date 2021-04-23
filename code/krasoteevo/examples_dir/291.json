@@ -1,0 +1,49 @@
+{
+  "sentence": "Великодушен и добр.",
+  "tokens": [
+    "Великодушен",
+    "и",
+    "добр",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "великодушен",
+        "lexem": "великодушный",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "добр",
+        "lexem": "добрый",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      2,
+      "соч-союзн",
+      "и",
+      "добр"
+    ],
+    [
+      0,
+      1,
+      "сочин",
+      "великодушен",
+      "и"
+    ]
+  ]
+}

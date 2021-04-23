@@ -1,0 +1,476 @@
+{
+  "sentence": "Но во всяком случае циником и грязною неряхой нельзя оставаться: он не имеет права оскорблять чувства других, тем более что те, другие, сами в нем нуждаются и сами зовут к себе.",
+  "tokens": [
+    "Но",
+    "во",
+    "всяком",
+    "случае",
+    "циником",
+    "и",
+    "грязною",
+    "неряхой",
+    "нельзя",
+    "оставаться",
+    ":",
+    "он",
+    "не",
+    "имеет",
+    "права",
+    "оскорблять",
+    "чувства",
+    "других",
+    ",",
+    "тем",
+    "более",
+    "что",
+    "те",
+    ",",
+    "другие",
+    ",",
+    "сами",
+    "в",
+    "нем",
+    "нуждаются",
+    "и",
+    "сами",
+    "зовут",
+    "к",
+    "себе",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "но",
+        "lexem": "но",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "во",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP Vpre')"
+      }
+    ],
+    [
+      {
+        "word": "всяком",
+        "lexem": "всякий",
+        "tags": "OpencorporaTag('NPRO,masc sing,loct')"
+      },
+      {
+        "word": "всяком",
+        "lexem": "всякое",
+        "tags": "OpencorporaTag('NPRO,neut sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "случае",
+        "lexem": "случай",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "циником",
+        "lexem": "циник",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "неряхой",
+        "lexem": "неряха",
+        "tags": "OpencorporaTag('NOUN,anim,ms-f sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "нельзя",
+        "lexem": "нельзя",
+        "tags": "OpencorporaTag('PRED,pres')"
+      }
+    ],
+    [
+      {
+        "word": "оставаться",
+        "lexem": "оставаться",
+        "tags": "OpencorporaTag('INFN,impf,intr')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "имеет",
+        "lexem": "иметь",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "права",
+        "lexem": "право",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      },
+      {
+        "word": "права",
+        "lexem": "правый",
+        "tags": "OpencorporaTag('ADJS,Qual femn,sing')"
+      }
+    ],
+    [
+      {
+        "word": "оскорблять",
+        "lexem": "оскорблять",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "чувства",
+        "lexem": "чувство",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "других",
+        "lexem": "другой",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro plur,gent')"
+      },
+      {
+        "word": "других",
+        "lexem": "другой",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro anim,plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "тем",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "те",
+        "lexem": "ты",
+        "tags": "OpencorporaTag('NPRO,2per sing,datv,Arch')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "другие",
+        "lexem": "другой",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro plur,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "сами",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нем",
+        "lexem": "немой",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      },
+      {
+        "word": "нём",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,loct,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "нуждаются",
+        "lexem": "нуждаться",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "сами",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "зовут",
+        "lexem": "звать",
+        "tags": "OpencorporaTag('VERB,impf,tran plur,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "себе",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,datv')"
+      },
+      {
+        "word": "себе",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,loct')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      7,
+      "агент",
+      "нельзя",
+      "неряхой"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "во",
+      "всяком"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "во",
+      "всяком"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "в",
+      "нём"
+    ],
+    [
+      33,
+      34,
+      "предл",
+      "к",
+      "себе"
+    ],
+    [
+      33,
+      34,
+      "предл",
+      "к",
+      "себе"
+    ],
+    [
+      13,
+      12,
+      "огранич",
+      "имеет",
+      "не"
+    ],
+    [
+      3,
+      4,
+      "атриб",
+      "случае",
+      "циником"
+    ],
+    [
+      13,
+      11,
+      "предик",
+      "имеет",
+      "он"
+    ],
+    [
+      28,
+      21,
+      "предик",
+      "нем",
+      "что"
+    ],
+    [
+      8,
+      1,
+      "1-компл",
+      "нельзя",
+      "во"
+    ],
+    [
+      13,
+      14,
+      "1-компл",
+      "имеет",
+      "права"
+    ],
+    [
+      15,
+      16,
+      "1-компл",
+      "оскорблять",
+      "чувства"
+    ],
+    [
+      15,
+      17,
+      "1-компл",
+      "оскорблять",
+      "других"
+    ],
+    [
+      15,
+      17,
+      "1-компл",
+      "оскорблять",
+      "других"
+    ],
+    [
+      15,
+      19,
+      "1-компл",
+      "оскорблять",
+      "тем"
+    ],
+    [
+      28,
+      22,
+      "1-компл",
+      "нем",
+      "те"
+    ],
+    [
+      28,
+      24,
+      "1-компл",
+      "нем",
+      "другие"
+    ],
+    [
+      28,
+      27,
+      "1-компл",
+      "нем",
+      "в"
+    ],
+    [
+      32,
+      31,
+      "1-компл",
+      "зовут",
+      "сами"
+    ],
+    [
+      32,
+      33,
+      "1-компл",
+      "зовут",
+      "к"
+    ],
+    [
+      0,
+      8,
+      "соч-союзн",
+      "но",
+      "нельзя"
+    ],
+    [
+      30,
+      32,
+      "соч-союзн",
+      "и",
+      "зовут"
+    ],
+    [
+      9,
+      15,
+      "сочин",
+      "оставаться",
+      "оскорблять"
+    ],
+    [
+      29,
+      30,
+      "сочин",
+      "нуждаются",
+      "и"
+    ],
+    [
+      24,
+      26,
+      "сочин",
+      "другие",
+      "сами"
+    ],
+    [
+      4,
+      5,
+      "сочин",
+      "циником",
+      "и"
+    ],
+    [
+      32,
+      33,
+      "обст",
+      "зовут",
+      "к"
+    ]
+  ]
+}

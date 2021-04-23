@@ -1,0 +1,275 @@
+{
+  "sentence": "— Те, я думаю, — отвечал Разумихин, поняв цель вопроса, — и будут, конечно, про свои семейные дела говорить.",
+  "tokens": [
+    "—",
+    "Те",
+    ",",
+    "я",
+    "думаю",
+    ",",
+    "—",
+    "отвечал",
+    "Разумихин",
+    ",",
+    "поняв",
+    "цель",
+    "вопроса",
+    ",",
+    "—",
+    "и",
+    "будут",
+    ",",
+    "конечно",
+    ",",
+    "про",
+    "свои",
+    "семейные",
+    "дела",
+    "говорить",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "те",
+        "lexem": "ты",
+        "tags": "OpencorporaTag('NPRO,2per sing,datv,Arch')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "думаю",
+        "lexem": "думать",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,1per,pres,indc')"
+      },
+      {
+        "word": "думаю",
+        "lexem": "думать",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "отвечал",
+        "lexem": "отвечать",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "разумихин",
+        "lexem": "разумихин",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "цель",
+        "lexem": "цель",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      },
+      {
+        "word": "цель",
+        "lexem": "целить",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,impr,excl')"
+      }
+    ],
+    [
+      {
+        "word": "вопроса",
+        "lexem": "вопрос",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "будут",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,3per,futr,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "конечно",
+        "lexem": "конечный",
+        "tags": "OpencorporaTag('ADJS,Qual neut,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "про",
+        "lexem": "про",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "свои",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph inan,plur,accs')"
+      },
+      {
+        "word": "свои",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph plur,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "дела",
+        "lexem": "дело",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      },
+      {
+        "word": "дела",
+        "lexem": "дело",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,nomn')"
+      },
+      {
+        "word": "дела",
+        "lexem": "деть",
+        "tags": "OpencorporaTag('VERB,perf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "говорить",
+        "lexem": "говорить",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      11,
+      "об-аппоз",
+      "разумихин",
+      "цель"
+    ],
+    [
+      11,
+      12,
+      "атриб",
+      "цель",
+      "вопроса"
+    ],
+    [
+      4,
+      3,
+      "предик",
+      "думаю",
+      "я"
+    ],
+    [
+      11,
+      8,
+      "предик",
+      "цель",
+      "разумихин"
+    ],
+    [
+      4,
+      1,
+      "1-компл",
+      "думаю",
+      "те"
+    ],
+    [
+      4,
+      21,
+      "1-компл",
+      "думаю",
+      "свои"
+    ],
+    [
+      4,
+      21,
+      "1-компл",
+      "думаю",
+      "свои"
+    ],
+    [
+      18,
+      20,
+      "1-компл",
+      "конечно",
+      "про"
+    ],
+    [
+      23,
+      21,
+      "1-компл",
+      "дела",
+      "свои"
+    ],
+    [
+      15,
+      16,
+      "соч-союзн",
+      "и",
+      "будут"
+    ],
+    [
+      11,
+      15,
+      "сочин",
+      "цель",
+      "и"
+    ],
+    [
+      8,
+      11,
+      "сочин",
+      "разумихин",
+      "цель"
+    ],
+    [
+      23,
+      24,
+      "обст",
+      "дела",
+      "говорить"
+    ],
+    [
+      16,
+      23,
+      "присвяз",
+      "будут",
+      "дела"
+    ],
+    [
+      16,
+      23,
+      "присвяз",
+      "будут",
+      "дела"
+    ]
+  ]
+}

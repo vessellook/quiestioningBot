@@ -1,0 +1,72 @@
+{
+  "sentence": "— Да, ушиб, — пробормотал осчастливленный Разумихин.",
+  "tokens": [
+    "—",
+    "Да",
+    ",",
+    "ушиб",
+    ",",
+    "—",
+    "пробормотал",
+    "осчастливленный",
+    "Разумихин",
+    "."
+  ],
+  "morphs": [
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "ушиб",
+        "lexem": "ушибить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      },
+      {
+        "word": "ушиб",
+        "lexem": "ушиб",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "пробормотал",
+        "lexem": "пробормотать",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "осчастливленный",
+        "lexem": "осчастливить",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "разумихин",
+        "lexem": "разумихин",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      7,
+      "опред",
+      "разумихин",
+      "осчастливленный"
+    ],
+    [
+      6,
+      3,
+      "предик",
+      "пробормотал",
+      "ушиб"
+    ]
+  ]
+}

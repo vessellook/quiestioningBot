@@ -1,0 +1,216 @@
+{
+  "sentence": "А между тем Пульхерия Александровна, без ее поддержки, видимо находилась в нерешимости.",
+  "tokens": [
+    "А",
+    "между",
+    "тем",
+    "Пульхерия",
+    "Александровна",
+    ",",
+    "без",
+    "ее",
+    "поддержки",
+    ",",
+    "видимо",
+    "находилась",
+    "в",
+    "нерешимости",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "между",
+        "lexem": "между",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тем",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "александровна",
+        "lexem": "александрович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "без",
+        "lexem": "без",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "её",
+        "lexem": "её",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "поддержки",
+        "lexem": "поддержка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "видимо",
+        "lexem": "видеть",
+        "tags": "OpencorporaTag('PRTS,impf,pres,pssv neut,sing')"
+      }
+    ],
+    [
+      {
+        "word": "находилась",
+        "lexem": "находиться",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      },
+      {
+        "word": "находилась",
+        "lexem": "находиться",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нерешимости",
+        "lexem": "нерешимость",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "нерешимости",
+        "lexem": "нерешимость",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      },
+      {
+        "word": "нерешимости",
+        "lexem": "нерешимость",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "нерешимости",
+        "lexem": "нерешимость",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      7,
+      "опред",
+      "поддержки",
+      "её"
+    ],
+    [
+      12,
+      13,
+      "предл",
+      "в",
+      "нерешимости"
+    ],
+    [
+      12,
+      13,
+      "предл",
+      "в",
+      "нерешимости"
+    ],
+    [
+      12,
+      13,
+      "предл",
+      "в",
+      "нерешимости"
+    ],
+    [
+      12,
+      13,
+      "предл",
+      "в",
+      "нерешимости"
+    ],
+    [
+      10,
+      4,
+      "предик",
+      "видимо",
+      "александровна"
+    ],
+    [
+      11,
+      8,
+      "несобст-агент",
+      "находилась",
+      "поддержки"
+    ],
+    [
+      10,
+      1,
+      "1-компл",
+      "видимо",
+      "между"
+    ],
+    [
+      10,
+      2,
+      "1-компл",
+      "видимо",
+      "тем"
+    ],
+    [
+      10,
+      6,
+      "1-компл",
+      "видимо",
+      "без"
+    ],
+    [
+      11,
+      12,
+      "1-компл",
+      "находилась",
+      "в"
+    ],
+    [
+      0,
+      10,
+      "соч-союзн",
+      "а",
+      "видимо"
+    ],
+    [
+      11,
+      12,
+      "обст",
+      "находилась",
+      "в"
+    ]
+  ]
+}

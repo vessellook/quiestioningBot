@@ -1,0 +1,58 @@
+{
+  "sentence": "Верно, и не выживет!",
+  "tokens": [
+    "Верно",
+    ",",
+    "и",
+    "не",
+    "выживет",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "выживет",
+        "lexem": "выжить",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,3per,futr,indc')"
+      },
+      {
+        "word": "выживет",
+        "lexem": "выжить",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,3per,futr,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      3,
+      "огранич",
+      "выживет",
+      "не"
+    ],
+    [
+      2,
+      4,
+      "соч-союзн",
+      "и",
+      "выживет"
+    ]
+  ]
+}

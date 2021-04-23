@@ -1,0 +1,34 @@
+{
+  "sentence": "Я верю.",
+  "tokens": [
+    "Я",
+    "верю",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "верю",
+        "lexem": "верить",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,1per,pres,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      0,
+      "предик",
+      "верю",
+      "я"
+    ]
+  ]
+}

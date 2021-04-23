@@ -1,0 +1,161 @@
+{
+  "sentence": "Что именно теперь имеет на него особенное влияние?",
+  "tokens": [
+    "Что",
+    "именно",
+    "теперь",
+    "имеет",
+    "на",
+    "него",
+    "особенное",
+    "влияние",
+    "?"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "теперь",
+        "lexem": "теперь",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "имеет",
+        "lexem": "иметь",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "него",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,accs,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "особенное",
+        "lexem": "особенный",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "влияние",
+        "lexem": "влияние",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      6,
+      "опред",
+      "него",
+      "особенное"
+    ],
+    [
+      7,
+      6,
+      "опред",
+      "влияние",
+      "особенное"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "на",
+      "него"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "на",
+      "него"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "на",
+      "него"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "на",
+      "него"
+    ],
+    [
+      3,
+      0,
+      "предик",
+      "имеет",
+      "что"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "имеет",
+      "на"
+    ],
+    [
+      3,
+      7,
+      "1-компл",
+      "имеет",
+      "влияние"
+    ],
+    [
+      3,
+      2,
+      "обст",
+      "имеет",
+      "теперь"
+    ],
+    [
+      3,
+      4,
+      "обст",
+      "имеет",
+      "на"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "sentence": "— Знаю, что глупо!",
+  "tokens": [
+    "—",
+    "Знаю",
+    ",",
+    "что",
+    "глупо",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "знаю",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      3,
+      "предик",
+      "знаю",
+      "что"
+    ]
+  ]
+}

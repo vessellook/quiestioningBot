@@ -1,0 +1,108 @@
+{
+  "sentence": "Он счастлив, он свеж и чист, как ангел.",
+  "tokens": [
+    "Он",
+    "счастлив",
+    ",",
+    "он",
+    "свеж",
+    "и",
+    "чист",
+    ",",
+    "как",
+    "ангел",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "счастлив",
+        "lexem": "счастливый",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "свеж",
+        "lexem": "свежий",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "чист",
+        "lexem": "чистый",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "ангел",
+        "lexem": "ангел",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      0,
+      "предик",
+      "счастлив",
+      "он"
+    ],
+    [
+      4,
+      3,
+      "предик",
+      "свеж",
+      "он"
+    ],
+    [
+      6,
+      9,
+      "предик",
+      "чист",
+      "ангел"
+    ],
+    [
+      5,
+      6,
+      "соч-союзн",
+      "и",
+      "чист"
+    ],
+    [
+      4,
+      5,
+      "сочин",
+      "свеж",
+      "и"
+    ]
+  ]
+}

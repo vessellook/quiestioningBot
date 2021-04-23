@@ -1,0 +1,79 @@
+{
+  "sentence": "И вдруг твердо:\n— Значит, надо добывать.",
+  "tokens": [
+    "И",
+    "вдруг",
+    "твердо",
+    ":",
+    "—",
+    "Значит",
+    ",",
+    "надо",
+    "добывать",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "значит",
+        "lexem": "значить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "надо",
+        "lexem": "надо",
+        "tags": "OpencorporaTag('PRED,pres')"
+      },
+      {
+        "word": "надо",
+        "lexem": "над",
+        "tags": "OpencorporaTag('PREP Vpre')"
+      }
+    ],
+    [
+      {
+        "word": "добывать",
+        "lexem": "добывать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      7,
+      "1-компл",
+      "добывать",
+      "надо"
+    ],
+    [
+      0,
+      5,
+      "соч-союзн",
+      "и",
+      "значит"
+    ],
+    [
+      5,
+      8,
+      "обст",
+      "значит",
+      "добывать"
+    ]
+  ]
+}

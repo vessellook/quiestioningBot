@@ -1,0 +1,486 @@
+{
+  "sentence": "Она была бледна прекрасной бледностью любящей взволнованной женщины, голос у нее срывался, и то, как она, бросив куда попало зонтик, спешила поднять вуальку и обнять меня, потрясало меня жалостью и восторгом.",
+  "tokens": [
+    "Она",
+    "была",
+    "бледна",
+    "прекрасной",
+    "бледностью",
+    "любящей",
+    "взволнованной",
+    "женщины",
+    ",",
+    "голос",
+    "у",
+    "нее",
+    "срывался",
+    ",",
+    "и",
+    "то",
+    ",",
+    "как",
+    "она",
+    ",",
+    "бросив",
+    "куда",
+    "попало",
+    "зонтик",
+    ",",
+    "спешила",
+    "поднять",
+    "вуальку",
+    "и",
+    "обнять",
+    "меня",
+    ",",
+    "потрясало",
+    "меня",
+    "жалостью",
+    "и",
+    "восторгом",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "она",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "была",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "бледна",
+        "lexem": "бледный",
+        "tags": "OpencorporaTag('ADJS,Qual femn,sing')"
+      }
+    ],
+    [
+      {
+        "word": "прекрасной",
+        "lexem": "прекрасный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "бледностью",
+        "lexem": "бледность",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "любящей",
+        "lexem": "любящий",
+        "tags": "OpencorporaTag('ADJF femn,sing,ablt')"
+      },
+      {
+        "word": "любящей",
+        "lexem": "любящий",
+        "tags": "OpencorporaTag('COMP V-ej')"
+      },
+      {
+        "word": "любящей",
+        "lexem": "любить",
+        "tags": "OpencorporaTag('PRTF,impf,tran,pres,actv femn,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "взволнованной",
+        "lexem": "взволновать",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv,Adjx femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "женщины",
+        "lexem": "женщина",
+        "tags": "OpencorporaTag('NOUN,anim,femn plur,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "голос",
+        "lexem": "голос",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "у",
+        "lexem": "у",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "неё",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "неё",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "срывался",
+        "lexem": "срываться",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,accs')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "она",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "попало",
+        "lexem": "попасть",
+        "tags": "OpencorporaTag('VERB,perf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "зонтик",
+        "lexem": "зонтик",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "спешила",
+        "lexem": "спешить",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      },
+      {
+        "word": "спешила",
+        "lexem": "спешить",
+        "tags": "OpencorporaTag('VERB,perf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "поднять",
+        "lexem": "поднять",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "вуальку",
+        "lexem": "вуалька",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "обнять",
+        "lexem": "обнять",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,accs')"
+      },
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "потрясало",
+        "lexem": "потрясать",
+        "tags": "OpencorporaTag('VERB,impf,tran neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,accs')"
+      },
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "жалостью",
+        "lexem": "жалость",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "восторгом",
+        "lexem": "восторг",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      3,
+      "опред",
+      "бледностью",
+      "прекрасной"
+    ],
+    [
+      4,
+      5,
+      "опред",
+      "бледностью",
+      "любящей"
+    ],
+    [
+      4,
+      5,
+      "опред",
+      "бледностью",
+      "любящей"
+    ],
+    [
+      5,
+      4,
+      "агент",
+      "любящей",
+      "бледностью"
+    ],
+    [
+      10,
+      11,
+      "предл",
+      "у",
+      "неё"
+    ],
+    [
+      10,
+      11,
+      "предл",
+      "у",
+      "неё"
+    ],
+    [
+      4,
+      5,
+      "атриб",
+      "бледностью",
+      "любящей"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "была",
+      "она"
+    ],
+    [
+      5,
+      7,
+      "предик",
+      "любящей",
+      "женщины"
+    ],
+    [
+      12,
+      9,
+      "предик",
+      "срывался",
+      "голос"
+    ],
+    [
+      22,
+      18,
+      "предик",
+      "попало",
+      "она"
+    ],
+    [
+      25,
+      23,
+      "предик",
+      "спешила",
+      "зонтик"
+    ],
+    [
+      22,
+      15,
+      "1-компл",
+      "попало",
+      "то"
+    ],
+    [
+      26,
+      27,
+      "1-компл",
+      "поднять",
+      "вуальку"
+    ],
+    [
+      29,
+      30,
+      "1-компл",
+      "обнять",
+      "меня"
+    ],
+    [
+      32,
+      33,
+      "1-компл",
+      "потрясало",
+      "меня"
+    ],
+    [
+      29,
+      30,
+      "1-компл",
+      "обнять",
+      "меня"
+    ],
+    [
+      32,
+      33,
+      "1-компл",
+      "потрясало",
+      "меня"
+    ],
+    [
+      14,
+      22,
+      "соч-союзн",
+      "и",
+      "попало"
+    ],
+    [
+      28,
+      29,
+      "соч-союзн",
+      "и",
+      "обнять"
+    ],
+    [
+      35,
+      36,
+      "соч-союзн",
+      "и",
+      "восторгом"
+    ],
+    [
+      1,
+      12,
+      "сочин",
+      "была",
+      "срывался"
+    ],
+    [
+      22,
+      25,
+      "сочин",
+      "попало",
+      "спешила"
+    ],
+    [
+      22,
+      25,
+      "сочин",
+      "попало",
+      "спешила"
+    ],
+    [
+      12,
+      14,
+      "сочин",
+      "срывался",
+      "и"
+    ],
+    [
+      26,
+      28,
+      "сочин",
+      "поднять",
+      "и"
+    ],
+    [
+      34,
+      35,
+      "сочин",
+      "жалостью",
+      "и"
+    ],
+    [
+      12,
+      10,
+      "обст",
+      "срывался",
+      "у"
+    ],
+    [
+      25,
+      26,
+      "обст",
+      "спешила",
+      "поднять"
+    ]
+  ]
+}

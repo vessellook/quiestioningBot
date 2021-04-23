@@ -1,0 +1,392 @@
+{
+  "sentence": "Потом чуть приоткрыл занавеску и замер, не сводя глаз с разнообразной толпы, взад и вперед сновавшей с вещами вдоль вагона в темном свете вокзальных фонарей.",
+  "tokens": [
+    "Потом",
+    "чуть",
+    "приоткрыл",
+    "занавеску",
+    "и",
+    "замер",
+    ",",
+    "не",
+    "сводя",
+    "глаз",
+    "с",
+    "разнообразной",
+    "толпы",
+    ",",
+    "взад",
+    "и",
+    "вперед",
+    "сновавшей",
+    "с",
+    "вещами",
+    "вдоль",
+    "вагона",
+    "в",
+    "темном",
+    "свете",
+    "вокзальных",
+    "фонарей",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "потом",
+        "lexem": "пот",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "чуть",
+        "lexem": "чуть",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "приоткрыл",
+        "lexem": "приоткрыть",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "занавеску",
+        "lexem": "занавеска",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "замер",
+        "lexem": "замереть",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      },
+      {
+        "word": "замер",
+        "lexem": "замер",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "сводя",
+        "lexem": "сводить",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [
+      {
+        "word": "глаз",
+        "lexem": "глаз",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "разнообразной",
+        "lexem": "разнообразный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "толпы",
+        "lexem": "толпа",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "вперёд",
+        "lexem": "вперёд",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "сновавшей",
+        "lexem": "сновать",
+        "tags": "OpencorporaTag('PRTF,impf,intr,past,actv femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "вещами",
+        "lexem": "вещь",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "вдоль",
+        "lexem": "вдоль",
+        "tags": "OpencorporaTag('PREP')"
+      },
+      {
+        "word": "вдоль",
+        "lexem": "вдоль",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "вагона",
+        "lexem": "вагон",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тёмном",
+        "lexem": "тёмный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "свете",
+        "lexem": "свет",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "вокзальных",
+        "lexem": "вокзальный",
+        "tags": "OpencorporaTag('ADJF,Qual plur,gent')"
+      },
+      {
+        "word": "вокзальных",
+        "lexem": "вокзальный",
+        "tags": "OpencorporaTag('ADJF,Qual anim,plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "фонарей",
+        "lexem": "фонарь",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      12,
+      11,
+      "опред",
+      "толпы",
+      "разнообразной"
+    ],
+    [
+      24,
+      23,
+      "опред",
+      "свете",
+      "тёмном"
+    ],
+    [
+      10,
+      12,
+      "предл",
+      "с",
+      "толпы"
+    ],
+    [
+      20,
+      21,
+      "предл",
+      "вдоль",
+      "вагона"
+    ],
+    [
+      22,
+      24,
+      "предл",
+      "в",
+      "свете"
+    ],
+    [
+      5,
+      9,
+      "об-аппоз",
+      "замер",
+      "глаз"
+    ],
+    [
+      8,
+      7,
+      "огранич",
+      "сводя",
+      "не"
+    ],
+    [
+      5,
+      8,
+      "обст",
+      "замер",
+      "сводя"
+    ],
+    [
+      25,
+      26,
+      "атриб",
+      "вокзальных",
+      "фонарей"
+    ],
+    [
+      25,
+      26,
+      "атриб",
+      "вокзальных",
+      "фонарей"
+    ],
+    [
+      2,
+      5,
+      "предик",
+      "приоткрыл",
+      "замер"
+    ],
+    [
+      2,
+      0,
+      "1-компл",
+      "приоткрыл",
+      "потом"
+    ],
+    [
+      2,
+      3,
+      "1-компл",
+      "приоткрыл",
+      "занавеску"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "сновавшей",
+      "с"
+    ],
+    [
+      15,
+      19,
+      "соч-союзн",
+      "и",
+      "вещами"
+    ],
+    [
+      2,
+      4,
+      "сочин",
+      "приоткрыл",
+      "и"
+    ],
+    [
+      5,
+      15,
+      "сочин",
+      "замер",
+      "и"
+    ],
+    [
+      2,
+      1,
+      "обст",
+      "приоткрыл",
+      "чуть"
+    ],
+    [
+      8,
+      10,
+      "обст",
+      "сводя",
+      "с"
+    ],
+    [
+      17,
+      16,
+      "обст",
+      "сновавшей",
+      "вперёд"
+    ],
+    [
+      17,
+      18,
+      "обст",
+      "сновавшей",
+      "с"
+    ],
+    [
+      17,
+      20,
+      "обст",
+      "сновавшей",
+      "вдоль"
+    ],
+    [
+      17,
+      20,
+      "обст",
+      "сновавшей",
+      "вдоль"
+    ],
+    [
+      17,
+      22,
+      "обст",
+      "сновавшей",
+      "в"
+    ]
+  ]
+}

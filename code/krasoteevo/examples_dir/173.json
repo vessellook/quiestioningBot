@@ -1,0 +1,127 @@
+{
+  "sentence": "Она радостно плакала, глядя на них.",
+  "tokens": [
+    "Она",
+    "радостно",
+    "плакала",
+    ",",
+    "глядя",
+    "на",
+    "них",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "она",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "радостно",
+        "lexem": "радостно",
+        "tags": "OpencorporaTag('ADVB,Prdx')"
+      }
+    ],
+    [
+      {
+        "word": "плакала",
+        "lexem": "плакать",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "глядя",
+        "lexem": "глядеть",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,gent,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,loct,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,accs,Af-p')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      6,
+      "предл",
+      "на",
+      "них"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "на",
+      "них"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "на",
+      "них"
+    ],
+    [
+      2,
+      4,
+      "обст",
+      "плакала",
+      "глядя"
+    ],
+    [
+      2,
+      0,
+      "предик",
+      "плакала",
+      "она"
+    ],
+    [
+      4,
+      5,
+      "1-компл",
+      "глядя",
+      "на"
+    ],
+    [
+      2,
+      1,
+      "обст",
+      "плакала",
+      "радостно"
+    ],
+    [
+      4,
+      5,
+      "обст",
+      "глядя",
+      "на"
+    ]
+  ]
+}

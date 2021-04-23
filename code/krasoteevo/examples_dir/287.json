@@ -1,0 +1,76 @@
+{
+  "sentence": "— Это уж очень естественно-с, — отвечал Дмитрий Прокофьич.",
+  "tokens": [
+    "—",
+    "Это",
+    "уж",
+    "очень",
+    "естественно-с",
+    ",",
+    "—",
+    "отвечал",
+    "Дмитрий",
+    "Прокофьич",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "это",
+        "lexem": "это",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "уж",
+        "lexem": "уж",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "отвечал",
+        "lexem": "отвечать",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "дмитрий",
+        "lexem": "дмитрия",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name plur,accs')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      7,
+      2,
+      "предик",
+      "отвечал",
+      "уж"
+    ],
+    [
+      2,
+      1,
+      "предик",
+      "уж",
+      "это"
+    ],
+    [
+      7,
+      8,
+      "1-компл",
+      "отвечал",
+      "дмитрий"
+    ]
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "sentence": "Но бог с ним, лучше смерть, чем эти муки...",
+  "tokens": [
+    "Но",
+    "бог",
+    "с",
+    "ним",
+    ",",
+    "лучше",
+    "смерть",
+    ",",
+    "чем",
+    "эти",
+    "муки",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "но",
+        "lexem": "но",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "бог",
+        "lexem": "бог",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "ним",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,ablt,Af-p')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "лучше",
+        "lexem": "хороший",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [
+      {
+        "word": "смерть",
+        "lexem": "смерть",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      },
+      {
+        "word": "смерть",
+        "lexem": "смерть",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "чем",
+        "lexem": "чем",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "эти",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph plur,nomn')"
+      },
+      {
+        "word": "эти",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph inan,plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "муки",
+        "lexem": "мука",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      3,
+      "агент",
+      "лучше",
+      "ним"
+    ],
+    [
+      1,
+      2,
+      "атриб",
+      "бог",
+      "с"
+    ],
+    [
+      5,
+      1,
+      "предик",
+      "лучше",
+      "бог"
+    ],
+    [
+      5,
+      9,
+      "1-компл",
+      "лучше",
+      "эти"
+    ],
+    [
+      5,
+      9,
+      "1-компл",
+      "лучше",
+      "эти"
+    ],
+    [
+      5,
+      10,
+      "1-компл",
+      "лучше",
+      "муки"
+    ],
+    [
+      0,
+      5,
+      "соч-союзн",
+      "но",
+      "лучше"
+    ],
+    [
+      5,
+      6,
+      "сравнит",
+      "лучше",
+      "смерть"
+    ],
+    [
+      5,
+      6,
+      "сравнит",
+      "лучше",
+      "смерть"
+    ],
+    [
+      5,
+      8,
+      "сравнит",
+      "лучше",
+      "чем"
+    ]
+  ]
+}

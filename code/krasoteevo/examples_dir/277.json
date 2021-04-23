@@ -1,0 +1,410 @@
+{
+  "sentence": "Рассказ его жадно слушали; но когда он думал, что уже кончил и удовлетворил своих слушательниц, то оказалось, что для них он как будто еще и не начинал.",
+  "tokens": [
+    "Рассказ",
+    "его",
+    "жадно",
+    "слушали",
+    ";",
+    "но",
+    "когда",
+    "он",
+    "думал",
+    ",",
+    "что",
+    "уже",
+    "кончил",
+    "и",
+    "удовлетворил",
+    "своих",
+    "слушательниц",
+    ",",
+    "то",
+    "оказалось",
+    ",",
+    "что",
+    "для",
+    "них",
+    "он",
+    "как",
+    "будто",
+    "еще",
+    "и",
+    "не",
+    "начинал",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "рассказ",
+        "lexem": "рассказ",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "жадно",
+        "lexem": "жадно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "слушали",
+        "lexem": "слушать",
+        "tags": "OpencorporaTag('VERB,impf,tran plur,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "но",
+        "lexem": "но",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "думал",
+        "lexem": "думать",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      },
+      {
+        "word": "думал",
+        "lexem": "думать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "уже",
+        "lexem": "уже",
+        "tags": "OpencorporaTag('ADVB')"
+      },
+      {
+        "word": "уже",
+        "lexem": "узкий",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [
+      {
+        "word": "кончил",
+        "lexem": "кончить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "удовлетворил",
+        "lexem": "удовлетворить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "своих",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph plur,gent')"
+      },
+      {
+        "word": "своих",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph anim,plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "слушательниц",
+        "lexem": "слушательница",
+        "tags": "OpencorporaTag('NOUN,anim,femn plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "оказалось",
+        "lexem": "оказаться",
+        "tags": "OpencorporaTag('VERB,perf,intr neut,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "для",
+        "lexem": "длить",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,gent,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,loct,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "ещё",
+        "lexem": "ещё",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "начинал",
+        "lexem": "начинать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      30,
+      29,
+      "огранич",
+      "начинал",
+      "не"
+    ],
+    [
+      19,
+      22,
+      "обст",
+      "оказалось",
+      "для"
+    ],
+    [
+      0,
+      1,
+      "атриб",
+      "рассказ",
+      "его"
+    ],
+    [
+      8,
+      7,
+      "предик",
+      "думал",
+      "он"
+    ],
+    [
+      11,
+      10,
+      "предик",
+      "уже",
+      "что"
+    ],
+    [
+      19,
+      21,
+      "предик",
+      "оказалось",
+      "что"
+    ],
+    [
+      3,
+      0,
+      "1-компл",
+      "слушали",
+      "рассказ"
+    ],
+    [
+      14,
+      15,
+      "1-компл",
+      "удовлетворил",
+      "своих"
+    ],
+    [
+      14,
+      15,
+      "1-компл",
+      "удовлетворил",
+      "своих"
+    ],
+    [
+      14,
+      16,
+      "1-компл",
+      "удовлетворил",
+      "слушательниц"
+    ],
+    [
+      21,
+      24,
+      "подч-союзн",
+      "что",
+      "он"
+    ],
+    [
+      13,
+      14,
+      "соч-союзн",
+      "и",
+      "удовлетворил"
+    ],
+    [
+      28,
+      30,
+      "соч-союзн",
+      "и",
+      "начинал"
+    ],
+    [
+      14,
+      19,
+      "сочин",
+      "удовлетворил",
+      "оказалось"
+    ],
+    [
+      3,
+      5,
+      "сочин",
+      "слушали",
+      "но"
+    ],
+    [
+      12,
+      13,
+      "сочин",
+      "кончил",
+      "и"
+    ],
+    [
+      19,
+      28,
+      "сочин",
+      "оказалось",
+      "и"
+    ],
+    [
+      3,
+      2,
+      "обст",
+      "слушали",
+      "жадно"
+    ],
+    [
+      12,
+      11,
+      "обст",
+      "кончил",
+      "уже"
+    ],
+    [
+      22,
+      27,
+      "обст",
+      "для",
+      "ещё"
+    ],
+    [
+      19,
+      23,
+      "присвяз",
+      "оказалось",
+      "них"
+    ],
+    [
+      19,
+      23,
+      "присвяз",
+      "оказалось",
+      "них"
+    ],
+    [
+      19,
+      23,
+      "присвяз",
+      "оказалось",
+      "них"
+    ],
+    [
+      19,
+      18,
+      "сент-предик",
+      "оказалось",
+      "то"
+    ]
+  ]
+}

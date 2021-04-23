@@ -1,0 +1,53 @@
+{
+  "sentence": "Но вот и эта лестница...",
+  "tokens": [
+    "Но",
+    "вот",
+    "и",
+    "эта",
+    "лестница",
+    "..."
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "эта",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "лестница",
+        "lexem": "лестница",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      3,
+      "опред",
+      "лестница",
+      "эта"
+    ],
+    [
+      2,
+      4,
+      "соч-союзн",
+      "и",
+      "лестница"
+    ]
+  ]
+}

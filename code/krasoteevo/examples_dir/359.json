@@ -1,0 +1,519 @@
+{
+  "sentence": "Вместо того в вокзал был прислан навстречу нам какой-то лакей с адресом этих нумеров и чтобы нам показать дорогу, а Петр Петрович приказывал передать, что он прибудет к нам сюда сам сегодня поутру.",
+  "tokens": [
+    "Вместо",
+    "того",
+    "в",
+    "вокзал",
+    "был",
+    "прислан",
+    "навстречу",
+    "нам",
+    "какой-то",
+    "лакей",
+    "с",
+    "адресом",
+    "этих",
+    "нумеров",
+    "и",
+    "чтобы",
+    "нам",
+    "показать",
+    "дорогу",
+    ",",
+    "а",
+    "Петр",
+    "Петрович",
+    "приказывал",
+    "передать",
+    ",",
+    "что",
+    "он",
+    "прибудет",
+    "к",
+    "нам",
+    "сюда",
+    "сам",
+    "сегодня",
+    "поутру",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "вместо",
+        "lexem": "вместо",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "того",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph anim,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "вокзал",
+        "lexem": "вокзал",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "был",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "прислан",
+        "lexem": "прислать",
+        "tags": "OpencorporaTag('PRTS,perf,past,pssv masc,sing')"
+      }
+    ],
+    [
+      {
+        "word": "навстречу",
+        "lexem": "навстречу",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "нам",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,datv')"
+      }
+    ],
+    [
+      {
+        "word": "какой-то",
+        "lexem": "какой-то",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "лакей",
+        "lexem": "лакей",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "адресом",
+        "lexem": "адрес",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "этих",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "нумеров",
+        "lexem": "нумер",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,gent')"
+      },
+      {
+        "word": "нумеров",
+        "lexem": "нумеровый",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      },
+      {
+        "word": "нумёров",
+        "lexem": "нумёр",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "нам",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,datv')"
+      }
+    ],
+    [
+      {
+        "word": "показать",
+        "lexem": "показать",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "дорогу",
+        "lexem": "дорога",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "пётр",
+        "lexem": "пётр",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "петрович",
+        "lexem": "петрович",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "приказывал",
+        "lexem": "приказывать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "передать",
+        "lexem": "передать",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "прибудет",
+        "lexem": "прибыть",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,3per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нам",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,datv')"
+      }
+    ],
+    [
+      {
+        "word": "сюда",
+        "lexem": "сюда",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "сам",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      },
+      {
+        "word": "сам",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "сегодня",
+        "lexem": "сегодня",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "поутру",
+        "lexem": "поутру",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      9,
+      8,
+      "опред",
+      "лакей",
+      "какой-то"
+    ],
+    [
+      13,
+      11,
+      "агент",
+      "нумеров",
+      "адресом"
+    ],
+    [
+      21,
+      22,
+      "аппоз",
+      "пётр",
+      "петрович"
+    ],
+    [
+      29,
+      30,
+      "предл",
+      "к",
+      "нам"
+    ],
+    [
+      11,
+      13,
+      "атриб",
+      "адресом",
+      "нумеров"
+    ],
+    [
+      11,
+      13,
+      "атриб",
+      "адресом",
+      "нумёров"
+    ],
+    [
+      4,
+      5,
+      "пасс-анал",
+      "был",
+      "прислан"
+    ],
+    [
+      4,
+      3,
+      "предик",
+      "был",
+      "вокзал"
+    ],
+    [
+      13,
+      9,
+      "предик",
+      "нумеров",
+      "лакей"
+    ],
+    [
+      23,
+      21,
+      "предик",
+      "приказывал",
+      "пётр"
+    ],
+    [
+      28,
+      27,
+      "предик",
+      "прибудет",
+      "он"
+    ],
+    [
+      4,
+      0,
+      "1-компл",
+      "был",
+      "вместо"
+    ],
+    [
+      4,
+      2,
+      "1-компл",
+      "был",
+      "в"
+    ],
+    [
+      5,
+      7,
+      "1-компл",
+      "прислан",
+      "нам"
+    ],
+    [
+      13,
+      12,
+      "1-компл",
+      "нумеров",
+      "этих"
+    ],
+    [
+      17,
+      16,
+      "1-компл",
+      "показать",
+      "нам"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "показать",
+      "дорогу"
+    ],
+    [
+      24,
+      26,
+      "1-компл",
+      "передать",
+      "что"
+    ],
+    [
+      28,
+      29,
+      "1-компл",
+      "прибудет",
+      "к"
+    ],
+    [
+      28,
+      32,
+      "1-компл",
+      "прибудет",
+      "сам"
+    ],
+    [
+      28,
+      32,
+      "1-компл",
+      "прибудет",
+      "сам"
+    ],
+    [
+      26,
+      28,
+      "подч-союзн",
+      "что",
+      "прибудет"
+    ],
+    [
+      14,
+      17,
+      "соч-союзн",
+      "и",
+      "показать"
+    ],
+    [
+      20,
+      23,
+      "соч-союзн",
+      "а",
+      "приказывал"
+    ],
+    [
+      17,
+      20,
+      "сочин",
+      "показать",
+      "а"
+    ],
+    [
+      5,
+      6,
+      "обст",
+      "прислан",
+      "навстречу"
+    ],
+    [
+      13,
+      10,
+      "обст",
+      "нумеров",
+      "с"
+    ],
+    [
+      28,
+      29,
+      "обст",
+      "прибудет",
+      "к"
+    ],
+    [
+      28,
+      31,
+      "обст",
+      "прибудет",
+      "сюда"
+    ],
+    [
+      28,
+      33,
+      "обст",
+      "прибудет",
+      "сегодня"
+    ],
+    [
+      28,
+      34,
+      "обст",
+      "прибудет",
+      "поутру"
+    ],
+    [
+      23,
+      24,
+      "обст",
+      "приказывал",
+      "передать"
+    ],
+    [
+      28,
+      33,
+      "обст",
+      "прибудет",
+      "сегодня"
+    ]
+  ]
+}

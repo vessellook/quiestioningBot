@@ -1,0 +1,207 @@
+{
+  "sentence": "Разумихин с благоговением смотрел на Дунечку и гордился, что поведет ее.",
+  "tokens": [
+    "Разумихин",
+    "с",
+    "благоговением",
+    "смотрел",
+    "на",
+    "Дунечку",
+    "и",
+    "гордился",
+    ",",
+    "что",
+    "поведет",
+    "ее",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "разумихин",
+        "lexem": "разумихин",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "благоговением",
+        "lexem": "благоговение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "смотрел",
+        "lexem": "смотреть",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "дунёчку",
+        "lexem": "дунёчек",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,datv')"
+      },
+      {
+        "word": "дунечку",
+        "lexem": "дунечка",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,accs')"
+      },
+      {
+        "word": "дунечку",
+        "lexem": "дунечка",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "гордился",
+        "lexem": "гордиться",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "поведёт",
+        "lexem": "повести",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,3per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,accs')"
+      },
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      3,
+      2,
+      "агент",
+      "смотрел",
+      "благоговением"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "на",
+      "дунёчку"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "на",
+      "дунечку"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "на",
+      "дунечку"
+    ],
+    [
+      3,
+      0,
+      "предик",
+      "смотрел",
+      "разумихин"
+    ],
+    [
+      10,
+      9,
+      "предик",
+      "поведёт",
+      "что"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "смотрел",
+      "на"
+    ],
+    [
+      10,
+      11,
+      "1-компл",
+      "поведёт",
+      "её"
+    ],
+    [
+      10,
+      11,
+      "1-компл",
+      "поведёт",
+      "её"
+    ],
+    [
+      6,
+      7,
+      "соч-союзн",
+      "и",
+      "гордился"
+    ],
+    [
+      3,
+      6,
+      "сочин",
+      "смотрел",
+      "и"
+    ],
+    [
+      3,
+      1,
+      "обст",
+      "смотрел",
+      "с"
+    ],
+    [
+      3,
+      4,
+      "обст",
+      "смотрел",
+      "на"
+    ]
+  ]
+}

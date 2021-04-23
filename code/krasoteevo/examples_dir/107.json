@@ -1,0 +1,332 @@
+{
+  "sentence": "Недалеко от нас, в прибрежном овраге, спускавшемся из лесу к морю, быстро прыгала по каменистому ложу мелкая, прозрачная речка.",
+  "tokens": [
+    "Недалеко",
+    "от",
+    "нас",
+    ",",
+    "в",
+    "прибрежном",
+    "овраге",
+    ",",
+    "спускавшемся",
+    "из",
+    "лесу",
+    "к",
+    "морю",
+    ",",
+    "быстро",
+    "прыгала",
+    "по",
+    "каменистому",
+    "ложу",
+    "мелкая",
+    ",",
+    "прозрачная",
+    "речка",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "от",
+        "lexem": "от",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нас",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "прибрежном",
+        "lexem": "прибрежный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "овраге",
+        "lexem": "овраг",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "спускавшемся",
+        "lexem": "спускаться",
+        "tags": "OpencorporaTag('PRTF,impf,intr,past,actv masc,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "лесу",
+        "lexem": "лес",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loc2')"
+      },
+      {
+        "word": "лесу",
+        "lexem": "лес",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gen2')"
+      },
+      {
+        "word": "лесу",
+        "lexem": "лес",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,datv')"
+      },
+      {
+        "word": "лесу",
+        "lexem": "леса",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "морю",
+        "lexem": "море",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,datv')"
+      },
+      {
+        "word": "морю",
+        "lexem": "морить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "быстро",
+        "lexem": "быстро",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "прыгала",
+        "lexem": "прыгать",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "по",
+        "lexem": "по",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "каменистому",
+        "lexem": "каменистый",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "ложу",
+        "lexem": "класть",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc,Infr')"
+      }
+    ],
+    [
+      {
+        "word": "мелкая",
+        "lexem": "мелкий",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "прозрачная",
+        "lexem": "прозрачный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "речка",
+        "lexem": "речка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      6,
+      5,
+      "опред",
+      "овраге",
+      "прибрежном"
+    ],
+    [
+      6,
+      8,
+      "опред",
+      "овраге",
+      "спускавшемся"
+    ],
+    [
+      22,
+      19,
+      "опред",
+      "речка",
+      "мелкая"
+    ],
+    [
+      22,
+      21,
+      "опред",
+      "речка",
+      "прозрачная"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "от",
+      "нас"
+    ],
+    [
+      4,
+      6,
+      "предл",
+      "в",
+      "овраге"
+    ],
+    [
+      9,
+      10,
+      "предл",
+      "из",
+      "лесу"
+    ],
+    [
+      9,
+      10,
+      "предл",
+      "из",
+      "лесу"
+    ],
+    [
+      9,
+      10,
+      "предл",
+      "из",
+      "лесу"
+    ],
+    [
+      9,
+      10,
+      "предл",
+      "из",
+      "лесу"
+    ],
+    [
+      11,
+      12,
+      "предл",
+      "к",
+      "морю"
+    ],
+    [
+      18,
+      22,
+      "предик",
+      "ложу",
+      "речка"
+    ],
+    [
+      8,
+      9,
+      "1-компл",
+      "спускавшемся",
+      "из"
+    ],
+    [
+      12,
+      1,
+      "1-компл",
+      "морю",
+      "от"
+    ],
+    [
+      12,
+      4,
+      "1-компл",
+      "морю",
+      "в"
+    ],
+    [
+      15,
+      16,
+      "1-компл",
+      "прыгала",
+      "по"
+    ],
+    [
+      12,
+      18,
+      "сочин",
+      "морю",
+      "ложу"
+    ],
+    [
+      8,
+      9,
+      "обст",
+      "спускавшемся",
+      "из"
+    ],
+    [
+      12,
+      11,
+      "обст",
+      "морю",
+      "к"
+    ],
+    [
+      15,
+      14,
+      "обст",
+      "прыгала",
+      "быстро"
+    ],
+    [
+      15,
+      16,
+      "обст",
+      "прыгала",
+      "по"
+    ]
+  ]
+}

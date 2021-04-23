@@ -1,0 +1,95 @@
+{
+  "sentence": "Доехать не доедешь, а пешком, может, ничего.",
+  "tokens": [
+    "Доехать",
+    "не",
+    "доедешь",
+    ",",
+    "а",
+    "пешком",
+    ",",
+    "может",
+    ",",
+    "ничего",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "доехать",
+        "lexem": "доехать",
+        "tags": "OpencorporaTag('INFN,perf,intr')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "доедешь",
+        "lexem": "доехать",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,2per,futr,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "может",
+        "lexem": "мочь",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "ничего",
+        "lexem": "ничего",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      1,
+      "огранич",
+      "доедешь",
+      "не"
+    ],
+    [
+      7,
+      9,
+      "предик",
+      "может",
+      "ничего"
+    ],
+    [
+      4,
+      7,
+      "соч-союзн",
+      "а",
+      "может"
+    ],
+    [
+      2,
+      4,
+      "сочин",
+      "доедешь",
+      "а"
+    ]
+  ]
+}

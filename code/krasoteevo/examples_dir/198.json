@@ -1,0 +1,125 @@
+{
+  "sentence": "И однако ж, одеваясь, он осмотрел свой костюм тщательнее обыкновенного.",
+  "tokens": [
+    "И",
+    "однако",
+    "ж",
+    ",",
+    "одеваясь",
+    ",",
+    "он",
+    "осмотрел",
+    "свой",
+    "костюм",
+    "тщательнее",
+    "обыкновенного",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "одеваясь",
+        "lexem": "одеваться",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "осмотрел",
+        "lexem": "осмотреть",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "свой",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "костюм",
+        "lexem": "костюм",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "тщательнее",
+        "lexem": "тщательный",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [
+      {
+        "word": "обыкновенного",
+        "lexem": "обыкновенный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      9,
+      8,
+      "опред",
+      "костюм",
+      "свой"
+    ],
+    [
+      7,
+      4,
+      "обст",
+      "осмотрел",
+      "одеваясь"
+    ],
+    [
+      7,
+      6,
+      "предик",
+      "осмотрел",
+      "он"
+    ],
+    [
+      10,
+      9,
+      "предик",
+      "тщательнее",
+      "костюм"
+    ],
+    [
+      0,
+      7,
+      "соч-союзн",
+      "и",
+      "осмотрел"
+    ],
+    [
+      10,
+      11,
+      "сравнит",
+      "тщательнее",
+      "обыкновенного"
+    ]
+  ]
+}

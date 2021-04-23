@@ -1,0 +1,177 @@
+{
+  "sentence": "Кто он сравнительно с такою девушкой, — он, пьяный буян и вчерашний хвастун?",
+  "tokens": [
+    "Кто",
+    "он",
+    "сравнительно",
+    "с",
+    "такою",
+    "девушкой",
+    ",",
+    "—",
+    "он",
+    ",",
+    "пьяный",
+    "буян",
+    "и",
+    "вчерашний",
+    "хвастун",
+    "?"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "сравнительно",
+        "lexem": "сравнительный",
+        "tags": "OpencorporaTag('ADJS neut,sing')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "такою",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,ablt,V-oy')"
+      }
+    ],
+    [
+      {
+        "word": "девушкой",
+        "lexem": "девушка",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,ablt')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "пьяный",
+        "lexem": "пьяный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "буян",
+        "lexem": "буян",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "вчерашний",
+        "lexem": "вчерашний",
+        "tags": "OpencorporaTag('ADJF masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "хвастун",
+        "lexem": "хвастун",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      11,
+      10,
+      "опред",
+      "буян",
+      "пьяный"
+    ],
+    [
+      14,
+      13,
+      "опред",
+      "хвастун",
+      "вчерашний"
+    ],
+    [
+      5,
+      4,
+      "опред",
+      "девушкой",
+      "такою"
+    ],
+    [
+      3,
+      5,
+      "предл",
+      "с",
+      "девушкой"
+    ],
+    [
+      8,
+      11,
+      "об-аппоз",
+      "он",
+      "буян"
+    ],
+    [
+      2,
+      1,
+      "предик",
+      "сравнительно",
+      "он"
+    ],
+    [
+      2,
+      3,
+      "1-компл",
+      "сравнительно",
+      "с"
+    ],
+    [
+      12,
+      14,
+      "соч-союзн",
+      "и",
+      "хвастун"
+    ],
+    [
+      11,
+      12,
+      "сочин",
+      "буян",
+      "и"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "сравнительно",
+      "с"
+    ]
+  ]
+}

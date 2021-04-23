@@ -1,0 +1,185 @@
+{
+  "sentence": "— Что мне теперь делать, Дмитрий Прокофьич? — заговорила Пульхерия Александровна, чуть не плача.",
+  "tokens": [
+    "—",
+    "Что",
+    "мне",
+    "теперь",
+    "делать",
+    ",",
+    "Дмитрий",
+    "Прокофьич",
+    "?",
+    "—",
+    "заговорила",
+    "Пульхерия",
+    "Александровна",
+    ",",
+    "чуть",
+    "не",
+    "плача",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "мне",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "теперь",
+        "lexem": "теперь",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "делать",
+        "lexem": "делать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "дмитрий",
+        "lexem": "дмитрий",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "прокофьич",
+        "lexem": "прокофьич",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "заговорила",
+        "lexem": "заговорить",
+        "tags": "OpencorporaTag('VERB,perf,tran femn,sing,past,indc')"
+      },
+      {
+        "word": "заговорила",
+        "lexem": "заговорить",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "пульхерия",
+        "lexem": "пульхерия",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "александровна",
+        "lexem": "александрович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "чуть",
+        "lexem": "чуть",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "плача",
+        "lexem": "плакать",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      6,
+      7,
+      "аппоз",
+      "дмитрий",
+      "прокофьич"
+    ],
+    [
+      11,
+      12,
+      "аппоз",
+      "пульхерия",
+      "александровна"
+    ],
+    [
+      16,
+      15,
+      "огранич",
+      "плача",
+      "не"
+    ],
+    [
+      10,
+      16,
+      "обст",
+      "заговорила",
+      "плача"
+    ],
+    [
+      10,
+      6,
+      "предик",
+      "заговорила",
+      "дмитрий"
+    ],
+    [
+      4,
+      1,
+      "1-компл",
+      "делать",
+      "что"
+    ],
+    [
+      10,
+      2,
+      "1-компл",
+      "заговорила",
+      "мне"
+    ],
+    [
+      4,
+      3,
+      "обст",
+      "делать",
+      "теперь"
+    ],
+    [
+      16,
+      14,
+      "обст",
+      "плача",
+      "чуть"
+    ]
+  ]
+}

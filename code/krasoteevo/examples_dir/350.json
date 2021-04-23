@@ -1,0 +1,175 @@
+{
+  "sentence": "— Я иногда слишком уж от сердца говорю, так что Дуня меня поправляет...",
+  "tokens": [
+    "—",
+    "Я",
+    "иногда",
+    "слишком",
+    "уж",
+    "от",
+    "сердца",
+    "говорю",
+    ",",
+    "так",
+    "что",
+    "Дуня",
+    "меня",
+    "поправляет",
+    "..."
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "иногда",
+        "lexem": "иногда",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "слишком",
+        "lexem": "слишком",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "уж",
+        "lexem": "уж",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "от",
+        "lexem": "от",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "сердца",
+        "lexem": "сердце",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "говорю",
+        "lexem": "говорить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "дуня",
+        "lexem": "дуня",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "поправляет",
+        "lexem": "поправлять",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      6,
+      "предл",
+      "от",
+      "сердца"
+    ],
+    [
+      11,
+      12,
+      "атриб",
+      "дуня",
+      "меня"
+    ],
+    [
+      7,
+      4,
+      "предик",
+      "говорю",
+      "уж"
+    ],
+    [
+      13,
+      11,
+      "предик",
+      "поправляет",
+      "дуня"
+    ],
+    [
+      7,
+      10,
+      "1-компл",
+      "говорю",
+      "что"
+    ],
+    [
+      10,
+      13,
+      "подч-союзн",
+      "что",
+      "поправляет"
+    ],
+    [
+      7,
+      2,
+      "обст",
+      "говорю",
+      "иногда"
+    ],
+    [
+      7,
+      3,
+      "обст",
+      "говорю",
+      "слишком"
+    ],
+    [
+      7,
+      5,
+      "обст",
+      "говорю",
+      "от"
+    ],
+    [
+      13,
+      9,
+      "обст",
+      "поправляет",
+      "так"
+    ]
+  ]
+}

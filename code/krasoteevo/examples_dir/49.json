@@ -1,0 +1,83 @@
+{
+  "sentence": "Я, знаете, совсем как потерянная хожу.",
+  "tokens": [
+    "Я",
+    ",",
+    "знаете",
+    ",",
+    "совсем",
+    "как",
+    "потерянная",
+    "хожу",
+    "."
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "знаете",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran plur,2per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "совсем",
+        "lexem": "совсем",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('CONJ')"
+      },
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "потерянная",
+        "lexem": "потерять",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "хожу",
+        "lexem": "ходить",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,1per,pres,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      7,
+      "подч-союзн",
+      "как",
+      "хожу"
+    ],
+    [
+      5,
+      7,
+      "подч-союзн",
+      "как",
+      "хожу"
+    ],
+    [
+      6,
+      4,
+      "обст",
+      "потерянная",
+      "совсем"
+    ]
+  ]
+}

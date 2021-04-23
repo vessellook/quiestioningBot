@@ -1,0 +1,455 @@
+{
+  "sentence": "И... и главное, он такой грубый, грязный, обращение у него трактирное; и... и, положим, он знает, что и он, ну хоть немного, да порядочный же человек... ну, так чем же тут гордиться, что порядочный человек?",
+  "tokens": [
+    "И",
+    "...",
+    "и",
+    "главное",
+    ",",
+    "он",
+    "такой",
+    "грубый",
+    ",",
+    "грязный",
+    ",",
+    "обращение",
+    "у",
+    "него",
+    "трактирное",
+    ";",
+    "и",
+    "...",
+    "и",
+    ",",
+    "положим",
+    ",",
+    "он",
+    "знает",
+    ",",
+    "что",
+    "и",
+    "он",
+    ",",
+    "ну",
+    "хоть",
+    "немного",
+    ",",
+    "да",
+    "порядочный",
+    "же",
+    "человек",
+    "...",
+    "ну",
+    ",",
+    "так",
+    "чем",
+    "же",
+    "тут",
+    "гордиться",
+    ",",
+    "что",
+    "порядочный",
+    "человек",
+    "?"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "главное",
+        "lexem": "главное",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "такой",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "грязный",
+        "lexem": "грязный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "обращение",
+        "lexem": "обращение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "у",
+        "lexem": "у",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "трактирное",
+        "lexem": "трактирный",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "положим",
+        "lexem": "положить",
+        "tags": "OpencorporaTag('VERB,perf,tran plur,1per,futr,indc')"
+      },
+      {
+        "word": "положим",
+        "lexem": "положить",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,impr,incl')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "знает",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      },
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "немного",
+        "lexem": "немного",
+        "tags": "OpencorporaTag('NUMR accs')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "порядочный",
+        "lexem": "порядочный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "человек",
+        "lexem": "человек",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "чем",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "тут",
+        "lexem": "тут",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "гордиться",
+        "lexem": "гордиться",
+        "tags": "OpencorporaTag('INFN,impf,intr')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "порядочный",
+        "lexem": "порядочный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "человек",
+        "lexem": "человек",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      9,
+      "опред",
+      "он",
+      "грязный"
+    ],
+    [
+      13,
+      14,
+      "опред",
+      "него",
+      "трактирное"
+    ],
+    [
+      36,
+      34,
+      "опред",
+      "человек",
+      "порядочный"
+    ],
+    [
+      48,
+      47,
+      "опред",
+      "человек",
+      "порядочный"
+    ],
+    [
+      5,
+      6,
+      "опред",
+      "он",
+      "такой"
+    ],
+    [
+      12,
+      13,
+      "предл",
+      "у",
+      "него"
+    ],
+    [
+      12,
+      13,
+      "предл",
+      "у",
+      "него"
+    ],
+    [
+      5,
+      11,
+      "об-аппоз",
+      "он",
+      "обращение"
+    ],
+    [
+      11,
+      12,
+      "атриб",
+      "обращение",
+      "у"
+    ],
+    [
+      20,
+      5,
+      "предик",
+      "положим",
+      "он"
+    ],
+    [
+      23,
+      22,
+      "предик",
+      "знает",
+      "он"
+    ],
+    [
+      20,
+      3,
+      "1-компл",
+      "положим",
+      "главное"
+    ],
+    [
+      20,
+      31,
+      "1-компл",
+      "положим",
+      "немного"
+    ],
+    [
+      23,
+      25,
+      "1-компл",
+      "знает",
+      "что"
+    ],
+    [
+      44,
+      41,
+      "1-компл",
+      "гордиться",
+      "чем"
+    ],
+    [
+      44,
+      43,
+      "1-компл",
+      "гордиться",
+      "тут"
+    ],
+    [
+      44,
+      46,
+      "1-компл",
+      "гордиться",
+      "что"
+    ],
+    [
+      46,
+      48,
+      "подч-союзн",
+      "что",
+      "человек"
+    ],
+    [
+      0,
+      20,
+      "соч-союзн",
+      "и",
+      "положим"
+    ],
+    [
+      16,
+      44,
+      "соч-союзн",
+      "и",
+      "гордиться"
+    ],
+    [
+      26,
+      27,
+      "соч-союзн",
+      "и",
+      "он"
+    ],
+    [
+      22,
+      25,
+      "сочин",
+      "он",
+      "что"
+    ],
+    [
+      25,
+      26,
+      "сочин",
+      "что",
+      "и"
+    ],
+    [
+      25,
+      26,
+      "сочин",
+      "что",
+      "и"
+    ],
+    [
+      44,
+      40,
+      "обст",
+      "гордиться",
+      "так"
+    ]
+  ]
+}

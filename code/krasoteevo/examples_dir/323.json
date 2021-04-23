@@ -1,0 +1,18 @@
+{
+  "sentence": "Ушибли?",
+  "tokens": [
+    "Ушибли",
+    "?"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "ушибли",
+        "lexem": "ушибить",
+        "tags": "OpencorporaTag('VERB,perf,tran plur,past,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": []
+}

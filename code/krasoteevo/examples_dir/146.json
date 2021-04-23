@@ -1,0 +1,188 @@
+{
+  "sentence": "Дай мне нарзану, — сказала она в первый раз говоря мне «ты».",
+  "tokens": [
+    "Дай",
+    "мне",
+    "нарзану",
+    ",",
+    "—",
+    "сказала",
+    "она",
+    "в",
+    "первый",
+    "раз",
+    "говоря",
+    "мне",
+    "«",
+    "ты",
+    "»",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "дай",
+        "lexem": "дать",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,impr,excl')"
+      },
+      {
+        "word": "дай",
+        "lexem": "дая",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "мне",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "нарзану",
+        "lexem": "нарзан",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,datv')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "сказала",
+        "lexem": "сказать",
+        "tags": "OpencorporaTag('VERB,perf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "она",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "первый",
+        "lexem": "первый",
+        "tags": "OpencorporaTag('ADJF,Anum inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "раз",
+        "lexem": "раз",
+        "tags": "OpencorporaTag('ADVB')"
+      },
+      {
+        "word": "раз",
+        "lexem": "раз",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "говоря",
+        "lexem": "говорить",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [
+      {
+        "word": "мне",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,datv')"
+      }
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      9,
+      8,
+      "опред",
+      "раз",
+      "первый"
+    ],
+    [
+      7,
+      9,
+      "предл",
+      "в",
+      "раз"
+    ],
+    [
+      5,
+      10,
+      "обст",
+      "сказала",
+      "говоря"
+    ],
+    [
+      5,
+      6,
+      "предик",
+      "сказала",
+      "она"
+    ],
+    [
+      0,
+      1,
+      "1-компл",
+      "дай",
+      "мне"
+    ],
+    [
+      0,
+      2,
+      "1-компл",
+      "дай",
+      "нарзану"
+    ],
+    [
+      5,
+      0,
+      "1-компл",
+      "сказала",
+      "дай"
+    ],
+    [
+      5,
+      7,
+      "1-компл",
+      "сказала",
+      "в"
+    ],
+    [
+      10,
+      11,
+      "1-компл",
+      "говоря",
+      "мне"
+    ],
+    [
+      5,
+      7,
+      "обст",
+      "сказала",
+      "в"
+    ],
+    [
+      10,
+      9,
+      "обст",
+      "говоря",
+      "раз"
+    ]
+  ]
+}

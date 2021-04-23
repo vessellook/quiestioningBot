@@ -1,0 +1,80 @@
+{
+  "sentence": "— Постойте, я загляну вперед, проснулся ли?",
+  "tokens": [
+    "—",
+    "Постойте",
+    ",",
+    "я",
+    "загляну",
+    "вперед",
+    ",",
+    "проснулся",
+    "ли",
+    "?"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "постойте",
+        "lexem": "постоять",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,impr,excl')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "загляну",
+        "lexem": "заглянуть",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,1per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "вперёд",
+        "lexem": "вперёд",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "проснулся",
+        "lexem": "проснуться",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      3,
+      "предик",
+      "загляну",
+      "я"
+    ],
+    [
+      4,
+      5,
+      "1-компл",
+      "загляну",
+      "вперёд"
+    ],
+    [
+      4,
+      5,
+      "обст",
+      "загляну",
+      "вперёд"
+    ]
+  ]
+}

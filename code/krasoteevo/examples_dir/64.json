@@ -1,0 +1,800 @@
+{
+  "sentence": "И до чего эта шинель, этот картуз, эти веточки идут к нему, - к его небесно-голубым, ясным глазкам, к его чистому, нежному личику, к новизне и свежести всего его существа, его младенчески-простодушного дыхания, его доверчивого, внимательного взгляда, еще так недавно раскрывшегося на мир божий, и непорочного звука голоса, почти всегда вопросительного!",
+  "tokens": [
+    "И",
+    "до",
+    "чего",
+    "эта",
+    "шинель",
+    ",",
+    "этот",
+    "картуз",
+    ",",
+    "эти",
+    "веточки",
+    "идут",
+    "к",
+    "нему",
+    ",",
+    "-",
+    "к",
+    "его",
+    "небесно-голубым",
+    ",",
+    "ясным",
+    "глазкам",
+    ",",
+    "к",
+    "его",
+    "чистому",
+    ",",
+    "нежному",
+    "личику",
+    ",",
+    "к",
+    "новизне",
+    "и",
+    "свежести",
+    "всего",
+    "его",
+    "существа",
+    ",",
+    "его",
+    "младенчески-простодушного",
+    "дыхания",
+    ",",
+    "его",
+    "доверчивого",
+    ",",
+    "внимательного",
+    "взгляда",
+    ",",
+    "еще",
+    "так",
+    "недавно",
+    "раскрывшегося",
+    "на",
+    "мир",
+    "божий",
+    ",",
+    "и",
+    "непорочного",
+    "звука",
+    "голоса",
+    ",",
+    "почти",
+    "всегда",
+    "вопросительного",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "до",
+        "lexem": "до",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "чего",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "эта",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "шинель",
+        "lexem": "шинель",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "этот",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "картуз",
+        "lexem": "картуз",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "эти",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "веточки",
+        "lexem": "веточка",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "идут",
+        "lexem": "идти",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нему",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,datv,Af-p')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,accs')"
+      },
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "небесно-голубым",
+        "lexem": "небесно-голубой",
+        "tags": "OpencorporaTag('ADJF masc,sing,ablt')"
+      },
+      {
+        "word": "небесно-голубым",
+        "lexem": "небесно-голубой",
+        "tags": "OpencorporaTag('ADJF neut,sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "ясным",
+        "lexem": "ясный",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "глазкам",
+        "lexem": "глазок",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,datv')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,accs')"
+      },
+      {
+        "word": "его",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "нежному",
+        "lexem": "нежный",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "личику",
+        "lexem": "личико",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,datv')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "новизне",
+        "lexem": "новизна",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Sgtm sing,datv')"
+      },
+      {
+        "word": "новизне",
+        "lexem": "новизна",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Sgtm sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "свежести",
+        "lexem": "свежесть",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      },
+      {
+        "word": "свежести",
+        "lexem": "свежесть",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "его",
+        "lexem": "его",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph femn,sing,datv')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "его",
+        "lexem": "его",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph neut,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "младенчески-простодушного",
+        "lexem": "младенчески-простодушный",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "дыхания",
+        "lexem": "дыхание",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "его",
+        "lexem": "его",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph neut,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "доверчивого",
+        "lexem": "доверчивый",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "внимательного",
+        "lexem": "внимательный",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "взгляда",
+        "lexem": "взгляд",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "ещё",
+        "lexem": "ещё",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "недавно",
+        "lexem": "недавно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "раскрывшегося",
+        "lexem": "раскрыться",
+        "tags": "OpencorporaTag('PRTF,perf,intr,past,actv masc,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "мир",
+        "lexem": "мир",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      },
+      {
+        "word": "мир",
+        "lexem": "миро",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "божий",
+        "lexem": "божий",
+        "tags": "OpencorporaTag('ADJF inan,masc,sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "непорочного",
+        "lexem": "непорочный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "звука",
+        "lexem": "звук",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "голоса",
+        "lexem": "голос",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "почти",
+        "lexem": "почесть",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,impr,excl')"
+      },
+      {
+        "word": "почти",
+        "lexem": "почтить",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,impr,excl')"
+      }
+    ],
+    [
+      {
+        "word": "всегда",
+        "lexem": "всегда",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      28,
+      27,
+      "опред",
+      "личику",
+      "нежному"
+    ],
+    [
+      40,
+      39,
+      "опред",
+      "дыхания",
+      "младенчески-простодушного"
+    ],
+    [
+      46,
+      51,
+      "опред",
+      "взгляда",
+      "раскрывшегося"
+    ],
+    [
+      53,
+      54,
+      "опред",
+      "мир",
+      "божий"
+    ],
+    [
+      58,
+      57,
+      "опред",
+      "звука",
+      "непорочного"
+    ],
+    [
+      4,
+      3,
+      "опред",
+      "шинель",
+      "эта"
+    ],
+    [
+      33,
+      35,
+      "опред",
+      "свежести",
+      "его"
+    ],
+    [
+      40,
+      42,
+      "опред",
+      "дыхания",
+      "его"
+    ],
+    [
+      16,
+      17,
+      "предл",
+      "к",
+      "его"
+    ],
+    [
+      16,
+      17,
+      "предл",
+      "к",
+      "его"
+    ],
+    [
+      23,
+      24,
+      "предл",
+      "к",
+      "его"
+    ],
+    [
+      23,
+      24,
+      "предл",
+      "к",
+      "его"
+    ],
+    [
+      30,
+      31,
+      "предл",
+      "к",
+      "новизне"
+    ],
+    [
+      30,
+      31,
+      "предл",
+      "к",
+      "новизне"
+    ],
+    [
+      52,
+      53,
+      "предл",
+      "на",
+      "мир"
+    ],
+    [
+      52,
+      53,
+      "предл",
+      "на",
+      "мир"
+    ],
+    [
+      58,
+      59,
+      "атриб",
+      "звука",
+      "голоса"
+    ],
+    [
+      11,
+      10,
+      "предик",
+      "идут",
+      "веточки"
+    ],
+    [
+      11,
+      1,
+      "1-компл",
+      "идут",
+      "до"
+    ],
+    [
+      11,
+      7,
+      "1-компл",
+      "идут",
+      "картуз"
+    ],
+    [
+      11,
+      9,
+      "1-компл",
+      "идут",
+      "эти"
+    ],
+    [
+      11,
+      12,
+      "1-компл",
+      "идут",
+      "к"
+    ],
+    [
+      11,
+      16,
+      "1-компл",
+      "идут",
+      "к"
+    ],
+    [
+      11,
+      21,
+      "1-компл",
+      "идут",
+      "глазкам"
+    ],
+    [
+      11,
+      23,
+      "1-компл",
+      "идут",
+      "к"
+    ],
+    [
+      11,
+      28,
+      "1-компл",
+      "идут",
+      "личику"
+    ],
+    [
+      11,
+      30,
+      "1-компл",
+      "идут",
+      "к"
+    ],
+    [
+      11,
+      33,
+      "1-компл",
+      "идут",
+      "свежести"
+    ],
+    [
+      11,
+      33,
+      "1-компл",
+      "идут",
+      "свежести"
+    ],
+    [
+      51,
+      52,
+      "1-компл",
+      "раскрывшегося",
+      "на"
+    ],
+    [
+      0,
+      11,
+      "соч-союзн",
+      "и",
+      "идут"
+    ],
+    [
+      32,
+      61,
+      "соч-союзн",
+      "и",
+      "почти"
+    ],
+    [
+      56,
+      58,
+      "соч-союзн",
+      "и",
+      "звука"
+    ],
+    [
+      11,
+      32,
+      "сочин",
+      "идут",
+      "и"
+    ],
+    [
+      3,
+      6,
+      "сочин",
+      "эта",
+      "этот"
+    ],
+    [
+      18,
+      20,
+      "сочин",
+      "небесно-голубым",
+      "ясным"
+    ],
+    [
+      18,
+      20,
+      "сочин",
+      "небесно-голубым",
+      "ясным"
+    ],
+    [
+      35,
+      38,
+      "сочин",
+      "его",
+      "его"
+    ],
+    [
+      43,
+      45,
+      "сочин",
+      "доверчивого",
+      "внимательного"
+    ],
+    [
+      11,
+      12,
+      "обст",
+      "идут",
+      "к"
+    ],
+    [
+      51,
+      48,
+      "обст",
+      "раскрывшегося",
+      "ещё"
+    ],
+    [
+      51,
+      49,
+      "обст",
+      "раскрывшегося",
+      "так"
+    ],
+    [
+      51,
+      50,
+      "обст",
+      "раскрывшегося",
+      "недавно"
+    ],
+    [
+      51,
+      52,
+      "обст",
+      "раскрывшегося",
+      "на"
+    ],
+    [
+      61,
+      62,
+      "обст",
+      "почти",
+      "всегда"
+    ],
+    [
+      61,
+      62,
+      "обст",
+      "почти",
+      "всегда"
+    ],
+    [
+      11,
+      2,
+      "присвяз",
+      "идут",
+      "чего"
+    ],
+    [
+      11,
+      13,
+      "присвяз",
+      "идут",
+      "нему"
+    ],
+    [
+      11,
+      21,
+      "присвяз",
+      "идут",
+      "глазкам"
+    ],
+    [
+      11,
+      28,
+      "присвяз",
+      "идут",
+      "личику"
+    ]
+  ]
+}

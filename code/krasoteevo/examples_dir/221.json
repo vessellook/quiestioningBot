@@ -1,0 +1,78 @@
+{
+  "sentence": "В своем больном не властен, лечи поди!",
+  "tokens": [
+    "В",
+    "своем",
+    "больном",
+    "не",
+    "властен",
+    ",",
+    "лечи",
+    "поди",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "своём",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph neut,sing,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "властен",
+        "lexem": "властный",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "лечи",
+        "lexem": "лечить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,impr,excl')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      3,
+      "огранич",
+      "властен",
+      "не"
+    ],
+    [
+      4,
+      0,
+      "1-компл",
+      "властен",
+      "в"
+    ],
+    [
+      4,
+      1,
+      "1-компл",
+      "властен",
+      "своём"
+    ]
+  ]
+}

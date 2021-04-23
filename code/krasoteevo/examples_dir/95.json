@@ -1,0 +1,436 @@
+{
+  "sentence": "И отец, огромный, толстый от медвежьей шубы, надетой поверх полушубка, в черных, выше колен, валенках и в большой боярской шапке, сядет на диван и скажет;",
+  "tokens": [
+    "И",
+    "отец",
+    ",",
+    "огромный",
+    ",",
+    "толстый",
+    "от",
+    "медвежьей",
+    "шубы",
+    ",",
+    "надетой",
+    "поверх",
+    "полушубка",
+    ",",
+    "в",
+    "черных",
+    ",",
+    "выше",
+    "колен",
+    ",",
+    "валенках",
+    "и",
+    "в",
+    "большой",
+    "боярской",
+    "шапке",
+    ",",
+    "сядет",
+    "на",
+    "диван",
+    "и",
+    "скажет",
+    ";"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "отец",
+        "lexem": "отец",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "огромный",
+        "lexem": "огромный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "толстый",
+        "lexem": "толстый",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "от",
+        "lexem": "от",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "медвежьей",
+        "lexem": "медвежий",
+        "tags": "OpencorporaTag('ADJF,Poss femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "шубы",
+        "lexem": "шуба",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "шубы",
+        "lexem": "шуба",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "надетой",
+        "lexem": "надеть",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "поверх",
+        "lexem": "поверх",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "полушубка",
+        "lexem": "полушубок",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "чёрных",
+        "lexem": "чёрный",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,gent')"
+      },
+      {
+        "word": "чёрных",
+        "lexem": "чёрный",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,accs')"
+      },
+      {
+        "word": "чёрных",
+        "lexem": "чёрный",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "выше",
+        "lexem": "высоко",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [
+      {
+        "word": "колен",
+        "lexem": "колено",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "валенках",
+        "lexem": "валенок",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,loct')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "большой",
+        "lexem": "большой",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "боярской",
+        "lexem": "боярский",
+        "tags": "OpencorporaTag('ADJF femn,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "шапке",
+        "lexem": "шапка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "сядет",
+        "lexem": "сесть",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,3per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "диван",
+        "lexem": "диван",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "скажет",
+        "lexem": "сказать",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,3per,futr,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      3,
+      "опред",
+      "отец",
+      "огромный"
+    ],
+    [
+      1,
+      5,
+      "опред",
+      "отец",
+      "толстый"
+    ],
+    [
+      8,
+      7,
+      "опред",
+      "шубы",
+      "медвежьей"
+    ],
+    [
+      8,
+      10,
+      "опред",
+      "шубы",
+      "надетой"
+    ],
+    [
+      25,
+      23,
+      "опред",
+      "шапке",
+      "большой"
+    ],
+    [
+      25,
+      24,
+      "опред",
+      "шапке",
+      "боярской"
+    ],
+    [
+      6,
+      8,
+      "предл",
+      "от",
+      "шубы"
+    ],
+    [
+      6,
+      8,
+      "предл",
+      "от",
+      "шубы"
+    ],
+    [
+      11,
+      12,
+      "предл",
+      "поверх",
+      "полушубка"
+    ],
+    [
+      14,
+      15,
+      "предл",
+      "в",
+      "чёрных"
+    ],
+    [
+      14,
+      15,
+      "предл",
+      "в",
+      "чёрных"
+    ],
+    [
+      14,
+      15,
+      "предл",
+      "в",
+      "чёрных"
+    ],
+    [
+      22,
+      25,
+      "предл",
+      "в",
+      "шапке"
+    ],
+    [
+      28,
+      29,
+      "предл",
+      "на",
+      "диван"
+    ],
+    [
+      17,
+      1,
+      "предик",
+      "выше",
+      "отец"
+    ],
+    [
+      27,
+      6,
+      "несобст-агент",
+      "сядет",
+      "от"
+    ],
+    [
+      10,
+      11,
+      "1-компл",
+      "надетой",
+      "поверх"
+    ],
+    [
+      10,
+      14,
+      "1-компл",
+      "надетой",
+      "в"
+    ],
+    [
+      27,
+      22,
+      "1-компл",
+      "сядет",
+      "в"
+    ],
+    [
+      27,
+      28,
+      "1-компл",
+      "сядет",
+      "на"
+    ],
+    [
+      0,
+      17,
+      "соч-союзн",
+      "и",
+      "выше"
+    ],
+    [
+      21,
+      27,
+      "соч-союзн",
+      "и",
+      "сядет"
+    ],
+    [
+      30,
+      31,
+      "соч-союзн",
+      "и",
+      "скажет"
+    ],
+    [
+      27,
+      30,
+      "сочин",
+      "сядет",
+      "и"
+    ],
+    [
+      10,
+      11,
+      "обст",
+      "надетой",
+      "поверх"
+    ],
+    [
+      27,
+      28,
+      "обст",
+      "сядет",
+      "на"
+    ],
+    [
+      17,
+      18,
+      "сравнит",
+      "выше",
+      "колен"
+    ],
+    [
+      17,
+      20,
+      "сравнит",
+      "выше",
+      "валенках"
+    ]
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "sentence": "Он многое, впрочем, пропустил, что и надо было пропустить, между прочим и о сцене в конторе со всеми последствиями.",
+  "tokens": [
+    "Он",
+    "многое",
+    ",",
+    "впрочем",
+    ",",
+    "пропустил",
+    ",",
+    "что",
+    "и",
+    "надо",
+    "было",
+    "пропустить",
+    ",",
+    "между",
+    "прочим",
+    "и",
+    "о",
+    "сцене",
+    "в",
+    "конторе",
+    "со",
+    "всеми",
+    "последствиями",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "многое",
+        "lexem": "многое",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "пропустил",
+        "lexem": "пропустить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "надо",
+        "lexem": "надо",
+        "tags": "OpencorporaTag('PRED,pres')"
+      }
+    ],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "пропустить",
+        "lexem": "пропустить",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "между",
+        "lexem": "между",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "прочим",
+        "lexem": "прочить",
+        "tags": "OpencorporaTag('PRTS,impf,pres,pssv masc,sing')"
+      },
+      {
+        "word": "прочим",
+        "lexem": "прочий",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,ablt')"
+      },
+      {
+        "word": "прочим",
+        "lexem": "прочее",
+        "tags": "OpencorporaTag('NPRO,neut sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "о",
+        "lexem": "о",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "сцене",
+        "lexem": "сцена",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "конторе",
+        "lexem": "контора",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "конторе",
+        "lexem": "контора",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "со",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP Vpre')"
+      }
+    ],
+    [
+      {
+        "word": "всеми",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "последствиями",
+        "lexem": "последствие",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,ablt')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      13,
+      14,
+      "предл",
+      "между",
+      "прочим"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "в",
+      "конторе"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "в",
+      "конторе"
+    ],
+    [
+      20,
+      22,
+      "предл",
+      "со",
+      "последствиями"
+    ],
+    [
+      17,
+      18,
+      "атриб",
+      "сцене",
+      "в"
+    ],
+    [
+      19,
+      20,
+      "атриб",
+      "конторе",
+      "со"
+    ],
+    [
+      19,
+      20,
+      "атриб",
+      "конторе",
+      "со"
+    ],
+    [
+      5,
+      1,
+      "предик",
+      "пропустил",
+      "многое"
+    ],
+    [
+      5,
+      7,
+      "1-компл",
+      "пропустил",
+      "что"
+    ],
+    [
+      9,
+      16,
+      "1-компл",
+      "надо",
+      "о"
+    ],
+    [
+      9,
+      21,
+      "1-компл",
+      "надо",
+      "всеми"
+    ],
+    [
+      11,
+      14,
+      "1-компл",
+      "пропустить",
+      "прочим"
+    ],
+    [
+      14,
+      13,
+      "1-компл",
+      "прочим",
+      "между"
+    ],
+    [
+      8,
+      9,
+      "соч-союзн",
+      "и",
+      "надо"
+    ],
+    [
+      15,
+      17,
+      "соч-союзн",
+      "и",
+      "сцене"
+    ]
+  ]
+}

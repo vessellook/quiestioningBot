@@ -1,0 +1,405 @@
+{
+  "sentence": "И работник уже стоит в их козлах, в буром и грубом армяке, надетом на полушубок, с вожжами и длинным кнутом в руках...",
+  "tokens": [
+    "И",
+    "работник",
+    "уже",
+    "стоит",
+    "в",
+    "их",
+    "козлах",
+    ",",
+    "в",
+    "буром",
+    "и",
+    "грубом",
+    "армяке",
+    ",",
+    "надетом",
+    "на",
+    "полушубок",
+    ",",
+    "с",
+    "вожжами",
+    "и",
+    "длинным",
+    "кнутом",
+    "в",
+    "руках",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "работник",
+        "lexem": "работник",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "уже",
+        "lexem": "узкий",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [
+      {
+        "word": "стоит",
+        "lexem": "стоить",
+        "tags": "OpencorporaTag('VERB,impf,intr,Impe sing,pres,indc')"
+      },
+      {
+        "word": "стоит",
+        "lexem": "стоить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      },
+      {
+        "word": "стоит",
+        "lexem": "стоять",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "их",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,accs')"
+      },
+      {
+        "word": "их",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "козлах",
+        "lexem": "козлы",
+        "tags": "OpencorporaTag('NOUN,inan,GNdr,Pltm plur,loct')"
+      },
+      {
+        "word": "козлах",
+        "lexem": "козёл",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,loct')"
+      },
+      {
+        "word": "козлах",
+        "lexem": "козёл",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "буром",
+        "lexem": "бур",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      },
+      {
+        "word": "буром",
+        "lexem": "бур",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "надетом",
+        "lexem": "надеть",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv masc,sing,loct')"
+      },
+      {
+        "word": "надетом",
+        "lexem": "надеть",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv neut,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "полушубок",
+        "lexem": "полушубок",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "вожжами",
+        "lexem": "вожжа",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "длинным",
+        "lexem": "длинный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "кнутом",
+        "lexem": "кнут",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "руках",
+        "lexem": "рука",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,loct')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      22,
+      21,
+      "опред",
+      "кнутом",
+      "длинным"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "в",
+      "их"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "в",
+      "их"
+    ],
+    [
+      8,
+      9,
+      "предл",
+      "в",
+      "буром"
+    ],
+    [
+      8,
+      9,
+      "предл",
+      "в",
+      "буром"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "с",
+      "вожжами"
+    ],
+    [
+      23,
+      24,
+      "предл",
+      "в",
+      "руках"
+    ],
+    [
+      22,
+      23,
+      "атриб",
+      "кнутом",
+      "в"
+    ],
+    [
+      2,
+      1,
+      "предик",
+      "уже",
+      "работник"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "стоит",
+      "в"
+    ],
+    [
+      3,
+      8,
+      "1-компл",
+      "стоит",
+      "в"
+    ],
+    [
+      14,
+      15,
+      "1-компл",
+      "надетом",
+      "на"
+    ],
+    [
+      14,
+      15,
+      "1-компл",
+      "надетом",
+      "на"
+    ],
+    [
+      14,
+      18,
+      "1-компл",
+      "надетом",
+      "с"
+    ],
+    [
+      14,
+      18,
+      "1-компл",
+      "надетом",
+      "с"
+    ],
+    [
+      0,
+      2,
+      "соч-союзн",
+      "и",
+      "уже"
+    ],
+    [
+      10,
+      16,
+      "соч-союзн",
+      "и",
+      "полушубок"
+    ],
+    [
+      20,
+      22,
+      "соч-союзн",
+      "и",
+      "кнутом"
+    ],
+    [
+      9,
+      10,
+      "сочин",
+      "буром",
+      "и"
+    ],
+    [
+      9,
+      10,
+      "сочин",
+      "буром",
+      "и"
+    ],
+    [
+      19,
+      20,
+      "сочин",
+      "вожжами",
+      "и"
+    ],
+    [
+      3,
+      4,
+      "обст",
+      "стоит",
+      "в"
+    ],
+    [
+      14,
+      15,
+      "обст",
+      "надетом",
+      "на"
+    ],
+    [
+      14,
+      15,
+      "обст",
+      "надетом",
+      "на"
+    ],
+    [
+      3,
+      6,
+      "присвяз",
+      "стоит",
+      "козлах"
+    ],
+    [
+      3,
+      6,
+      "присвяз",
+      "стоит",
+      "козлах"
+    ],
+    [
+      3,
+      6,
+      "присвяз",
+      "стоит",
+      "козлах"
+    ]
+  ]
+}

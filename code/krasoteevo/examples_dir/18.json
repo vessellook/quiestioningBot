@@ -1,0 +1,58 @@
+{
+  "sentence": "Мотнул шапкой, задумался.",
+  "tokens": [
+    "Мотнул",
+    "шапкой",
+    ",",
+    "задумался",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "мотнул",
+        "lexem": "мотнуть",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "шапкой",
+        "lexem": "шапка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "задумался",
+        "lexem": "задуматься",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      0,
+      1,
+      "агент",
+      "мотнул",
+      "шапкой"
+    ],
+    [
+      0,
+      1,
+      "1-компл",
+      "мотнул",
+      "шапкой"
+    ],
+    [
+      0,
+      3,
+      "сочин",
+      "мотнул",
+      "задумался"
+    ]
+  ]
+}

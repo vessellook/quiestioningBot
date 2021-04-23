@@ -1,0 +1,432 @@
+{
+  "sentence": "И уже на лестнице, необыкновенно крутой и донельзя затоптанной, слышно, как много в ней народу, как буйно носятся половые и какой густой, горячий угар стоит повсюду.",
+  "tokens": [
+    "И",
+    "уже",
+    "на",
+    "лестнице",
+    ",",
+    "необыкновенно",
+    "крутой",
+    "и",
+    "донельзя",
+    "затоптанной",
+    ",",
+    "слышно",
+    ",",
+    "как",
+    "много",
+    "в",
+    "ней",
+    "народу",
+    ",",
+    "как",
+    "буйно",
+    "носятся",
+    "половые",
+    "и",
+    "какой",
+    "густой",
+    ",",
+    "горячий",
+    "угар",
+    "стоит",
+    "повсюду",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "уже",
+        "lexem": "узкий",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "лестнице",
+        "lexem": "лестница",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      },
+      {
+        "word": "лестнице",
+        "lexem": "лестница",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "крутой",
+        "lexem": "крутой",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "донельзя",
+        "lexem": "донельзя",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "затоптанной",
+        "lexem": "затоптать",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv femn,sing,gent')"
+      },
+      {
+        "word": "затоптанной",
+        "lexem": "затоптать",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv femn,sing,ablt')"
+      },
+      {
+        "word": "затоптанной",
+        "lexem": "затоптать",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv femn,sing,loct')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "много",
+        "lexem": "много",
+        "tags": "OpencorporaTag('NUMR accs')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "ней",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,loct,Af-p')"
+      },
+      {
+        "word": "ней",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,ablt,Af-p')"
+      },
+      {
+        "word": "ней",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,datv,Af-p')"
+      },
+      {
+        "word": "ней",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent,Infr,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "народу",
+        "lexem": "народ",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,datv')"
+      },
+      {
+        "word": "народу",
+        "lexem": "народ",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gen2')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "буйно",
+        "lexem": "буйно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "носятся",
+        "lexem": "носиться",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "половые",
+        "lexem": "половой",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "какой",
+        "lexem": "какой",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "горячий",
+        "lexem": "горячий",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "угар",
+        "lexem": "угар",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "стоит",
+        "lexem": "стоить",
+        "tags": "OpencorporaTag('VERB,impf,intr,Impe sing,pres,indc')"
+      },
+      {
+        "word": "стоит",
+        "lexem": "стоить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      },
+      {
+        "word": "стоит",
+        "lexem": "стоять",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "повсюду",
+        "lexem": "повсюду",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      28,
+      27,
+      "опред",
+      "угар",
+      "горячий"
+    ],
+    [
+      28,
+      24,
+      "опред",
+      "угар",
+      "какой"
+    ],
+    [
+      1,
+      2,
+      "колич-огран",
+      "уже",
+      "на"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "на",
+      "лестнице"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "на",
+      "лестнице"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "в",
+      "ней"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "в",
+      "ней"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "в",
+      "ней"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "в",
+      "ней"
+    ],
+    [
+      21,
+      22,
+      "предик",
+      "носятся",
+      "половые"
+    ],
+    [
+      29,
+      28,
+      "предик",
+      "стоит",
+      "угар"
+    ],
+    [
+      9,
+      14,
+      "1-компл",
+      "затоптанной",
+      "много"
+    ],
+    [
+      9,
+      15,
+      "1-компл",
+      "затоптанной",
+      "в"
+    ],
+    [
+      9,
+      17,
+      "1-компл",
+      "затоптанной",
+      "народу"
+    ],
+    [
+      9,
+      17,
+      "1-компл",
+      "затоптанной",
+      "народу"
+    ],
+    [
+      0,
+      1,
+      "соч-союзн",
+      "и",
+      "уже"
+    ],
+    [
+      7,
+      21,
+      "соч-союзн",
+      "и",
+      "носятся"
+    ],
+    [
+      23,
+      29,
+      "соч-союзн",
+      "и",
+      "стоит"
+    ],
+    [
+      21,
+      23,
+      "сочин",
+      "носятся",
+      "и"
+    ],
+    [
+      1,
+      2,
+      "обст",
+      "уже",
+      "на"
+    ],
+    [
+      9,
+      8,
+      "обст",
+      "затоптанной",
+      "донельзя"
+    ],
+    [
+      21,
+      20,
+      "обст",
+      "носятся",
+      "буйно"
+    ],
+    [
+      29,
+      30,
+      "обст",
+      "стоит",
+      "повсюду"
+    ],
+    [
+      1,
+      6,
+      "сравнит",
+      "уже",
+      "крутой"
+    ],
+    [
+      13,
+      17,
+      "сравн-союзн",
+      "как",
+      "народу"
+    ],
+    [
+      13,
+      17,
+      "сравн-союзн",
+      "как",
+      "народу"
+    ]
+  ]
+}

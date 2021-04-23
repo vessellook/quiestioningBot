@@ -1,0 +1,126 @@
+{
+  "sentence": "И что за оправдание, что он был пьян?",
+  "tokens": [
+    "И",
+    "что",
+    "за",
+    "оправдание",
+    ",",
+    "что",
+    "он",
+    "был",
+    "пьян",
+    "?"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "за",
+        "lexem": "за",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "оправдание",
+        "lexem": "оправдание",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "был",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "пьян",
+        "lexem": "пьяный",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      7,
+      6,
+      "предик",
+      "был",
+      "он"
+    ],
+    [
+      7,
+      1,
+      "1-компл",
+      "был",
+      "что"
+    ],
+    [
+      7,
+      2,
+      "1-компл",
+      "был",
+      "за"
+    ],
+    [
+      7,
+      5,
+      "1-компл",
+      "был",
+      "что"
+    ],
+    [
+      0,
+      7,
+      "соч-союзн",
+      "и",
+      "был"
+    ],
+    [
+      3,
+      8,
+      "релят",
+      "оправдание",
+      "пьян"
+    ],
+    [
+      7,
+      3,
+      "присвяз",
+      "был",
+      "оправдание"
+    ]
+  ]
+}

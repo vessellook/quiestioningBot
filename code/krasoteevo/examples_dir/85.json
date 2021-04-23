@@ -1,0 +1,49 @@
+{
+  "sentence": "Какая ужасная лестница!",
+  "tokens": [
+    "Какая",
+    "ужасная",
+    "лестница",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "какая",
+        "lexem": "какой",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "ужасная",
+        "lexem": "ужасный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "лестница",
+        "lexem": "лестница",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      1,
+      "опред",
+      "лестница",
+      "ужасная"
+    ],
+    [
+      2,
+      0,
+      "опред",
+      "лестница",
+      "какая"
+    ]
+  ]
+}

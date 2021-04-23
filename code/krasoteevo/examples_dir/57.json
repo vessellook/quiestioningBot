@@ -1,0 +1,92 @@
+{
+  "sentence": "Отец человек большой и краснолицый, курчавый и седеющий, сильный и моложавый.",
+  "tokens": [
+    "Отец",
+    "человек",
+    "большой",
+    "и",
+    "краснолицый",
+    ",",
+    "курчавый",
+    "и",
+    "седеющий",
+    ",",
+    "сильный",
+    "и",
+    "моложавый",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "отец",
+        "lexem": "отец",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "человек",
+        "lexem": "человек",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,gent')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "краснолицый",
+        "lexem": "краснолицый",
+        "tags": "OpencorporaTag('ADJF masc,sing,nomn')"
+      },
+      {
+        "word": "краснолицый",
+        "lexem": "краснолицый",
+        "tags": "OpencorporaTag('ADJF inan,masc,sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "курчавый",
+        "lexem": "курчавый",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      },
+      {
+        "word": "курчавый",
+        "lexem": "курчавый",
+        "tags": "OpencorporaTag('ADJF,Qual inan,masc,sing,accs')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      0,
+      1,
+      "атриб",
+      "отец",
+      "человек"
+    ],
+    [
+      4,
+      6,
+      "сочин",
+      "краснолицый",
+      "курчавый"
+    ],
+    [
+      4,
+      6,
+      "сочин",
+      "краснолицый",
+      "курчавый"
+    ]
+  ]
+}

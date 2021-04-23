@@ -1,0 +1,275 @@
+{
+  "sentence": "Он так настойчиво требовал вчера отказа Петру Петровичу, а тут и его самого велят не принимать!",
+  "tokens": [
+    "Он",
+    "так",
+    "настойчиво",
+    "требовал",
+    "вчера",
+    "отказа",
+    "Петру",
+    "Петровичу",
+    ",",
+    "а",
+    "тут",
+    "и",
+    "его",
+    "самого",
+    "велят",
+    "не",
+    "принимать",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "настойчиво",
+        "lexem": "настойчиво",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "требовал",
+        "lexem": "требовать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "вчера",
+        "lexem": "вчера",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "отказа",
+        "lexem": "отказ",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "петру",
+        "lexem": "пётр",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,datv')"
+      },
+      {
+        "word": "петру",
+        "lexem": "петра",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "петровичу",
+        "lexem": "петрович",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr sing,datv')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "тут",
+        "lexem": "тут",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "самого",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro anim,masc,sing,accs')"
+      },
+      {
+        "word": "самого",
+        "lexem": "самый",
+        "tags": "OpencorporaTag('ADJF,Apro anim,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "велят",
+        "lexem": "велеть",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,3per,futr,indc')"
+      },
+      {
+        "word": "велят",
+        "lexem": "велеть",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "принимать",
+        "lexem": "принимать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      12,
+      13,
+      "опред",
+      "его",
+      "самого"
+    ],
+    [
+      12,
+      13,
+      "опред",
+      "его",
+      "самого"
+    ],
+    [
+      5,
+      6,
+      "аппоз",
+      "отказа",
+      "петру"
+    ],
+    [
+      5,
+      6,
+      "аппоз",
+      "отказа",
+      "петру"
+    ],
+    [
+      6,
+      7,
+      "аппоз",
+      "петру",
+      "петровичу"
+    ],
+    [
+      6,
+      7,
+      "аппоз",
+      "петру",
+      "петровичу"
+    ],
+    [
+      16,
+      15,
+      "огранич",
+      "принимать",
+      "не"
+    ],
+    [
+      3,
+      0,
+      "предик",
+      "требовал",
+      "он"
+    ],
+    [
+      14,
+      10,
+      "1-компл",
+      "велят",
+      "тут"
+    ],
+    [
+      14,
+      12,
+      "1-компл",
+      "велят",
+      "его"
+    ],
+    [
+      9,
+      14,
+      "соч-союзн",
+      "а",
+      "велят"
+    ],
+    [
+      11,
+      16,
+      "соч-союзн",
+      "и",
+      "принимать"
+    ],
+    [
+      3,
+      9,
+      "сочин",
+      "требовал",
+      "а"
+    ],
+    [
+      3,
+      1,
+      "обст",
+      "требовал",
+      "так"
+    ],
+    [
+      3,
+      2,
+      "обст",
+      "требовал",
+      "настойчиво"
+    ],
+    [
+      3,
+      4,
+      "обст",
+      "требовал",
+      "вчера"
+    ],
+    [
+      3,
+      4,
+      "обст",
+      "требовал",
+      "вчера"
+    ]
+  ]
+}

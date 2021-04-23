@@ -1,0 +1,239 @@
+{
+  "sentence": "Сколько я помню, вчера, из этого рассказа Заметова, мне половина дела выяснилась.",
+  "tokens": [
+    "Сколько",
+    "я",
+    "помню",
+    ",",
+    "вчера",
+    ",",
+    "из",
+    "этого",
+    "рассказа",
+    "Заметова",
+    ",",
+    "мне",
+    "половина",
+    "дела",
+    "выяснилась",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "сколько",
+        "lexem": "сколько",
+        "tags": "OpencorporaTag('NUMR inan,accs')"
+      }
+    ],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "помню",
+        "lexem": "помнить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "вчера",
+        "lexem": "вчера",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "этого",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph masc,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "рассказа",
+        "lexem": "рассказ",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "заметова",
+        "lexem": "заметов",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,gent')"
+      },
+      {
+        "word": "заметова",
+        "lexem": "заметов",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,accs')"
+      },
+      {
+        "word": "заметова",
+        "lexem": "заметов",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "половина",
+        "lexem": "половина",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      },
+      {
+        "word": "половина",
+        "lexem": "половина",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "дела",
+        "lexem": "дело",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,gent')"
+      },
+      {
+        "word": "дела",
+        "lexem": "деть",
+        "tags": "OpencorporaTag('VERB,perf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "выяснилась",
+        "lexem": "выясниться",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      7,
+      "опред",
+      "рассказа",
+      "этого"
+    ],
+    [
+      8,
+      9,
+      "квазиагент",
+      "рассказа",
+      "заметова"
+    ],
+    [
+      8,
+      9,
+      "аппоз",
+      "рассказа",
+      "заметова"
+    ],
+    [
+      8,
+      9,
+      "аппоз",
+      "рассказа",
+      "заметова"
+    ],
+    [
+      8,
+      9,
+      "аппоз",
+      "рассказа",
+      "заметова"
+    ],
+    [
+      9,
+      12,
+      "об-аппоз",
+      "заметова",
+      "половина"
+    ],
+    [
+      9,
+      12,
+      "об-аппоз",
+      "заметова",
+      "половина"
+    ],
+    [
+      12,
+      13,
+      "атриб",
+      "половина",
+      "дела"
+    ],
+    [
+      12,
+      13,
+      "атриб",
+      "половина",
+      "дела"
+    ],
+    [
+      2,
+      1,
+      "предик",
+      "помню",
+      "я"
+    ],
+    [
+      2,
+      0,
+      "1-компл",
+      "помню",
+      "сколько"
+    ],
+    [
+      2,
+      6,
+      "1-компл",
+      "помню",
+      "из"
+    ],
+    [
+      0,
+      8,
+      "1-компл",
+      "сколько",
+      "рассказа"
+    ],
+    [
+      9,
+      12,
+      "сочин",
+      "заметова",
+      "половина"
+    ],
+    [
+      9,
+      12,
+      "сочин",
+      "заметова",
+      "половина"
+    ],
+    [
+      2,
+      4,
+      "обст",
+      "помню",
+      "вчера"
+    ]
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "sentence": "Пообедали, стало смеркаться, смерклось — Нефеда не было.",
+  "tokens": [
+    "Пообедали",
+    ",",
+    "стало",
+    "смеркаться",
+    ",",
+    "смерклось",
+    "—",
+    "Нефеда",
+    "не",
+    "было",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "пообедали",
+        "lexem": "пообедать",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "стало",
+        "lexem": "стать",
+        "tags": "OpencorporaTag('VERB,perf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "смеркаться",
+        "lexem": "смеркаться",
+        "tags": "OpencorporaTag('INFN,impf,intr,Impe')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "смерклось",
+        "lexem": "смеркнуться",
+        "tags": "OpencorporaTag('VERB,perf,intr,Impe neut,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "нефёда",
+        "lexem": "нефёд",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      },
+      {
+        "word": "было",
+        "lexem": "было",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      9,
+      "огранич",
+      "не",
+      "было"
+    ],
+    [
+      9,
+      8,
+      "огранич",
+      "было",
+      "не"
+    ],
+    [
+      5,
+      7,
+      "1-компл",
+      "смерклось",
+      "нефёда"
+    ],
+    [
+      9,
+      7,
+      "1-компл",
+      "было",
+      "нефёда"
+    ],
+    [
+      0,
+      2,
+      "сочин",
+      "пообедали",
+      "стало"
+    ],
+    [
+      2,
+      5,
+      "сочин",
+      "стало",
+      "смерклось"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "стало",
+      "смеркаться"
+    ]
+  ]
+}

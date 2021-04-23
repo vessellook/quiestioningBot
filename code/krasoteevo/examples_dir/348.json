@@ -1,0 +1,71 @@
+{
+  "sentence": "— Он покраснел и замолчал.",
+  "tokens": [
+    "—",
+    "Он",
+    "покраснел",
+    "и",
+    "замолчал",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "покраснел",
+        "lexem": "покраснеть",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "замолчал",
+        "lexem": "замолчать",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      },
+      {
+        "word": "замолчал",
+        "lexem": "замолчать",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      1,
+      "предик",
+      "покраснел",
+      "он"
+    ],
+    [
+      3,
+      4,
+      "соч-союзн",
+      "и",
+      "замолчал"
+    ],
+    [
+      2,
+      3,
+      "сочин",
+      "покраснел",
+      "и"
+    ]
+  ]
+}

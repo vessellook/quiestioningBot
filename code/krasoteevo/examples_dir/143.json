@@ -1,0 +1,102 @@
+{
+  "sentence": "— Я совсем не могла обедать, — сказала она.",
+  "tokens": [
+    "—",
+    "Я",
+    "совсем",
+    "не",
+    "могла",
+    "обедать",
+    ",",
+    "—",
+    "сказала",
+    "она",
+    "."
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "совсем",
+        "lexem": "совсем",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "могла",
+        "lexem": "мочь",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "обедать",
+        "lexem": "обедать",
+        "tags": "OpencorporaTag('INFN,impf,intr')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "сказала",
+        "lexem": "сказать",
+        "tags": "OpencorporaTag('VERB,perf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "она",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      3,
+      "огранич",
+      "могла",
+      "не"
+    ],
+    [
+      8,
+      9,
+      "предик",
+      "сказала",
+      "она"
+    ],
+    [
+      4,
+      8,
+      "сочин",
+      "могла",
+      "сказала"
+    ],
+    [
+      4,
+      2,
+      "обст",
+      "могла",
+      "совсем"
+    ],
+    [
+      4,
+      5,
+      "обст",
+      "могла",
+      "обедать"
+    ]
+  ]
+}

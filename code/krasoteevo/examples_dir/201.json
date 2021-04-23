@@ -1,0 +1,101 @@
+{
+  "sentence": "Платье свое он тщательно отчистил щеткой.",
+  "tokens": [
+    "Платье",
+    "свое",
+    "он",
+    "тщательно",
+    "отчистил",
+    "щеткой",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "платье",
+        "lexem": "платье",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "своё",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "тщательно",
+        "lexem": "тщательно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "отчистил",
+        "lexem": "отчистить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "щёткой",
+        "lexem": "щётка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      0,
+      1,
+      "опред",
+      "платье",
+      "своё"
+    ],
+    [
+      4,
+      5,
+      "агент",
+      "отчистил",
+      "щёткой"
+    ],
+    [
+      4,
+      2,
+      "предик",
+      "отчистил",
+      "он"
+    ],
+    [
+      4,
+      0,
+      "1-компл",
+      "отчистил",
+      "платье"
+    ],
+    [
+      4,
+      5,
+      "1-компл",
+      "отчистил",
+      "щёткой"
+    ],
+    [
+      4,
+      3,
+      "обст",
+      "отчистил",
+      "тщательно"
+    ]
+  ]
+}

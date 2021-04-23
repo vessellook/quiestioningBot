@@ -1,0 +1,333 @@
+{
+  "sentence": "Ребенок лежал в тени, но стена казалась ему огненной и вся бежала причудливыми, несказанно великолепными и грозными видениями.",
+  "tokens": [
+    "Ребенок",
+    "лежал",
+    "в",
+    "тени",
+    ",",
+    "но",
+    "стена",
+    "казалась",
+    "ему",
+    "огненной",
+    "и",
+    "вся",
+    "бежала",
+    "причудливыми",
+    ",",
+    "несказанно",
+    "великолепными",
+    "и",
+    "грозными",
+    "видениями",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "ребёнок",
+        "lexem": "ребёнок",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "лежал",
+        "lexem": "лежать",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тени",
+        "lexem": "тень",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "тени",
+        "lexem": "тень",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      },
+      {
+        "word": "тени",
+        "lexem": "тень",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      },
+      {
+        "word": "тени",
+        "lexem": "тенить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,impr,excl')"
+      },
+      {
+        "word": "тени",
+        "lexem": "тень",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "тени",
+        "lexem": "тень",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loc2')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "но",
+        "lexem": "но",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "стена",
+        "lexem": "стена",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "казалась",
+        "lexem": "казаться",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "ему",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,datv')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "вся",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro plur,gent,Arch')"
+      },
+      {
+        "word": "вся",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro plur,datv,Arch')"
+      },
+      {
+        "word": "вся",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro plur,accs,Arch')"
+      },
+      {
+        "word": "вся",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro plur,ablt,Arch')"
+      }
+    ],
+    [
+      {
+        "word": "бежала",
+        "lexem": "бежать",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      },
+      {
+        "word": "бежала",
+        "lexem": "бежать",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "причудливыми",
+        "lexem": "причудливый",
+        "tags": "OpencorporaTag('ADJF,Qual plur,ablt')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "великолепными",
+        "lexem": "великолепный",
+        "tags": "OpencorporaTag('ADJF,Qual plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "видениями",
+        "lexem": "видение",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,ablt')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      3,
+      "предл",
+      "в",
+      "тени"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "в",
+      "тени"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "в",
+      "тени"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "в",
+      "тени"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "в",
+      "тени"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "лежал",
+      "ребёнок"
+    ],
+    [
+      7,
+      6,
+      "предик",
+      "казалась",
+      "стена"
+    ],
+    [
+      1,
+      2,
+      "1-компл",
+      "лежал",
+      "в"
+    ],
+    [
+      7,
+      8,
+      "1-компл",
+      "казалась",
+      "ему"
+    ],
+    [
+      7,
+      11,
+      "1-компл",
+      "казалась",
+      "вся"
+    ],
+    [
+      7,
+      11,
+      "1-компл",
+      "казалась",
+      "вся"
+    ],
+    [
+      7,
+      11,
+      "1-компл",
+      "казалась",
+      "вся"
+    ],
+    [
+      7,
+      11,
+      "1-компл",
+      "казалась",
+      "вся"
+    ],
+    [
+      5,
+      7,
+      "соч-союзн",
+      "но",
+      "казалась"
+    ],
+    [
+      10,
+      12,
+      "соч-союзн",
+      "и",
+      "бежала"
+    ],
+    [
+      17,
+      19,
+      "соч-союзн",
+      "и",
+      "видениями"
+    ],
+    [
+      3,
+      5,
+      "сочин",
+      "тени",
+      "но"
+    ],
+    [
+      7,
+      10,
+      "сочин",
+      "казалась",
+      "и"
+    ],
+    [
+      13,
+      16,
+      "сочин",
+      "причудливыми",
+      "великолепными"
+    ],
+    [
+      1,
+      2,
+      "обст",
+      "лежал",
+      "в"
+    ],
+    [
+      7,
+      8,
+      "присвяз",
+      "казалась",
+      "ему"
+    ]
+  ]
+}

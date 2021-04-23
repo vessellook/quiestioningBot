@@ -1,0 +1,307 @@
+{
+  "sentence": "Полтора года я Родиона знаю: угрюм, мрачен, надменен и горд; в последнее время (а может, гораздо прежде) мнителен и ипохондрик.",
+  "tokens": [
+    "Полтора",
+    "года",
+    "я",
+    "Родиона",
+    "знаю",
+    ":",
+    "угрюм",
+    ",",
+    "мрачен",
+    ",",
+    "надменен",
+    "и",
+    "горд",
+    ";",
+    "в",
+    "последнее",
+    "время",
+    "(",
+    "а",
+    "может",
+    ",",
+    "гораздо",
+    "прежде",
+    ")",
+    "мнителен",
+    "и",
+    "ипохондрик",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "полтора",
+        "lexem": "полтора",
+        "tags": "OpencorporaTag('NUMR masc,accs')"
+      }
+    ],
+    [
+      {
+        "word": "года",
+        "lexem": "год",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,accs,Infr')"
+      }
+    ],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "родиона",
+        "lexem": "родион",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,gent')"
+      },
+      {
+        "word": "родиона",
+        "lexem": "родион",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "знаю",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "угрюм",
+        "lexem": "угрюмый",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "мрачен",
+        "lexem": "мрачный",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      },
+      {
+        "word": "мрачён",
+        "lexem": "мрачить",
+        "tags": "OpencorporaTag('PRTS,impf,past,pssv masc,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "надменен",
+        "lexem": "надменный",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing,V-en')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "горд",
+        "lexem": "гордый",
+        "tags": "OpencorporaTag('ADJS masc,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "последнее",
+        "lexem": "последний",
+        "tags": "OpencorporaTag('ADJF neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "время",
+        "lexem": "время",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "может",
+        "lexem": "мочь",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "гораздо",
+        "lexem": "гораздо",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "прежде",
+        "lexem": "прежде",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "мнителен",
+        "lexem": "мнительный",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "ипохондрик",
+        "lexem": "ипохондрик",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      3,
+      "аппоз",
+      "года",
+      "родиона"
+    ],
+    [
+      1,
+      3,
+      "аппоз",
+      "года",
+      "родиона"
+    ],
+    [
+      4,
+      2,
+      "предик",
+      "знаю",
+      "я"
+    ],
+    [
+      12,
+      16,
+      "предик",
+      "горд",
+      "время"
+    ],
+    [
+      4,
+      0,
+      "1-компл",
+      "знаю",
+      "полтора"
+    ],
+    [
+      4,
+      1,
+      "1-компл",
+      "знаю",
+      "года"
+    ],
+    [
+      12,
+      14,
+      "1-компл",
+      "горд",
+      "в"
+    ],
+    [
+      24,
+      22,
+      "1-компл",
+      "мнителен",
+      "прежде"
+    ],
+    [
+      11,
+      12,
+      "соч-союзн",
+      "и",
+      "горд"
+    ],
+    [
+      18,
+      19,
+      "соч-союзн",
+      "а",
+      "может"
+    ],
+    [
+      25,
+      26,
+      "соч-союзн",
+      "и",
+      "ипохондрик"
+    ],
+    [
+      6,
+      8,
+      "сочин",
+      "угрюм",
+      "мрачен"
+    ],
+    [
+      8,
+      10,
+      "сочин",
+      "мрачен",
+      "надменен"
+    ],
+    [
+      10,
+      11,
+      "сочин",
+      "надменен",
+      "и"
+    ],
+    [
+      12,
+      18,
+      "сочин",
+      "горд",
+      "а"
+    ],
+    [
+      24,
+      21,
+      "обст",
+      "мнителен",
+      "гораздо"
+    ]
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "sentence": "Раз к нашему освещенному окну сбежалась целая стая их, — они всегда сбегаются в такие ночи к жилью, — мы открыли окно и смотрели на них сверху, а они стояли под блестящим ливнем и тявкали, просились к нам...",
+  "tokens": [
+    "Раз",
+    "к",
+    "нашему",
+    "освещенному",
+    "окну",
+    "сбежалась",
+    "целая",
+    "стая",
+    "их",
+    ",",
+    "—",
+    "они",
+    "всегда",
+    "сбегаются",
+    "в",
+    "такие",
+    "ночи",
+    "к",
+    "жилью",
+    ",",
+    "—",
+    "мы",
+    "открыли",
+    "окно",
+    "и",
+    "смотрели",
+    "на",
+    "них",
+    "сверху",
+    ",",
+    "а",
+    "они",
+    "стояли",
+    "под",
+    "блестящим",
+    "ливнем",
+    "и",
+    "тявкали",
+    ",",
+    "просились",
+    "к",
+    "нам",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "раз",
+        "lexem": "раз",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нашему",
+        "lexem": "наш",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "освещённому",
+        "lexem": "осветить",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv neut,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "окну",
+        "lexem": "окно",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "сбежалась",
+        "lexem": "сбежаться",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "целая",
+        "lexem": "целый",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "стая",
+        "lexem": "стая",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "их",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,gent')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "они",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "всегда",
+        "lexem": "всегда",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "сбегаются",
+        "lexem": "сбегаться",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,3per,pres,indc')"
+      },
+      {
+        "word": "сбегаются",
+        "lexem": "сбегаться",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,3per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "ночи",
+        "lexem": "ночь",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "жилью",
+        "lexem": "жильё",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Sgtm sing,datv')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "мы",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "открыли",
+        "lexem": "открыть",
+        "tags": "OpencorporaTag('VERB,perf,tran plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "окно",
+        "lexem": "окно",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "смотрели",
+        "lexem": "смотреть",
+        "tags": "OpencorporaTag('VERB,impf,tran plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,gent,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,loct,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "сверху",
+        "lexem": "сверху",
+        "tags": "OpencorporaTag('ADVB')"
+      },
+      {
+        "word": "сверху",
+        "lexem": "сверху",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "они",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "стояли",
+        "lexem": "стоять",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "под",
+        "lexem": "под",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "блестящим",
+        "lexem": "блестящий",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "ливнем",
+        "lexem": "ливень",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "тявкали",
+        "lexem": "тявкать",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "просились",
+        "lexem": "проситься",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нам",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,datv')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      3,
+      "опред",
+      "окну",
+      "освещённому"
+    ],
+    [
+      7,
+      6,
+      "опред",
+      "стая",
+      "целая"
+    ],
+    [
+      35,
+      34,
+      "опред",
+      "ливнем",
+      "блестящим"
+    ],
+    [
+      4,
+      2,
+      "опред",
+      "окну",
+      "нашему"
+    ],
+    [
+      1,
+      4,
+      "предл",
+      "к",
+      "окну"
+    ],
+    [
+      14,
+      16,
+      "предл",
+      "в",
+      "ночи"
+    ],
+    [
+      17,
+      18,
+      "предл",
+      "к",
+      "жилью"
+    ],
+    [
+      26,
+      27,
+      "предл",
+      "на",
+      "них"
+    ],
+    [
+      26,
+      27,
+      "предл",
+      "на",
+      "них"
+    ],
+    [
+      26,
+      27,
+      "предл",
+      "на",
+      "них"
+    ],
+    [
+      40,
+      41,
+      "предл",
+      "к",
+      "нам"
+    ],
+    [
+      7,
+      8,
+      "атриб",
+      "стая",
+      "их"
+    ],
+    [
+      5,
+      0,
+      "предик",
+      "сбежалась",
+      "раз"
+    ],
+    [
+      13,
+      11,
+      "предик",
+      "сбегаются",
+      "они"
+    ],
+    [
+      22,
+      21,
+      "предик",
+      "открыли",
+      "мы"
+    ],
+    [
+      32,
+      31,
+      "предик",
+      "стояли",
+      "они"
+    ],
+    [
+      13,
+      14,
+      "1-компл",
+      "сбегаются",
+      "в"
+    ],
+    [
+      22,
+      23,
+      "1-компл",
+      "открыли",
+      "окно"
+    ],
+    [
+      25,
+      26,
+      "1-компл",
+      "смотрели",
+      "на"
+    ],
+    [
+      25,
+      28,
+      "1-компл",
+      "смотрели",
+      "сверху"
+    ],
+    [
+      32,
+      33,
+      "1-компл",
+      "стояли",
+      "под"
+    ],
+    [
+      39,
+      40,
+      "1-компл",
+      "просились",
+      "к"
+    ],
+    [
+      24,
+      25,
+      "соч-союзн",
+      "и",
+      "смотрели"
+    ],
+    [
+      30,
+      32,
+      "соч-союзн",
+      "а",
+      "стояли"
+    ],
+    [
+      36,
+      37,
+      "соч-союзн",
+      "и",
+      "тявкали"
+    ],
+    [
+      5,
+      22,
+      "сочин",
+      "сбежалась",
+      "открыли"
+    ],
+    [
+      37,
+      39,
+      "сочин",
+      "тявкали",
+      "просились"
+    ],
+    [
+      22,
+      24,
+      "сочин",
+      "открыли",
+      "и"
+    ],
+    [
+      25,
+      30,
+      "сочин",
+      "смотрели",
+      "а"
+    ],
+    [
+      32,
+      36,
+      "сочин",
+      "стояли",
+      "и"
+    ],
+    [
+      3,
+      1,
+      "обст",
+      "освещённому",
+      "к"
+    ],
+    [
+      13,
+      12,
+      "обст",
+      "сбегаются",
+      "всегда"
+    ],
+    [
+      13,
+      14,
+      "обст",
+      "сбегаются",
+      "в"
+    ],
+    [
+      13,
+      17,
+      "обст",
+      "сбегаются",
+      "к"
+    ],
+    [
+      25,
+      26,
+      "обст",
+      "смотрели",
+      "на"
+    ],
+    [
+      25,
+      28,
+      "обст",
+      "смотрели",
+      "сверху"
+    ],
+    [
+      25,
+      28,
+      "обст",
+      "смотрели",
+      "сверху"
+    ],
+    [
+      32,
+      33,
+      "обст",
+      "стояли",
+      "под"
+    ],
+    [
+      39,
+      40,
+      "обст",
+      "просились",
+      "к"
+    ],
+    [
+      32,
+      35,
+      "присвяз",
+      "стояли",
+      "ливнем"
+    ]
+  ]
+}

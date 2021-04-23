@@ -1,0 +1,320 @@
+{
+  "sentence": "Другого платья у него не было, а если б и было, он, быть может, и не надел бы его, — «так, нарочно бы не надел».",
+  "tokens": [
+    "Другого",
+    "платья",
+    "у",
+    "него",
+    "не",
+    "было",
+    ",",
+    "а",
+    "если",
+    "б",
+    "и",
+    "было",
+    ",",
+    "он",
+    ",",
+    "быть",
+    "может",
+    ",",
+    "и",
+    "не",
+    "надел",
+    "бы",
+    "его",
+    ",",
+    "—",
+    "«",
+    "так",
+    ",",
+    "нарочно",
+    "бы",
+    "не",
+    "надел",
+    "»",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "другого",
+        "lexem": "другой",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "платья",
+        "lexem": "платье",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "у",
+        "lexem": "у",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "если",
+        "lexem": "если",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "б",
+        "lexem": "б",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Fixd sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "быть",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('INFN,impf,intr')"
+      }
+    ],
+    [
+      {
+        "word": "может",
+        "lexem": "мочь",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "надел",
+        "lexem": "надел",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "нарочно",
+        "lexem": "нарочно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "надел",
+        "lexem": "надеть",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      3,
+      "предл",
+      "у",
+      "него"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "у",
+      "него"
+    ],
+    [
+      5,
+      4,
+      "огранич",
+      "было",
+      "не"
+    ],
+    [
+      20,
+      19,
+      "огранич",
+      "надел",
+      "не"
+    ],
+    [
+      31,
+      30,
+      "огранич",
+      "надел",
+      "не"
+    ],
+    [
+      20,
+      22,
+      "атриб",
+      "надел",
+      "его"
+    ],
+    [
+      11,
+      9,
+      "предик",
+      "было",
+      "б"
+    ],
+    [
+      31,
+      20,
+      "предик",
+      "надел",
+      "надел"
+    ],
+    [
+      5,
+      1,
+      "1-компл",
+      "было",
+      "платья"
+    ],
+    [
+      5,
+      7,
+      "сочин",
+      "было",
+      "а"
+    ],
+    [
+      16,
+      18,
+      "сочин",
+      "может",
+      "и"
+    ],
+    [
+      9,
+      10,
+      "сочин",
+      "б",
+      "и"
+    ],
+    [
+      5,
+      2,
+      "обст",
+      "было",
+      "у"
+    ],
+    [
+      31,
+      28,
+      "обст",
+      "надел",
+      "нарочно"
+    ],
+    [
+      11,
+      8,
+      "обст",
+      "было",
+      "если"
+    ],
+    [
+      11,
+      13,
+      "присвяз",
+      "было",
+      "он"
+    ]
+  ]
+}

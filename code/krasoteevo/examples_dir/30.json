@@ -1,0 +1,30 @@
+{
+  "sentence": "— Нет, пойду.",
+  "tokens": [
+    "—",
+    "Нет",
+    ",",
+    "пойду",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "нет",
+        "lexem": "нет",
+        "tags": "OpencorporaTag('PRED,pres')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "пойду",
+        "lexem": "пойти",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,1per,futr,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": []
+}

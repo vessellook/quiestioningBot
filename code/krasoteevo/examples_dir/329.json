@@ -1,0 +1,689 @@
+{
+  "sentence": "— Он ничего и никогда сам об этой истории со мною не говорил, — осторожно отвечал Разумихин, — но я кой-что слышал от самой госпожи Зарницыной, которая тоже, в своем роде, не из рассказчиц, и что слышал, то, пожалуй, несколько даже и странно...",
+  "tokens": [
+    "—",
+    "Он",
+    "ничего",
+    "и",
+    "никогда",
+    "сам",
+    "об",
+    "этой",
+    "истории",
+    "со",
+    "мною",
+    "не",
+    "говорил",
+    ",",
+    "—",
+    "осторожно",
+    "отвечал",
+    "Разумихин",
+    ",",
+    "—",
+    "но",
+    "я",
+    "кой-что",
+    "слышал",
+    "от",
+    "самой",
+    "госпожи",
+    "Зарницыной",
+    ",",
+    "которая",
+    "тоже",
+    ",",
+    "в",
+    "своем",
+    "роде",
+    ",",
+    "не",
+    "из",
+    "рассказчиц",
+    ",",
+    "и",
+    "что",
+    "слышал",
+    ",",
+    "то",
+    ",",
+    "пожалуй",
+    ",",
+    "несколько",
+    "даже",
+    "и",
+    "странно",
+    "..."
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "ничего",
+        "lexem": "ничего",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "никогда",
+        "lexem": "никогда",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "сам",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "об",
+        "lexem": "о",
+        "tags": "OpencorporaTag('PREP Vpre')"
+      }
+    ],
+    [
+      {
+        "word": "этой",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "истории",
+        "lexem": "история",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "истории",
+        "lexem": "история",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "истории",
+        "lexem": "история",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "со",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP Vpre')"
+      }
+    ],
+    [
+      {
+        "word": "мною",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,ablt,V-oy')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "говорил",
+        "lexem": "говорить",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "осторожно",
+        "lexem": "осторожно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "отвечал",
+        "lexem": "отвечать",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "разумихин",
+        "lexem": "разумихин",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "но",
+        "lexem": "но",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "кой-что",
+        "lexem": "кой-что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "слышал",
+        "lexem": "слышать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "от",
+        "lexem": "от",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "самой",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "госпожи",
+        "lexem": "госпожа",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "зарницыной",
+        "lexem": "зарницыной",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,nomn')"
+      },
+      {
+        "word": "зарницыной",
+        "lexem": "зарницын",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,gent')"
+      },
+      {
+        "word": "зарницыной",
+        "lexem": "зарницын",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,datv')"
+      },
+      {
+        "word": "зарницыной",
+        "lexem": "зарницын",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,ablt')"
+      },
+      {
+        "word": "зарницыной",
+        "lexem": "зарницын",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "которая",
+        "lexem": "который",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "своём",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph masc,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "роде",
+        "lexem": "род",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "рассказчиц",
+        "lexem": "рассказчица",
+        "tags": "OpencorporaTag('NOUN,anim,femn plur,gent')"
+      },
+      {
+        "word": "рассказчиц",
+        "lexem": "рассказчица",
+        "tags": "OpencorporaTag('NOUN,anim,femn plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "слышал",
+        "lexem": "слышать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "то",
+        "lexem": "то",
+        "tags": "OpencorporaTag('CONJ')"
+      },
+      {
+        "word": "то",
+        "lexem": "то",
+        "tags": "OpencorporaTag('PRCL')"
+      },
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,accs')"
+      },
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "пожалуй",
+        "lexem": "пожаловать",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,impr,excl')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "несколько",
+        "lexem": "несколько",
+        "tags": "OpencorporaTag('NUMR anim,accs,Infr')"
+      },
+      {
+        "word": "несколько",
+        "lexem": "несколько",
+        "tags": "OpencorporaTag('NUMR inan,accs')"
+      }
+    ],
+    [],
+    [],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      7,
+      "опред",
+      "истории",
+      "этой"
+    ],
+    [
+      26,
+      25,
+      "опред",
+      "госпожи",
+      "самой"
+    ],
+    [
+      34,
+      33,
+      "опред",
+      "роде",
+      "своём"
+    ],
+    [
+      41,
+      44,
+      "опред",
+      "что",
+      "то"
+    ],
+    [
+      12,
+      10,
+      "агент",
+      "говорил",
+      "мною"
+    ],
+    [
+      26,
+      27,
+      "аппоз",
+      "госпожи",
+      "зарницыной"
+    ],
+    [
+      26,
+      27,
+      "аппоз",
+      "госпожи",
+      "зарницыной"
+    ],
+    [
+      26,
+      27,
+      "аппоз",
+      "госпожи",
+      "зарницыной"
+    ],
+    [
+      26,
+      27,
+      "аппоз",
+      "госпожи",
+      "зарницыной"
+    ],
+    [
+      26,
+      27,
+      "аппоз",
+      "госпожи",
+      "зарницыной"
+    ],
+    [
+      6,
+      8,
+      "предл",
+      "об",
+      "истории"
+    ],
+    [
+      6,
+      8,
+      "предл",
+      "об",
+      "истории"
+    ],
+    [
+      6,
+      8,
+      "предл",
+      "об",
+      "истории"
+    ],
+    [
+      24,
+      26,
+      "предл",
+      "от",
+      "госпожи"
+    ],
+    [
+      32,
+      34,
+      "предл",
+      "в",
+      "роде"
+    ],
+    [
+      37,
+      38,
+      "предл",
+      "из",
+      "рассказчиц"
+    ],
+    [
+      37,
+      38,
+      "предл",
+      "из",
+      "рассказчиц"
+    ],
+    [
+      12,
+      11,
+      "огранич",
+      "говорил",
+      "не"
+    ],
+    [
+      37,
+      36,
+      "огранич",
+      "из",
+      "не"
+    ],
+    [
+      12,
+      2,
+      "предик",
+      "говорил",
+      "ничего"
+    ],
+    [
+      16,
+      17,
+      "предик",
+      "отвечал",
+      "разумихин"
+    ],
+    [
+      23,
+      22,
+      "предик",
+      "слышал",
+      "кой-что"
+    ],
+    [
+      42,
+      41,
+      "предик",
+      "слышал",
+      "что"
+    ],
+    [
+      12,
+      5,
+      "1-компл",
+      "говорил",
+      "сам"
+    ],
+    [
+      12,
+      6,
+      "1-компл",
+      "говорил",
+      "об"
+    ],
+    [
+      23,
+      24,
+      "1-компл",
+      "слышал",
+      "от"
+    ],
+    [
+      23,
+      29,
+      "1-компл",
+      "слышал",
+      "которая"
+    ],
+    [
+      23,
+      32,
+      "1-компл",
+      "слышал",
+      "в"
+    ],
+    [
+      23,
+      37,
+      "1-компл",
+      "слышал",
+      "из"
+    ],
+    [
+      46,
+      48,
+      "1-компл",
+      "пожалуй",
+      "несколько"
+    ],
+    [
+      46,
+      48,
+      "1-компл",
+      "пожалуй",
+      "несколько"
+    ],
+    [
+      41,
+      44,
+      "соотнос",
+      "что",
+      "то"
+    ],
+    [
+      41,
+      44,
+      "соотнос",
+      "что",
+      "то"
+    ],
+    [
+      41,
+      44,
+      "соотнос",
+      "что",
+      "то"
+    ],
+    [
+      41,
+      44,
+      "соотнос",
+      "что",
+      "то"
+    ],
+    [
+      3,
+      12,
+      "соч-союзн",
+      "и",
+      "говорил"
+    ],
+    [
+      20,
+      23,
+      "соч-союзн",
+      "но",
+      "слышал"
+    ],
+    [
+      40,
+      42,
+      "соч-союзн",
+      "и",
+      "слышал"
+    ],
+    [
+      12,
+      16,
+      "сочин",
+      "говорил",
+      "отвечал"
+    ],
+    [
+      16,
+      20,
+      "сочин",
+      "отвечал",
+      "но"
+    ],
+    [
+      23,
+      40,
+      "сочин",
+      "слышал",
+      "и"
+    ],
+    [
+      12,
+      4,
+      "обст",
+      "говорил",
+      "никогда"
+    ],
+    [
+      12,
+      9,
+      "обст",
+      "говорил",
+      "со"
+    ],
+    [
+      16,
+      15,
+      "обст",
+      "отвечал",
+      "осторожно"
+    ],
+    [
+      23,
+      24,
+      "обст",
+      "слышал",
+      "от"
+    ]
+  ]
+}

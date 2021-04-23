@@ -1,0 +1,171 @@
+{
+  "sentence": "Сколько их кругом, этих мужиков, извозчиков, толстых купцов, худых барышников!",
+  "tokens": [
+    "Сколько",
+    "их",
+    "кругом",
+    ",",
+    "этих",
+    "мужиков",
+    ",",
+    "извозчиков",
+    ",",
+    "толстых",
+    "купцов",
+    ",",
+    "худых",
+    "барышников",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "их",
+        "lexem": "их",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph masc,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "кругом",
+        "lexem": "круг",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      },
+      {
+        "word": "кругом",
+        "lexem": "кругом",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "мужиков",
+        "lexem": "мужик",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,gent')"
+      },
+      {
+        "word": "мужиков",
+        "lexem": "мужик",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "извозчиков",
+        "lexem": "извозчик",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,gent')"
+      },
+      {
+        "word": "извозчиков",
+        "lexem": "извозчик",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "толстых",
+        "lexem": "толстый",
+        "tags": "OpencorporaTag('ADJF,Qual plur,gent')"
+      },
+      {
+        "word": "толстых",
+        "lexem": "толстый",
+        "tags": "OpencorporaTag('ADJF,Qual anim,plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "купцов",
+        "lexem": "купец",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,gent')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "барышников",
+        "lexem": "барышник",
+        "tags": "OpencorporaTag('NOUN,anim,masc plur,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      1,
+      "опред",
+      "кругом",
+      "их"
+    ],
+    [
+      2,
+      5,
+      "предл",
+      "кругом",
+      "мужиков"
+    ],
+    [
+      2,
+      5,
+      "предл",
+      "кругом",
+      "мужиков"
+    ],
+    [
+      5,
+      7,
+      "об-аппоз",
+      "мужиков",
+      "извозчиков"
+    ],
+    [
+      5,
+      7,
+      "об-аппоз",
+      "мужиков",
+      "извозчиков"
+    ],
+    [
+      7,
+      13,
+      "об-аппоз",
+      "извозчиков",
+      "барышников"
+    ],
+    [
+      9,
+      10,
+      "атриб",
+      "толстых",
+      "купцов"
+    ],
+    [
+      9,
+      10,
+      "атриб",
+      "толстых",
+      "купцов"
+    ],
+    [
+      5,
+      7,
+      "сочин",
+      "мужиков",
+      "извозчиков"
+    ],
+    [
+      5,
+      7,
+      "сочин",
+      "мужиков",
+      "извозчиков"
+    ]
+  ]
+}

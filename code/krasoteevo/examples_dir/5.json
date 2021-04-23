@@ -1,0 +1,286 @@
+{
+  "sentence": "И в жару, в бреду он часто плакал и все просил дать ему какие-то красные лапти.",
+  "tokens": [
+    "И",
+    "в",
+    "жару",
+    ",",
+    "в",
+    "бреду",
+    "он",
+    "часто",
+    "плакал",
+    "и",
+    "все",
+    "просил",
+    "дать",
+    "ему",
+    "какие-то",
+    "красные",
+    "лапти",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "жару",
+        "lexem": "жара",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Sgtm sing,accs')"
+      },
+      {
+        "word": "жару",
+        "lexem": "жар",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm sing,gen2')"
+      },
+      {
+        "word": "жару",
+        "lexem": "жар",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm sing,datv')"
+      },
+      {
+        "word": "жару",
+        "lexem": "жар",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm sing,loc2')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "бреду",
+        "lexem": "брести",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,1per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "часто",
+        "lexem": "часто",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "плакал",
+        "lexem": "плакать",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,nomn')"
+      },
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "просил",
+        "lexem": "просить",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "дать",
+        "lexem": "дать",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "ему",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "какие-то",
+        "lexem": "какой-то",
+        "tags": "OpencorporaTag('ADJF,Apro plur,nomn')"
+      },
+      {
+        "word": "какие-то",
+        "lexem": "какой-то",
+        "tags": "OpencorporaTag('ADJF,Apro inan,plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "лапти",
+        "lexem": "лапоть",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      2,
+      "предл",
+      "в",
+      "жару"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "в",
+      "жару"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "в",
+      "жару"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "в",
+      "жару"
+    ],
+    [
+      8,
+      6,
+      "предик",
+      "плакал",
+      "он"
+    ],
+    [
+      5,
+      1,
+      "1-компл",
+      "бреду",
+      "в"
+    ],
+    [
+      5,
+      4,
+      "1-компл",
+      "бреду",
+      "в"
+    ],
+    [
+      5,
+      10,
+      "1-компл",
+      "бреду",
+      "всё"
+    ],
+    [
+      5,
+      10,
+      "1-компл",
+      "бреду",
+      "всё"
+    ],
+    [
+      12,
+      13,
+      "1-компл",
+      "дать",
+      "ему"
+    ],
+    [
+      12,
+      14,
+      "1-компл",
+      "дать",
+      "какие-то"
+    ],
+    [
+      12,
+      14,
+      "1-компл",
+      "дать",
+      "какие-то"
+    ],
+    [
+      12,
+      16,
+      "1-компл",
+      "дать",
+      "лапти"
+    ],
+    [
+      0,
+      5,
+      "соч-союзн",
+      "и",
+      "бреду"
+    ],
+    [
+      9,
+      11,
+      "соч-союзн",
+      "и",
+      "просил"
+    ],
+    [
+      8,
+      9,
+      "сочин",
+      "плакал",
+      "и"
+    ],
+    [
+      8,
+      7,
+      "обст",
+      "плакал",
+      "часто"
+    ],
+    [
+      11,
+      12,
+      "обст",
+      "просил",
+      "дать"
+    ]
+  ]
+}

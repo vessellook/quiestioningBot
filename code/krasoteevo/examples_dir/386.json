@@ -1,0 +1,288 @@
+{
+  "sentence": "— Лучше всего, маменька, пойдемте к нему сами и там, уверяю вас, сразу увидим, что делать.",
+  "tokens": [
+    "—",
+    "Лучше",
+    "всего",
+    ",",
+    "маменька",
+    ",",
+    "пойдемте",
+    "к",
+    "нему",
+    "сами",
+    "и",
+    "там",
+    ",",
+    "уверяю",
+    "вас",
+    ",",
+    "сразу",
+    "увидим",
+    ",",
+    "что",
+    "делать",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "лучше",
+        "lexem": "хороший",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [
+      {
+        "word": "всего",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,gent')"
+      },
+      {
+        "word": "всего",
+        "lexem": "всего",
+        "tags": "OpencorporaTag('ADVB')"
+      },
+      {
+        "word": "всего",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro masc,sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "маменька",
+        "lexem": "маменька",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "пойдёмте",
+        "lexem": "пойти",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,impr,incl')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нему",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,datv,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "сами",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro plur,nomn')"
+      },
+      {
+        "word": "сами",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro inan,plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "уверяю",
+        "lexem": "уверять",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "вас",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,accs')"
+      },
+      {
+        "word": "вас",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "сразу",
+        "lexem": "сразу",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "увидим",
+        "lexem": "увидеть",
+        "tags": "OpencorporaTag('VERB,perf,tran plur,1per,futr,indc')"
+      },
+      {
+        "word": "увидим",
+        "lexem": "увидеть",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,impr,incl')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "делать",
+        "lexem": "делать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      2,
+      "колич-огран",
+      "лучше",
+      "всего"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "к",
+      "нему"
+    ],
+    [
+      1,
+      4,
+      "предик",
+      "лучше",
+      "маменька"
+    ],
+    [
+      17,
+      19,
+      "предик",
+      "увидим",
+      "что"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "пойдёмте",
+      "к"
+    ],
+    [
+      6,
+      9,
+      "1-компл",
+      "пойдёмте",
+      "сами"
+    ],
+    [
+      6,
+      9,
+      "1-компл",
+      "пойдёмте",
+      "сами"
+    ],
+    [
+      13,
+      14,
+      "1-компл",
+      "уверяю",
+      "вас"
+    ],
+    [
+      13,
+      14,
+      "1-компл",
+      "уверяю",
+      "вас"
+    ],
+    [
+      19,
+      20,
+      "подч-союзн",
+      "что",
+      "делать"
+    ],
+    [
+      19,
+      20,
+      "инф-союзн",
+      "что",
+      "делать"
+    ],
+    [
+      10,
+      13,
+      "соч-союзн",
+      "и",
+      "уверяю"
+    ],
+    [
+      6,
+      10,
+      "сочин",
+      "пойдёмте",
+      "и"
+    ],
+    [
+      1,
+      2,
+      "обст",
+      "лучше",
+      "всего"
+    ],
+    [
+      6,
+      7,
+      "обст",
+      "пойдёмте",
+      "к"
+    ],
+    [
+      17,
+      16,
+      "обст",
+      "увидим",
+      "сразу"
+    ],
+    [
+      1,
+      2,
+      "сравнит",
+      "лучше",
+      "всего"
+    ],
+    [
+      1,
+      2,
+      "сравнит",
+      "лучше",
+      "всего"
+    ]
+  ]
+}

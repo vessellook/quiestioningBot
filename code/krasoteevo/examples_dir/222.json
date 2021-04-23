@@ -1,0 +1,125 @@
+{
+  "sentence": "Не знаешь, он к тем пойдет, али те сюда придут?",
+  "tokens": [
+    "Не",
+    "знаешь",
+    ",",
+    "он",
+    "к",
+    "тем",
+    "пойдет",
+    ",",
+    "али",
+    "те",
+    "сюда",
+    "придут",
+    "?"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "знаешь",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,2per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тем",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph masc,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "пойдёт",
+        "lexem": "пойти",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,3per,futr,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "те",
+        "lexem": "ты",
+        "tags": "OpencorporaTag('NPRO,2per sing,datv,Arch')"
+      }
+    ],
+    [
+      {
+        "word": "сюда",
+        "lexem": "сюда",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "придут",
+        "lexem": "прийти",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,3per,futr,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      6,
+      3,
+      "предик",
+      "пойдёт",
+      "он"
+    ],
+    [
+      6,
+      4,
+      "1-компл",
+      "пойдёт",
+      "к"
+    ],
+    [
+      6,
+      5,
+      "1-компл",
+      "пойдёт",
+      "тем"
+    ],
+    [
+      11,
+      9,
+      "1-компл",
+      "придут",
+      "те"
+    ],
+    [
+      6,
+      11,
+      "сочин",
+      "пойдёт",
+      "придут"
+    ],
+    [
+      11,
+      10,
+      "обст",
+      "придут",
+      "сюда"
+    ]
+  ]
+}

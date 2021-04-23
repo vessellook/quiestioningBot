@@ -1,0 +1,133 @@
+{
+  "sentence": "А я думала, вам всё уж известно.",
+  "tokens": [
+    "А",
+    "я",
+    "думала",
+    ",",
+    "вам",
+    "всё",
+    "уж",
+    "известно",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "думала",
+        "lexem": "думать",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      },
+      {
+        "word": "думала",
+        "lexem": "думать",
+        "tags": "OpencorporaTag('VERB,impf,tran femn,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "вам",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,datv')"
+      }
+    ],
+    [
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,nomn')"
+      },
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "уж",
+        "lexem": "уж",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "известно",
+        "lexem": "известно",
+        "tags": "OpencorporaTag('PRED,pres')"
+      },
+      {
+        "word": "известно",
+        "lexem": "известный",
+        "tags": "OpencorporaTag('ADJS,Qual neut,sing')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      1,
+      "предик",
+      "думала",
+      "я"
+    ],
+    [
+      7,
+      6,
+      "предик",
+      "известно",
+      "уж"
+    ],
+    [
+      2,
+      4,
+      "1-компл",
+      "думала",
+      "вам"
+    ],
+    [
+      2,
+      5,
+      "1-компл",
+      "думала",
+      "всё"
+    ],
+    [
+      2,
+      5,
+      "1-компл",
+      "думала",
+      "всё"
+    ],
+    [
+      7,
+      5,
+      "1-компл",
+      "известно",
+      "всё"
+    ],
+    [
+      0,
+      2,
+      "соч-союзн",
+      "а",
+      "думала"
+    ]
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "sentence": "Город принимает смиренный и будничный вид, пустеет даже базарная площадь - и великое горе надвигается на Сашу: отец уезжает.",
+  "tokens": [
+    "Город",
+    "принимает",
+    "смиренный",
+    "и",
+    "будничный",
+    "вид",
+    ",",
+    "пустеет",
+    "даже",
+    "базарная",
+    "площадь",
+    "-",
+    "и",
+    "великое",
+    "горе",
+    "надвигается",
+    "на",
+    "Сашу",
+    ":",
+    "отец",
+    "уезжает",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "город",
+        "lexem": "город",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "принимает",
+        "lexem": "принимать",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "будничный",
+        "lexem": "будничный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "вид",
+        "lexem": "вид",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "пустеет",
+        "lexem": "пустеть",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "базарная",
+        "lexem": "базарный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "площадь",
+        "lexem": "площадь",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "великое",
+        "lexem": "великий",
+        "tags": "OpencorporaTag('ADJF neut,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "горе",
+        "lexem": "горе",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Sgtm sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "надвигается",
+        "lexem": "надвигаться",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "сашу",
+        "lexem": "саша",
+        "tags": "OpencorporaTag('NOUN,anim,ms-f,Name sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "отец",
+        "lexem": "отец",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "уезжает",
+        "lexem": "уезжать",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      4,
+      "опред",
+      "вид",
+      "будничный"
+    ],
+    [
+      10,
+      9,
+      "опред",
+      "площадь",
+      "базарная"
+    ],
+    [
+      14,
+      13,
+      "опред",
+      "горе",
+      "великое"
+    ],
+    [
+      16,
+      17,
+      "предл",
+      "на",
+      "сашу"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "принимает",
+      "город"
+    ],
+    [
+      7,
+      5,
+      "предик",
+      "пустеет",
+      "вид"
+    ],
+    [
+      15,
+      14,
+      "предик",
+      "надвигается",
+      "горе"
+    ],
+    [
+      20,
+      19,
+      "предик",
+      "уезжает",
+      "отец"
+    ],
+    [
+      15,
+      16,
+      "1-компл",
+      "надвигается",
+      "на"
+    ],
+    [
+      3,
+      7,
+      "соч-союзн",
+      "и",
+      "пустеет"
+    ],
+    [
+      12,
+      15,
+      "соч-союзн",
+      "и",
+      "надвигается"
+    ],
+    [
+      15,
+      20,
+      "сочин",
+      "надвигается",
+      "уезжает"
+    ],
+    [
+      1,
+      3,
+      "сочин",
+      "принимает",
+      "и"
+    ],
+    [
+      7,
+      12,
+      "сочин",
+      "пустеет",
+      "и"
+    ],
+    [
+      15,
+      16,
+      "обст",
+      "надвигается",
+      "на"
+    ]
+  ]
+}

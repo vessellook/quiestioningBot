@@ -1,0 +1,293 @@
+{
+  "sentence": "Он кладет в стакан целых пять кусочков сахару, съедет целый калач и опять шаркает ножкой:\n   - Мерси, папочка!",
+  "tokens": [
+    "Он",
+    "кладет",
+    "в",
+    "стакан",
+    "целых",
+    "пять",
+    "кусочков",
+    "сахару",
+    ",",
+    "съедет",
+    "целый",
+    "калач",
+    "и",
+    "опять",
+    "шаркает",
+    "ножкой",
+    ":",
+    "-",
+    "Мерси",
+    ",",
+    "папочка",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "кладёт",
+        "lexem": "класть",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "стакан",
+        "lexem": "стакан",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "целых",
+        "lexem": "целое",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "пять",
+        "lexem": "пять",
+        "tags": "OpencorporaTag('NUMR accs')"
+      }
+    ],
+    [
+      {
+        "word": "кусочков",
+        "lexem": "кусочек",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "сахару",
+        "lexem": "сахар",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,datv')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "съедет",
+        "lexem": "съехать",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,3per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "целый",
+        "lexem": "целый",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "калач",
+        "lexem": "калач",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "опять",
+        "lexem": "опять",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "шаркает",
+        "lexem": "шаркать",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "ножкой",
+        "lexem": "ножка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "мерси",
+        "lexem": "мерси",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Fixd,Geox sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "папочка",
+        "lexem": "папочка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      },
+      {
+        "word": "папочка",
+        "lexem": "папочка",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      6,
+      5,
+      "количест",
+      "кусочков",
+      "пять"
+    ],
+    [
+      14,
+      15,
+      "агент",
+      "шаркает",
+      "ножкой"
+    ],
+    [
+      18,
+      20,
+      "об-аппоз",
+      "мерси",
+      "папочка"
+    ],
+    [
+      18,
+      20,
+      "об-аппоз",
+      "мерси",
+      "папочка"
+    ],
+    [
+      3,
+      4,
+      "атриб",
+      "стакан",
+      "целых"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "кладёт",
+      "он"
+    ],
+    [
+      9,
+      3,
+      "предик",
+      "съедет",
+      "стакан"
+    ],
+    [
+      14,
+      18,
+      "предик",
+      "шаркает",
+      "мерси"
+    ],
+    [
+      1,
+      2,
+      "1-компл",
+      "кладёт",
+      "в"
+    ],
+    [
+      9,
+      6,
+      "1-компл",
+      "съедет",
+      "кусочков"
+    ],
+    [
+      9,
+      7,
+      "1-компл",
+      "съедет",
+      "сахару"
+    ],
+    [
+      9,
+      11,
+      "1-компл",
+      "съедет",
+      "калач"
+    ],
+    [
+      14,
+      15,
+      "1-компл",
+      "шаркает",
+      "ножкой"
+    ],
+    [
+      12,
+      14,
+      "соч-союзн",
+      "и",
+      "шаркает"
+    ],
+    [
+      9,
+      12,
+      "сочин",
+      "съедет",
+      "и"
+    ],
+    [
+      18,
+      20,
+      "сочин",
+      "мерси",
+      "папочка"
+    ],
+    [
+      18,
+      20,
+      "сочин",
+      "мерси",
+      "папочка"
+    ],
+    [
+      1,
+      2,
+      "обст",
+      "кладёт",
+      "в"
+    ],
+    [
+      14,
+      13,
+      "обст",
+      "шаркает",
+      "опять"
+    ]
+  ]
+}

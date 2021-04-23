@@ -1,0 +1,22 @@
+{
+  "sentence": "Господи, защити!",
+  "tokens": [
+    "Господи",
+    ",",
+    "защити",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "защити",
+        "lexem": "защитить",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,impr,excl')"
+      }
+    ],
+    []
+  ],
+  "synts": []
+}

@@ -1,0 +1,99 @@
+{
+  "sentence": "В трактире \"чистая\" половина во втором этаже.",
+  "tokens": [
+    "В",
+    "трактире",
+    "\"",
+    "чистая",
+    "\"",
+    "половина",
+    "во",
+    "втором",
+    "этаже",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "трактире",
+        "lexem": "трактир",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "чистая",
+        "lexem": "чистый",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "половина",
+        "lexem": "половина",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "во",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP Vpre')"
+      }
+    ],
+    [
+      {
+        "word": "втором",
+        "lexem": "второй",
+        "tags": "OpencorporaTag('ADJF,Anum masc,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "этаже",
+        "lexem": "этаж",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loct')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      3,
+      "опред",
+      "половина",
+      "чистая"
+    ],
+    [
+      8,
+      7,
+      "опред",
+      "этаже",
+      "втором"
+    ],
+    [
+      0,
+      1,
+      "предл",
+      "в",
+      "трактире"
+    ],
+    [
+      5,
+      6,
+      "атриб",
+      "половина",
+      "во"
+    ]
+  ]
+}

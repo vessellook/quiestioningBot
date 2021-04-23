@@ -1,0 +1,280 @@
+{
+  "sentence": "Ударил второй звонок — я похолодел от страха: опоздала или он в последнюю минуту вдруг не пустил ее!",
+  "tokens": [
+    "Ударил",
+    "второй",
+    "звонок",
+    "—",
+    "я",
+    "похолодел",
+    "от",
+    "страха",
+    ":",
+    "опоздала",
+    "или",
+    "он",
+    "в",
+    "последнюю",
+    "минуту",
+    "вдруг",
+    "не",
+    "пустил",
+    "ее",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "ударил",
+        "lexem": "ударить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "второй",
+        "lexem": "втора",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "звонок",
+        "lexem": "звонок",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      },
+      {
+        "word": "звонок",
+        "lexem": "звонкий",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "похолодел",
+        "lexem": "похолодеть",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "от",
+        "lexem": "от",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "страха",
+        "lexem": "страх",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "опоздала",
+        "lexem": "опоздать",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "или",
+        "lexem": "или",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "последнюю",
+        "lexem": "последний",
+        "tags": "OpencorporaTag('ADJF femn,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "минуту",
+        "lexem": "минута",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "вдруг",
+        "lexem": "вдруг",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "пустил",
+        "lexem": "пустить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,accs')"
+      },
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      14,
+      13,
+      "опред",
+      "минуту",
+      "последнюю"
+    ],
+    [
+      0,
+      1,
+      "агент",
+      "ударил",
+      "второй"
+    ],
+    [
+      6,
+      7,
+      "предл",
+      "от",
+      "страха"
+    ],
+    [
+      12,
+      14,
+      "предл",
+      "в",
+      "минуту"
+    ],
+    [
+      17,
+      16,
+      "огранич",
+      "пустил",
+      "не"
+    ],
+    [
+      0,
+      2,
+      "предик",
+      "ударил",
+      "звонок"
+    ],
+    [
+      5,
+      4,
+      "предик",
+      "похолодел",
+      "я"
+    ],
+    [
+      17,
+      11,
+      "предик",
+      "пустил",
+      "он"
+    ],
+    [
+      5,
+      6,
+      "1-компл",
+      "похолодел",
+      "от"
+    ],
+    [
+      17,
+      12,
+      "1-компл",
+      "пустил",
+      "в"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "пустил",
+      "её"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "пустил",
+      "её"
+    ],
+    [
+      10,
+      17,
+      "соч-союзн",
+      "или",
+      "пустил"
+    ],
+    [
+      5,
+      9,
+      "сочин",
+      "похолодел",
+      "опоздала"
+    ],
+    [
+      9,
+      10,
+      "сочин",
+      "опоздала",
+      "или"
+    ],
+    [
+      5,
+      6,
+      "обст",
+      "похолодел",
+      "от"
+    ],
+    [
+      17,
+      15,
+      "обст",
+      "пустил",
+      "вдруг"
+    ]
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "sentence": "Третий звонок оглушил меня, тронувшийся поезд поверг в оцепенение...",
+  "tokens": [
+    "Третий",
+    "звонок",
+    "оглушил",
+    "меня",
+    ",",
+    "тронувшийся",
+    "поезд",
+    "поверг",
+    "в",
+    "оцепенение",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "третий",
+        "lexem": "третий",
+        "tags": "OpencorporaTag('ADJF,Anum masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "звонок",
+        "lexem": "звонок",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "оглушил",
+        "lexem": "оглушить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,accs')"
+      },
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "тронувшийся",
+        "lexem": "тронуться",
+        "tags": "OpencorporaTag('PRTF,perf,intr,past,actv masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "поезд",
+        "lexem": "поезд",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "поверг",
+        "lexem": "повергнуть",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "оцепенение",
+        "lexem": "оцепенение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      1,
+      0,
+      "опред",
+      "звонок",
+      "третий"
+    ],
+    [
+      6,
+      5,
+      "опред",
+      "поезд",
+      "тронувшийся"
+    ],
+    [
+      8,
+      9,
+      "предл",
+      "в",
+      "оцепенение"
+    ],
+    [
+      2,
+      1,
+      "предик",
+      "оглушил",
+      "звонок"
+    ],
+    [
+      7,
+      6,
+      "предик",
+      "поверг",
+      "поезд"
+    ],
+    [
+      2,
+      3,
+      "1-компл",
+      "оглушил",
+      "меня"
+    ],
+    [
+      7,
+      8,
+      "1-компл",
+      "поверг",
+      "в"
+    ],
+    [
+      2,
+      3,
+      "1-компл",
+      "оглушил",
+      "меня"
+    ],
+    [
+      2,
+      7,
+      "сочин",
+      "оглушил",
+      "поверг"
+    ],
+    [
+      7,
+      8,
+      "обст",
+      "поверг",
+      "в"
+    ]
+  ]
+}

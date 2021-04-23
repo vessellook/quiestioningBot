@@ -1,0 +1,378 @@
+{
+  "sentence": "Утром, когда я вышел в коридор, в нем было солнечно, душно, из уборных пахло мылом, одеколоном и всем, чем пахнет людный вагон утром.",
+  "tokens": [
+    "Утром",
+    ",",
+    "когда",
+    "я",
+    "вышел",
+    "в",
+    "коридор",
+    ",",
+    "в",
+    "нем",
+    "было",
+    "солнечно",
+    ",",
+    "душно",
+    ",",
+    "из",
+    "уборных",
+    "пахло",
+    "мылом",
+    ",",
+    "одеколоном",
+    "и",
+    "всем",
+    ",",
+    "чем",
+    "пахнет",
+    "людный",
+    "вагон",
+    "утром",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "утром",
+        "lexem": "утро",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "вышел",
+        "lexem": "выйти",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "коридор",
+        "lexem": "коридор",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нем",
+        "lexem": "немой",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      },
+      {
+        "word": "нём",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,loct,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "солнечно",
+        "lexem": "солнечно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "уборных",
+        "lexem": "уборная",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,gent')"
+      },
+      {
+        "word": "уборных",
+        "lexem": "уборная",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,loct')"
+      }
+    ],
+    [
+      {
+        "word": "пахло",
+        "lexem": "пахнуть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "мылом",
+        "lexem": "мыло",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "одеколоном",
+        "lexem": "одеколон",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "всем",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "чем",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "пахнет",
+        "lexem": "пахнуть",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      },
+      {
+        "word": "пахнёт",
+        "lexem": "пахнуть",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,3per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "людный",
+        "lexem": "людный",
+        "tags": "OpencorporaTag('ADJF,Qual inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "вагон",
+        "lexem": "вагон",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "утром",
+        "lexem": "утро",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      24,
+      22,
+      "опред",
+      "чем",
+      "всем"
+    ],
+    [
+      17,
+      18,
+      "агент",
+      "пахло",
+      "мылом"
+    ],
+    [
+      25,
+      24,
+      "агент",
+      "пахнет",
+      "чем"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "из",
+      "уборных"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "из",
+      "уборных"
+    ],
+    [
+      18,
+      20,
+      "об-аппоз",
+      "мылом",
+      "одеколоном"
+    ],
+    [
+      27,
+      28,
+      "атриб",
+      "вагон",
+      "утром"
+    ],
+    [
+      4,
+      3,
+      "предик",
+      "вышел",
+      "я"
+    ],
+    [
+      9,
+      6,
+      "предик",
+      "нем",
+      "коридор"
+    ],
+    [
+      25,
+      27,
+      "предик",
+      "пахнет",
+      "вагон"
+    ],
+    [
+      4,
+      0,
+      "1-компл",
+      "вышел",
+      "утром"
+    ],
+    [
+      4,
+      5,
+      "1-компл",
+      "вышел",
+      "в"
+    ],
+    [
+      9,
+      8,
+      "1-компл",
+      "нем",
+      "в"
+    ],
+    [
+      17,
+      15,
+      "1-компл",
+      "пахло",
+      "из"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "пахло",
+      "мылом"
+    ],
+    [
+      21,
+      25,
+      "соч-союзн",
+      "и",
+      "пахнет"
+    ],
+    [
+      4,
+      10,
+      "сочин",
+      "вышел",
+      "было"
+    ],
+    [
+      10,
+      17,
+      "сочин",
+      "было",
+      "пахло"
+    ],
+    [
+      17,
+      21,
+      "сочин",
+      "пахло",
+      "и"
+    ],
+    [
+      18,
+      20,
+      "сочин",
+      "мылом",
+      "одеколоном"
+    ],
+    [
+      4,
+      5,
+      "обст",
+      "вышел",
+      "в"
+    ],
+    [
+      10,
+      11,
+      "обст",
+      "было",
+      "солнечно"
+    ],
+    [
+      0,
+      4,
+      "релят",
+      "утром",
+      "вышел"
+    ],
+    [
+      10,
+      9,
+      "присвяз",
+      "было",
+      "нём"
+    ]
+  ]
+}

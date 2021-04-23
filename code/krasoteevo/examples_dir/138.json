@@ -1,0 +1,753 @@
+{
+  "sentence": "Я отшатнулся от окна, упал в угол дивана, рядом был вагон второго класса — я мысленно видел, как он хозяйственно вошел в него вместе с нею, оглянулся, — хорошо ли устроил ее носильщик, — и снял перчатку, снял картуз, целуясь с ней, крестя ее...",
+  "tokens": [
+    "Я",
+    "отшатнулся",
+    "от",
+    "окна",
+    ",",
+    "упал",
+    "в",
+    "угол",
+    "дивана",
+    ",",
+    "рядом",
+    "был",
+    "вагон",
+    "второго",
+    "класса",
+    "—",
+    "я",
+    "мысленно",
+    "видел",
+    ",",
+    "как",
+    "он",
+    "хозяйственно",
+    "вошел",
+    "в",
+    "него",
+    "вместе",
+    "с",
+    "нею",
+    ",",
+    "оглянулся",
+    ",",
+    "—",
+    "хорошо",
+    "ли",
+    "устроил",
+    "ее",
+    "носильщик",
+    ",",
+    "—",
+    "и",
+    "снял",
+    "перчатку",
+    ",",
+    "снял",
+    "картуз",
+    ",",
+    "целуясь",
+    "с",
+    "ней",
+    ",",
+    "крестя",
+    "ее",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "отшатнулся",
+        "lexem": "отшатнуться",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "от",
+        "lexem": "от",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "окна",
+        "lexem": "окно",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "упал",
+        "lexem": "упасть",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "угол",
+        "lexem": "угол",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "дивана",
+        "lexem": "диван",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "рядом",
+        "lexem": "ряд",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "был",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "вагон",
+        "lexem": "вагон",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      },
+      {
+        "word": "вагон",
+        "lexem": "вагон",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "второго",
+        "lexem": "второй",
+        "tags": "OpencorporaTag('ADJF,Anum anim,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "класса",
+        "lexem": "класс",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "мысленно",
+        "lexem": "мысленно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "видел",
+        "lexem": "видеть",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('CONJ')"
+      },
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "хозяйственно",
+        "lexem": "хозяйственно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "вошёл",
+        "lexem": "войти",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "него",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "вместе",
+        "lexem": "вместе",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нею",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,ablt,V-ey,Af-p')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "оглянулся",
+        "lexem": "оглянуться",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "хорошо",
+        "lexem": "хорошо",
+        "tags": "OpencorporaTag('ADVB,Prdx')"
+      },
+      {
+        "word": "хорошо",
+        "lexem": "хорошо",
+        "tags": "OpencorporaTag('PRED,pres')"
+      }
+    ],
+    [
+      {
+        "word": "ли",
+        "lexem": "ли",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "устроил",
+        "lexem": "устроить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "носильщик",
+        "lexem": "носильщик",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "снял",
+        "lexem": "снять",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "перчатку",
+        "lexem": "перчатка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "снял",
+        "lexem": "снять",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "картуз",
+        "lexem": "картуз",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "целуясь",
+        "lexem": "целоваться",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "ней",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,loct,Af-p')"
+      },
+      {
+        "word": "ней",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,ablt,Af-p')"
+      },
+      {
+        "word": "ней",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,datv,Af-p')"
+      },
+      {
+        "word": "ней",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent,Infr,Af-p')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "крестя",
+        "lexem": "крестить",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,accs')"
+      },
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      12,
+      13,
+      "опред",
+      "вагон",
+      "второго"
+    ],
+    [
+      11,
+      10,
+      "агент",
+      "был",
+      "рядом"
+    ],
+    [
+      30,
+      28,
+      "агент",
+      "оглянулся",
+      "нею"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "от",
+      "окна"
+    ],
+    [
+      24,
+      25,
+      "предл",
+      "в",
+      "него"
+    ],
+    [
+      24,
+      25,
+      "предл",
+      "в",
+      "него"
+    ],
+    [
+      48,
+      49,
+      "предл",
+      "с",
+      "ней"
+    ],
+    [
+      48,
+      49,
+      "предл",
+      "с",
+      "ней"
+    ],
+    [
+      48,
+      49,
+      "предл",
+      "с",
+      "ней"
+    ],
+    [
+      48,
+      49,
+      "предл",
+      "с",
+      "ней"
+    ],
+    [
+      33,
+      34,
+      "огранич",
+      "хорошо",
+      "ли"
+    ],
+    [
+      7,
+      8,
+      "атриб",
+      "угол",
+      "дивана"
+    ],
+    [
+      12,
+      14,
+      "атриб",
+      "вагон",
+      "класса"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "отшатнулся",
+      "я"
+    ],
+    [
+      11,
+      7,
+      "предик",
+      "был",
+      "угол"
+    ],
+    [
+      18,
+      16,
+      "предик",
+      "видел",
+      "я"
+    ],
+    [
+      23,
+      21,
+      "предик",
+      "вошёл",
+      "он"
+    ],
+    [
+      35,
+      37,
+      "предик",
+      "устроил",
+      "носильщик"
+    ],
+    [
+      44,
+      45,
+      "предик",
+      "снял",
+      "картуз"
+    ],
+    [
+      1,
+      2,
+      "1-компл",
+      "отшатнулся",
+      "от"
+    ],
+    [
+      5,
+      6,
+      "1-компл",
+      "упал",
+      "в"
+    ],
+    [
+      11,
+      12,
+      "1-компл",
+      "был",
+      "вагон"
+    ],
+    [
+      23,
+      24,
+      "1-компл",
+      "вошёл",
+      "в"
+    ],
+    [
+      30,
+      27,
+      "1-компл",
+      "оглянулся",
+      "с"
+    ],
+    [
+      41,
+      42,
+      "1-компл",
+      "снял",
+      "перчатку"
+    ],
+    [
+      47,
+      48,
+      "1-компл",
+      "целуясь",
+      "с"
+    ],
+    [
+      51,
+      52,
+      "1-компл",
+      "крестя",
+      "её"
+    ],
+    [
+      35,
+      36,
+      "1-компл",
+      "устроил",
+      "её"
+    ],
+    [
+      51,
+      52,
+      "1-компл",
+      "крестя",
+      "её"
+    ],
+    [
+      20,
+      23,
+      "подч-союзн",
+      "как",
+      "вошёл"
+    ],
+    [
+      20,
+      23,
+      "подч-союзн",
+      "как",
+      "вошёл"
+    ],
+    [
+      40,
+      41,
+      "соч-союзн",
+      "и",
+      "снял"
+    ],
+    [
+      1,
+      5,
+      "сочин",
+      "отшатнулся",
+      "упал"
+    ],
+    [
+      1,
+      18,
+      "сочин",
+      "отшатнулся",
+      "видел"
+    ],
+    [
+      5,
+      11,
+      "сочин",
+      "упал",
+      "был"
+    ],
+    [
+      23,
+      30,
+      "сочин",
+      "вошёл",
+      "оглянулся"
+    ],
+    [
+      30,
+      35,
+      "сочин",
+      "оглянулся",
+      "устроил"
+    ],
+    [
+      41,
+      44,
+      "сочин",
+      "снял",
+      "снял"
+    ],
+    [
+      35,
+      40,
+      "сочин",
+      "устроил",
+      "и"
+    ],
+    [
+      49,
+      52,
+      "сочин",
+      "ней",
+      "её"
+    ],
+    [
+      1,
+      2,
+      "обст",
+      "отшатнулся",
+      "от"
+    ],
+    [
+      5,
+      6,
+      "обст",
+      "упал",
+      "в"
+    ],
+    [
+      18,
+      17,
+      "обст",
+      "видел",
+      "мысленно"
+    ],
+    [
+      23,
+      22,
+      "обст",
+      "вошёл",
+      "хозяйственно"
+    ],
+    [
+      23,
+      24,
+      "обст",
+      "вошёл",
+      "в"
+    ],
+    [
+      23,
+      26,
+      "обст",
+      "вошёл",
+      "вместе"
+    ],
+    [
+      35,
+      33,
+      "обст",
+      "устроил",
+      "хорошо"
+    ],
+    [
+      47,
+      48,
+      "обст",
+      "целуясь",
+      "с"
+    ],
+    [
+      11,
+      12,
+      "присвяз",
+      "был",
+      "вагон"
+    ],
+    [
+      11,
+      12,
+      "присвяз",
+      "был",
+      "вагон"
+    ]
+  ]
+}

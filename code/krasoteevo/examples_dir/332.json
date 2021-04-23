@@ -1,0 +1,429 @@
+{
+  "sentence": "Узнал я только, что брак этот, совсем уж слаженный и не состоявшийся лишь за смертию невесты, был самой госпоже Зарницыной очень не по душе...",
+  "tokens": [
+    "Узнал",
+    "я",
+    "только",
+    ",",
+    "что",
+    "брак",
+    "этот",
+    ",",
+    "совсем",
+    "уж",
+    "слаженный",
+    "и",
+    "не",
+    "состоявшийся",
+    "лишь",
+    "за",
+    "смертию",
+    "невесты",
+    ",",
+    "был",
+    "самой",
+    "госпоже",
+    "Зарницыной",
+    "очень",
+    "не",
+    "по",
+    "душе",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "узнал",
+        "lexem": "узнать",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "брак",
+        "lexem": "брак",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "этот",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph masc,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "совсем",
+        "lexem": "совсем",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "уж",
+        "lexem": "уж",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "слаженный",
+        "lexem": "слаженный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      },
+      {
+        "word": "слаженный",
+        "lexem": "сладить",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "состоявшийся",
+        "lexem": "состояться",
+        "tags": "OpencorporaTag('PRTF,perf,intr,past,actv masc,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "за",
+        "lexem": "за",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "невесты",
+        "lexem": "невеста",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "был",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "самой",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "госпоже",
+        "lexem": "госпожа",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "зарницыной",
+        "lexem": "зарницыной",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,nomn')"
+      },
+      {
+        "word": "зарницыной",
+        "lexem": "зарницын",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,gent')"
+      },
+      {
+        "word": "зарницыной",
+        "lexem": "зарницын",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,datv')"
+      },
+      {
+        "word": "зарницыной",
+        "lexem": "зарницын",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,ablt')"
+      },
+      {
+        "word": "зарницыной",
+        "lexem": "зарницын",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "очень",
+        "lexem": "очень",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "по",
+        "lexem": "по",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "душе",
+        "lexem": "душа",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "душе",
+        "lexem": "душа",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      },
+      {
+        "word": "душе",
+        "lexem": "душ",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loct')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      9,
+      10,
+      "опред",
+      "уж",
+      "слаженный"
+    ],
+    [
+      9,
+      10,
+      "опред",
+      "уж",
+      "слаженный"
+    ],
+    [
+      5,
+      6,
+      "опред",
+      "брак",
+      "этот"
+    ],
+    [
+      21,
+      20,
+      "опред",
+      "госпоже",
+      "самой"
+    ],
+    [
+      21,
+      22,
+      "аппоз",
+      "госпоже",
+      "зарницыной"
+    ],
+    [
+      21,
+      22,
+      "аппоз",
+      "госпоже",
+      "зарницыной"
+    ],
+    [
+      21,
+      22,
+      "аппоз",
+      "госпоже",
+      "зарницыной"
+    ],
+    [
+      21,
+      22,
+      "аппоз",
+      "госпоже",
+      "зарницыной"
+    ],
+    [
+      21,
+      22,
+      "аппоз",
+      "госпоже",
+      "зарницыной"
+    ],
+    [
+      25,
+      26,
+      "предл",
+      "по",
+      "душе"
+    ],
+    [
+      25,
+      26,
+      "предл",
+      "по",
+      "душе"
+    ],
+    [
+      25,
+      26,
+      "предл",
+      "по",
+      "душе"
+    ],
+    [
+      5,
+      9,
+      "об-аппоз",
+      "брак",
+      "уж"
+    ],
+    [
+      13,
+      12,
+      "огранич",
+      "состоявшийся",
+      "не"
+    ],
+    [
+      25,
+      24,
+      "огранич",
+      "по",
+      "не"
+    ],
+    [
+      0,
+      1,
+      "предик",
+      "узнал",
+      "я"
+    ],
+    [
+      13,
+      15,
+      "1-компл",
+      "состоявшийся",
+      "за"
+    ],
+    [
+      19,
+      21,
+      "1-компл",
+      "был",
+      "госпоже"
+    ],
+    [
+      19,
+      25,
+      "1-компл",
+      "был",
+      "по"
+    ],
+    [
+      4,
+      5,
+      "подч-союзн",
+      "что",
+      "брак"
+    ],
+    [
+      11,
+      19,
+      "соч-союзн",
+      "и",
+      "был"
+    ],
+    [
+      0,
+      11,
+      "сочин",
+      "узнал",
+      "и"
+    ],
+    [
+      1,
+      4,
+      "сочин",
+      "я",
+      "что"
+    ],
+    [
+      10,
+      8,
+      "обст",
+      "слаженный",
+      "совсем"
+    ],
+    [
+      13,
+      15,
+      "обст",
+      "состоявшийся",
+      "за"
+    ],
+    [
+      19,
+      23,
+      "обст",
+      "был",
+      "очень"
+    ],
+    [
+      19,
+      25,
+      "обст",
+      "был",
+      "по"
+    ],
+    [
+      19,
+      17,
+      "присвяз",
+      "был",
+      "невесты"
+    ],
+    [
+      19,
+      21,
+      "присвяз",
+      "был",
+      "госпоже"
+    ]
+  ]
+}

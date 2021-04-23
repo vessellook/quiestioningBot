@@ -1,0 +1,287 @@
+{
+  "sentence": "При чем, свидетельствуя мое особое почтение уважаемой Авдотье Романовне, прошу принять чувства почтительной преданности\nвашего покорного слуги\nП. Лужина».",
+  "tokens": [
+    "При",
+    "чем",
+    ",",
+    "свидетельствуя",
+    "мое",
+    "особое",
+    "почтение",
+    "уважаемой",
+    "Авдотье",
+    "Романовне",
+    ",",
+    "прошу",
+    "принять",
+    "чувства",
+    "почтительной",
+    "преданности",
+    "вашего",
+    "покорного",
+    "слуги",
+    "П",
+    ".",
+    "Лужина",
+    "»",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "при",
+        "lexem": "при",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "чем",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,ablt')"
+      },
+      {
+        "word": "чём",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "свидетельствуя",
+        "lexem": "свидетельствовать",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [
+      {
+        "word": "моё",
+        "lexem": "мой",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "особое",
+        "lexem": "особый",
+        "tags": "OpencorporaTag('ADJF neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "почтение",
+        "lexem": "почтение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "уважаемой",
+        "lexem": "уважаемый",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "авдотье",
+        "lexem": "авдотья",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "романовне",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,datv')"
+      },
+      {
+        "word": "романовне",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "прошу",
+        "lexem": "просить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "принять",
+        "lexem": "принять",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "чувства",
+        "lexem": "чувство",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "почтительной",
+        "lexem": "почтительный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "преданности",
+        "lexem": "преданность",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "вашего",
+        "lexem": "ваш",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "покорного",
+        "lexem": "покорный",
+        "tags": "OpencorporaTag('ADJF masc,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "слуги",
+        "lexem": "слуга",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,gent')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "лужина",
+        "lexem": "лужин",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      7,
+      "опред",
+      "авдотье",
+      "уважаемой"
+    ],
+    [
+      15,
+      14,
+      "опред",
+      "преданности",
+      "почтительной"
+    ],
+    [
+      18,
+      17,
+      "опред",
+      "слуги",
+      "покорного"
+    ],
+    [
+      18,
+      16,
+      "опред",
+      "слуги",
+      "вашего"
+    ],
+    [
+      8,
+      9,
+      "аппоз",
+      "авдотье",
+      "романовне"
+    ],
+    [
+      8,
+      9,
+      "аппоз",
+      "авдотье",
+      "романовне"
+    ],
+    [
+      0,
+      1,
+      "предл",
+      "при",
+      "чем"
+    ],
+    [
+      0,
+      1,
+      "предл",
+      "при",
+      "чём"
+    ],
+    [
+      11,
+      3,
+      "обст",
+      "прошу",
+      "свидетельствуя"
+    ],
+    [
+      13,
+      15,
+      "атриб",
+      "чувства",
+      "преданности"
+    ],
+    [
+      15,
+      18,
+      "атриб",
+      "преданности",
+      "слуги"
+    ],
+    [
+      18,
+      21,
+      "атриб",
+      "слуги",
+      "лужина"
+    ],
+    [
+      11,
+      6,
+      "предик",
+      "прошу",
+      "почтение"
+    ],
+    [
+      11,
+      0,
+      "1-компл",
+      "прошу",
+      "при"
+    ],
+    [
+      12,
+      13,
+      "1-компл",
+      "принять",
+      "чувства"
+    ],
+    [
+      11,
+      12,
+      "обст",
+      "прошу",
+      "принять"
+    ]
+  ]
+}

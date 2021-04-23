@@ -1,0 +1,167 @@
+{
+  "sentence": "Вместо того пришла сегодня поутру от него вот эта записка...",
+  "tokens": [
+    "Вместо",
+    "того",
+    "пришла",
+    "сегодня",
+    "поутру",
+    "от",
+    "него",
+    "вот",
+    "эта",
+    "записка",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "вместо",
+        "lexem": "вместо",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "того",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph masc,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "пришла",
+        "lexem": "прийти",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "сегодня",
+        "lexem": "сегодня",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "поутру",
+        "lexem": "поутру",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "от",
+        "lexem": "от",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "него",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent,Af-p')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "эта",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "записка",
+        "lexem": "записка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      6,
+      1,
+      "опред",
+      "него",
+      "того"
+    ],
+    [
+      9,
+      8,
+      "опред",
+      "записка",
+      "эта"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "от",
+      "него"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "от",
+      "него"
+    ],
+    [
+      2,
+      9,
+      "предик",
+      "пришла",
+      "записка"
+    ],
+    [
+      2,
+      0,
+      "1-компл",
+      "пришла",
+      "вместо"
+    ],
+    [
+      2,
+      5,
+      "1-компл",
+      "пришла",
+      "от"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "пришла",
+      "сегодня"
+    ],
+    [
+      2,
+      4,
+      "обст",
+      "пришла",
+      "поутру"
+    ],
+    [
+      2,
+      5,
+      "обст",
+      "пришла",
+      "от"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "пришла",
+      "сегодня"
+    ]
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "sentence": "На другой день по приезде в Сочи, он купался утром в море, потом брился, надел чистое белье, белоснежный китель, позавтракал в своей гостинице на террасе ресторана, выпил бутылку шампанского, пил кофе с шартрезом, не спеша выкурил сигару.",
+  "tokens": [
+    "На",
+    "другой",
+    "день",
+    "по",
+    "приезде",
+    "в",
+    "Сочи",
+    ",",
+    "он",
+    "купался",
+    "утром",
+    "в",
+    "море",
+    ",",
+    "потом",
+    "брился",
+    ",",
+    "надел",
+    "чистое",
+    "белье",
+    ",",
+    "белоснежный",
+    "китель",
+    ",",
+    "позавтракал",
+    "в",
+    "своей",
+    "гостинице",
+    "на",
+    "террасе",
+    "ресторана",
+    ",",
+    "выпил",
+    "бутылку",
+    "шампанского",
+    ",",
+    "пил",
+    "кофе",
+    "с",
+    "шартрезом",
+    ",",
+    "не",
+    "спеша",
+    "выкурил",
+    "сигару",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "другой",
+        "lexem": "другой",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "день",
+        "lexem": "день",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "по",
+        "lexem": "по",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "приезде",
+        "lexem": "приезд",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "сочи",
+        "lexem": "сочи",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm,Fixd,Geox,Ms-f sing,gent')"
+      },
+      {
+        "word": "сочи",
+        "lexem": "сочи",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm,Fixd,Geox,Ms-f sing,nomn')"
+      },
+      {
+        "word": "сочи",
+        "lexem": "сочи",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm,Fixd,Geox,Ms-f sing,datv')"
+      },
+      {
+        "word": "сочи",
+        "lexem": "сочи",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm,Fixd,Geox,Ms-f sing,accs')"
+      },
+      {
+        "word": "сочи",
+        "lexem": "сочить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,impr,excl')"
+      },
+      {
+        "word": "сочи",
+        "lexem": "сочи",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm,Fixd,Geox,Ms-f sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "купался",
+        "lexem": "купаться",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "утром",
+        "lexem": "утром",
+        "tags": "OpencorporaTag('ADVB')"
+      },
+      {
+        "word": "утром",
+        "lexem": "утро",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "море",
+        "lexem": "море",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "потом",
+        "lexem": "пот",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "брился",
+        "lexem": "бриться",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "надел",
+        "lexem": "надеть",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      },
+      {
+        "word": "надел",
+        "lexem": "надел",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "чистое",
+        "lexem": "чистый",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "бельё",
+        "lexem": "бельё",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Sgtm sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "белоснежный",
+        "lexem": "белоснежный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "китель",
+        "lexem": "китель",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "позавтракал",
+        "lexem": "позавтракать",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "своей",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph femn,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "гостинице",
+        "lexem": "гостиница",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "гостинице",
+        "lexem": "гостиница",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "террасе",
+        "lexem": "терраса",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "террасе",
+        "lexem": "терраса",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "ресторана",
+        "lexem": "ресторан",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "выпил",
+        "lexem": "выпить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "бутылку",
+        "lexem": "бутылка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "шампанского",
+        "lexem": "шампанское",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "пил",
+        "lexem": "пить",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "кофе",
+        "lexem": "кофе",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Fixd,Ms-f sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "шартрезом",
+        "lexem": "шартрез",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "спеша",
+        "lexem": "спешить",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    [
+      {
+        "word": "выкурил",
+        "lexem": "выкурить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "сигару",
+        "lexem": "сигара",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      19,
+      18,
+      "опред",
+      "бельё",
+      "чистое"
+    ],
+    [
+      22,
+      21,
+      "опред",
+      "китель",
+      "белоснежный"
+    ],
+    [
+      27,
+      26,
+      "опред",
+      "гостинице",
+      "своей"
+    ],
+    [
+      4,
+      5,
+      "квазиагент",
+      "приезде",
+      "в"
+    ],
+    [
+      9,
+      10,
+      "агент",
+      "купался",
+      "утром"
+    ],
+    [
+      15,
+      14,
+      "агент",
+      "брился",
+      "потом"
+    ],
+    [
+      43,
+      39,
+      "агент",
+      "выкурил",
+      "шартрезом"
+    ],
+    [
+      4,
+      6,
+      "аппоз",
+      "приезде",
+      "сочи"
+    ],
+    [
+      4,
+      6,
+      "аппоз",
+      "приезде",
+      "сочи"
+    ],
+    [
+      4,
+      6,
+      "аппоз",
+      "приезде",
+      "сочи"
+    ],
+    [
+      4,
+      6,
+      "аппоз",
+      "приезде",
+      "сочи"
+    ],
+    [
+      4,
+      6,
+      "аппоз",
+      "приезде",
+      "сочи"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "по",
+      "приезде"
+    ],
+    [
+      25,
+      27,
+      "предл",
+      "в",
+      "гостинице"
+    ],
+    [
+      25,
+      27,
+      "предл",
+      "в",
+      "гостинице"
+    ],
+    [
+      28,
+      29,
+      "предл",
+      "на",
+      "террасе"
+    ],
+    [
+      28,
+      29,
+      "предл",
+      "на",
+      "террасе"
+    ],
+    [
+      17,
+      22,
+      "об-аппоз",
+      "надел",
+      "китель"
+    ],
+    [
+      42,
+      41,
+      "огранич",
+      "спеша",
+      "не"
+    ],
+    [
+      29,
+      30,
+      "атриб",
+      "террасе",
+      "ресторана"
+    ],
+    [
+      29,
+      30,
+      "атриб",
+      "террасе",
+      "ресторана"
+    ],
+    [
+      33,
+      34,
+      "атриб",
+      "бутылку",
+      "шампанского"
+    ],
+    [
+      37,
+      38,
+      "атриб",
+      "кофе",
+      "с"
+    ],
+    [
+      6,
+      2,
+      "предик",
+      "сочи",
+      "день"
+    ],
+    [
+      9,
+      8,
+      "предик",
+      "купался",
+      "он"
+    ],
+    [
+      15,
+      12,
+      "предик",
+      "брился",
+      "море"
+    ],
+    [
+      24,
+      17,
+      "предик",
+      "позавтракал",
+      "надел"
+    ],
+    [
+      43,
+      37,
+      "предик",
+      "выкурил",
+      "кофе"
+    ],
+    [
+      6,
+      0,
+      "1-компл",
+      "сочи",
+      "на"
+    ],
+    [
+      9,
+      10,
+      "1-компл",
+      "купался",
+      "утром"
+    ],
+    [
+      24,
+      25,
+      "1-компл",
+      "позавтракал",
+      "в"
+    ],
+    [
+      32,
+      33,
+      "1-компл",
+      "выпил",
+      "бутылку"
+    ],
+    [
+      43,
+      44,
+      "1-компл",
+      "выкурил",
+      "сигару"
+    ],
+    [
+      9,
+      15,
+      "сочин",
+      "купался",
+      "брился"
+    ],
+    [
+      9,
+      24,
+      "сочин",
+      "купался",
+      "позавтракал"
+    ],
+    [
+      9,
+      43,
+      "сочин",
+      "купался",
+      "выкурил"
+    ],
+    [
+      24,
+      32,
+      "сочин",
+      "позавтракал",
+      "выпил"
+    ],
+    [
+      32,
+      36,
+      "сочин",
+      "выпил",
+      "пил"
+    ],
+    [
+      6,
+      3,
+      "обст",
+      "сочи",
+      "по"
+    ],
+    [
+      9,
+      10,
+      "обст",
+      "купался",
+      "утром"
+    ],
+    [
+      9,
+      11,
+      "обст",
+      "купался",
+      "в"
+    ],
+    [
+      24,
+      25,
+      "обст",
+      "позавтракал",
+      "в"
+    ],
+    [
+      24,
+      28,
+      "обст",
+      "позавтракал",
+      "на"
+    ]
+  ]
+}

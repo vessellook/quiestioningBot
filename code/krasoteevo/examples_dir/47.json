@@ -1,0 +1,196 @@
+{
+  "sentence": "И мать кидалась на колени и била себя в грудь:\n— Господи, помоги!",
+  "tokens": [
+    "И",
+    "мать",
+    "кидалась",
+    "на",
+    "колени",
+    "и",
+    "била",
+    "себя",
+    "в",
+    "грудь",
+    ":",
+    "—",
+    "Господи",
+    ",",
+    "помоги",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "мать",
+        "lexem": "мать",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "кидалась",
+        "lexem": "кидаться",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "колени",
+        "lexem": "колено",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "била",
+        "lexem": "бить",
+        "tags": "OpencorporaTag('VERB,impf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "себя",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,accs')"
+      },
+      {
+        "word": "себя",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "грудь",
+        "lexem": "грудь",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "помоги",
+        "lexem": "помочь",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,impr,excl')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      3,
+      4,
+      "предл",
+      "на",
+      "колени"
+    ],
+    [
+      2,
+      1,
+      "предик",
+      "кидалась",
+      "мать"
+    ],
+    [
+      14,
+      9,
+      "предик",
+      "помоги",
+      "грудь"
+    ],
+    [
+      2,
+      3,
+      "1-компл",
+      "кидалась",
+      "на"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "била",
+      "себя"
+    ],
+    [
+      6,
+      8,
+      "1-компл",
+      "била",
+      "в"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "била",
+      "себя"
+    ],
+    [
+      0,
+      2,
+      "соч-союзн",
+      "и",
+      "кидалась"
+    ],
+    [
+      5,
+      6,
+      "соч-союзн",
+      "и",
+      "била"
+    ],
+    [
+      2,
+      5,
+      "сочин",
+      "кидалась",
+      "и"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "кидалась",
+      "на"
+    ],
+    [
+      6,
+      8,
+      "обст",
+      "била",
+      "в"
+    ]
+  ]
+}

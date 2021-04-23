@@ -1,0 +1,93 @@
+{
+  "sentence": "— Нет, не знаю; какая Марфа Петровна?",
+  "tokens": [
+    "—",
+    "Нет",
+    ",",
+    "не",
+    "знаю",
+    ";",
+    "какая",
+    "Марфа",
+    "Петровна",
+    "?"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "нет",
+        "lexem": "нет",
+        "tags": "OpencorporaTag('PRED,pres')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "знаю",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "какая",
+        "lexem": "какой",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "марфа",
+        "lexem": "марфа",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "петровна",
+        "lexem": "петрович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      7,
+      6,
+      "опред",
+      "марфа",
+      "какая"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "марфа",
+      "петровна"
+    ],
+    [
+      4,
+      3,
+      "огранич",
+      "знаю",
+      "не"
+    ],
+    [
+      4,
+      7,
+      "предик",
+      "знаю",
+      "марфа"
+    ]
+  ]
+}

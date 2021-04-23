@@ -1,0 +1,64 @@
+{
+  "sentence": "— И чего он так на этого Лужина?",
+  "tokens": [
+    "—",
+    "И",
+    "чего",
+    "он",
+    "так",
+    "на",
+    "этого",
+    "Лужина",
+    "?"
+  ],
+  "morphs": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "этого",
+        "lexem": "это",
+        "tags": "OpencorporaTag('NPRO,neut sing,gent')"
+      },
+      {
+        "word": "этого",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph masc,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "лужина",
+        "lexem": "лужин",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      7,
+      6,
+      "опред",
+      "лужина",
+      "этого"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "на",
+      "этого"
+    ]
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "sentence": "Потом мы спустились вдоль берега к югу.",
+  "tokens": [
+    "Потом",
+    "мы",
+    "спустились",
+    "вдоль",
+    "берега",
+    "к",
+    "югу",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "потом",
+        "lexem": "пот",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "мы",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "спустились",
+        "lexem": "спуститься",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "вдоль",
+        "lexem": "вдоль",
+        "tags": "OpencorporaTag('PREP')"
+      },
+      {
+        "word": "вдоль",
+        "lexem": "вдоль",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "берега",
+        "lexem": "берег",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      },
+      {
+        "word": "берега",
+        "lexem": "берег",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "югу",
+        "lexem": "юг",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,datv')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      3,
+      4,
+      "предл",
+      "вдоль",
+      "берега"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "вдоль",
+      "берега"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "к",
+      "югу"
+    ],
+    [
+      2,
+      1,
+      "предик",
+      "спустились",
+      "мы"
+    ],
+    [
+      2,
+      0,
+      "1-компл",
+      "спустились",
+      "потом"
+    ],
+    [
+      2,
+      3,
+      "1-компл",
+      "спустились",
+      "вдоль"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "спустились",
+      "вдоль"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "спустились",
+      "вдоль"
+    ],
+    [
+      2,
+      5,
+      "обст",
+      "спустились",
+      "к"
+    ]
+  ]
+}

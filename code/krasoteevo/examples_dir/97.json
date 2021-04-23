@@ -1,0 +1,303 @@
+{
+  "sentence": "И тотчас же опять встанет и начнет торопливо крестить, целовать его, совать руку к его губам...",
+  "tokens": [
+    "И",
+    "тотчас",
+    "же",
+    "опять",
+    "встанет",
+    "и",
+    "начнет",
+    "торопливо",
+    "крестить",
+    ",",
+    "целовать",
+    "его",
+    ",",
+    "совать",
+    "руку",
+    "к",
+    "его",
+    "губам",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "тотчас",
+        "lexem": "тотчас",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "же",
+        "lexem": "же",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "опять",
+        "lexem": "опять",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "встанет",
+        "lexem": "встать",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,3per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "начнёт",
+        "lexem": "начать",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,3per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "торопливо",
+        "lexem": "торопливо",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "крестить",
+        "lexem": "крестить",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      },
+      {
+        "word": "крестить",
+        "lexem": "крестить",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "целовать",
+        "lexem": "целовать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,accs')"
+      },
+      {
+        "word": "его",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,accs')"
+      },
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent')"
+      },
+      {
+        "word": "его",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "совать",
+        "lexem": "совать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "руку",
+        "lexem": "рука",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "к",
+        "lexem": "к",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "его",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph femn,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "губам",
+        "lexem": "губа",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,datv')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      14,
+      16,
+      "опред",
+      "руку",
+      "его"
+    ],
+    [
+      1,
+      2,
+      "огранич",
+      "тотчас",
+      "же"
+    ],
+    [
+      10,
+      11,
+      "1-компл",
+      "целовать",
+      "его"
+    ],
+    [
+      10,
+      11,
+      "1-компл",
+      "целовать",
+      "его"
+    ],
+    [
+      13,
+      14,
+      "1-компл",
+      "совать",
+      "руку"
+    ],
+    [
+      13,
+      17,
+      "1-компл",
+      "совать",
+      "губам"
+    ],
+    [
+      10,
+      11,
+      "1-компл",
+      "целовать",
+      "его"
+    ],
+    [
+      10,
+      11,
+      "1-компл",
+      "целовать",
+      "его"
+    ],
+    [
+      0,
+      4,
+      "соч-союзн",
+      "и",
+      "встанет"
+    ],
+    [
+      5,
+      6,
+      "соч-союзн",
+      "и",
+      "начнёт"
+    ],
+    [
+      8,
+      10,
+      "сочин",
+      "крестить",
+      "целовать"
+    ],
+    [
+      8,
+      10,
+      "сочин",
+      "крестить",
+      "целовать"
+    ],
+    [
+      10,
+      13,
+      "сочин",
+      "целовать",
+      "совать"
+    ],
+    [
+      4,
+      5,
+      "сочин",
+      "встанет",
+      "и"
+    ],
+    [
+      4,
+      1,
+      "обст",
+      "встанет",
+      "тотчас"
+    ],
+    [
+      4,
+      3,
+      "обст",
+      "встанет",
+      "опять"
+    ],
+    [
+      6,
+      7,
+      "обст",
+      "начнёт",
+      "торопливо"
+    ],
+    [
+      13,
+      15,
+      "обст",
+      "совать",
+      "к"
+    ],
+    [
+      6,
+      8,
+      "обст",
+      "начнёт",
+      "крестить"
+    ],
+    [
+      6,
+      8,
+      "обст",
+      "начнёт",
+      "крестить"
+    ]
+  ]
+}

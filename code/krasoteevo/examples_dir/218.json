@@ -1,0 +1,88 @@
+{
+  "sentence": "Сам же обещал зайти часу в одиннадцатом.",
+  "tokens": [
+    "Сам",
+    "же",
+    "обещал",
+    "зайти",
+    "часу",
+    "в",
+    "одиннадцатом",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "сам",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "обещал",
+        "lexem": "обещать",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      },
+      {
+        "word": "обещал",
+        "lexem": "обещать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "зайти",
+        "lexem": "зайти",
+        "tags": "OpencorporaTag('INFN,perf,intr')"
+      }
+    ],
+    [
+      {
+        "word": "часу",
+        "lexem": "час",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      0,
+      "1-компл",
+      "обещал",
+      "сам"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "зайти",
+      "часу"
+    ],
+    [
+      3,
+      5,
+      "обст",
+      "зайти",
+      "в"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "обещал",
+      "зайти"
+    ]
+  ]
+}

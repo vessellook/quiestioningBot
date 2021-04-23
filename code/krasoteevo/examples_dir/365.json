@@ -1,0 +1,445 @@
+{
+  "sentence": "Равномерно лишу себя чести свидания с вами и завтра поутру, по неотлагательным сенатским делам и чтобы не помешать родственному свиданию вашему с вашим сыном и Авдотьи Романовны с ее братом.",
+  "tokens": [
+    "Равномерно",
+    "лишу",
+    "себя",
+    "чести",
+    "свидания",
+    "с",
+    "вами",
+    "и",
+    "завтра",
+    "поутру",
+    ",",
+    "по",
+    "неотлагательным",
+    "сенатским",
+    "делам",
+    "и",
+    "чтобы",
+    "не",
+    "помешать",
+    "родственному",
+    "свиданию",
+    "вашему",
+    "с",
+    "вашим",
+    "сыном",
+    "и",
+    "Авдотьи",
+    "Романовны",
+    "с",
+    "ее",
+    "братом",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "равномерно",
+        "lexem": "равномерно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "лишу",
+        "lexem": "лишить",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,1per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "себя",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,accs')"
+      },
+      {
+        "word": "себя",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "чести",
+        "lexem": "честь",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Sgtm sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "свидания",
+        "lexem": "свидание",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "вами",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "завтра",
+        "lexem": "завтра",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "по",
+        "lexem": "по",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "делам",
+        "lexem": "дело",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,datv')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "помешать",
+        "lexem": "помешать",
+        "tags": "OpencorporaTag('INFN,perf,intr')"
+      },
+      {
+        "word": "помешать",
+        "lexem": "помешать",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "родственному",
+        "lexem": "родственный",
+        "tags": "OpencorporaTag('ADJF neut,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "свиданию",
+        "lexem": "свидание",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "вашему",
+        "lexem": "ваш",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "вашим",
+        "lexem": "ваш",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "сыном",
+        "lexem": "сын",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "авдотьи",
+        "lexem": "авдотья",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "романовны",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,gent')"
+      },
+      {
+        "word": "романовны",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,accs')"
+      },
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "братом",
+        "lexem": "брат",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,ablt')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      20,
+      19,
+      "опред",
+      "свиданию",
+      "родственному"
+    ],
+    [
+      20,
+      21,
+      "опред",
+      "свиданию",
+      "вашему"
+    ],
+    [
+      24,
+      23,
+      "опред",
+      "сыном",
+      "вашим"
+    ],
+    [
+      26,
+      27,
+      "аппоз",
+      "авдотьи",
+      "романовны"
+    ],
+    [
+      26,
+      27,
+      "аппоз",
+      "авдотьи",
+      "романовны"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "с",
+      "вами"
+    ],
+    [
+      11,
+      14,
+      "предл",
+      "по",
+      "делам"
+    ],
+    [
+      22,
+      24,
+      "предл",
+      "с",
+      "сыном"
+    ],
+    [
+      28,
+      29,
+      "предл",
+      "с",
+      "её"
+    ],
+    [
+      28,
+      29,
+      "предл",
+      "с",
+      "её"
+    ],
+    [
+      18,
+      17,
+      "огранич",
+      "помешать",
+      "не"
+    ],
+    [
+      3,
+      4,
+      "атриб",
+      "чести",
+      "свидания"
+    ],
+    [
+      27,
+      28,
+      "атриб",
+      "романовны",
+      "с"
+    ],
+    [
+      1,
+      2,
+      "1-компл",
+      "лишу",
+      "себя"
+    ],
+    [
+      1,
+      3,
+      "1-компл",
+      "лишу",
+      "чести"
+    ],
+    [
+      18,
+      11,
+      "1-компл",
+      "помешать",
+      "по"
+    ],
+    [
+      18,
+      20,
+      "1-компл",
+      "помешать",
+      "свиданию"
+    ],
+    [
+      18,
+      22,
+      "1-компл",
+      "помешать",
+      "с"
+    ],
+    [
+      18,
+      30,
+      "1-компл",
+      "помешать",
+      "братом"
+    ],
+    [
+      1,
+      2,
+      "1-компл",
+      "лишу",
+      "себя"
+    ],
+    [
+      7,
+      18,
+      "соч-союзн",
+      "и",
+      "помешать"
+    ],
+    [
+      25,
+      26,
+      "соч-союзн",
+      "и",
+      "авдотьи"
+    ],
+    [
+      14,
+      15,
+      "сочин",
+      "делам",
+      "и"
+    ],
+    [
+      24,
+      25,
+      "сочин",
+      "сыном",
+      "и"
+    ],
+    [
+      1,
+      0,
+      "обст",
+      "лишу",
+      "равномерно"
+    ],
+    [
+      1,
+      5,
+      "обст",
+      "лишу",
+      "с"
+    ],
+    [
+      18,
+      22,
+      "обст",
+      "помешать",
+      "с"
+    ],
+    [
+      18,
+      8,
+      "обст",
+      "помешать",
+      "завтра"
+    ]
+  ]
+}

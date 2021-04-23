@@ -1,0 +1,36 @@
+{
+  "sentence": "Ничего, пойду.",
+  "tokens": [
+    "Ничего",
+    ",",
+    "пойду",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "ничего",
+        "lexem": "ничего",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "пойду",
+        "lexem": "пойти",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,1per,futr,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      0,
+      "предик",
+      "пойду",
+      "ничего"
+    ]
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "sentence": "Она говорит... она бог знает что говорит и не объясняет мне цели!",
+  "tokens": [
+    "Она",
+    "говорит",
+    "...",
+    "она",
+    "бог",
+    "знает",
+    "что",
+    "говорит",
+    "и",
+    "не",
+    "объясняет",
+    "мне",
+    "цели",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "она",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "говорит",
+        "lexem": "говорить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "бог",
+        "lexem": "бог",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "знает",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "говорит",
+        "lexem": "говорить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "объясняет",
+        "lexem": "объяснять",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "мне",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "цели",
+        "lexem": "цель",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      },
+      {
+        "word": "цели",
+        "lexem": "цель",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      },
+      {
+        "word": "цели",
+        "lexem": "целить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,impr,excl')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      10,
+      9,
+      "огранич",
+      "объясняет",
+      "не"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "говорит",
+      "она"
+    ],
+    [
+      5,
+      4,
+      "предик",
+      "знает",
+      "бог"
+    ],
+    [
+      7,
+      6,
+      "предик",
+      "говорит",
+      "что"
+    ],
+    [
+      10,
+      11,
+      "1-компл",
+      "объясняет",
+      "мне"
+    ],
+    [
+      10,
+      12,
+      "1-компл",
+      "объясняет",
+      "цели"
+    ],
+    [
+      10,
+      12,
+      "1-компл",
+      "объясняет",
+      "цели"
+    ],
+    [
+      8,
+      10,
+      "соч-союзн",
+      "и",
+      "объясняет"
+    ],
+    [
+      7,
+      8,
+      "сочин",
+      "говорит",
+      "и"
+    ]
+  ]
+}

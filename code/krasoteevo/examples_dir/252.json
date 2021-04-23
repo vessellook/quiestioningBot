@@ -1,0 +1,173 @@
+{
+  "sentence": "— Кстати, имеешь ты какое-нибудь влияние на тех-то, на мать да сестру?",
+  "tokens": [
+    "—",
+    "Кстати",
+    ",",
+    "имеешь",
+    "ты",
+    "какое-нибудь",
+    "влияние",
+    "на",
+    "тех-то",
+    ",",
+    "на",
+    "мать",
+    "да",
+    "сестру",
+    "?"
+  ],
+  "morphs": [
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "имеешь",
+        "lexem": "иметь",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,2per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "ты",
+        "lexem": "ты",
+        "tags": "OpencorporaTag('NPRO,2per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "какое-нибудь",
+        "lexem": "какой-нибудь",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "влияние",
+        "lexem": "влияние",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тех-то",
+        "lexem": "тот-то",
+        "tags": "OpencorporaTag('ADJF,Apro plur,gent')"
+      },
+      {
+        "word": "тех-то",
+        "lexem": "тот-то",
+        "tags": "OpencorporaTag('ADJF,Apro anim,plur,accs')"
+      },
+      {
+        "word": "тех-то",
+        "lexem": "тот-то",
+        "tags": "OpencorporaTag('ADJF,Apro plur,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "мать",
+        "lexem": "мать",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "сестру",
+        "lexem": "сестра",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      6,
+      5,
+      "опред",
+      "влияние",
+      "какое-нибудь"
+    ],
+    [
+      10,
+      11,
+      "предл",
+      "на",
+      "мать"
+    ],
+    [
+      3,
+      4,
+      "предик",
+      "имеешь",
+      "ты"
+    ],
+    [
+      3,
+      6,
+      "1-компл",
+      "имеешь",
+      "влияние"
+    ],
+    [
+      3,
+      8,
+      "1-компл",
+      "имеешь",
+      "тех-то"
+    ],
+    [
+      3,
+      8,
+      "1-компл",
+      "имеешь",
+      "тех-то"
+    ],
+    [
+      3,
+      8,
+      "1-компл",
+      "имеешь",
+      "тех-то"
+    ],
+    [
+      3,
+      10,
+      "1-компл",
+      "имеешь",
+      "на"
+    ],
+    [
+      3,
+      13,
+      "1-компл",
+      "имеешь",
+      "сестру"
+    ],
+    [
+      3,
+      7,
+      "обст",
+      "имеешь",
+      "на"
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sentence": "— Так что ж, что Порфирию?",
+  "tokens": [
+    "—",
+    "Так",
+    "что",
+    "ж",
+    ",",
+    "что",
+    "Порфирию",
+    "?"
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      },
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      },
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      5,
+      "сочин",
+      "что",
+      "что"
+    ],
+    [
+      2,
+      5,
+      "сочин",
+      "что",
+      "что"
+    ]
+  ]
+}

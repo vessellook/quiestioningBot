@@ -1,0 +1,177 @@
+{
+  "sentence": "Авдотья Романовна не могла не рассмеяться, на него глядя.",
+  "tokens": [
+    "Авдотья",
+    "Романовна",
+    "не",
+    "могла",
+    "не",
+    "рассмеяться",
+    ",",
+    "на",
+    "него",
+    "глядя",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "авдотья",
+        "lexem": "авдотья",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "романовна",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "могла",
+        "lexem": "мочь",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "рассмеяться",
+        "lexem": "рассмеяться",
+        "tags": "OpencorporaTag('INFN,perf,intr')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "него",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,accs,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "глядя",
+        "lexem": "глядеть",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      0,
+      1,
+      "аппоз",
+      "авдотья",
+      "романовна"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "на",
+      "него"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "на",
+      "него"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "на",
+      "него"
+    ],
+    [
+      7,
+      8,
+      "предл",
+      "на",
+      "него"
+    ],
+    [
+      3,
+      2,
+      "огранич",
+      "могла",
+      "не"
+    ],
+    [
+      5,
+      4,
+      "огранич",
+      "рассмеяться",
+      "не"
+    ],
+    [
+      5,
+      9,
+      "обст",
+      "рассмеяться",
+      "глядя"
+    ],
+    [
+      3,
+      0,
+      "предик",
+      "могла",
+      "авдотья"
+    ],
+    [
+      5,
+      7,
+      "1-компл",
+      "рассмеяться",
+      "на"
+    ],
+    [
+      3,
+      5,
+      "обст",
+      "могла",
+      "рассмеяться"
+    ]
+  ]
+}

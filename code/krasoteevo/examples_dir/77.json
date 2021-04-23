@@ -1,0 +1,238 @@
+{
+  "sentence": "Ах, как хорош после комнаты зимний сырой воздух, пахнущий праздничным чадом из труб!",
+  "tokens": [
+    "Ах",
+    ",",
+    "как",
+    "хорош",
+    "после",
+    "комнаты",
+    "зимний",
+    "сырой",
+    "воздух",
+    ",",
+    "пахнущий",
+    "праздничным",
+    "чадом",
+    "из",
+    "труб",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('CONJ')"
+      },
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "хорош",
+        "lexem": "хороший",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [
+      {
+        "word": "после",
+        "lexem": "после",
+        "tags": "OpencorporaTag('PREP')"
+      },
+      {
+        "word": "после",
+        "lexem": "после",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "комнаты",
+        "lexem": "комната",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "комнаты",
+        "lexem": "комната",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "зимний",
+        "lexem": "зимний",
+        "tags": "OpencorporaTag('ADJF inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "сырой",
+        "lexem": "сырой",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "воздух",
+        "lexem": "воздух",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "пахнущий",
+        "lexem": "пахнуть",
+        "tags": "OpencorporaTag('PRTF,impf,intr,pres,actv masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "праздничным",
+        "lexem": "праздничный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "чадом",
+        "lexem": "чадо",
+        "tags": "OpencorporaTag('NOUN,anim,neut sing,ablt')"
+      },
+      {
+        "word": "чадом",
+        "lexem": "чад",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "труб",
+        "lexem": "труба",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      7,
+      "опред",
+      "комнаты",
+      "сырой"
+    ],
+    [
+      8,
+      10,
+      "опред",
+      "воздух",
+      "пахнущий"
+    ],
+    [
+      12,
+      11,
+      "опред",
+      "чадом",
+      "праздничным"
+    ],
+    [
+      12,
+      13,
+      "элект",
+      "чадом",
+      "из"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "после",
+      "комнаты"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "после",
+      "комнаты"
+    ],
+    [
+      13,
+      14,
+      "предл",
+      "из",
+      "труб"
+    ],
+    [
+      3,
+      8,
+      "предик",
+      "хорош",
+      "воздух"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "хорош",
+      "после"
+    ],
+    [
+      10,
+      12,
+      "1-компл",
+      "пахнущий",
+      "чадом"
+    ],
+    [
+      10,
+      12,
+      "1-компл",
+      "пахнущий",
+      "чадом"
+    ],
+    [
+      2,
+      3,
+      "подч-союзн",
+      "как",
+      "хорош"
+    ],
+    [
+      2,
+      3,
+      "подч-союзн",
+      "как",
+      "хорош"
+    ],
+    [
+      3,
+      4,
+      "обст",
+      "хорош",
+      "после"
+    ],
+    [
+      3,
+      4,
+      "обст",
+      "хорош",
+      "после"
+    ]
+  ]
+}

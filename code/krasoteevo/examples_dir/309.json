@@ -1,0 +1,826 @@
+{
+  "sentence": "Будь Авдотья Романовна одета как королева, то, кажется, он бы ее совсем не боялся; теперь же, может, именно потому, что она так бедно одета и что он заметил всю эту скаредную обстановку, в сердце его вселился страх, и он стал бояться за каждое слово свое, за каждый жест, что было, конечно, стеснительно для человека, и без того себе не доверявшего.",
+  "tokens": [
+    "Будь",
+    "Авдотья",
+    "Романовна",
+    "одета",
+    "как",
+    "королева",
+    ",",
+    "то",
+    ",",
+    "кажется",
+    ",",
+    "он",
+    "бы",
+    "ее",
+    "совсем",
+    "не",
+    "боялся",
+    ";",
+    "теперь",
+    "же",
+    ",",
+    "может",
+    ",",
+    "именно",
+    "потому",
+    ",",
+    "что",
+    "она",
+    "так",
+    "бедно",
+    "одета",
+    "и",
+    "что",
+    "он",
+    "заметил",
+    "всю",
+    "эту",
+    "скаредную",
+    "обстановку",
+    ",",
+    "в",
+    "сердце",
+    "его",
+    "вселился",
+    "страх",
+    ",",
+    "и",
+    "он",
+    "стал",
+    "бояться",
+    "за",
+    "каждое",
+    "слово",
+    "свое",
+    ",",
+    "за",
+    "каждый",
+    "жест",
+    ",",
+    "что",
+    "было",
+    ",",
+    "конечно",
+    ",",
+    "стеснительно",
+    "для",
+    "человека",
+    ",",
+    "и",
+    "без",
+    "того",
+    "себе",
+    "не",
+    "доверявшего",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "будь",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,impr,excl')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "романовна",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "одета",
+        "lexem": "одетый",
+        "tags": "OpencorporaTag('ADJS,Qual femn,sing')"
+      },
+      {
+        "word": "одета",
+        "lexem": "одеть",
+        "tags": "OpencorporaTag('PRTS,perf,past,pssv femn,sing')"
+      }
+    ],
+    [
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "королева",
+        "lexem": "королева",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "кажется",
+        "lexem": "казаться",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "совсем",
+        "lexem": "совсем",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "боялся",
+        "lexem": "бояться",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "теперь",
+        "lexem": "теперь",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "же",
+        "lexem": "же",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "может",
+        "lexem": "мочь",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "она",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "бедно",
+        "lexem": "бедно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "одета",
+        "lexem": "одетый",
+        "tags": "OpencorporaTag('ADJS,Qual femn,sing')"
+      },
+      {
+        "word": "одета",
+        "lexem": "одеть",
+        "tags": "OpencorporaTag('PRTS,perf,past,pssv femn,sing')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "заметил",
+        "lexem": "заметить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "всю",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro femn,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "эту",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "скаредную",
+        "lexem": "скаредный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "обстановку",
+        "lexem": "обстановка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "сердце",
+        "lexem": "сердце",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "вселился",
+        "lexem": "вселиться",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "страх",
+        "lexem": "страх",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      },
+      {
+        "word": "страх",
+        "lexem": "страх",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "стал",
+        "lexem": "стать",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "бояться",
+        "lexem": "бояться",
+        "tags": "OpencorporaTag('INFN,impf,intr')"
+      }
+    ],
+    [
+      {
+        "word": "за",
+        "lexem": "за",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "каждое",
+        "lexem": "каждый",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "слово",
+        "lexem": "слово",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "своё",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph neut,sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "за",
+        "lexem": "за",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "каждый",
+        "lexem": "каждый",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "жест",
+        "lexem": "жест",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "конечно",
+        "lexem": "конечный",
+        "tags": "OpencorporaTag('ADJS,Qual neut,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "стеснительно",
+        "lexem": "стеснительно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "для",
+        "lexem": "длить",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "без",
+        "lexem": "без",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "того",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph masc,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "себе",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "доверявшего",
+        "lexem": "доверять",
+        "tags": "OpencorporaTag('PRTF,impf,tran,past,actv masc,sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      38,
+      37,
+      "опред",
+      "обстановку",
+      "скаредную"
+    ],
+    [
+      38,
+      35,
+      "опред",
+      "обстановку",
+      "всю"
+    ],
+    [
+      38,
+      36,
+      "опред",
+      "обстановку",
+      "эту"
+    ],
+    [
+      52,
+      51,
+      "опред",
+      "слово",
+      "каждое"
+    ],
+    [
+      52,
+      53,
+      "опред",
+      "слово",
+      "своё"
+    ],
+    [
+      57,
+      56,
+      "опред",
+      "жест",
+      "каждый"
+    ],
+    [
+      18,
+      19,
+      "огранич",
+      "теперь",
+      "же"
+    ],
+    [
+      16,
+      15,
+      "огранич",
+      "боялся",
+      "не"
+    ],
+    [
+      73,
+      72,
+      "огранич",
+      "доверявшего",
+      "не"
+    ],
+    [
+      62,
+      65,
+      "обст",
+      "конечно",
+      "для"
+    ],
+    [
+      41,
+      42,
+      "атриб",
+      "сердце",
+      "его"
+    ],
+    [
+      3,
+      2,
+      "предик",
+      "одета",
+      "романовна"
+    ],
+    [
+      9,
+      5,
+      "предик",
+      "кажется",
+      "королева"
+    ],
+    [
+      16,
+      11,
+      "предик",
+      "боялся",
+      "он"
+    ],
+    [
+      30,
+      26,
+      "предик",
+      "одета",
+      "что"
+    ],
+    [
+      30,
+      27,
+      "предик",
+      "одета",
+      "она"
+    ],
+    [
+      34,
+      33,
+      "предик",
+      "заметил",
+      "он"
+    ],
+    [
+      43,
+      41,
+      "предик",
+      "вселился",
+      "сердце"
+    ],
+    [
+      48,
+      47,
+      "предик",
+      "стал",
+      "он"
+    ],
+    [
+      60,
+      59,
+      "предик",
+      "было",
+      "что"
+    ],
+    [
+      9,
+      7,
+      "1-компл",
+      "кажется",
+      "то"
+    ],
+    [
+      34,
+      32,
+      "1-компл",
+      "заметил",
+      "что"
+    ],
+    [
+      34,
+      38,
+      "1-компл",
+      "заметил",
+      "обстановку"
+    ],
+    [
+      43,
+      40,
+      "1-компл",
+      "вселился",
+      "в"
+    ],
+    [
+      43,
+      44,
+      "1-компл",
+      "вселился",
+      "страх"
+    ],
+    [
+      48,
+      70,
+      "1-компл",
+      "стал",
+      "того"
+    ],
+    [
+      60,
+      55,
+      "1-компл",
+      "было",
+      "за"
+    ],
+    [
+      16,
+      13,
+      "1-компл",
+      "боялся",
+      "её"
+    ],
+    [
+      31,
+      34,
+      "соч-союзн",
+      "и",
+      "заметил"
+    ],
+    [
+      46,
+      48,
+      "соч-союзн",
+      "и",
+      "стал"
+    ],
+    [
+      68,
+      71,
+      "соч-союзн",
+      "и",
+      "себе"
+    ],
+    [
+      9,
+      21,
+      "сочин",
+      "кажется",
+      "может"
+    ],
+    [
+      34,
+      43,
+      "сочин",
+      "заметил",
+      "вселился"
+    ],
+    [
+      21,
+      31,
+      "сочин",
+      "может",
+      "и"
+    ],
+    [
+      43,
+      46,
+      "сочин",
+      "вселился",
+      "и"
+    ],
+    [
+      16,
+      14,
+      "обст",
+      "боялся",
+      "совсем"
+    ],
+    [
+      30,
+      28,
+      "обст",
+      "одета",
+      "так"
+    ],
+    [
+      30,
+      29,
+      "обст",
+      "одета",
+      "бедно"
+    ],
+    [
+      43,
+      44,
+      "обст",
+      "вселился",
+      "страх"
+    ],
+    [
+      49,
+      50,
+      "обст",
+      "бояться",
+      "за"
+    ],
+    [
+      65,
+      64,
+      "обст",
+      "для",
+      "стеснительно"
+    ],
+    [
+      73,
+      69,
+      "обст",
+      "доверявшего",
+      "без"
+    ],
+    [
+      48,
+      49,
+      "обст",
+      "стал",
+      "бояться"
+    ],
+    [
+      3,
+      4,
+      "сравнит",
+      "одета",
+      "как"
+    ],
+    [
+      60,
+      52,
+      "присвяз",
+      "было",
+      "слово"
+    ],
+    [
+      60,
+      57,
+      "присвяз",
+      "было",
+      "жест"
+    ]
+  ]
+}

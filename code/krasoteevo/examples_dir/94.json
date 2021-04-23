@@ -1,0 +1,112 @@
+{
+  "sentence": "Вот сию минуту вдруг войдет коридорный:\n   - Подано, Николай Николаич!",
+  "tokens": [
+    "Вот",
+    "сию",
+    "минуту",
+    "вдруг",
+    "войдет",
+    "коридорный",
+    ":",
+    "-",
+    "Подано",
+    ",",
+    "Николай",
+    "Николаич",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "сию",
+        "lexem": "сей",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro femn,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "минуту",
+        "lexem": "минута",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "вдруг",
+        "lexem": "вдруг",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "войдёт",
+        "lexem": "войти",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,3per,futr,indc')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "подано",
+        "lexem": "подать",
+        "tags": "OpencorporaTag('PRTS,perf,past,pssv neut,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "николай",
+        "lexem": "николай",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "николаич",
+        "lexem": "николаевич",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr,Infr sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      1,
+      "опред",
+      "минуту",
+      "сию"
+    ],
+    [
+      10,
+      11,
+      "аппоз",
+      "николай",
+      "николаич"
+    ],
+    [
+      8,
+      10,
+      "предик",
+      "подано",
+      "николай"
+    ],
+    [
+      4,
+      2,
+      "1-компл",
+      "войдёт",
+      "минуту"
+    ],
+    [
+      4,
+      3,
+      "обст",
+      "войдёт",
+      "вдруг"
+    ]
+  ]
+}

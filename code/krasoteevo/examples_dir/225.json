@@ -1,0 +1,154 @@
+{
+  "sentence": "Ты, как доктор, разумеется, больше меня прав имеешь.",
+  "tokens": [
+    "Ты",
+    ",",
+    "как",
+    "доктор",
+    ",",
+    "разумеется",
+    ",",
+    "больше",
+    "меня",
+    "прав",
+    "имеешь",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "ты",
+        "lexem": "ты",
+        "tags": "OpencorporaTag('NPRO,2per sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "доктор",
+        "lexem": "доктор",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "разумеется",
+        "lexem": "разуметься",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "больше",
+        "lexem": "большой",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      },
+      {
+        "word": "больше",
+        "lexem": "больше",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "прав",
+        "lexem": "право",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,gent')"
+      },
+      {
+        "word": "прав",
+        "lexem": "правый",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [
+      {
+        "word": "имеешь",
+        "lexem": "иметь",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,2per,pres,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      0,
+      3,
+      "об-аппоз",
+      "ты",
+      "доктор"
+    ],
+    [
+      5,
+      0,
+      "предик",
+      "разумеется",
+      "ты"
+    ],
+    [
+      7,
+      8,
+      "1-компл",
+      "больше",
+      "меня"
+    ],
+    [
+      2,
+      3,
+      "подч-союзн",
+      "как",
+      "доктор"
+    ],
+    [
+      5,
+      10,
+      "сочин",
+      "разумеется",
+      "имеешь"
+    ],
+    [
+      9,
+      7,
+      "обст",
+      "прав",
+      "больше"
+    ],
+    [
+      7,
+      8,
+      "сравнит",
+      "больше",
+      "меня"
+    ],
+    [
+      7,
+      9,
+      "сравнит",
+      "больше",
+      "прав"
+    ],
+    [
+      2,
+      3,
+      "сравн-союзн",
+      "как",
+      "доктор"
+    ]
+  ]
+}

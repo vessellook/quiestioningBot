@@ -1,0 +1,605 @@
+{
+  "sentence": "Когда жар спадал и мы открывали окно, часть моря, видная из него между кипарисов, стоявших на скате под нами, имела цвет фиалки и лежала так ровно, мирно, что, казалось, никогда не будет конца этому покою, этой красоте.",
+  "tokens": [
+    "Когда",
+    "жар",
+    "спадал",
+    "и",
+    "мы",
+    "открывали",
+    "окно",
+    ",",
+    "часть",
+    "моря",
+    ",",
+    "видная",
+    "из",
+    "него",
+    "между",
+    "кипарисов",
+    ",",
+    "стоявших",
+    "на",
+    "скате",
+    "под",
+    "нами",
+    ",",
+    "имела",
+    "цвет",
+    "фиалки",
+    "и",
+    "лежала",
+    "так",
+    "ровно",
+    ",",
+    "мирно",
+    ",",
+    "что",
+    ",",
+    "казалось",
+    ",",
+    "никогда",
+    "не",
+    "будет",
+    "конца",
+    "этому",
+    "покою",
+    ",",
+    "этой",
+    "красоте",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "жар",
+        "lexem": "жар",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "спадал",
+        "lexem": "спадать",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "мы",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "открывали",
+        "lexem": "открывать",
+        "tags": "OpencorporaTag('VERB,impf,tran plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "окно",
+        "lexem": "окно",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "часть",
+        "lexem": "часть",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "моря",
+        "lexem": "морить",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "него",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "между",
+        "lexem": "между",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "кипарисов",
+        "lexem": "кипарисовый",
+        "tags": "OpencorporaTag('ADJS masc,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "стоявших",
+        "lexem": "стоять",
+        "tags": "OpencorporaTag('PRTF,impf,intr,past,actv plur,gent')"
+      },
+      {
+        "word": "стоявших",
+        "lexem": "стоять",
+        "tags": "OpencorporaTag('PRTF,impf,intr,past,actv anim,plur,accs')"
+      },
+      {
+        "word": "стоявших",
+        "lexem": "стоять",
+        "tags": "OpencorporaTag('PRTF,impf,intr,past,actv plur,loct')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "скате",
+        "lexem": "скат",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loct')"
+      },
+      {
+        "word": "скате",
+        "lexem": "скат",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "под",
+        "lexem": "под",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нами",
+        "lexem": "мы",
+        "tags": "OpencorporaTag('NPRO,1per plur,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "имела",
+        "lexem": "иметь",
+        "tags": "OpencorporaTag('VERB,impf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "цвет",
+        "lexem": "цвет",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "фиалки",
+        "lexem": "фиалка",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "лежала",
+        "lexem": "лежать",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "ровно",
+        "lexem": "ровно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "казалось",
+        "lexem": "казаться",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "никогда",
+        "lexem": "никогда",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "будет",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "конца",
+        "lexem": "конец",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "этому",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph masc,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "покою",
+        "lexem": "покой",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,datv')"
+      },
+      {
+        "word": "покою",
+        "lexem": "покоить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "этой",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "красоте",
+        "lexem": "красота",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      42,
+      41,
+      "опред",
+      "покою",
+      "этому"
+    ],
+    [
+      45,
+      44,
+      "опред",
+      "красоте",
+      "этой"
+    ],
+    [
+      23,
+      21,
+      "агент",
+      "имела",
+      "нами"
+    ],
+    [
+      12,
+      13,
+      "предл",
+      "из",
+      "него"
+    ],
+    [
+      12,
+      13,
+      "предл",
+      "из",
+      "него"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "на",
+      "скате"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "на",
+      "скате"
+    ],
+    [
+      6,
+      8,
+      "об-аппоз",
+      "окно",
+      "часть"
+    ],
+    [
+      39,
+      38,
+      "огранич",
+      "будет",
+      "не"
+    ],
+    [
+      5,
+      9,
+      "обст",
+      "открывали",
+      "моря"
+    ],
+    [
+      24,
+      25,
+      "атриб",
+      "цвет",
+      "фиалки"
+    ],
+    [
+      2,
+      1,
+      "предик",
+      "спадал",
+      "жар"
+    ],
+    [
+      5,
+      4,
+      "предик",
+      "открывали",
+      "мы"
+    ],
+    [
+      15,
+      6,
+      "предик",
+      "кипарисов",
+      "окно"
+    ],
+    [
+      23,
+      24,
+      "предик",
+      "имела",
+      "цвет"
+    ],
+    [
+      35,
+      33,
+      "предик",
+      "казалось",
+      "что"
+    ],
+    [
+      15,
+      14,
+      "1-компл",
+      "кипарисов",
+      "между"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "стоявших",
+      "на"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "стоявших",
+      "на"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "стоявших",
+      "на"
+    ],
+    [
+      3,
+      5,
+      "соч-союзн",
+      "и",
+      "открывали"
+    ],
+    [
+      26,
+      27,
+      "соч-союзн",
+      "и",
+      "лежала"
+    ],
+    [
+      5,
+      23,
+      "сочин",
+      "открывали",
+      "имела"
+    ],
+    [
+      27,
+      35,
+      "сочин",
+      "лежала",
+      "казалось"
+    ],
+    [
+      2,
+      3,
+      "сочин",
+      "спадал",
+      "и"
+    ],
+    [
+      23,
+      26,
+      "сочин",
+      "имела",
+      "и"
+    ],
+    [
+      6,
+      8,
+      "сочин",
+      "окно",
+      "часть"
+    ],
+    [
+      15,
+      12,
+      "обст",
+      "кипарисов",
+      "из"
+    ],
+    [
+      17,
+      18,
+      "обст",
+      "стоявших",
+      "на"
+    ],
+    [
+      17,
+      18,
+      "обст",
+      "стоявших",
+      "на"
+    ],
+    [
+      17,
+      18,
+      "обст",
+      "стоявших",
+      "на"
+    ],
+    [
+      17,
+      20,
+      "обст",
+      "стоявших",
+      "под"
+    ],
+    [
+      17,
+      20,
+      "обст",
+      "стоявших",
+      "под"
+    ],
+    [
+      17,
+      20,
+      "обст",
+      "стоявших",
+      "под"
+    ],
+    [
+      27,
+      28,
+      "обст",
+      "лежала",
+      "так"
+    ],
+    [
+      27,
+      29,
+      "обст",
+      "лежала",
+      "ровно"
+    ],
+    [
+      35,
+      37,
+      "обст",
+      "казалось",
+      "никогда"
+    ],
+    [
+      39,
+      40,
+      "присвяз",
+      "будет",
+      "конца"
+    ],
+    [
+      39,
+      45,
+      "присвяз",
+      "будет",
+      "красоте"
+    ]
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sentence": "— Сговорятся! — неохотно ответил Разумихин.",
+  "tokens": [
+    "—",
+    "Сговорятся",
+    "!",
+    "—",
+    "неохотно",
+    "ответил",
+    "Разумихин",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "сговорятся",
+        "lexem": "сговориться",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,3per,futr,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "неохотно",
+        "lexem": "неохотно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "ответил",
+        "lexem": "ответить",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "разумихин",
+        "lexem": "разумихин",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      6,
+      "предик",
+      "ответил",
+      "разумихин"
+    ],
+    [
+      5,
+      4,
+      "обст",
+      "ответил",
+      "неохотно"
+    ]
+  ]
+}

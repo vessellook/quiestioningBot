@@ -1,0 +1,807 @@
+{
+  "sentence": "Самым ужаснейшим воспоминанием его было то, как он оказался вчера «низок и гадок», не по тому одному, что был пьян, а потому, что ругал перед девушкой, пользуясь ее положением, из глупо-поспешной ревности, ее жениха, не зная не только их взаимных между собой отношений и обязательств, но даже и человека-то не зная порядочно.",
+  "tokens": [
+    "Самым",
+    "ужаснейшим",
+    "воспоминанием",
+    "его",
+    "было",
+    "то",
+    ",",
+    "как",
+    "он",
+    "оказался",
+    "вчера",
+    "«",
+    "низок",
+    "и",
+    "гадок",
+    "»",
+    ",",
+    "не",
+    "по",
+    "тому",
+    "одному",
+    ",",
+    "что",
+    "был",
+    "пьян",
+    ",",
+    "а",
+    "потому",
+    ",",
+    "что",
+    "ругал",
+    "перед",
+    "девушкой",
+    ",",
+    "пользуясь",
+    "ее",
+    "положением",
+    ",",
+    "из",
+    "глупо-поспешной",
+    "ревности",
+    ",",
+    "ее",
+    "жениха",
+    ",",
+    "не",
+    "зная",
+    "не",
+    "только",
+    "их",
+    "взаимных",
+    "между",
+    "собой",
+    "отношений",
+    "и",
+    "обязательств",
+    ",",
+    "но",
+    "даже",
+    "и",
+    "человека-то",
+    "не",
+    "зная",
+    "порядочно",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "самым",
+        "lexem": "самый",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "ужаснейшим",
+        "lexem": "ужасный",
+        "tags": "OpencorporaTag('ADJF,Supr,Qual neut,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "воспоминанием",
+        "lexem": "воспоминание",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('CONJ')"
+      },
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "оказался",
+        "lexem": "оказаться",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "вчера",
+        "lexem": "вчера",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "низок",
+        "lexem": "низкий",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      },
+      {
+        "word": "низок",
+        "lexem": "низок",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      },
+      {
+        "word": "низок",
+        "lexem": "низок",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "гадок",
+        "lexem": "гадкий",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "по",
+        "lexem": "по",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тому",
+        "lexem": "том",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "одному",
+        "lexem": "один",
+        "tags": "OpencorporaTag('ADJF,Apro,Anum masc,sing,datv')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "был",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "пьян",
+        "lexem": "пьяный",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "ругал",
+        "lexem": "ругать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "перед",
+        "lexem": "перед",
+        "tags": "OpencorporaTag('PREP')"
+      },
+      {
+        "word": "перёд",
+        "lexem": "перёд",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "девушкой",
+        "lexem": "девушка",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "пользуясь",
+        "lexem": "пользоваться",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    [
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "положением",
+        "lexem": "положение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "глупо-поспешной",
+        "lexem": "глупо-поспешный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "ревности",
+        "lexem": "ревность",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "её",
+        "lexem": "её",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "жениха",
+        "lexem": "жених",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "зная",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "только",
+        "lexem": "только",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "их",
+        "lexem": "их",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph masc,sing,datv')"
+      },
+      {
+        "word": "их",
+        "lexem": "их",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph masc,sing,accs')"
+      },
+      {
+        "word": "их",
+        "lexem": "их",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph masc,sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "между",
+        "lexem": "между",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "собой",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "отношений",
+        "lexem": "отношение",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "обязательств",
+        "lexem": "обязательство",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,gent')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "человека-то",
+        "lexem": "человек-то",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "зная",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [
+      {
+        "word": "порядочно",
+        "lexem": "порядочно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      1,
+      "опред",
+      "воспоминанием",
+      "ужаснейшим"
+    ],
+    [
+      40,
+      39,
+      "опред",
+      "ревности",
+      "глупо-поспешной"
+    ],
+    [
+      2,
+      0,
+      "опред",
+      "воспоминанием",
+      "самым"
+    ],
+    [
+      19,
+      20,
+      "опред",
+      "тому",
+      "одному"
+    ],
+    [
+      40,
+      42,
+      "опред",
+      "ревности",
+      "её"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "по",
+      "тому"
+    ],
+    [
+      31,
+      32,
+      "предл",
+      "перед",
+      "девушкой"
+    ],
+    [
+      51,
+      52,
+      "предл",
+      "между",
+      "собой"
+    ],
+    [
+      32,
+      36,
+      "об-аппоз",
+      "девушкой",
+      "положением"
+    ],
+    [
+      18,
+      17,
+      "огранич",
+      "по",
+      "не"
+    ],
+    [
+      46,
+      45,
+      "огранич",
+      "зная",
+      "не"
+    ],
+    [
+      48,
+      47,
+      "огранич",
+      "только",
+      "не"
+    ],
+    [
+      62,
+      61,
+      "огранич",
+      "зная",
+      "не"
+    ],
+    [
+      30,
+      34,
+      "обст",
+      "ругал",
+      "пользуясь"
+    ],
+    [
+      30,
+      46,
+      "обст",
+      "ругал",
+      "зная"
+    ],
+    [
+      30,
+      62,
+      "обст",
+      "ругал",
+      "зная"
+    ],
+    [
+      2,
+      3,
+      "атриб",
+      "воспоминанием",
+      "его"
+    ],
+    [
+      9,
+      8,
+      "предик",
+      "оказался",
+      "он"
+    ],
+    [
+      23,
+      22,
+      "предик",
+      "был",
+      "что"
+    ],
+    [
+      30,
+      29,
+      "предик",
+      "ругал",
+      "что"
+    ],
+    [
+      4,
+      2,
+      "1-компл",
+      "было",
+      "воспоминанием"
+    ],
+    [
+      9,
+      12,
+      "1-компл",
+      "оказался",
+      "низок"
+    ],
+    [
+      14,
+      18,
+      "1-компл",
+      "гадок",
+      "по"
+    ],
+    [
+      30,
+      31,
+      "1-компл",
+      "ругал",
+      "перед"
+    ],
+    [
+      30,
+      31,
+      "1-компл",
+      "ругал",
+      "перёд"
+    ],
+    [
+      30,
+      49,
+      "1-компл",
+      "ругал",
+      "их"
+    ],
+    [
+      30,
+      49,
+      "1-компл",
+      "ругал",
+      "их"
+    ],
+    [
+      30,
+      49,
+      "1-компл",
+      "ругал",
+      "их"
+    ],
+    [
+      34,
+      38,
+      "1-компл",
+      "пользуясь",
+      "из"
+    ],
+    [
+      34,
+      43,
+      "1-компл",
+      "пользуясь",
+      "жениха"
+    ],
+    [
+      46,
+      51,
+      "1-компл",
+      "зная",
+      "между"
+    ],
+    [
+      34,
+      35,
+      "1-компл",
+      "пользуясь",
+      "её"
+    ],
+    [
+      7,
+      9,
+      "подч-союзн",
+      "как",
+      "оказался"
+    ],
+    [
+      7,
+      9,
+      "подч-союзн",
+      "как",
+      "оказался"
+    ],
+    [
+      13,
+      14,
+      "соч-союзн",
+      "и",
+      "гадок"
+    ],
+    [
+      26,
+      30,
+      "соч-союзн",
+      "а",
+      "ругал"
+    ],
+    [
+      54,
+      55,
+      "соч-союзн",
+      "и",
+      "обязательств"
+    ],
+    [
+      59,
+      60,
+      "соч-союзн",
+      "и",
+      "человека-то"
+    ],
+    [
+      14,
+      24,
+      "сочин",
+      "гадок",
+      "пьян"
+    ],
+    [
+      12,
+      13,
+      "сочин",
+      "низок",
+      "и"
+    ],
+    [
+      53,
+      54,
+      "сочин",
+      "отношений",
+      "и"
+    ],
+    [
+      9,
+      10,
+      "обст",
+      "оказался",
+      "вчера"
+    ],
+    [
+      30,
+      31,
+      "обст",
+      "ругал",
+      "перед"
+    ],
+    [
+      46,
+      51,
+      "обст",
+      "зная",
+      "между"
+    ],
+    [
+      62,
+      63,
+      "обст",
+      "зная",
+      "порядочно"
+    ],
+    [
+      9,
+      10,
+      "обст",
+      "оказался",
+      "вчера"
+    ],
+    [
+      19,
+      23,
+      "релят",
+      "тому",
+      "был"
+    ],
+    [
+      9,
+      12,
+      "присвяз",
+      "оказался",
+      "низок"
+    ],
+    [
+      9,
+      12,
+      "присвяз",
+      "оказался",
+      "низок"
+    ],
+    [
+      4,
+      5,
+      "сент-предик",
+      "было",
+      "то"
+    ]
+  ]
+}

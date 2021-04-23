@@ -1,0 +1,113 @@
+{
+  "sentence": "И кто звал его в судьи!",
+  "tokens": [
+    "И",
+    "кто",
+    "звал",
+    "его",
+    "в",
+    "судьи",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "кто",
+        "lexem": "кто",
+        "tags": "OpencorporaTag('NPRO,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "звал",
+        "lexem": "звать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,accs')"
+      },
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "судьи",
+        "lexem": "судья",
+        "tags": "OpencorporaTag('NOUN,anim,ms-f sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      5,
+      "предл",
+      "в",
+      "судьи"
+    ],
+    [
+      2,
+      1,
+      "предик",
+      "звал",
+      "кто"
+    ],
+    [
+      2,
+      3,
+      "1-компл",
+      "звал",
+      "его"
+    ],
+    [
+      2,
+      4,
+      "1-компл",
+      "звал",
+      "в"
+    ],
+    [
+      2,
+      3,
+      "1-компл",
+      "звал",
+      "его"
+    ],
+    [
+      0,
+      2,
+      "соч-союзн",
+      "и",
+      "звал"
+    ],
+    [
+      2,
+      4,
+      "обст",
+      "звал",
+      "в"
+    ]
+  ]
+}

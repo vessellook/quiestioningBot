@@ -1,0 +1,405 @@
+{
+  "sentence": "Заперлась, на мой бонжур сквозь двери не ответила, а сама в семь часов поднялась, самовар ей через коридор из кухни проносили...",
+  "tokens": [
+    "Заперлась",
+    ",",
+    "на",
+    "мой",
+    "бонжур",
+    "сквозь",
+    "двери",
+    "не",
+    "ответила",
+    ",",
+    "а",
+    "сама",
+    "в",
+    "семь",
+    "часов",
+    "поднялась",
+    ",",
+    "самовар",
+    "ей",
+    "через",
+    "коридор",
+    "из",
+    "кухни",
+    "проносили",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "заперлась",
+        "lexem": "запереться",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      },
+      {
+        "word": "запёрлась",
+        "lexem": "запереться",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc,Infr')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "мой",
+        "lexem": "мой",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      },
+      {
+        "word": "мой",
+        "lexem": "мой",
+        "tags": "OpencorporaTag('ADJF,Apro inan,masc,sing,accs')"
+      },
+      {
+        "word": "мой",
+        "lexem": "мыть",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,impr,excl')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "сквозь",
+        "lexem": "сквозь",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "двери",
+        "lexem": "дверь",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "ответила",
+        "lexem": "ответить",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "сама",
+        "lexem": "сам",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "семь",
+        "lexem": "семь",
+        "tags": "OpencorporaTag('NUMR accs')"
+      }
+    ],
+    [
+      {
+        "word": "часов",
+        "lexem": "час",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,gent')"
+      },
+      {
+        "word": "часов",
+        "lexem": "часы",
+        "tags": "OpencorporaTag('NOUN,inan,GNdr,Pltm plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "поднялась",
+        "lexem": "подняться",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "самовар",
+        "lexem": "самовар",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "ей",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "через",
+        "lexem": "через",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "коридор",
+        "lexem": "коридор",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "кухни",
+        "lexem": "кухня",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "кухни",
+        "lexem": "кухня",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "проносили",
+        "lexem": "проносить",
+        "tags": "OpencorporaTag('VERB,perf,tran plur,past,indc')"
+      },
+      {
+        "word": "проносили",
+        "lexem": "проносить",
+        "tags": "OpencorporaTag('VERB,impf,tran plur,past,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      14,
+      13,
+      "количест",
+      "часов",
+      "семь"
+    ],
+    [
+      20,
+      21,
+      "элект",
+      "коридор",
+      "из"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "сквозь",
+      "двери"
+    ],
+    [
+      12,
+      14,
+      "предл",
+      "в",
+      "часов"
+    ],
+    [
+      12,
+      14,
+      "предл",
+      "в",
+      "часов"
+    ],
+    [
+      19,
+      20,
+      "предл",
+      "через",
+      "коридор"
+    ],
+    [
+      21,
+      22,
+      "предл",
+      "из",
+      "кухни"
+    ],
+    [
+      21,
+      22,
+      "предл",
+      "из",
+      "кухни"
+    ],
+    [
+      8,
+      7,
+      "огранич",
+      "ответила",
+      "не"
+    ],
+    [
+      17,
+      18,
+      "атриб",
+      "самовар",
+      "ей"
+    ],
+    [
+      15,
+      17,
+      "предик",
+      "поднялась",
+      "самовар"
+    ],
+    [
+      0,
+      3,
+      "1-компл",
+      "заперлась",
+      "мой"
+    ],
+    [
+      0,
+      3,
+      "1-компл",
+      "заперлась",
+      "мой"
+    ],
+    [
+      0,
+      3,
+      "1-компл",
+      "запёрлась",
+      "мой"
+    ],
+    [
+      0,
+      3,
+      "1-компл",
+      "запёрлась",
+      "мой"
+    ],
+    [
+      3,
+      2,
+      "1-компл",
+      "мой",
+      "на"
+    ],
+    [
+      3,
+      5,
+      "1-компл",
+      "мой",
+      "сквозь"
+    ],
+    [
+      15,
+      11,
+      "1-компл",
+      "поднялась",
+      "сама"
+    ],
+    [
+      15,
+      12,
+      "1-компл",
+      "поднялась",
+      "в"
+    ],
+    [
+      15,
+      19,
+      "1-компл",
+      "поднялась",
+      "через"
+    ],
+    [
+      10,
+      15,
+      "соч-союзн",
+      "а",
+      "поднялась"
+    ],
+    [
+      0,
+      8,
+      "сочин",
+      "заперлась",
+      "ответила"
+    ],
+    [
+      0,
+      8,
+      "сочин",
+      "запёрлась",
+      "ответила"
+    ],
+    [
+      15,
+      23,
+      "сочин",
+      "поднялась",
+      "проносили"
+    ],
+    [
+      15,
+      23,
+      "сочин",
+      "поднялась",
+      "проносили"
+    ],
+    [
+      8,
+      10,
+      "сочин",
+      "ответила",
+      "а"
+    ],
+    [
+      3,
+      5,
+      "обст",
+      "мой",
+      "сквозь"
+    ],
+    [
+      23,
+      21,
+      "обст",
+      "проносили",
+      "из"
+    ]
+  ]
+}

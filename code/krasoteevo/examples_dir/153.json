@@ -1,0 +1,352 @@
+{
+  "sentence": "Дальше пошел безграничный простор нагих равнин с курганами и могильниками, нестерпимое сухое солнце, небо подобное пыльной туче, потом призраки первых гор на горизонте...",
+  "tokens": [
+    "Дальше",
+    "пошел",
+    "безграничный",
+    "простор",
+    "нагих",
+    "равнин",
+    "с",
+    "курганами",
+    "и",
+    "могильниками",
+    ",",
+    "нестерпимое",
+    "сухое",
+    "солнце",
+    ",",
+    "небо",
+    "подобное",
+    "пыльной",
+    "туче",
+    ",",
+    "потом",
+    "призраки",
+    "первых",
+    "гор",
+    "на",
+    "горизонте",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "дальше",
+        "lexem": "далёкий",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [
+      {
+        "word": "пошёл",
+        "lexem": "пойти",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "безграничный",
+        "lexem": "безграничный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "простор",
+        "lexem": "простор",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "нагих",
+        "lexem": "нагой",
+        "tags": "OpencorporaTag('ADJF plur,gent')"
+      },
+      {
+        "word": "нагих",
+        "lexem": "нагой",
+        "tags": "OpencorporaTag('ADJF anim,plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "равнин",
+        "lexem": "равнина",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "курганами",
+        "lexem": "курган",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "могильниками",
+        "lexem": "могильник",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "нестерпимое",
+        "lexem": "нестерпимый",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "сухое",
+        "lexem": "сухой",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "солнце",
+        "lexem": "солнце",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "небо",
+        "lexem": "небо",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      },
+      {
+        "word": "нёбо",
+        "lexem": "нёбо",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "подобное",
+        "lexem": "подобный",
+        "tags": "OpencorporaTag('ADJF,Subx,Qual neut,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "пыльной",
+        "lexem": "пыльный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "туче",
+        "lexem": "туча",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "призраки",
+        "lexem": "призрак",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "первых",
+        "lexem": "первый",
+        "tags": "OpencorporaTag('ADJF,Anum anim,plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "гор",
+        "lexem": "гора",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "горизонте",
+        "lexem": "горизонт",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loct')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      3,
+      2,
+      "опред",
+      "простор",
+      "безграничный"
+    ],
+    [
+      13,
+      11,
+      "опред",
+      "солнце",
+      "нестерпимое"
+    ],
+    [
+      13,
+      12,
+      "опред",
+      "солнце",
+      "сухое"
+    ],
+    [
+      15,
+      16,
+      "опред",
+      "небо",
+      "подобное"
+    ],
+    [
+      15,
+      16,
+      "опред",
+      "нёбо",
+      "подобное"
+    ],
+    [
+      18,
+      17,
+      "опред",
+      "туче",
+      "пыльной"
+    ],
+    [
+      21,
+      22,
+      "аппрокс-порядк",
+      "призраки",
+      "первых"
+    ],
+    [
+      6,
+      7,
+      "предл",
+      "с",
+      "курганами"
+    ],
+    [
+      24,
+      25,
+      "предл",
+      "на",
+      "горизонте"
+    ],
+    [
+      13,
+      15,
+      "об-аппоз",
+      "солнце",
+      "небо"
+    ],
+    [
+      13,
+      15,
+      "об-аппоз",
+      "солнце",
+      "нёбо"
+    ],
+    [
+      4,
+      5,
+      "атриб",
+      "нагих",
+      "равнин"
+    ],
+    [
+      4,
+      5,
+      "атриб",
+      "нагих",
+      "равнин"
+    ],
+    [
+      21,
+      23,
+      "атриб",
+      "призраки",
+      "гор"
+    ],
+    [
+      23,
+      24,
+      "атриб",
+      "гор",
+      "на"
+    ],
+    [
+      1,
+      3,
+      "предик",
+      "пошёл",
+      "простор"
+    ],
+    [
+      8,
+      9,
+      "соч-союзн",
+      "и",
+      "могильниками"
+    ],
+    [
+      13,
+      15,
+      "сочин",
+      "солнце",
+      "небо"
+    ],
+    [
+      13,
+      15,
+      "сочин",
+      "солнце",
+      "нёбо"
+    ],
+    [
+      7,
+      8,
+      "сочин",
+      "курганами",
+      "и"
+    ],
+    [
+      1,
+      6,
+      "обст",
+      "пошёл",
+      "с"
+    ]
+  ]
+}

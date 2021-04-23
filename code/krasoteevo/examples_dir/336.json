@@ -1,0 +1,106 @@
+{
+  "sentence": "Вообще в таком деле трудно судить.",
+  "tokens": [
+    "Вообще",
+    "в",
+    "таком",
+    "деле",
+    "трудно",
+    "судить",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "вообще",
+        "lexem": "вообще",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "таком",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "деле",
+        "lexem": "дело",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "трудно",
+        "lexem": "трудно",
+        "tags": "OpencorporaTag('ADVB,Prdx')"
+      },
+      {
+        "word": "трудно",
+        "lexem": "трудный",
+        "tags": "OpencorporaTag('ADJS,Qual neut,sing')"
+      }
+    ],
+    [
+      {
+        "word": "судить",
+        "lexem": "судить",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      3,
+      2,
+      "опред",
+      "деле",
+      "таком"
+    ],
+    [
+      1,
+      3,
+      "предл",
+      "в",
+      "деле"
+    ],
+    [
+      4,
+      5,
+      "предик",
+      "трудно",
+      "судить"
+    ],
+    [
+      4,
+      1,
+      "1-компл",
+      "трудно",
+      "в"
+    ],
+    [
+      4,
+      0,
+      "обст",
+      "трудно",
+      "вообще"
+    ],
+    [
+      5,
+      4,
+      "обст",
+      "судить",
+      "трудно"
+    ]
+  ]
+}

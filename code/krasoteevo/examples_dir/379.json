@@ -1,0 +1,326 @@
+{
+  "sentence": "А я так и письма-то не хотела ему показывать, и как-нибудь хитростью сделать, посредством вас, чтоб он не приходил... потому он такой раздражительный...",
+  "tokens": [
+    "А",
+    "я",
+    "так",
+    "и",
+    "письма-то",
+    "не",
+    "хотела",
+    "ему",
+    "показывать",
+    ",",
+    "и",
+    "как-нибудь",
+    "хитростью",
+    "сделать",
+    ",",
+    "посредством",
+    "вас",
+    ",",
+    "чтоб",
+    "он",
+    "не",
+    "приходил",
+    "...",
+    "потому",
+    "он",
+    "такой",
+    "раздражительный",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "письма-то",
+        "lexem": "письмо-то",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "хотела",
+        "lexem": "хотеть",
+        "tags": "OpencorporaTag('VERB,impf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "ему",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "показывать",
+        "lexem": "показывать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "хитростью",
+        "lexem": "хитрость",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "сделать",
+        "lexem": "сделать",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "посредством",
+        "lexem": "посредством",
+        "tags": "OpencorporaTag('PREP')"
+      },
+      {
+        "word": "посредством",
+        "lexem": "посредство",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "вас",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,accs')"
+      },
+      {
+        "word": "вас",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,gent')"
+      },
+      {
+        "word": "вас",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,loct')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "приходил",
+        "lexem": "приходить",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "потому",
+        "lexem": "потому",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "такой",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "раздражительный",
+        "lexem": "раздражительный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      24,
+      26,
+      "опред",
+      "он",
+      "раздражительный"
+    ],
+    [
+      24,
+      25,
+      "опред",
+      "он",
+      "такой"
+    ],
+    [
+      13,
+      12,
+      "агент",
+      "сделать",
+      "хитростью"
+    ],
+    [
+      13,
+      15,
+      "агент",
+      "сделать",
+      "посредством"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "посредством",
+      "вас"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "посредством",
+      "вас"
+    ],
+    [
+      15,
+      16,
+      "предл",
+      "посредством",
+      "вас"
+    ],
+    [
+      6,
+      5,
+      "огранич",
+      "хотела",
+      "не"
+    ],
+    [
+      21,
+      20,
+      "огранич",
+      "приходил",
+      "не"
+    ],
+    [
+      6,
+      1,
+      "предик",
+      "хотела",
+      "я"
+    ],
+    [
+      21,
+      19,
+      "предик",
+      "приходил",
+      "он"
+    ],
+    [
+      6,
+      4,
+      "1-компл",
+      "хотела",
+      "письма-то"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "хотела",
+      "ему"
+    ],
+    [
+      13,
+      15,
+      "1-компл",
+      "сделать",
+      "посредством"
+    ],
+    [
+      0,
+      6,
+      "соч-союзн",
+      "а",
+      "хотела"
+    ],
+    [
+      8,
+      10,
+      "сочин",
+      "показывать",
+      "и"
+    ],
+    [
+      6,
+      2,
+      "обст",
+      "хотела",
+      "так"
+    ],
+    [
+      21,
+      23,
+      "обст",
+      "приходил",
+      "потому"
+    ]
+  ]
+}

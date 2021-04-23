@@ -1,0 +1,52 @@
+{
+  "sentence": "«Женихов подарок», — подумал Разумихин.",
+  "tokens": [
+    "«",
+    "Женихов",
+    "подарок",
+    "»",
+    ",",
+    "—",
+    "подумал",
+    "Разумихин",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "женихов",
+        "lexem": "женихов",
+        "tags": "OpencorporaTag('ADJF,Poss inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "подарок",
+        "lexem": "подарок",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "подумал",
+        "lexem": "подумать",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      6,
+      2,
+      "предик",
+      "подумал",
+      "подарок"
+    ]
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "sentence": "— Ах боже мой, ведь я совсем, совсем не таким его ожидала встретить, Дмитрий Прокофьич.",
+  "tokens": [
+    "—",
+    "Ах",
+    "боже",
+    "мой",
+    ",",
+    "ведь",
+    "я",
+    "совсем",
+    ",",
+    "совсем",
+    "не",
+    "таким",
+    "его",
+    "ожидала",
+    "встретить",
+    ",",
+    "Дмитрий",
+    "Прокофьич",
+    "."
+  ],
+  "morphs": [
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "мой",
+        "lexem": "мой",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      },
+      {
+        "word": "мой",
+        "lexem": "мыть",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,impr,excl')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "совсем",
+        "lexem": "совсем",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "таким",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "ожидала",
+        "lexem": "ожидать",
+        "tags": "OpencorporaTag('VERB,impf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "встретить",
+        "lexem": "встретить",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "дмитрий",
+        "lexem": "дмитрия",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name plur,accs')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      11,
+      10,
+      "огранич",
+      "таким",
+      "не"
+    ],
+    [
+      13,
+      6,
+      "предик",
+      "ожидала",
+      "я"
+    ],
+    [
+      13,
+      3,
+      "1-компл",
+      "ожидала",
+      "мой"
+    ],
+    [
+      13,
+      11,
+      "1-компл",
+      "ожидала",
+      "таким"
+    ],
+    [
+      13,
+      12,
+      "1-компл",
+      "ожидала",
+      "его"
+    ],
+    [
+      14,
+      16,
+      "1-компл",
+      "встретить",
+      "дмитрий"
+    ],
+    [
+      13,
+      9,
+      "обст",
+      "ожидала",
+      "совсем"
+    ],
+    [
+      13,
+      14,
+      "обст",
+      "ожидала",
+      "встретить"
+    ]
+  ]
+}

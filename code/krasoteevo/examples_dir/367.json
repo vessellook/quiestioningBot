@@ -1,0 +1,437 @@
+{
+  "sentence": "Имею честь при сем заранее предуведомить, что если, вопреки просьбе, встречу Родиона Романовича, то принужден буду немедленно удалиться, и тогда пеняйте уже на себя.",
+  "tokens": [
+    "Имею",
+    "честь",
+    "при",
+    "сем",
+    "заранее",
+    "предуведомить",
+    ",",
+    "что",
+    "если",
+    ",",
+    "вопреки",
+    "просьбе",
+    ",",
+    "встречу",
+    "Родиона",
+    "Романовича",
+    ",",
+    "то",
+    "принужден",
+    "буду",
+    "немедленно",
+    "удалиться",
+    ",",
+    "и",
+    "тогда",
+    "пеняйте",
+    "уже",
+    "на",
+    "себя",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "имею",
+        "lexem": "иметь",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "честь",
+        "lexem": "честь",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Sgtm sing,nomn')"
+      },
+      {
+        "word": "честь",
+        "lexem": "честь",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "при",
+        "lexem": "при",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "сем",
+        "lexem": "сема",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,gent')"
+      },
+      {
+        "word": "сем",
+        "lexem": "сие",
+        "tags": "OpencorporaTag('NPRO,neut sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "заранее",
+        "lexem": "заранее",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "предуведомить",
+        "lexem": "предуведомить",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "если",
+        "lexem": "если",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "вопреки",
+        "lexem": "вопреки",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "просьбе",
+        "lexem": "просьба",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "встречу",
+        "lexem": "встреча",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      },
+      {
+        "word": "встречу",
+        "lexem": "встретить",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,1per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "родиона",
+        "lexem": "родион",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,gent')"
+      },
+      {
+        "word": "родиона",
+        "lexem": "родион",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "романовича",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr sing,gent')"
+      },
+      {
+        "word": "романовича",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "принуждён",
+        "lexem": "принудить",
+        "tags": "OpencorporaTag('PRTS,perf,past,pssv masc,sing')"
+      }
+    ],
+    [
+      {
+        "word": "буду",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,1per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "немедленно",
+        "lexem": "немедленно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "удалиться",
+        "lexem": "удалиться",
+        "tags": "OpencorporaTag('INFN,perf,intr')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "тогда",
+        "lexem": "тогда",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "пеняйте",
+        "lexem": "пенять",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,impr,excl')"
+      }
+    ],
+    [
+      {
+        "word": "уже",
+        "lexem": "уже",
+        "tags": "OpencorporaTag('ADVB')"
+      },
+      {
+        "word": "уже",
+        "lexem": "узкий",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "себя",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,accs')"
+      },
+      {
+        "word": "себя",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      13,
+      14,
+      "квазиагент",
+      "встречу",
+      "родиона"
+    ],
+    [
+      26,
+      27,
+      "колич-огран",
+      "уже",
+      "на"
+    ],
+    [
+      13,
+      14,
+      "аппоз",
+      "встречу",
+      "родиона"
+    ],
+    [
+      13,
+      14,
+      "аппоз",
+      "встречу",
+      "родиона"
+    ],
+    [
+      14,
+      15,
+      "аппоз",
+      "родиона",
+      "романовича"
+    ],
+    [
+      14,
+      15,
+      "аппоз",
+      "родиона",
+      "романовича"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "при",
+      "сем"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "при",
+      "сем"
+    ],
+    [
+      10,
+      11,
+      "предл",
+      "вопреки",
+      "просьбе"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "на",
+      "себя"
+    ],
+    [
+      27,
+      28,
+      "предл",
+      "на",
+      "себя"
+    ],
+    [
+      19,
+      18,
+      "пасс-анал",
+      "буду",
+      "принуждён"
+    ],
+    [
+      0,
+      1,
+      "предик",
+      "имею",
+      "честь"
+    ],
+    [
+      13,
+      7,
+      "предик",
+      "встречу",
+      "что"
+    ],
+    [
+      13,
+      10,
+      "1-компл",
+      "встречу",
+      "вопреки"
+    ],
+    [
+      18,
+      17,
+      "1-компл",
+      "принуждён",
+      "то"
+    ],
+    [
+      23,
+      25,
+      "соч-союзн",
+      "и",
+      "пеняйте"
+    ],
+    [
+      5,
+      21,
+      "сочин",
+      "предуведомить",
+      "удалиться"
+    ],
+    [
+      13,
+      19,
+      "сочин",
+      "встречу",
+      "буду"
+    ],
+    [
+      0,
+      23,
+      "сочин",
+      "имею",
+      "и"
+    ],
+    [
+      1,
+      2,
+      "обст",
+      "честь",
+      "при"
+    ],
+    [
+      5,
+      4,
+      "обст",
+      "предуведомить",
+      "заранее"
+    ],
+    [
+      19,
+      20,
+      "обст",
+      "буду",
+      "немедленно"
+    ],
+    [
+      25,
+      24,
+      "обст",
+      "пеняйте",
+      "тогда"
+    ],
+    [
+      25,
+      26,
+      "обст",
+      "пеняйте",
+      "уже"
+    ],
+    [
+      26,
+      27,
+      "обст",
+      "уже",
+      "на"
+    ],
+    [
+      5,
+      8,
+      "обст",
+      "предуведомить",
+      "если"
+    ]
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "sentence": "Кабы знал я в точности, что тогда в конторе произошло и что там его какая-то каналья этим подозрением... обидела!",
+  "tokens": [
+    "Кабы",
+    "знал",
+    "я",
+    "в",
+    "точности",
+    ",",
+    "что",
+    "тогда",
+    "в",
+    "конторе",
+    "произошло",
+    "и",
+    "что",
+    "там",
+    "его",
+    "какая-то",
+    "каналья",
+    "этим",
+    "подозрением",
+    "...",
+    "обидела",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "знал",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "точности",
+        "lexem": "точность",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "точности",
+        "lexem": "точность",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "точности",
+        "lexem": "точность",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      },
+      {
+        "word": "точности",
+        "lexem": "точность",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "тогда",
+        "lexem": "тогда",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "конторе",
+        "lexem": "контора",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "конторе",
+        "lexem": "контора",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "произошло",
+        "lexem": "произойти",
+        "tags": "OpencorporaTag('VERB,perf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "там",
+        "lexem": "там",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "его",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "какая-то",
+        "lexem": "какой-то",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "каналья",
+        "lexem": "каналья",
+        "tags": "OpencorporaTag('NOUN,anim,ms-f sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "этим",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "подозрением",
+        "lexem": "подозрение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "обидела",
+        "lexem": "обидеть",
+        "tags": "OpencorporaTag('VERB,perf,tran femn,sing,past,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      12,
+      14,
+      "опред",
+      "что",
+      "его"
+    ],
+    [
+      18,
+      17,
+      "опред",
+      "подозрением",
+      "этим"
+    ],
+    [
+      20,
+      18,
+      "агент",
+      "обидела",
+      "подозрением"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "в",
+      "точности"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "в",
+      "точности"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "в",
+      "точности"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "в",
+      "точности"
+    ],
+    [
+      8,
+      9,
+      "предл",
+      "в",
+      "конторе"
+    ],
+    [
+      8,
+      9,
+      "предл",
+      "в",
+      "конторе"
+    ],
+    [
+      1,
+      2,
+      "предик",
+      "знал",
+      "я"
+    ],
+    [
+      10,
+      6,
+      "предик",
+      "произошло",
+      "что"
+    ],
+    [
+      20,
+      16,
+      "предик",
+      "обидела",
+      "каналья"
+    ],
+    [
+      1,
+      3,
+      "1-компл",
+      "знал",
+      "в"
+    ],
+    [
+      10,
+      8,
+      "1-компл",
+      "произошло",
+      "в"
+    ],
+    [
+      20,
+      12,
+      "1-компл",
+      "обидела",
+      "что"
+    ],
+    [
+      20,
+      15,
+      "1-компл",
+      "обидела",
+      "какая-то"
+    ],
+    [
+      11,
+      20,
+      "соч-союзн",
+      "и",
+      "обидела"
+    ],
+    [
+      10,
+      11,
+      "сочин",
+      "произошло",
+      "и"
+    ],
+    [
+      1,
+      3,
+      "обст",
+      "знал",
+      "в"
+    ],
+    [
+      10,
+      7,
+      "обст",
+      "произошло",
+      "тогда"
+    ],
+    [
+      20,
+      13,
+      "обст",
+      "обидела",
+      "там"
+    ]
+  ]
+}

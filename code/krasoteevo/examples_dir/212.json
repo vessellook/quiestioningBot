@@ -1,0 +1,182 @@
+{
+  "sentence": "Ну и нарочно буду такой грязный, сальный, трактирный, и наплевать!",
+  "tokens": [
+    "Ну",
+    "и",
+    "нарочно",
+    "буду",
+    "такой",
+    "грязный",
+    ",",
+    "сальный",
+    ",",
+    "трактирный",
+    ",",
+    "и",
+    "наплевать",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "нарочно",
+        "lexem": "нарочно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "буду",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,1per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "такой",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,gent')"
+      },
+      {
+        "word": "такой",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,ablt')"
+      },
+      {
+        "word": "такой",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro masc,sing,nomn')"
+      },
+      {
+        "word": "такой",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,datv')"
+      },
+      {
+        "word": "такой",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro inan,masc,sing,accs')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "сальный",
+        "lexem": "сальный",
+        "tags": "OpencorporaTag('ADJF,Qual inan,masc,sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "трактирный",
+        "lexem": "трактирный",
+        "tags": "OpencorporaTag('ADJF,Qual inan,masc,sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "наплевать",
+        "lexem": "наплевать",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      3,
+      4,
+      "1-компл",
+      "буду",
+      "такой"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "буду",
+      "такой"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "буду",
+      "такой"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "буду",
+      "такой"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "буду",
+      "такой"
+    ],
+    [
+      1,
+      3,
+      "соч-союзн",
+      "и",
+      "буду"
+    ],
+    [
+      11,
+      12,
+      "соч-союзн",
+      "и",
+      "наплевать"
+    ],
+    [
+      3,
+      11,
+      "сочин",
+      "буду",
+      "и"
+    ],
+    [
+      4,
+      7,
+      "сочин",
+      "такой",
+      "сальный"
+    ],
+    [
+      7,
+      9,
+      "сочин",
+      "сальный",
+      "трактирный"
+    ],
+    [
+      3,
+      2,
+      "обст",
+      "буду",
+      "нарочно"
+    ]
+  ]
+}

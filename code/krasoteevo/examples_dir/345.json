@@ -1,0 +1,218 @@
+{
+  "sentence": "— Так вы вот какого мнения о Петре Петровиче? — не утерпела не спросить Пульхерия Александровна.",
+  "tokens": [
+    "—",
+    "Так",
+    "вы",
+    "вот",
+    "какого",
+    "мнения",
+    "о",
+    "Петре",
+    "Петровиче",
+    "?",
+    "—",
+    "не",
+    "утерпела",
+    "не",
+    "спросить",
+    "Пульхерия",
+    "Александровна",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "какого",
+        "lexem": "какой",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "мнения",
+        "lexem": "мнение",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "о",
+        "lexem": "о",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "петре",
+        "lexem": "пётр",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,loct')"
+      },
+      {
+        "word": "петре",
+        "lexem": "петра",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,datv')"
+      },
+      {
+        "word": "петре",
+        "lexem": "петра",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "петровиче",
+        "lexem": "петрович",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr sing,loct')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "утерпела",
+        "lexem": "утерпеть",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "спросить",
+        "lexem": "спросить",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "пульхерия",
+        "lexem": "пульхерия",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "александровна",
+        "lexem": "александрович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      7,
+      "аппоз",
+      "мнения",
+      "петре"
+    ],
+    [
+      5,
+      7,
+      "аппоз",
+      "мнения",
+      "петре"
+    ],
+    [
+      5,
+      7,
+      "аппоз",
+      "мнения",
+      "петре"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "петре",
+      "петровиче"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "петре",
+      "петровиче"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "петре",
+      "петровиче"
+    ],
+    [
+      15,
+      16,
+      "аппоз",
+      "пульхерия",
+      "александровна"
+    ],
+    [
+      12,
+      11,
+      "огранич",
+      "утерпела",
+      "не"
+    ],
+    [
+      14,
+      13,
+      "огранич",
+      "спросить",
+      "не"
+    ],
+    [
+      12,
+      5,
+      "1-компл",
+      "утерпела",
+      "мнения"
+    ],
+    [
+      12,
+      1,
+      "обст",
+      "утерпела",
+      "так"
+    ],
+    [
+      12,
+      6,
+      "обст",
+      "утерпела",
+      "о"
+    ],
+    [
+      12,
+      14,
+      "обст",
+      "утерпела",
+      "спросить"
+    ]
+  ]
+}

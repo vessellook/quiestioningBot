@@ -1,0 +1,64 @@
+{
+  "sentence": "Я не удостоился лицезреть...",
+  "tokens": [
+    "Я",
+    "не",
+    "удостоился",
+    "лицезреть",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "удостоился",
+        "lexem": "удостоиться",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "лицезреть",
+        "lexem": "лицезреть",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      2,
+      1,
+      "огранич",
+      "удостоился",
+      "не"
+    ],
+    [
+      2,
+      0,
+      "предик",
+      "удостоился",
+      "я"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "удостоился",
+      "лицезреть"
+    ]
+  ]
+}

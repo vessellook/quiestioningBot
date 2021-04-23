@@ -1,0 +1,729 @@
+{
+  "sentence": "Он робко глянул на Авдотью Романовну; но и в этом надменном лице было в эту минуту такое выражение признательности и дружества, такое полное и неожиданное им уважение (вместо насмешливых-то взглядов и невольного, худо скрываемого презрения!), что ему уж, право, было бы легче, если бы встретили бранью, а то уж слишком стало конфузливо.",
+  "tokens": [
+    "Он",
+    "робко",
+    "глянул",
+    "на",
+    "Авдотью",
+    "Романовну",
+    ";",
+    "но",
+    "и",
+    "в",
+    "этом",
+    "надменном",
+    "лице",
+    "было",
+    "в",
+    "эту",
+    "минуту",
+    "такое",
+    "выражение",
+    "признательности",
+    "и",
+    "дружества",
+    ",",
+    "такое",
+    "полное",
+    "и",
+    "неожиданное",
+    "им",
+    "уважение",
+    "(",
+    "вместо",
+    "насмешливых-то",
+    "взглядов",
+    "и",
+    "невольного",
+    ",",
+    "худо",
+    "скрываемого",
+    "презрения",
+    "!",
+    ")",
+    ",",
+    "что",
+    "ему",
+    "уж",
+    ",",
+    "право",
+    ",",
+    "было",
+    "бы",
+    "легче",
+    ",",
+    "если",
+    "бы",
+    "встретили",
+    "бранью",
+    ",",
+    "а",
+    "то",
+    "уж",
+    "слишком",
+    "стало",
+    "конфузливо",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "робко",
+        "lexem": "робко",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "глянул",
+        "lexem": "глянуть",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "авдотью",
+        "lexem": "авдотья",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "романовну",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "но",
+        "lexem": "но",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "этом",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph masc,sing,loct')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "эту",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "минуту",
+        "lexem": "минута",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "такое",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "выражение",
+        "lexem": "выражение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "признательности",
+        "lexem": "признательность",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "дружества",
+        "lexem": "дружество",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "такое",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,nomn')"
+      },
+      {
+        "word": "такое",
+        "lexem": "такой",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "полное",
+        "lexem": "полный",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,nomn')"
+      },
+      {
+        "word": "полное",
+        "lexem": "полный",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "неожиданное",
+        "lexem": "неожиданный",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,nomn')"
+      },
+      {
+        "word": "неожиданное",
+        "lexem": "неожиданный",
+        "tags": "OpencorporaTag('ADJF,Qual neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "им",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "уважение",
+        "lexem": "уважение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "вместо",
+        "lexem": "вместо",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "взглядов",
+        "lexem": "взгляд",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "худо",
+        "lexem": "худо",
+        "tags": "OpencorporaTag('ADVB,Prdx')"
+      }
+    ],
+    [
+      {
+        "word": "скрываемого",
+        "lexem": "скрывать",
+        "tags": "OpencorporaTag('PRTF,impf,tran,pres,pssv neut,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "презрения",
+        "lexem": "презрение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,gent')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "ему",
+        "lexem": "оно",
+        "tags": "OpencorporaTag('NPRO,neut,3per,Anph sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "уж",
+        "lexem": "уж",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "право",
+        "lexem": "правый",
+        "tags": "OpencorporaTag('ADJS,Qual neut,sing')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "легче",
+        "lexem": "лёгкий",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "если",
+        "lexem": "если",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "встретили",
+        "lexem": "встретить",
+        "tags": "OpencorporaTag('VERB,perf,tran plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "бранью",
+        "lexem": "брань",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "уж",
+        "lexem": "уж",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "слишком",
+        "lexem": "слишком",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "стало",
+        "lexem": "стать",
+        "tags": "OpencorporaTag('VERB,perf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "конфузливо",
+        "lexem": "конфузливый",
+        "tags": "OpencorporaTag('ADJS,Qual neut,sing')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      38,
+      37,
+      "опред",
+      "презрения",
+      "скрываемого"
+    ],
+    [
+      16,
+      15,
+      "опред",
+      "минуту",
+      "эту"
+    ],
+    [
+      54,
+      55,
+      "агент",
+      "встретили",
+      "бранью"
+    ],
+    [
+      4,
+      5,
+      "аппоз",
+      "авдотью",
+      "романовну"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "на",
+      "авдотью"
+    ],
+    [
+      30,
+      32,
+      "предл",
+      "вместо",
+      "взглядов"
+    ],
+    [
+      18,
+      19,
+      "атриб",
+      "выражение",
+      "признательности"
+    ],
+    [
+      26,
+      27,
+      "атриб",
+      "неожиданное",
+      "им"
+    ],
+    [
+      26,
+      27,
+      "атриб",
+      "неожиданное",
+      "им"
+    ],
+    [
+      2,
+      0,
+      "предик",
+      "глянул",
+      "он"
+    ],
+    [
+      13,
+      18,
+      "предик",
+      "было",
+      "выражение"
+    ],
+    [
+      46,
+      44,
+      "предик",
+      "право",
+      "уж"
+    ],
+    [
+      61,
+      59,
+      "предик",
+      "стало",
+      "уж"
+    ],
+    [
+      2,
+      3,
+      "1-компл",
+      "глянул",
+      "на"
+    ],
+    [
+      13,
+      9,
+      "1-компл",
+      "было",
+      "в"
+    ],
+    [
+      13,
+      10,
+      "1-компл",
+      "было",
+      "этом"
+    ],
+    [
+      13,
+      14,
+      "1-компл",
+      "было",
+      "в"
+    ],
+    [
+      13,
+      21,
+      "1-компл",
+      "было",
+      "дружества"
+    ],
+    [
+      13,
+      23,
+      "1-компл",
+      "было",
+      "такое"
+    ],
+    [
+      13,
+      23,
+      "1-компл",
+      "было",
+      "такое"
+    ],
+    [
+      13,
+      28,
+      "1-компл",
+      "было",
+      "уважение"
+    ],
+    [
+      46,
+      30,
+      "1-компл",
+      "право",
+      "вместо"
+    ],
+    [
+      46,
+      42,
+      "1-компл",
+      "право",
+      "что"
+    ],
+    [
+      46,
+      43,
+      "1-компл",
+      "право",
+      "ему"
+    ],
+    [
+      54,
+      55,
+      "1-компл",
+      "встретили",
+      "бранью"
+    ],
+    [
+      61,
+      58,
+      "1-компл",
+      "стало",
+      "то"
+    ],
+    [
+      52,
+      54,
+      "подч-союзн",
+      "если",
+      "встретили"
+    ],
+    [
+      7,
+      13,
+      "соч-союзн",
+      "но",
+      "было"
+    ],
+    [
+      8,
+      46,
+      "соч-союзн",
+      "и",
+      "право"
+    ],
+    [
+      57,
+      61,
+      "соч-союзн",
+      "а",
+      "стало"
+    ],
+    [
+      2,
+      7,
+      "сочин",
+      "глянул",
+      "но"
+    ],
+    [
+      54,
+      57,
+      "сочин",
+      "встретили",
+      "а"
+    ],
+    [
+      19,
+      20,
+      "сочин",
+      "признательности",
+      "и"
+    ],
+    [
+      24,
+      25,
+      "сочин",
+      "полное",
+      "и"
+    ],
+    [
+      24,
+      25,
+      "сочин",
+      "полное",
+      "и"
+    ],
+    [
+      32,
+      33,
+      "сочин",
+      "взглядов",
+      "и"
+    ],
+    [
+      2,
+      1,
+      "обст",
+      "глянул",
+      "робко"
+    ],
+    [
+      2,
+      3,
+      "обст",
+      "глянул",
+      "на"
+    ],
+    [
+      13,
+      14,
+      "обст",
+      "было",
+      "в"
+    ],
+    [
+      37,
+      36,
+      "обст",
+      "скрываемого",
+      "худо"
+    ],
+    [
+      61,
+      60,
+      "обст",
+      "стало",
+      "слишком"
+    ],
+    [
+      50,
+      52,
+      "обст",
+      "легче",
+      "если"
+    ],
+    [
+      13,
+      16,
+      "присвяз",
+      "было",
+      "минуту"
+    ]
+  ]
+}

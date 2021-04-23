@@ -1,0 +1,99 @@
+{
+  "sentence": "— Бог с тобой, до Новоселок шесть верст!",
+  "tokens": [
+    "—",
+    "Бог",
+    "с",
+    "тобой",
+    ",",
+    "до",
+    "Новоселок",
+    "шесть",
+    "верст",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "бог",
+        "lexem": "бог",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тобой",
+        "lexem": "ты",
+        "tags": "OpencorporaTag('NPRO,2per sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "до",
+        "lexem": "до",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "новосёлок",
+        "lexem": "новосёлка",
+        "tags": "OpencorporaTag('NOUN,anim,femn plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "шесть",
+        "lexem": "шесть",
+        "tags": "OpencorporaTag('NUMR accs')"
+      }
+    ],
+    [
+      {
+        "word": "вёрст",
+        "lexem": "верста",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      7,
+      "количест",
+      "вёрст",
+      "шесть"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "с",
+      "тобой"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "до",
+      "новосёлок"
+    ],
+    [
+      1,
+      2,
+      "атриб",
+      "бог",
+      "с"
+    ]
+  ]
+}

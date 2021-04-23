@@ -1,0 +1,26 @@
+{
+  "sentence": "— Ах, боже мой!",
+  "tokens": [
+    "—",
+    "Ах",
+    ",",
+    "боже",
+    "мой",
+    "!"
+  ],
+  "morphs": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "мой",
+        "lexem": "мыть",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,impr,excl')"
+      }
+    ],
+    []
+  ],
+  "synts": []
+}

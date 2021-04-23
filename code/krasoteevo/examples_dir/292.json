@@ -1,0 +1,194 @@
+{
+  "sentence": "Чувств своих не любит высказывать и скорей жестокость сделает, чем словами выскажет сердце.",
+  "tokens": [
+    "Чувств",
+    "своих",
+    "не",
+    "любит",
+    "высказывать",
+    "и",
+    "скорей",
+    "жестокость",
+    "сделает",
+    ",",
+    "чем",
+    "словами",
+    "выскажет",
+    "сердце",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "чувств",
+        "lexem": "чувство",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "своих",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "любит",
+        "lexem": "любить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "высказывать",
+        "lexem": "высказывать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "скорей",
+        "lexem": "скорый",
+        "tags": "OpencorporaTag('COMP,Qual V-ej')"
+      }
+    ],
+    [
+      {
+        "word": "жестокость",
+        "lexem": "жестокость",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "сделает",
+        "lexem": "сделать",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,3per,futr,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "чем",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "словами",
+        "lexem": "слово",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "выскажет",
+        "lexem": "высказать",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,3per,futr,indc')"
+      }
+    ],
+    [
+      {
+        "word": "сердце",
+        "lexem": "сердце",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      8,
+      10,
+      "агент",
+      "сделает",
+      "чем"
+    ],
+    [
+      12,
+      11,
+      "агент",
+      "выскажет",
+      "словами"
+    ],
+    [
+      3,
+      2,
+      "огранич",
+      "любит",
+      "не"
+    ],
+    [
+      8,
+      7,
+      "предик",
+      "сделает",
+      "жестокость"
+    ],
+    [
+      12,
+      13,
+      "предик",
+      "выскажет",
+      "сердце"
+    ],
+    [
+      6,
+      0,
+      "несобст-агент",
+      "скорей",
+      "чувств"
+    ],
+    [
+      3,
+      1,
+      "1-компл",
+      "любит",
+      "своих"
+    ],
+    [
+      8,
+      10,
+      "1-компл",
+      "сделает",
+      "чем"
+    ],
+    [
+      10,
+      12,
+      "подч-союзн",
+      "чем",
+      "выскажет"
+    ],
+    [
+      5,
+      6,
+      "соч-союзн",
+      "и",
+      "скорей"
+    ],
+    [
+      3,
+      4,
+      "обст",
+      "любит",
+      "высказывать"
+    ]
+  ]
+}

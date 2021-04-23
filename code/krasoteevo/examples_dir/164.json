@@ -1,0 +1,466 @@
+{
+  "sentence": "На закате часто громоздились за морем удивительные облака; они пылали так великолепно, что она порой ложилась на тахту, закрывала лицо газовым шарфом и плакала: еще две, три недели — и опять Москва!",
+  "tokens": [
+    "На",
+    "закате",
+    "часто",
+    "громоздились",
+    "за",
+    "морем",
+    "удивительные",
+    "облака",
+    ";",
+    "они",
+    "пылали",
+    "так",
+    "великолепно",
+    ",",
+    "что",
+    "она",
+    "порой",
+    "ложилась",
+    "на",
+    "тахту",
+    ",",
+    "закрывала",
+    "лицо",
+    "газовым",
+    "шарфом",
+    "и",
+    "плакала",
+    ":",
+    "еще",
+    "две",
+    ",",
+    "три",
+    "недели",
+    "—",
+    "и",
+    "опять",
+    "Москва",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "закате",
+        "lexem": "закат",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "часто",
+        "lexem": "часто",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "громоздились",
+        "lexem": "громоздиться",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "за",
+        "lexem": "за",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "морем",
+        "lexem": "море",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "облака",
+        "lexem": "облако",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "они",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "пылали",
+        "lexem": "пылать",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "великолепно",
+        "lexem": "великолепно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "она",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "порой",
+        "lexem": "пора",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,ablt')"
+      },
+      {
+        "word": "порой",
+        "lexem": "порыть",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,impr,excl')"
+      }
+    ],
+    [
+      {
+        "word": "ложилась",
+        "lexem": "ложиться",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тахту",
+        "lexem": "тахта",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "закрывала",
+        "lexem": "закрывать",
+        "tags": "OpencorporaTag('VERB,impf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "лицо",
+        "lexem": "лицо",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      },
+      {
+        "word": "лицо",
+        "lexem": "лицо",
+        "tags": "OpencorporaTag('NOUN,anim,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "газовым",
+        "lexem": "газовый",
+        "tags": "OpencorporaTag('ADJF masc,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "шарфом",
+        "lexem": "шарф",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "плакала",
+        "lexem": "плакать",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "две",
+        "lexem": "два",
+        "tags": "OpencorporaTag('NUMR inan,femn,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "три",
+        "lexem": "тереть",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,impr,excl')"
+      }
+    ],
+    [
+      {
+        "word": "недели",
+        "lexem": "неделя",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "москва",
+        "lexem": "москва",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Sgtm,Geox sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      24,
+      23,
+      "опред",
+      "шарфом",
+      "газовым"
+    ],
+    [
+      17,
+      16,
+      "агент",
+      "ложилась",
+      "порой"
+    ],
+    [
+      0,
+      1,
+      "предл",
+      "на",
+      "закате"
+    ],
+    [
+      4,
+      5,
+      "предл",
+      "за",
+      "морем"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "на",
+      "тахту"
+    ],
+    [
+      22,
+      24,
+      "атриб",
+      "лицо",
+      "шарфом"
+    ],
+    [
+      22,
+      24,
+      "атриб",
+      "лицо",
+      "шарфом"
+    ],
+    [
+      3,
+      7,
+      "предик",
+      "громоздились",
+      "облака"
+    ],
+    [
+      10,
+      9,
+      "предик",
+      "пылали",
+      "они"
+    ],
+    [
+      16,
+      15,
+      "предик",
+      "порой",
+      "она"
+    ],
+    [
+      21,
+      22,
+      "предик",
+      "закрывала",
+      "лицо"
+    ],
+    [
+      21,
+      22,
+      "предик",
+      "закрывала",
+      "лицо"
+    ],
+    [
+      31,
+      32,
+      "предик",
+      "три",
+      "недели"
+    ],
+    [
+      3,
+      0,
+      "1-компл",
+      "громоздились",
+      "на"
+    ],
+    [
+      3,
+      4,
+      "1-компл",
+      "громоздились",
+      "за"
+    ],
+    [
+      16,
+      14,
+      "1-компл",
+      "порой",
+      "что"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "ложилась",
+      "на"
+    ],
+    [
+      31,
+      29,
+      "1-компл",
+      "три",
+      "две"
+    ],
+    [
+      25,
+      26,
+      "соч-союзн",
+      "и",
+      "плакала"
+    ],
+    [
+      34,
+      36,
+      "соч-союзн",
+      "и",
+      "москва"
+    ],
+    [
+      3,
+      10,
+      "сочин",
+      "громоздились",
+      "пылали"
+    ],
+    [
+      10,
+      17,
+      "сочин",
+      "пылали",
+      "ложилась"
+    ],
+    [
+      17,
+      21,
+      "сочин",
+      "ложилась",
+      "закрывала"
+    ],
+    [
+      3,
+      25,
+      "сочин",
+      "громоздились",
+      "и"
+    ],
+    [
+      3,
+      2,
+      "обст",
+      "громоздились",
+      "часто"
+    ],
+    [
+      3,
+      4,
+      "обст",
+      "громоздились",
+      "за"
+    ],
+    [
+      10,
+      11,
+      "обст",
+      "пылали",
+      "так"
+    ],
+    [
+      10,
+      12,
+      "обст",
+      "пылали",
+      "великолепно"
+    ],
+    [
+      17,
+      18,
+      "обст",
+      "ложилась",
+      "на"
+    ]
+  ]
+}

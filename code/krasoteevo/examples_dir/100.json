@@ -1,0 +1,129 @@
+{
+  "sentence": "Милые, деревенские и эти сани, набитые соломой!",
+  "tokens": [
+    "Милые",
+    ",",
+    "деревенские",
+    "и",
+    "эти",
+    "сани",
+    ",",
+    "набитые",
+    "соломой",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "милые",
+        "lexem": "милый",
+        "tags": "OpencorporaTag('ADJF,Subx,Qual plur,nomn')"
+      },
+      {
+        "word": "милые",
+        "lexem": "милый",
+        "tags": "OpencorporaTag('ADJF,Subx,Qual inan,plur,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "деревенские",
+        "lexem": "деревенский",
+        "tags": "OpencorporaTag('ADJF plur,nomn')"
+      },
+      {
+        "word": "деревенские",
+        "lexem": "деревенский",
+        "tags": "OpencorporaTag('ADJF inan,plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "эти",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "сани",
+        "lexem": "сани",
+        "tags": "OpencorporaTag('NOUN,inan,GNdr,Pltm plur,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "набитые",
+        "lexem": "набитый",
+        "tags": "OpencorporaTag('ADJF,Qual plur,nomn')"
+      },
+      {
+        "word": "набитые",
+        "lexem": "набить",
+        "tags": "OpencorporaTag('PRTF,perf,tran,past,pssv plur,nomn')"
+      }
+    ],
+    [],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      7,
+      "опред",
+      "сани",
+      "набитые"
+    ],
+    [
+      5,
+      7,
+      "опред",
+      "сани",
+      "набитые"
+    ],
+    [
+      5,
+      4,
+      "опред",
+      "сани",
+      "эти"
+    ],
+    [
+      0,
+      2,
+      "сочин",
+      "милые",
+      "деревенские"
+    ],
+    [
+      0,
+      2,
+      "сочин",
+      "милые",
+      "деревенские"
+    ],
+    [
+      2,
+      3,
+      "сочин",
+      "деревенские",
+      "и"
+    ],
+    [
+      2,
+      3,
+      "сочин",
+      "деревенские",
+      "и"
+    ]
+  ]
+}

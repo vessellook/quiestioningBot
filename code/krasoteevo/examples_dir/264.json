@@ -1,0 +1,248 @@
+{
+  "sentence": "Ровно в девять часов Разумихин явился в нумера Бакалеева.",
+  "tokens": [
+    "Ровно",
+    "в",
+    "девять",
+    "часов",
+    "Разумихин",
+    "явился",
+    "в",
+    "нумера",
+    "Бакалеева",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "ровно",
+        "lexem": "ровно",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm,Fixd,Geox sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "девять",
+        "lexem": "девять",
+        "tags": "OpencorporaTag('NUMR accs')"
+      }
+    ],
+    [
+      {
+        "word": "часов",
+        "lexem": "час",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,gent')"
+      },
+      {
+        "word": "часов",
+        "lexem": "часы",
+        "tags": "OpencorporaTag('NOUN,inan,GNdr,Pltm plur,gent')"
+      }
+    ],
+    [
+      {
+        "word": "разумихин",
+        "lexem": "разумихин",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "явился",
+        "lexem": "явиться",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нумера",
+        "lexem": "нумер",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      },
+      {
+        "word": "нумера",
+        "lexem": "нумер",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,gent')"
+      },
+      {
+        "word": "нумера",
+        "lexem": "нумер",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "бакалеева",
+        "lexem": "бакалеев",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,gent')"
+      },
+      {
+        "word": "бакалеева",
+        "lexem": "бакалеев",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,accs')"
+      },
+      {
+        "word": "бакалеева",
+        "lexem": "бакалеев",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      3,
+      2,
+      "количест",
+      "часов",
+      "девять"
+    ],
+    [
+      3,
+      4,
+      "аппоз",
+      "часов",
+      "разумихин"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "нумера",
+      "бакалеева"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "нумера",
+      "бакалеева"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "нумера",
+      "бакалеева"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "нумера",
+      "бакалеева"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "нумера",
+      "бакалеева"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "нумера",
+      "бакалеева"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "нумера",
+      "бакалеева"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "нумера",
+      "бакалеева"
+    ],
+    [
+      7,
+      8,
+      "аппоз",
+      "нумера",
+      "бакалеева"
+    ],
+    [
+      1,
+      3,
+      "предл",
+      "в",
+      "часов"
+    ],
+    [
+      1,
+      3,
+      "предл",
+      "в",
+      "часов"
+    ],
+    [
+      6,
+      7,
+      "предл",
+      "в",
+      "нумера"
+    ],
+    [
+      6,
+      7,
+      "предл",
+      "в",
+      "нумера"
+    ],
+    [
+      6,
+      7,
+      "предл",
+      "в",
+      "нумера"
+    ],
+    [
+      5,
+      0,
+      "предик",
+      "явился",
+      "ровно"
+    ],
+    [
+      5,
+      6,
+      "1-компл",
+      "явился",
+      "в"
+    ],
+    [
+      5,
+      1,
+      "обст",
+      "явился",
+      "в"
+    ],
+    [
+      5,
+      6,
+      "обст",
+      "явился",
+      "в"
+    ]
+  ]
+}

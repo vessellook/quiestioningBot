@@ -1,0 +1,165 @@
+{
+  "sentence": "Да и какое право имел он судить о нем так поспешно и опрометчиво?",
+  "tokens": [
+    "Да",
+    "и",
+    "какое",
+    "право",
+    "имел",
+    "он",
+    "судить",
+    "о",
+    "нем",
+    "так",
+    "поспешно",
+    "и",
+    "опрометчиво",
+    "?"
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "какое",
+        "lexem": "какой",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "право",
+        "lexem": "право",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "имел",
+        "lexem": "иметь",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "судить",
+        "lexem": "судить",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "о",
+        "lexem": "о",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "нем",
+        "lexem": "немой",
+        "tags": "OpencorporaTag('ADJS,Qual masc,sing')"
+      },
+      {
+        "word": "нём",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,loct,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "поспешно",
+        "lexem": "поспешно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "опрометчиво",
+        "lexem": "опрометчивый",
+        "tags": "OpencorporaTag('ADJS,Qual neut,sing')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      7,
+      8,
+      "предл",
+      "о",
+      "нём"
+    ],
+    [
+      4,
+      3,
+      "предик",
+      "имел",
+      "право"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "судить",
+      "о"
+    ],
+    [
+      11,
+      12,
+      "соч-союзн",
+      "и",
+      "опрометчиво"
+    ],
+    [
+      8,
+      11,
+      "сочин",
+      "нем",
+      "и"
+    ],
+    [
+      6,
+      7,
+      "обст",
+      "судить",
+      "о"
+    ],
+    [
+      8,
+      9,
+      "обст",
+      "нем",
+      "так"
+    ],
+    [
+      8,
+      10,
+      "обст",
+      "нем",
+      "поспешно"
+    ],
+    [
+      4,
+      6,
+      "обст",
+      "имел",
+      "судить"
+    ]
+  ]
+}

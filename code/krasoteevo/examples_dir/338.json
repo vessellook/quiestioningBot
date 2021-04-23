@@ -1,0 +1,751 @@
+{
+  "sentence": "— Бог меня простит, а я-таки порадовалась тогда ее смерти, хоть и не знаю, кто из них один другого погубил бы: он ли ее, или она его? — заключила Пульхерия Александровна; затем осторожно, с задержками и с беспрерывными взглядываниями на Дуню, что было той, очевидно, неприятно, принялась опять расспрашивать о вчерашней сцене между Родей и Лужиным.",
+  "tokens": [
+    "—",
+    "Бог",
+    "меня",
+    "простит",
+    ",",
+    "а",
+    "я-таки",
+    "порадовалась",
+    "тогда",
+    "ее",
+    "смерти",
+    ",",
+    "хоть",
+    "и",
+    "не",
+    "знаю",
+    ",",
+    "кто",
+    "из",
+    "них",
+    "один",
+    "другого",
+    "погубил",
+    "бы",
+    ":",
+    "он",
+    "ли",
+    "ее",
+    ",",
+    "или",
+    "она",
+    "его",
+    "?",
+    "—",
+    "заключила",
+    "Пульхерия",
+    "Александровна",
+    ";",
+    "затем",
+    "осторожно",
+    ",",
+    "с",
+    "задержками",
+    "и",
+    "с",
+    "беспрерывными",
+    "взглядываниями",
+    "на",
+    "Дуню",
+    ",",
+    "что",
+    "было",
+    "той",
+    ",",
+    "очевидно",
+    ",",
+    "неприятно",
+    ",",
+    "принялась",
+    "опять",
+    "расспрашивать",
+    "о",
+    "вчерашней",
+    "сцене",
+    "между",
+    "Родей",
+    "и",
+    "Лужиным",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "бог",
+        "lexem": "бог",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "меня",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "простит",
+        "lexem": "простить",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,3per,futr,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "я-таки",
+        "lexem": "я-таки",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "порадовалась",
+        "lexem": "порадоваться",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "тогда",
+        "lexem": "тогда",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "её",
+        "lexem": "её",
+        "tags": "OpencorporaTag('ADJF,Fixd,Apro,Anph femn,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "смерти",
+        "lexem": "смерть",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      },
+      {
+        "word": "смерти",
+        "lexem": "смерть",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "знаю",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "кто",
+        "lexem": "кто",
+        "tags": "OpencorporaTag('NPRO,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,gent,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,loct,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,accs,Af-p')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "другого",
+        "lexem": "другой",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro masc,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "погубил",
+        "lexem": "погубить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,accs')"
+      },
+      {
+        "word": "её",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "или",
+        "lexem": "или",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "она",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,accs')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "заключила",
+        "lexem": "заключить",
+        "tags": "OpencorporaTag('VERB,perf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "пульхерия",
+        "lexem": "пульхерия",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "александровна",
+        "lexem": "александрович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "задержками",
+        "lexem": "задержка",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "взглядываниями",
+        "lexem": "взглядывание",
+        "tags": "OpencorporaTag('NOUN,inan,neut plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "дуню",
+        "lexem": "дуня",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "той",
+        "lexem": "той",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "принялась",
+        "lexem": "приняться",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "опять",
+        "lexem": "опять",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "расспрашивать",
+        "lexem": "расспрашивать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "о",
+        "lexem": "о",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "вчерашней",
+        "lexem": "вчерашний",
+        "tags": "OpencorporaTag('ADJF femn,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "сцене",
+        "lexem": "сцена",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "сцене",
+        "lexem": "сцена",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "между",
+        "lexem": "между",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "родей",
+        "lexem": "родя",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "лужиным",
+        "lexem": "лужин",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,ablt')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      63,
+      62,
+      "опред",
+      "сцене",
+      "вчерашней"
+    ],
+    [
+      46,
+      48,
+      "аппоз",
+      "взглядываниями",
+      "дуню"
+    ],
+    [
+      63,
+      65,
+      "аппоз",
+      "сцене",
+      "родей"
+    ],
+    [
+      35,
+      36,
+      "аппоз",
+      "пульхерия",
+      "александровна"
+    ],
+    [
+      17,
+      18,
+      "элект",
+      "кто",
+      "из"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "из",
+      "них"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "из",
+      "них"
+    ],
+    [
+      18,
+      19,
+      "предл",
+      "из",
+      "них"
+    ],
+    [
+      41,
+      42,
+      "предл",
+      "с",
+      "задержками"
+    ],
+    [
+      61,
+      63,
+      "предл",
+      "о",
+      "сцене"
+    ],
+    [
+      61,
+      63,
+      "предл",
+      "о",
+      "сцене"
+    ],
+    [
+      15,
+      14,
+      "огранич",
+      "знаю",
+      "не"
+    ],
+    [
+      46,
+      47,
+      "атриб",
+      "взглядываниями",
+      "на"
+    ],
+    [
+      3,
+      1,
+      "предик",
+      "простит",
+      "бог"
+    ],
+    [
+      7,
+      6,
+      "предик",
+      "порадовалась",
+      "я-таки"
+    ],
+    [
+      22,
+      17,
+      "предик",
+      "погубил",
+      "кто"
+    ],
+    [
+      34,
+      30,
+      "предик",
+      "заключила",
+      "она"
+    ],
+    [
+      51,
+      50,
+      "предик",
+      "было",
+      "что"
+    ],
+    [
+      58,
+      52,
+      "предик",
+      "принялась",
+      "той"
+    ],
+    [
+      7,
+      10,
+      "1-компл",
+      "порадовалась",
+      "смерти"
+    ],
+    [
+      7,
+      10,
+      "1-компл",
+      "порадовалась",
+      "смерти"
+    ],
+    [
+      22,
+      21,
+      "1-компл",
+      "погубил",
+      "другого"
+    ],
+    [
+      22,
+      27,
+      "1-компл",
+      "погубил",
+      "её"
+    ],
+    [
+      34,
+      31,
+      "1-компл",
+      "заключила",
+      "его"
+    ],
+    [
+      34,
+      41,
+      "1-компл",
+      "заключила",
+      "с"
+    ],
+    [
+      51,
+      44,
+      "1-компл",
+      "было",
+      "с"
+    ],
+    [
+      60,
+      61,
+      "1-компл",
+      "расспрашивать",
+      "о"
+    ],
+    [
+      22,
+      27,
+      "1-компл",
+      "погубил",
+      "её"
+    ],
+    [
+      17,
+      22,
+      "подч-союзн",
+      "кто",
+      "погубил"
+    ],
+    [
+      5,
+      7,
+      "соч-союзн",
+      "а",
+      "порадовалась"
+    ],
+    [
+      13,
+      15,
+      "соч-союзн",
+      "и",
+      "знаю"
+    ],
+    [
+      29,
+      34,
+      "соч-союзн",
+      "или",
+      "заключила"
+    ],
+    [
+      66,
+      67,
+      "соч-союзн",
+      "и",
+      "лужиным"
+    ],
+    [
+      3,
+      5,
+      "сочин",
+      "простит",
+      "а"
+    ],
+    [
+      7,
+      13,
+      "сочин",
+      "порадовалась",
+      "и"
+    ],
+    [
+      22,
+      29,
+      "сочин",
+      "погубил",
+      "или"
+    ],
+    [
+      42,
+      43,
+      "сочин",
+      "задержками",
+      "и"
+    ],
+    [
+      65,
+      66,
+      "сочин",
+      "родей",
+      "и"
+    ],
+    [
+      7,
+      8,
+      "обст",
+      "порадовалась",
+      "тогда"
+    ],
+    [
+      58,
+      59,
+      "обст",
+      "принялась",
+      "опять"
+    ],
+    [
+      60,
+      61,
+      "обст",
+      "расспрашивать",
+      "о"
+    ],
+    [
+      60,
+      64,
+      "обст",
+      "расспрашивать",
+      "между"
+    ],
+    [
+      58,
+      60,
+      "обст",
+      "принялась",
+      "расспрашивать"
+    ],
+    [
+      51,
+      2,
+      "присвяз",
+      "было",
+      "меня"
+    ],
+    [
+      51,
+      46,
+      "присвяз",
+      "было",
+      "взглядываниями"
+    ]
+  ]
+}

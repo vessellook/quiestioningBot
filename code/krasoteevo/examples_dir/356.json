@@ -1,0 +1,279 @@
+{
+  "sentence": "— Вот в чем дело, — заторопилась та, как будто с нее гору сняли позволением сообщить свое горе.",
+  "tokens": [
+    "—",
+    "Вот",
+    "в",
+    "чем",
+    "дело",
+    ",",
+    "—",
+    "заторопилась",
+    "та",
+    ",",
+    "как",
+    "будто",
+    "с",
+    "нее",
+    "гору",
+    "сняли",
+    "позволением",
+    "сообщить",
+    "свое",
+    "горе",
+    "."
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "чем",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,ablt')"
+      },
+      {
+        "word": "чём",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "дело",
+        "lexem": "дело",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      },
+      {
+        "word": "дело",
+        "lexem": "деть",
+        "tags": "OpencorporaTag('VERB,perf,tran neut,sing,past,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "заторопилась",
+        "lexem": "заторопиться",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "та",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph femn,sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('CONJ')"
+      },
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "неё",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,gent,Af-p')"
+      },
+      {
+        "word": "неё",
+        "lexem": "она",
+        "tags": "OpencorporaTag('NPRO,femn,3per,Anph sing,accs,Af-p')"
+      }
+    ],
+    [
+      {
+        "word": "гору",
+        "lexem": "гора",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "сняли",
+        "lexem": "снять",
+        "tags": "OpencorporaTag('VERB,perf,tran plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "позволением",
+        "lexem": "позволение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "сообщить",
+        "lexem": "сообщить",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "своё",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "горе",
+        "lexem": "горе",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Sgtm sing,accs')"
+      },
+      {
+        "word": "горе",
+        "lexem": "горе",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      19,
+      18,
+      "опред",
+      "горе",
+      "своё"
+    ],
+    [
+      15,
+      16,
+      "агент",
+      "сняли",
+      "позволением"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "в",
+      "чем"
+    ],
+    [
+      2,
+      3,
+      "предл",
+      "в",
+      "чём"
+    ],
+    [
+      12,
+      13,
+      "предл",
+      "с",
+      "неё"
+    ],
+    [
+      12,
+      13,
+      "предл",
+      "с",
+      "неё"
+    ],
+    [
+      7,
+      4,
+      "предик",
+      "заторопилась",
+      "дело"
+    ],
+    [
+      4,
+      2,
+      "1-компл",
+      "дело",
+      "в"
+    ],
+    [
+      7,
+      8,
+      "1-компл",
+      "заторопилась",
+      "та"
+    ],
+    [
+      15,
+      12,
+      "1-компл",
+      "сняли",
+      "с"
+    ],
+    [
+      15,
+      14,
+      "1-компл",
+      "сняли",
+      "гору"
+    ],
+    [
+      15,
+      16,
+      "1-компл",
+      "сняли",
+      "позволением"
+    ],
+    [
+      17,
+      19,
+      "1-компл",
+      "сообщить",
+      "горе"
+    ],
+    [
+      10,
+      15,
+      "подч-союзн",
+      "как",
+      "сняли"
+    ],
+    [
+      10,
+      15,
+      "подч-союзн",
+      "как",
+      "сняли"
+    ],
+    [
+      17,
+      19,
+      "обст",
+      "сообщить",
+      "горе"
+    ],
+    [
+      15,
+      17,
+      "обст",
+      "сняли",
+      "сообщить"
+    ]
+  ]
+}

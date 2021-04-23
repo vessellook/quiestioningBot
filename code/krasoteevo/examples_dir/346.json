@@ -1,0 +1,66 @@
+{
+  "sentence": "Не осердитесь, что так говорю.",
+  "tokens": [
+    "Не",
+    "осердитесь",
+    ",",
+    "что",
+    "так",
+    "говорю",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "осердитесь",
+        "lexem": "осердиться",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,2per,futr,indc')"
+      },
+      {
+        "word": "осердитесь",
+        "lexem": "осердиться",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,impr,excl')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "говорю",
+        "lexem": "говорить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,1per,pres,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      3,
+      "предик",
+      "говорю",
+      "что"
+    ],
+    [
+      5,
+      4,
+      "обст",
+      "говорю",
+      "так"
+    ]
+  ]
+}

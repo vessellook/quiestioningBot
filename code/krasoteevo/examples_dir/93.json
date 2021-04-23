@@ -1,0 +1,66 @@
+{
+  "sentence": "Последний, самый горький час!",
+  "tokens": [
+    "Последний",
+    ",",
+    "самый",
+    "горький",
+    "час",
+    "!"
+  ],
+  "morphs": [
+    [
+      {
+        "word": "последний",
+        "lexem": "последний",
+        "tags": "OpencorporaTag('ADJF inan,masc,sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "самый",
+        "lexem": "самый",
+        "tags": "OpencorporaTag('ADJF,Apro inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "горький",
+        "lexem": "горький",
+        "tags": "OpencorporaTag('ADJF,Qual inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "час",
+        "lexem": "час",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      0,
+      "опред",
+      "час",
+      "последний"
+    ],
+    [
+      4,
+      3,
+      "опред",
+      "час",
+      "горький"
+    ],
+    [
+      0,
+      2,
+      "сочин",
+      "последний",
+      "самый"
+    ]
+  ]
+}

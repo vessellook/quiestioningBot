@@ -1,0 +1,116 @@
+{
+  "sentence": "Кинулись разгребать снег, подняли тело — оказывается, знакомый человек...",
+  "tokens": [
+    "Кинулись",
+    "разгребать",
+    "снег",
+    ",",
+    "подняли",
+    "тело",
+    "—",
+    "оказывается",
+    ",",
+    "знакомый",
+    "человек",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "кинулись",
+        "lexem": "кинуться",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "разгребать",
+        "lexem": "разгребать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "снег",
+        "lexem": "снег",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "подняли",
+        "lexem": "поднять",
+        "tags": "OpencorporaTag('VERB,perf,tran plur,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "тело",
+        "lexem": "тело",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "оказывается",
+        "lexem": "оказываться",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "знакомый",
+        "lexem": "знакомый",
+        "tags": "OpencorporaTag('ADJF,Subx,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "человек",
+        "lexem": "человек",
+        "tags": "OpencorporaTag('NOUN,anim,masc sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      10,
+      9,
+      "опред",
+      "человек",
+      "знакомый"
+    ],
+    [
+      7,
+      5,
+      "предик",
+      "оказывается",
+      "тело"
+    ],
+    [
+      1,
+      2,
+      "1-компл",
+      "разгребать",
+      "снег"
+    ],
+    [
+      0,
+      4,
+      "сочин",
+      "кинулись",
+      "подняли"
+    ],
+    [
+      0,
+      1,
+      "обст",
+      "кинулись",
+      "разгребать"
+    ]
+  ]
+}

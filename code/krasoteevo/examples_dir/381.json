@@ -1,0 +1,140 @@
+{
+  "sentence": "— Которые так дорого вам достались, маменька, — прибавила Авдотья Романовна.",
+  "tokens": [
+    "—",
+    "Которые",
+    "так",
+    "дорого",
+    "вам",
+    "достались",
+    ",",
+    "маменька",
+    ",",
+    "—",
+    "прибавила",
+    "Авдотья",
+    "Романовна",
+    "."
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "которые",
+        "lexem": "который",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "так",
+        "lexem": "так",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "дорого",
+        "lexem": "дорого",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "вам",
+        "lexem": "вы",
+        "tags": "OpencorporaTag('NPRO,2per plur,datv')"
+      }
+    ],
+    [
+      {
+        "word": "достались",
+        "lexem": "достаться",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "маменька",
+        "lexem": "маменька",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,nomn')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "прибавила",
+        "lexem": "прибавить",
+        "tags": "OpencorporaTag('VERB,perf,tran femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "авдотья",
+        "lexem": "авдотья",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "романовна",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Patr sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      11,
+      12,
+      "аппоз",
+      "авдотья",
+      "романовна"
+    ],
+    [
+      10,
+      7,
+      "предик",
+      "прибавила",
+      "маменька"
+    ],
+    [
+      5,
+      1,
+      "1-компл",
+      "достались",
+      "которые"
+    ],
+    [
+      5,
+      4,
+      "1-компл",
+      "достались",
+      "вам"
+    ],
+    [
+      5,
+      10,
+      "сочин",
+      "достались",
+      "прибавила"
+    ],
+    [
+      5,
+      2,
+      "обст",
+      "достались",
+      "так"
+    ],
+    [
+      5,
+      3,
+      "обст",
+      "достались",
+      "дорого"
+    ]
+  ]
+}

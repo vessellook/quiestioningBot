@@ -1,0 +1,552 @@
+{
+  "sentence": "Разумихин пересказал всё снова, в подробности, но на этот раз прибавил и свое заключение: он прямо обвинил Раскольникова в преднамеренном оскорблении Петра Петровича, на этот раз весьма мало извиняя его болезнию.",
+  "tokens": [
+    "Разумихин",
+    "пересказал",
+    "всё",
+    "снова",
+    ",",
+    "в",
+    "подробности",
+    ",",
+    "но",
+    "на",
+    "этот",
+    "раз",
+    "прибавил",
+    "и",
+    "свое",
+    "заключение",
+    ":",
+    "он",
+    "прямо",
+    "обвинил",
+    "Раскольникова",
+    "в",
+    "преднамеренном",
+    "оскорблении",
+    "Петра",
+    "Петровича",
+    ",",
+    "на",
+    "этот",
+    "раз",
+    "весьма",
+    "мало",
+    "извиняя",
+    "его",
+    "болезнию",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "разумихин",
+        "lexem": "разумихин",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "пересказал",
+        "lexem": "пересказать",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,nomn')"
+      },
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "снова",
+        "lexem": "снова",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "подробности",
+        "lexem": "подробность",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      },
+      {
+        "word": "подробности",
+        "lexem": "подробность",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "подробности",
+        "lexem": "подробность",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      },
+      {
+        "word": "подробности",
+        "lexem": "подробность",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "но",
+        "lexem": "но",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "этот",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "раз",
+        "lexem": "раз",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "прибавил",
+        "lexem": "прибавить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "своё",
+        "lexem": "свой",
+        "tags": "OpencorporaTag('ADJF,Apro,Anph neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "заключение",
+        "lexem": "заключение",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "прямо",
+        "lexem": "прямо",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "обвинил",
+        "lexem": "обвинить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "раскольникова",
+        "lexem": "раскольников",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Sgtm,Surn sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "преднамеренном",
+        "lexem": "преднамеренный",
+        "tags": "OpencorporaTag('ADJF neut,sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "оскорблении",
+        "lexem": "оскорбление",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,loct')"
+      }
+    ],
+    [
+      {
+        "word": "петра",
+        "lexem": "пётр",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,gent')"
+      },
+      {
+        "word": "петра",
+        "lexem": "пётр",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,accs')"
+      },
+      {
+        "word": "петра",
+        "lexem": "петра",
+        "tags": "OpencorporaTag('NOUN,anim,femn,Name sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "петровича",
+        "lexem": "петрович",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr sing,gent')"
+      },
+      {
+        "word": "петровича",
+        "lexem": "петрович",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "этот",
+        "lexem": "этот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph inan,masc,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "раз",
+        "lexem": "раз",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "весьма",
+        "lexem": "весьма",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "мало",
+        "lexem": "мало",
+        "tags": "OpencorporaTag('ADVB,Prdx')"
+      }
+    ],
+    [
+      {
+        "word": "извиняя",
+        "lexem": "извинять",
+        "tags": "OpencorporaTag('GRND,impf,tran pres')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "болезнию",
+        "lexem": "болезние",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,datv')"
+      },
+      {
+        "word": "болезнию",
+        "lexem": "болезнить",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,1per,futr,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      23,
+      22,
+      "опред",
+      "оскорблении",
+      "преднамеренном"
+    ],
+    [
+      15,
+      14,
+      "опред",
+      "заключение",
+      "своё"
+    ],
+    [
+      23,
+      24,
+      "аппоз",
+      "оскорблении",
+      "петра"
+    ],
+    [
+      23,
+      24,
+      "аппоз",
+      "оскорблении",
+      "петра"
+    ],
+    [
+      23,
+      24,
+      "аппоз",
+      "оскорблении",
+      "петра"
+    ],
+    [
+      24,
+      25,
+      "аппоз",
+      "петра",
+      "петровича"
+    ],
+    [
+      24,
+      25,
+      "аппоз",
+      "петра",
+      "петровича"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "в",
+      "подробности"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "в",
+      "подробности"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "в",
+      "подробности"
+    ],
+    [
+      5,
+      6,
+      "предл",
+      "в",
+      "подробности"
+    ],
+    [
+      21,
+      23,
+      "предл",
+      "в",
+      "оскорблении"
+    ],
+    [
+      19,
+      32,
+      "обст",
+      "обвинил",
+      "извиняя"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "пересказал",
+      "разумихин"
+    ],
+    [
+      12,
+      11,
+      "предик",
+      "прибавил",
+      "раз"
+    ],
+    [
+      19,
+      17,
+      "предик",
+      "обвинил",
+      "он"
+    ],
+    [
+      34,
+      20,
+      "предик",
+      "болезнию",
+      "раскольникова"
+    ],
+    [
+      1,
+      2,
+      "1-компл",
+      "пересказал",
+      "всё"
+    ],
+    [
+      1,
+      2,
+      "1-компл",
+      "пересказал",
+      "всё"
+    ],
+    [
+      1,
+      5,
+      "1-компл",
+      "пересказал",
+      "в"
+    ],
+    [
+      12,
+      9,
+      "1-компл",
+      "прибавил",
+      "на"
+    ],
+    [
+      12,
+      15,
+      "1-компл",
+      "прибавил",
+      "заключение"
+    ],
+    [
+      32,
+      34,
+      "1-компл",
+      "извиняя",
+      "болезнию"
+    ],
+    [
+      32,
+      33,
+      "1-компл",
+      "извиняя",
+      "его"
+    ],
+    [
+      8,
+      12,
+      "соч-союзн",
+      "но",
+      "прибавил"
+    ],
+    [
+      13,
+      19,
+      "соч-союзн",
+      "и",
+      "обвинил"
+    ],
+    [
+      1,
+      8,
+      "сочин",
+      "пересказал",
+      "но"
+    ],
+    [
+      12,
+      13,
+      "сочин",
+      "прибавил",
+      "и"
+    ],
+    [
+      1,
+      3,
+      "обст",
+      "пересказал",
+      "снова"
+    ],
+    [
+      19,
+      18,
+      "обст",
+      "обвинил",
+      "прямо"
+    ],
+    [
+      19,
+      21,
+      "обст",
+      "обвинил",
+      "в"
+    ],
+    [
+      32,
+      27,
+      "обст",
+      "извиняя",
+      "на"
+    ],
+    [
+      32,
+      29,
+      "обст",
+      "извиняя",
+      "раз"
+    ],
+    [
+      32,
+      30,
+      "обст",
+      "извиняя",
+      "весьма"
+    ],
+    [
+      32,
+      31,
+      "обст",
+      "извиняя",
+      "мало"
+    ]
+  ]
+}

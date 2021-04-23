@@ -1,0 +1,117 @@
+{
+  "sentence": "— Он еще до болезни это придумал, — прибавил он.",
+  "tokens": [
+    "—",
+    "Он",
+    "еще",
+    "до",
+    "болезни",
+    "это",
+    "придумал",
+    ",",
+    "—",
+    "прибавил",
+    "он",
+    "."
+  ],
+  "morphs": [
+    [],
+    [],
+    [
+      {
+        "word": "ещё",
+        "lexem": "ещё",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "до",
+        "lexem": "до",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "болезни",
+        "lexem": "болезнь",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "это",
+        "lexem": "это",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "придумал",
+        "lexem": "придумать",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "прибавил",
+        "lexem": "прибавить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      3,
+      4,
+      "предл",
+      "до",
+      "болезни"
+    ],
+    [
+      6,
+      5,
+      "предик",
+      "придумал",
+      "это"
+    ],
+    [
+      9,
+      10,
+      "предик",
+      "прибавил",
+      "он"
+    ],
+    [
+      6,
+      3,
+      "1-компл",
+      "придумал",
+      "до"
+    ],
+    [
+      6,
+      9,
+      "сочин",
+      "придумал",
+      "прибавил"
+    ],
+    [
+      6,
+      2,
+      "обст",
+      "придумал",
+      "ещё"
+    ]
+  ]
+}

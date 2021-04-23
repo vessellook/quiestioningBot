@@ -1,0 +1,99 @@
+{
+  "sentence": "Надо ждать завтра не раньше обеда.",
+  "tokens": [
+    "Надо",
+    "ждать",
+    "завтра",
+    "не",
+    "раньше",
+    "обеда",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "надо",
+        "lexem": "надо",
+        "tags": "OpencorporaTag('PRED,pres')"
+      },
+      {
+        "word": "надо",
+        "lexem": "над",
+        "tags": "OpencorporaTag('PREP Vpre')"
+      }
+    ],
+    [
+      {
+        "word": "ждать",
+        "lexem": "ждать",
+        "tags": "OpencorporaTag('INFN,impf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "завтра",
+        "lexem": "завтра",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "раньше",
+        "lexem": "ранний",
+        "tags": "OpencorporaTag('COMP')"
+      }
+    ],
+    [
+      {
+        "word": "обеда",
+        "lexem": "обед",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      4,
+      3,
+      "огранич",
+      "раньше",
+      "не"
+    ],
+    [
+      1,
+      0,
+      "1-компл",
+      "ждать",
+      "надо"
+    ],
+    [
+      1,
+      2,
+      "обст",
+      "ждать",
+      "завтра"
+    ],
+    [
+      1,
+      2,
+      "обст",
+      "ждать",
+      "завтра"
+    ],
+    [
+      4,
+      5,
+      "сравнит",
+      "раньше",
+      "обеда"
+    ]
+  ]
+}

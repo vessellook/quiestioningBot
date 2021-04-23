@@ -1,0 +1,634 @@
+{
+  "sentence": "Отвечая на них, он проговорил три четверти часа, беспрестанно прерываемый и переспрашиваемый, и успел передать все главнейшие и необходимейшие факты, какие только знал из последнего года жизни Родиона Романовича, заключив обстоятельным рассказом о болезни его.",
+  "tokens": [
+    "Отвечая",
+    "на",
+    "них",
+    ",",
+    "он",
+    "проговорил",
+    "три",
+    "четверти",
+    "часа",
+    ",",
+    "беспрестанно",
+    "прерываемый",
+    "и",
+    "переспрашиваемый",
+    ",",
+    "и",
+    "успел",
+    "передать",
+    "все",
+    "главнейшие",
+    "и",
+    "необходимейшие",
+    "факты",
+    ",",
+    "какие",
+    "только",
+    "знал",
+    "из",
+    "последнего",
+    "года",
+    "жизни",
+    "Родиона",
+    "Романовича",
+    ",",
+    "заключив",
+    "обстоятельным",
+    "рассказом",
+    "о",
+    "болезни",
+    "его",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "отвечая",
+        "lexem": "отвечать",
+        "tags": "OpencorporaTag('GRND,impf,intr pres')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,gent,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,loct,Af-p')"
+      },
+      {
+        "word": "них",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,accs,Af-p')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "проговорил",
+        "lexem": "проговорить",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "три",
+        "lexem": "тереть",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,impr,excl')"
+      }
+    ],
+    [
+      {
+        "word": "четверти",
+        "lexem": "четверть",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "часа",
+        "lexem": "час",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "беспрестанно",
+        "lexem": "беспрестанно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "прерываемый",
+        "lexem": "прерывать",
+        "tags": "OpencorporaTag('PRTF,impf,tran,pres,pssv masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "успел",
+        "lexem": "успеть",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "передать",
+        "lexem": "передать",
+        "tags": "OpencorporaTag('INFN,perf,tran')"
+      }
+    ],
+    [
+      {
+        "word": "все",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro plur,nomn')"
+      },
+      {
+        "word": "все",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro inan,plur,accs')"
+      },
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,nomn')"
+      },
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "какие",
+        "lexem": "какой",
+        "tags": "OpencorporaTag('ADJF,Apro plur,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "только",
+        "lexem": "только",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "знал",
+        "lexem": "знать",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "из",
+        "lexem": "из",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "последнего",
+        "lexem": "последний",
+        "tags": "OpencorporaTag('ADJF masc,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "года",
+        "lexem": "год",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      },
+      {
+        "word": "года",
+        "lexem": "год",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,accs,Infr')"
+      }
+    ],
+    [
+      {
+        "word": "жизни",
+        "lexem": "жизнь",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "родиона",
+        "lexem": "родион",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,gent')"
+      },
+      {
+        "word": "родиона",
+        "lexem": "родион",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Name sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "романовича",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr sing,gent')"
+      },
+      {
+        "word": "романовича",
+        "lexem": "романович",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Patr sing,accs')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "заключив",
+        "lexem": "заключить",
+        "tags": "OpencorporaTag('GRND,perf,tran past')"
+      }
+    ],
+    [
+      {
+        "word": "обстоятельным",
+        "lexem": "обстоятельный",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "рассказом",
+        "lexem": "рассказ",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "о",
+        "lexem": "о",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "болезни",
+        "lexem": "болезнь",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,gent')"
+      },
+      {
+        "word": "болезни",
+        "lexem": "болезнь",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "болезни",
+        "lexem": "болезнь",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,accs')"
+      },
+      {
+        "word": "болезни",
+        "lexem": "болезнь",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "его",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      29,
+      28,
+      "опред",
+      "года",
+      "последнего"
+    ],
+    [
+      36,
+      35,
+      "опред",
+      "рассказом",
+      "обстоятельным"
+    ],
+    [
+      36,
+      37,
+      "квазиагент",
+      "рассказом",
+      "о"
+    ],
+    [
+      29,
+      31,
+      "аппоз",
+      "года",
+      "родиона"
+    ],
+    [
+      29,
+      31,
+      "аппоз",
+      "года",
+      "родиона"
+    ],
+    [
+      29,
+      32,
+      "аппоз",
+      "года",
+      "романовича"
+    ],
+    [
+      29,
+      32,
+      "аппоз",
+      "года",
+      "романовича"
+    ],
+    [
+      30,
+      31,
+      "аппоз",
+      "жизни",
+      "родиона"
+    ],
+    [
+      30,
+      31,
+      "аппоз",
+      "жизни",
+      "родиона"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "на",
+      "них"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "на",
+      "них"
+    ],
+    [
+      1,
+      2,
+      "предл",
+      "на",
+      "них"
+    ],
+    [
+      27,
+      29,
+      "предл",
+      "из",
+      "года"
+    ],
+    [
+      27,
+      29,
+      "предл",
+      "из",
+      "года"
+    ],
+    [
+      37,
+      38,
+      "предл",
+      "о",
+      "болезни"
+    ],
+    [
+      37,
+      38,
+      "предл",
+      "о",
+      "болезни"
+    ],
+    [
+      37,
+      38,
+      "предл",
+      "о",
+      "болезни"
+    ],
+    [
+      37,
+      38,
+      "предл",
+      "о",
+      "болезни"
+    ],
+    [
+      26,
+      25,
+      "огранич",
+      "знал",
+      "только"
+    ],
+    [
+      5,
+      0,
+      "обст",
+      "проговорил",
+      "отвечая"
+    ],
+    [
+      26,
+      34,
+      "обст",
+      "знал",
+      "заключив"
+    ],
+    [
+      7,
+      8,
+      "атриб",
+      "четверти",
+      "часа"
+    ],
+    [
+      29,
+      30,
+      "атриб",
+      "года",
+      "жизни"
+    ],
+    [
+      38,
+      39,
+      "атриб",
+      "болезни",
+      "его"
+    ],
+    [
+      38,
+      39,
+      "атриб",
+      "болезни",
+      "его"
+    ],
+    [
+      38,
+      39,
+      "атриб",
+      "болезни",
+      "его"
+    ],
+    [
+      38,
+      39,
+      "атриб",
+      "болезни",
+      "его"
+    ],
+    [
+      5,
+      4,
+      "предик",
+      "проговорил",
+      "он"
+    ],
+    [
+      6,
+      7,
+      "предик",
+      "три",
+      "четверти"
+    ],
+    [
+      0,
+      1,
+      "1-компл",
+      "отвечая",
+      "на"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "передать",
+      "все"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "передать",
+      "все"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "передать",
+      "всё"
+    ],
+    [
+      17,
+      18,
+      "1-компл",
+      "передать",
+      "всё"
+    ],
+    [
+      26,
+      24,
+      "1-компл",
+      "знал",
+      "какие"
+    ],
+    [
+      26,
+      27,
+      "1-компл",
+      "знал",
+      "из"
+    ],
+    [
+      34,
+      36,
+      "1-компл",
+      "заключив",
+      "рассказом"
+    ],
+    [
+      12,
+      16,
+      "соч-союзн",
+      "и",
+      "успел"
+    ],
+    [
+      20,
+      26,
+      "соч-союзн",
+      "и",
+      "знал"
+    ],
+    [
+      6,
+      12,
+      "сочин",
+      "три",
+      "и"
+    ],
+    [
+      16,
+      20,
+      "сочин",
+      "успел",
+      "и"
+    ],
+    [
+      0,
+      1,
+      "обст",
+      "отвечая",
+      "на"
+    ],
+    [
+      11,
+      10,
+      "обст",
+      "прерываемый",
+      "беспрестанно"
+    ],
+    [
+      26,
+      27,
+      "обст",
+      "знал",
+      "из"
+    ]
+  ]
+}

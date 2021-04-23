@@ -1,0 +1,194 @@
+{
+  "sentence": "Ужасно высоко себя ценит и, кажется, не без некоторого права на то.",
+  "tokens": [
+    "Ужасно",
+    "высоко",
+    "себя",
+    "ценит",
+    "и",
+    ",",
+    "кажется",
+    ",",
+    "не",
+    "без",
+    "некоторого",
+    "права",
+    "на",
+    "то",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "ужасно",
+        "lexem": "ужасно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "высоко",
+        "lexem": "высоко",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "себя",
+        "lexem": "себя",
+        "tags": "OpencorporaTag('NPRO,Anph sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "ценит",
+        "lexem": "ценить",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "кажется",
+        "lexem": "казаться",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "без",
+        "lexem": "без",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "некоторого",
+        "lexem": "некоторый",
+        "tags": "OpencorporaTag('ADJF,Apro neut,sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "права",
+        "lexem": "право",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,accs')"
+      },
+      {
+        "word": "то",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      11,
+      10,
+      "опред",
+      "права",
+      "некоторого"
+    ],
+    [
+      11,
+      12,
+      "атриб",
+      "права",
+      "на"
+    ],
+    [
+      3,
+      2,
+      "1-компл",
+      "ценит",
+      "себя"
+    ],
+    [
+      6,
+      9,
+      "1-компл",
+      "кажется",
+      "без"
+    ],
+    [
+      6,
+      13,
+      "1-компл",
+      "кажется",
+      "то"
+    ],
+    [
+      6,
+      13,
+      "1-компл",
+      "кажется",
+      "то"
+    ],
+    [
+      4,
+      6,
+      "соч-союзн",
+      "и",
+      "кажется"
+    ],
+    [
+      3,
+      4,
+      "сочин",
+      "ценит",
+      "и"
+    ],
+    [
+      3,
+      0,
+      "обст",
+      "ценит",
+      "ужасно"
+    ],
+    [
+      3,
+      1,
+      "обст",
+      "ценит",
+      "высоко"
+    ],
+    [
+      6,
+      11,
+      "присвяз",
+      "кажется",
+      "права"
+    ],
+    [
+      6,
+      13,
+      "сент-предик",
+      "кажется",
+      "то"
+    ]
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "sentence": "В лесах лазурно светился, расходился и таял душистый туман, за дальними лесистыми вершинами сияла предвечная белизна снежных гор...",
+  "tokens": [
+    "В",
+    "лесах",
+    "лазурно",
+    "светился",
+    ",",
+    "расходился",
+    "и",
+    "таял",
+    "душистый",
+    "туман",
+    ",",
+    "за",
+    "дальними",
+    "лесистыми",
+    "вершинами",
+    "сияла",
+    "предвечная",
+    "белизна",
+    "снежных",
+    "гор",
+    "..."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "лесах",
+        "lexem": "лес",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,loct')"
+      },
+      {
+        "word": "лесах",
+        "lexem": "леса",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,loct')"
+      }
+    ],
+    [
+      {
+        "word": "лазурно",
+        "lexem": "лазурно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "светился",
+        "lexem": "светиться",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "расходился",
+        "lexem": "расходиться",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      },
+      {
+        "word": "расходился",
+        "lexem": "расходиться",
+        "tags": "OpencorporaTag('VERB,perf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "таял",
+        "lexem": "таять",
+        "tags": "OpencorporaTag('VERB,impf,intr masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "душистый",
+        "lexem": "душистый",
+        "tags": "OpencorporaTag('ADJF,Qual masc,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "туман",
+        "lexem": "туман",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "за",
+        "lexem": "за",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "вершинами",
+        "lexem": "вершина",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "сияла",
+        "lexem": "сиять",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "предвечная",
+        "lexem": "предвечный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "белизна",
+        "lexem": "белизна",
+        "tags": "OpencorporaTag('NOUN,inan,femn,Sgtm sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "снежных",
+        "lexem": "снежный",
+        "tags": "OpencorporaTag('ADJF,Qual plur,gent')"
+      },
+      {
+        "word": "снежных",
+        "lexem": "снежный",
+        "tags": "OpencorporaTag('ADJF,Qual anim,plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "гор",
+        "lexem": "гора",
+        "tags": "OpencorporaTag('NOUN,inan,femn plur,gent')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      9,
+      8,
+      "опред",
+      "туман",
+      "душистый"
+    ],
+    [
+      17,
+      16,
+      "опред",
+      "белизна",
+      "предвечная"
+    ],
+    [
+      15,
+      14,
+      "агент",
+      "сияла",
+      "вершинами"
+    ],
+    [
+      0,
+      1,
+      "предл",
+      "в",
+      "лесах"
+    ],
+    [
+      0,
+      1,
+      "предл",
+      "в",
+      "лесах"
+    ],
+    [
+      18,
+      19,
+      "атриб",
+      "снежных",
+      "гор"
+    ],
+    [
+      18,
+      19,
+      "атриб",
+      "снежных",
+      "гор"
+    ],
+    [
+      15,
+      9,
+      "предик",
+      "сияла",
+      "туман"
+    ],
+    [
+      3,
+      0,
+      "1-компл",
+      "светился",
+      "в"
+    ],
+    [
+      7,
+      11,
+      "1-компл",
+      "таял",
+      "за"
+    ],
+    [
+      6,
+      7,
+      "соч-союзн",
+      "и",
+      "таял"
+    ],
+    [
+      3,
+      5,
+      "сочин",
+      "светился",
+      "расходился"
+    ],
+    [
+      3,
+      5,
+      "сочин",
+      "светился",
+      "расходился"
+    ],
+    [
+      7,
+      15,
+      "сочин",
+      "таял",
+      "сияла"
+    ],
+    [
+      5,
+      6,
+      "сочин",
+      "расходился",
+      "и"
+    ],
+    [
+      5,
+      6,
+      "сочин",
+      "расходился",
+      "и"
+    ],
+    [
+      3,
+      2,
+      "обст",
+      "светился",
+      "лазурно"
+    ]
+  ]
+}

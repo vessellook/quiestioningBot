@@ -1,0 +1,111 @@
+{
+  "sentence": "Я смотрел все напряженнее — их все не было.",
+  "tokens": [
+    "Я",
+    "смотрел",
+    "все",
+    "напряженнее",
+    "—",
+    "их",
+    "все",
+    "не",
+    "было",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "смотрел",
+        "lexem": "смотреть",
+        "tags": "OpencorporaTag('VERB,impf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "все",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro inan,plur,accs')"
+      }
+    ],
+    [
+      {
+        "word": "напряжённее",
+        "lexem": "напряжённый",
+        "tags": "OpencorporaTag('COMP,Qual')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "их",
+        "lexem": "они",
+        "tags": "OpencorporaTag('NPRO,3per,Anph plur,gent')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "было",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr neut,sing,past,indc')"
+      },
+      {
+        "word": "было",
+        "lexem": "было",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      7,
+      8,
+      "огранич",
+      "не",
+      "было"
+    ],
+    [
+      8,
+      7,
+      "огранич",
+      "было",
+      "не"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "смотрел",
+      "я"
+    ],
+    [
+      3,
+      5,
+      "1-компл",
+      "напряжённее",
+      "их"
+    ],
+    [
+      3,
+      5,
+      "сравнит",
+      "напряжённее",
+      "их"
+    ]
+  ]
+}

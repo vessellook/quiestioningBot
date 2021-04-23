@@ -1,0 +1,388 @@
+{
+  "sentence": "По вокзалу и по платформе я пробежал бегом, надвинув на глаза шляпу и уткнув лицо в воротник пальто.",
+  "tokens": [
+    "По",
+    "вокзалу",
+    "и",
+    "по",
+    "платформе",
+    "я",
+    "пробежал",
+    "бегом",
+    ",",
+    "надвинув",
+    "на",
+    "глаза",
+    "шляпу",
+    "и",
+    "уткнув",
+    "лицо",
+    "в",
+    "воротник",
+    "пальто",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "по",
+        "lexem": "по",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "вокзалу",
+        "lexem": "вокзал",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "по",
+        "lexem": "по",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "платформе",
+        "lexem": "платформа",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,loct')"
+      },
+      {
+        "word": "платформе",
+        "lexem": "платформа",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,datv')"
+      }
+    ],
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "пробежал",
+        "lexem": "пробежать",
+        "tags": "OpencorporaTag('VERB,perf,tran masc,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "бегом",
+        "lexem": "бегом",
+        "tags": "OpencorporaTag('ADVB')"
+      },
+      {
+        "word": "бегом",
+        "lexem": "бег",
+        "tags": "OpencorporaTag('NOUN,inan,masc,Sgtm sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "надвинув",
+        "lexem": "надвинуть",
+        "tags": "OpencorporaTag('GRND,perf,tran past')"
+      }
+    ],
+    [
+      {
+        "word": "на",
+        "lexem": "на",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "глаза",
+        "lexem": "глаз",
+        "tags": "OpencorporaTag('NOUN,inan,masc plur,accs')"
+      },
+      {
+        "word": "глаза",
+        "lexem": "глаз",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,gent')"
+      }
+    ],
+    [
+      {
+        "word": "шляпу",
+        "lexem": "шляпа",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      },
+      {
+        "word": "шляпу",
+        "lexem": "шляпа",
+        "tags": "OpencorporaTag('NOUN,anim,ms-f sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "уткнув",
+        "lexem": "уткнуть",
+        "tags": "OpencorporaTag('GRND,perf,tran past')"
+      }
+    ],
+    [
+      {
+        "word": "лицо",
+        "lexem": "лицо",
+        "tags": "OpencorporaTag('NOUN,inan,neut sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "воротник",
+        "lexem": "воротник",
+        "tags": "OpencorporaTag('NOUN,inan,masc sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "пальто",
+        "lexem": "пальто",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd sing,gent')"
+      },
+      {
+        "word": "пальто",
+        "lexem": "пальто",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd sing,ablt')"
+      },
+      {
+        "word": "пальто",
+        "lexem": "пальто",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd plur,gent')"
+      },
+      {
+        "word": "пальто",
+        "lexem": "пальто",
+        "tags": "OpencorporaTag('NOUN,inan,neut,Fixd plur,ablt')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      6,
+      7,
+      "агент",
+      "пробежал",
+      "бегом"
+    ],
+    [
+      0,
+      1,
+      "предл",
+      "по",
+      "вокзалу"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "по",
+      "платформе"
+    ],
+    [
+      3,
+      4,
+      "предл",
+      "по",
+      "платформе"
+    ],
+    [
+      10,
+      11,
+      "предл",
+      "на",
+      "глаза"
+    ],
+    [
+      10,
+      11,
+      "предл",
+      "на",
+      "глаза"
+    ],
+    [
+      16,
+      17,
+      "предл",
+      "в",
+      "воротник"
+    ],
+    [
+      6,
+      9,
+      "обст",
+      "пробежал",
+      "надвинув"
+    ],
+    [
+      6,
+      14,
+      "обст",
+      "пробежал",
+      "уткнув"
+    ],
+    [
+      17,
+      18,
+      "атриб",
+      "воротник",
+      "пальто"
+    ],
+    [
+      17,
+      18,
+      "атриб",
+      "воротник",
+      "пальто"
+    ],
+    [
+      17,
+      18,
+      "атриб",
+      "воротник",
+      "пальто"
+    ],
+    [
+      17,
+      18,
+      "атриб",
+      "воротник",
+      "пальто"
+    ],
+    [
+      6,
+      5,
+      "предик",
+      "пробежал",
+      "я"
+    ],
+    [
+      6,
+      0,
+      "1-компл",
+      "пробежал",
+      "по"
+    ],
+    [
+      6,
+      3,
+      "1-компл",
+      "пробежал",
+      "по"
+    ],
+    [
+      6,
+      7,
+      "1-компл",
+      "пробежал",
+      "бегом"
+    ],
+    [
+      9,
+      10,
+      "1-компл",
+      "надвинув",
+      "на"
+    ],
+    [
+      9,
+      12,
+      "1-компл",
+      "надвинув",
+      "шляпу"
+    ],
+    [
+      9,
+      12,
+      "1-компл",
+      "надвинув",
+      "шляпу"
+    ],
+    [
+      2,
+      6,
+      "соч-союзн",
+      "и",
+      "пробежал"
+    ],
+    [
+      13,
+      15,
+      "соч-союзн",
+      "и",
+      "лицо"
+    ],
+    [
+      1,
+      2,
+      "сочин",
+      "вокзалу",
+      "и"
+    ],
+    [
+      12,
+      13,
+      "сочин",
+      "шляпу",
+      "и"
+    ],
+    [
+      12,
+      13,
+      "сочин",
+      "шляпу",
+      "и"
+    ],
+    [
+      6,
+      7,
+      "обст",
+      "пробежал",
+      "бегом"
+    ],
+    [
+      9,
+      10,
+      "обст",
+      "надвинув",
+      "на"
+    ],
+    [
+      14,
+      16,
+      "обст",
+      "уткнув",
+      "в"
+    ]
+  ]
+}

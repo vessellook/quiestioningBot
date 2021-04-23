@@ -1,0 +1,192 @@
+{
+  "sentence": "Никогда не интересуется тем, чем все в данную минуту интересуются.",
+  "tokens": [
+    "Никогда",
+    "не",
+    "интересуется",
+    "тем",
+    ",",
+    "чем",
+    "все",
+    "в",
+    "данную",
+    "минуту",
+    "интересуются",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "никогда",
+        "lexem": "никогда",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "интересуется",
+        "lexem": "интересоваться",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"
+      }
+    ],
+    [
+      {
+        "word": "тем",
+        "lexem": "тот",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro,Anph neut,sing,ablt')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "чем",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,ablt')"
+      }
+    ],
+    [
+      {
+        "word": "все",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro plur,nomn')"
+      },
+      {
+        "word": "все",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro inan,plur,accs')"
+      },
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,nomn')"
+      },
+      {
+        "word": "всё",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro neut,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "в",
+        "lexem": "в",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "данную",
+        "lexem": "данный",
+        "tags": "OpencorporaTag('ADJF,Apro femn,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "минуту",
+        "lexem": "минута",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "интересуются",
+        "lexem": "интересоваться",
+        "tags": "OpencorporaTag('VERB,impf,intr plur,3per,pres,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      5,
+      3,
+      "опред",
+      "чем",
+      "тем"
+    ],
+    [
+      9,
+      8,
+      "опред",
+      "минуту",
+      "данную"
+    ],
+    [
+      7,
+      9,
+      "предл",
+      "в",
+      "минуту"
+    ],
+    [
+      2,
+      1,
+      "огранич",
+      "интересуется",
+      "не"
+    ],
+    [
+      2,
+      5,
+      "1-компл",
+      "интересуется",
+      "чем"
+    ],
+    [
+      2,
+      6,
+      "1-компл",
+      "интересуется",
+      "все"
+    ],
+    [
+      2,
+      6,
+      "1-компл",
+      "интересуется",
+      "все"
+    ],
+    [
+      2,
+      6,
+      "1-компл",
+      "интересуется",
+      "всё"
+    ],
+    [
+      2,
+      6,
+      "1-компл",
+      "интересуется",
+      "всё"
+    ],
+    [
+      10,
+      7,
+      "1-компл",
+      "интересуются",
+      "в"
+    ],
+    [
+      5,
+      10,
+      "подч-союзн",
+      "чем",
+      "интересуются"
+    ],
+    [
+      2,
+      0,
+      "обст",
+      "интересуется",
+      "никогда"
+    ]
+  ]
+}

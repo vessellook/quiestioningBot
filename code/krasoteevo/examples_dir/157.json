@@ -1,0 +1,160 @@
+{
+  "sentence": "Я верю тоже, а всю ночь не спала! — вскричала бедная женщина.",
+  "tokens": [
+    "Я",
+    "верю",
+    "тоже",
+    ",",
+    "а",
+    "всю",
+    "ночь",
+    "не",
+    "спала",
+    "!",
+    "—",
+    "вскричала",
+    "бедная",
+    "женщина",
+    "."
+  ],
+  "morphs": [
+    [
+      {
+        "word": "я",
+        "lexem": "я",
+        "tags": "OpencorporaTag('NPRO,1per sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "верю",
+        "lexem": "верить",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,1per,pres,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "а",
+        "lexem": "а",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "всю",
+        "lexem": "весь",
+        "tags": "OpencorporaTag('ADJF,Subx,Apro femn,sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "ночь",
+        "lexem": "ночь",
+        "tags": "OpencorporaTag('NOUN,inan,femn sing,accs')"
+      }
+    ],
+    [
+      {
+        "word": "не",
+        "lexem": "не",
+        "tags": "OpencorporaTag('PRCL')"
+      }
+    ],
+    [
+      {
+        "word": "спала",
+        "lexem": "спасть",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      },
+      {
+        "word": "спала",
+        "lexem": "спать",
+        "tags": "OpencorporaTag('VERB,impf,intr femn,sing,past,indc')"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "word": "вскричала",
+        "lexem": "вскричать",
+        "tags": "OpencorporaTag('VERB,perf,intr femn,sing,past,indc')"
+      }
+    ],
+    [
+      {
+        "word": "бедная",
+        "lexem": "бедный",
+        "tags": "OpencorporaTag('ADJF,Qual femn,sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "женщина",
+        "lexem": "женщина",
+        "tags": "OpencorporaTag('NOUN,anim,femn sing,nomn')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      13,
+      12,
+      "опред",
+      "женщина",
+      "бедная"
+    ],
+    [
+      6,
+      5,
+      "опред",
+      "ночь",
+      "всю"
+    ],
+    [
+      8,
+      7,
+      "огранич",
+      "спала",
+      "не"
+    ],
+    [
+      1,
+      0,
+      "предик",
+      "верю",
+      "я"
+    ],
+    [
+      11,
+      13,
+      "предик",
+      "вскричала",
+      "женщина"
+    ],
+    [
+      8,
+      6,
+      "1-компл",
+      "спала",
+      "ночь"
+    ],
+    [
+      4,
+      8,
+      "соч-союзн",
+      "а",
+      "спала"
+    ],
+    [
+      1,
+      4,
+      "сочин",
+      "верю",
+      "а"
+    ]
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "sentence": "- Ну, присядем, Сашенька, и Христос с тобой.",
+  "tokens": [
+    "-",
+    "Ну",
+    ",",
+    "присядем",
+    ",",
+    "Сашенька",
+    ",",
+    "и",
+    "Христос",
+    "с",
+    "тобой",
+    "."
+  ],
+  "morphs": [
+    [],
+    [],
+    [],
+    [
+      {
+        "word": "присядем",
+        "lexem": "присесть",
+        "tags": "OpencorporaTag('VERB,perf,intr plur,1per,futr,indc')"
+      },
+      {
+        "word": "присядем",
+        "lexem": "присесть",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,impr,incl')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "сашенька",
+        "lexem": "сашенька",
+        "tags": "OpencorporaTag('NOUN,anim,ms-f,Name sing,nomn')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [
+      {
+        "word": "христос",
+        "lexem": "христос",
+        "tags": "OpencorporaTag('NOUN,anim,masc,Sgtm sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "с",
+        "lexem": "с",
+        "tags": "OpencorporaTag('PREP')"
+      }
+    ],
+    [
+      {
+        "word": "тобой",
+        "lexem": "ты",
+        "tags": "OpencorporaTag('NPRO,2per sing,ablt')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      9,
+      10,
+      "предл",
+      "с",
+      "тобой"
+    ],
+    [
+      8,
+      9,
+      "атриб",
+      "христос",
+      "с"
+    ],
+    [
+      3,
+      5,
+      "предик",
+      "присядем",
+      "сашенька"
+    ],
+    [
+      7,
+      8,
+      "соч-союзн",
+      "и",
+      "христос"
+    ]
+  ]
+}

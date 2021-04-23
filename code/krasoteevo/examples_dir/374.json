@@ -1,0 +1,159 @@
+{
+  "sentence": "Да он нарочно придет, как узнает, и... что тогда будет?",
+  "tokens": [
+    "Да",
+    "он",
+    "нарочно",
+    "придет",
+    ",",
+    "как",
+    "узнает",
+    ",",
+    "и",
+    "...",
+    "что",
+    "тогда",
+    "будет",
+    "?"
+  ],
+  "morphs": [
+    [],
+    [
+      {
+        "word": "он",
+        "lexem": "он",
+        "tags": "OpencorporaTag('NPRO,masc,3per,Anph sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "нарочно",
+        "lexem": "нарочно",
+        "tags": "OpencorporaTag('ADVB')"
+      }
+    ],
+    [
+      {
+        "word": "придёт",
+        "lexem": "прийти",
+        "tags": "OpencorporaTag('VERB,perf,intr sing,3per,futr,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "как",
+        "lexem": "как",
+        "tags": "OpencorporaTag('ADVB,Ques')"
+      }
+    ],
+    [
+      {
+        "word": "узнает",
+        "lexem": "узнать",
+        "tags": "OpencorporaTag('VERB,perf,tran sing,3per,futr,indc')"
+      },
+      {
+        "word": "узнаёт",
+        "lexem": "узнавать",
+        "tags": "OpencorporaTag('VERB,impf,tran sing,3per,pres,indc')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "и",
+        "lexem": "и",
+        "tags": "OpencorporaTag('CONJ')"
+      }
+    ],
+    [],
+    [
+      {
+        "word": "что",
+        "lexem": "что",
+        "tags": "OpencorporaTag('NPRO,neut sing,nomn')"
+      }
+    ],
+    [
+      {
+        "word": "тогда",
+        "lexem": "тогда",
+        "tags": "OpencorporaTag('ADVB,Dmns')"
+      }
+    ],
+    [
+      {
+        "word": "будет",
+        "lexem": "быть",
+        "tags": "OpencorporaTag('VERB,impf,intr sing,3per,futr,indc')"
+      }
+    ],
+    []
+  ],
+  "synts": [
+    [
+      3,
+      1,
+      "предик",
+      "придёт",
+      "он"
+    ],
+    [
+      12,
+      10,
+      "предик",
+      "будет",
+      "что"
+    ],
+    [
+      5,
+      6,
+      "подч-союзн",
+      "как",
+      "узнает"
+    ],
+    [
+      5,
+      6,
+      "подч-союзн",
+      "как",
+      "узнаёт"
+    ],
+    [
+      8,
+      12,
+      "соч-союзн",
+      "и",
+      "будет"
+    ],
+    [
+      6,
+      8,
+      "сочин",
+      "узнает",
+      "и"
+    ],
+    [
+      3,
+      2,
+      "обст",
+      "придёт",
+      "нарочно"
+    ],
+    [
+      6,
+      5,
+      "обст",
+      "узнает",
+      "как"
+    ],
+    [
+      12,
+      11,
+      "обст",
+      "будет",
+      "тогда"
+    ]
+  ]
+}
