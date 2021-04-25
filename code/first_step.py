@@ -1,8 +1,8 @@
-from math import log
-
-from krasoteevo.examples import get_count, get_example_json
-from krasoteevo.sentence_graph import SentenceGraph
 from pymorphy2 import MorphAnalyzer
+
+from krasoteevo.visualization import show
+from krasoteevo.examples import get_example_graph
+from krasoteevo.sentence_graph import SentenceGraph
 
 
 class QUESTION_TYPES:
@@ -16,14 +16,9 @@ class QUESTION_TYPES:
     WHY = 'почему'
 
 
-analyzer = MorphAnalyzer()
-
-
 class Question:
     def __init__(self, question_type: str):
         self.question_type = question_type
-
-# g = SentenceGraph('Качели с девочкой и мальчиком качаются', tag_class=analyzer.TagClass)
 
 
 def print_questions(g: SentenceGraph):
@@ -31,7 +26,6 @@ def print_questions(g: SentenceGraph):
         if vertex['is_word']:
             morph_info: SentenceGraph.MorphInfo = vertex['morph_info_list'][0]
             pos = morph_info.tags.POS
-            edges = g.es.select(_source=vertex['id'])
             edge_types = set([edge['type'] for edge in g.es.select(_source=vertex['id'])])
 
             if pos == 'NOUN':
@@ -60,37 +54,14 @@ def print_questions(g: SentenceGraph):
                 if morph_info.word in {'двое', 'трое'} or morph_info.word[-1:] == 'о' and '1-компл' not in edge_types:
                     print('Кого', morph_info.word)
 
-# print_questions(g)
 
-# print('\n', g['json'])
-# show(g)
+if __name__ == '__main__':
+    analyzer = MorphAnalyzer()
 
+    number = 0
+    graph = get_example_graph(0, tag_class=analyzer.TagClass)
 
-links = set()
-entrance_counts = dict()
-doc_numbers = dict()
+    print_questions(graph)
+    print('\n', graph['json'])
+    show(graph)
 
-
-for number in range(get_count()):
-    print(number)
-    json_obj = get_example_json(number)
-    for obj in json_obj['synts']:
-        link = obj[2]
-        if link in links:
-            entrance_counts[link] += 1
-            doc_numbers[link].add(number)
-        else:
-            entrance_counts[link] = 1
-            doc_numbers[link] = {number}
-            links.add(link)
-
-word_total_count = sum([entrance_counts[link] for link in links])
-doc_total_count = get_count()
-print(links)
-
-for link in links:
-    count = entrance_counts[link]
-    tf = str(entrance_counts[link]/word_total_count)[:6]
-    idf = str(log(doc_total_count/len(doc_numbers[link]) + 1e-20))[:6]
-    tf_idf = str(entrance_counts[link]/word_total_count*log(doc_total_count/len(doc_numbers[link]) + 1e-20))[:6]
-    print(f'{link:<15} COUNT: {count:<6} TF: {tf:<6} IDF: {idf:<6} TF-IDF: {tf_idf:<6}')
