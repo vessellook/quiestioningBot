@@ -29,9 +29,9 @@ class SentenceGraph(Graph):
 >>> graph['json']
 {'sentence': 'Ваня идёт гулять.', 'tokens': ['Ваня', 'идёт', 'гулять', '.'],
 'morphs': [
-[{'word': 'ваня', 'lexem': 'ваня', 'tags': "OpencorporaTag('NOUN,anim,masc,Name sing,nomn')"}],
-[{'word': 'идёт', 'lexem': 'идти', 'tags': "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"}],
-[{'word': 'гулять', 'lexem': 'гулять', 'tags': "OpencorporaTag('INFN,impf,intr')"}], []],
+[{'word': 'ваня', 'lexem': 'ваня', 'tag': "OpencorporaTag('NOUN,anim,masc,Name sing,nomn')"}],
+[{'word': 'идёт', 'lexem': 'идти', 'tag': "OpencorporaTag('VERB,impf,intr sing,3per,pres,indc')"}],
+[{'word': 'гулять', 'lexem': 'гулять', 'tag': "OpencorporaTag('INFN,impf,intr')"}], []],
 'synts': [[1, 0, 'предик', 'идёт', 'ваня'], [1, 2, 'обст', 'идёт', 'гулять']]}
 
     Vertex attribute 'token' is unmodified word (even case of symbols isn't changed)
@@ -49,12 +49,12 @@ class SentenceGraph(Graph):
     class MorphInfo:
         """Class representing morphological information about word"""
 
-        def __init__(self, word: str, lexeme: str, tags: str, tag_class: type = None):
+        def __init__(self, word: str, lexeme: str, tag: str, tag_class: type = None):
             """
 
             :param word: word in some form
             :param lexeme: word in the main form
-            :param tags: string of word tags in special format. Example of format:
+            :param tag: string of word tag in special format. Example of format:
                          <i>OpencorporaTag('NOUN,inan,masc sing,accs')<i/>
             :param tag_class: it is OpencorporaTag class passed from pymorphy2
              (see <a href="https://pymorphy2.readthedocs.io/en/stable/user/guide.html#id4">
@@ -64,15 +64,14 @@ class SentenceGraph(Graph):
             self.lexeme = lexeme
             left = "OpencorporaTag('"
             right = "')"
-            self.raw_tags = tags[len(left):-len(right)]
+            self.raw_tag = tag[len(left):-len(right)]
             if tag_class is not None:
-                self.tags = tag_class(self.raw_tags)
+                self.tag = tag_class(self.raw_tag)
             else:
-                self.tags = None
+                self.tag = None
 
     def __init__(self, sentence: Any, tag_class: type = None):
         """
-
         :param sentence: a sentence to parse. Instead of string sentence, it can be
          a JSON object
         """
@@ -104,7 +103,7 @@ def _extract_vertices(json_obj, tag_class: type = None):
             mi_list_converted = []
             for item in mi_list:
                 morph_info = SentenceGraph.MorphInfo(word=item['word'], lexeme=item['lexem'],
-                                                     tags=item['tags'], tag_class=tag_class)
+                                                     tag=item['tags'], tag_class=tag_class)
                 mi_list_converted.append(morph_info)
             return mi_list_converted, True
         # punctuation mark

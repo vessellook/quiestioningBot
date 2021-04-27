@@ -2,9 +2,10 @@
 
 from igraph import plot, InternalError
 
-
 from krasoteevo.sentence_graph import SentenceGraph
 
+DEFAULT_VERTEX_COLOR = 'grey'
+DEFAULT_EDGE_COLOR = 'black'
 
 POS_TO_COLORS = {
     'NOUN': 'light blue',
@@ -15,17 +16,18 @@ POS_TO_COLORS = {
     'ADJF': 'magenta',
     'GRND': 'red',
     'ADVB': 'cyan',
-    'PRTF': 'violet'
+    'PRTF': 'violet',
+    None: DEFAULT_VERTEX_COLOR
 }
 
 LINK_TYPE_TO_COLORS = {
-    #'агент'
-    #'присвяз'
-    #'инф-союзн'
-    #'аппоз'
-    #'атриб'
-    #'об-аппоз'
-    #'инф-союзн'
+    # 'агент'
+    # 'присвяз'
+    # 'инф-союзн'
+    # 'аппоз'
+    # 'атриб'
+    # 'об-аппоз'
+    # 'инф-союзн'
     '1-компл': 'light blue',
     'обст': 'blue',
     'соч-союзн': 'yellow',
@@ -38,13 +40,23 @@ LINK_TYPE_TO_COLORS = {
 }
 
 
+def _pos(v):
+    """
+    :param v: vertex of SentenceGraph
+    :return: POS of the first SentenceGraph.MorphInfo in v['morph_info_list'] or None
+    """
+    if not v['is_word']:
+        return None
+    morph_info: SentenceGraph.MorphInfo = v['morph_info_list'][0]
+    return morph_info.raw_tag.split(',')[0]
+
+
 def show(g: SentenceGraph):
     g.vs['label'] = g['json']['tokens']
-    g.vs['color'] = [
-        POS_TO_COLORS.get(v['morph_info_list'][0].raw_tags.split(',')[0], 'grey') if v['is_word'] else 'grey' for v in
-        g.vs]
     g.es['label'] = g.es['type']
-    g.es['color'] = [LINK_TYPE_TO_COLORS.get(e['type'], 'black') for e in g.es]
+
+    g.vs['color'] = [POS_TO_COLORS.get(_pos(v), DEFAULT_VERTEX_COLOR) for v in g.vs]
+    g.es['color'] = [LINK_TYPE_TO_COLORS.get(e['type'], DEFAULT_EDGE_COLOR) for e in g.es]
     try:
         layout = g.layout_reingold_tilford()
     except InternalError:

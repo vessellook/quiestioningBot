@@ -43,6 +43,9 @@ def get_example_json(number: int):
 
 def get_example_graph(number: int, tag_class: type = None):
     """
+    :param tag_class: it is OpencorporaTag class passed from pymorphy2
+             (see <a href="https://pymorphy2.readthedocs.io/en/stable/user/guide.html#id4">
+             docs about OpencorporaTag class</a>).
     :param number: number of example. Starts from 0, upper bound is equal to `get_count() - 1`
     :return: SentenceGraph that is loaded from example with number `number`
     """
