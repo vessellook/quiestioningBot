@@ -110,13 +110,13 @@ def _extract_vertices(json_obj, tag_class: type = None):
         return None, False
 
     attrs = {'morph_info_list': [], 'is_word': [], 'token': [], 'id': []}
-    for token, morph_info_list, num in zip(json_obj['tokens'], json_obj['morphs'], range(len(json_obj['morphs']))):
+    for num, (token, morph_info_list) in enumerate(zip(json_obj['tokens'], json_obj['morphs'])):
         attrs['token'].append(token)
         morph_info_list, is_word = get_attrs(morph_info_list)
         attrs['morph_info_list'].append(morph_info_list)
         attrs['is_word'].append(is_word)
         attrs['id'].append(num)
-    return len(attrs), attrs
+    return len(attrs['token']), attrs
 
 
 def _extract_edges(json_obj):
