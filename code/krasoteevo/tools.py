@@ -1,3 +1,5 @@
+"""Some helper functions that cannot be categorized anywhere else"""
+
 from pymorphy2 import MorphAnalyzer
 from pymorphy2.units.by_analogy import KnownPrefixAnalyzer
 
@@ -13,6 +15,7 @@ _russian_postfixes = ('ся', 'сь')
 
 
 def cut_affix(word, prefixes=_russian_prefixes, suffixes=_russian_postfixes, morph=MorphAnalyzer()):
+    """Function to remove prefixes and postfixes from Russian words"""
     if word[-2:] in suffixes:
         word = word[:-2]
     analyzer = KnownPrefixAnalyzer(prefixes)
@@ -30,3 +33,18 @@ def cut_affix(word, prefixes=_russian_prefixes, suffixes=_russian_postfixes, mor
         if tmp[4] and tmp[4][0]:
             return morph.normal_forms(tmp[4][0][1])[0]
     return tmp
+
+
+def choose_parse(word: str, analyzer: MorphAnalyzer, tag: MorphAnalyzer.TagClass = None,
+                 raw_tag: str = None, lexeme: str = None):
+    """Function to convert word to pymorphy2.Parse object"""
+    if lexeme is None:
+        lexeme = word
+    if tag is None:
+        if raw_tag is None:
+            raise ValueError("Specify *tag* or *raw_tag* attribute")
+        tag = analyzer.TagClass(raw_tag)
+    for parse in analyzer.parse(word):
+        if parse.tag == tag and parse.normal_form == lexeme:
+            return parse
+    raise RuntimeError("No parse matches")

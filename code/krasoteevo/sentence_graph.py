@@ -4,8 +4,10 @@ import json
 from typing import Any
 
 from igraph import Graph
+import pymorphy2
 
 from krasoteevo.request import request_syntax_analysis
+from krasoteevo.tools import choose_parse
 
 
 class SentenceGraph(Graph):
@@ -49,61 +51,69 @@ class SentenceGraph(Graph):
     class MorphInfo:
         """Class representing morphological information about word"""
 
-        def __init__(self, word: str, lexeme: str, tag: str, tag_class: type = None):
+        def __init__(self, word: str, lexeme: str, raw_tag: str,
+                analyzer: pymorphy2.MorphAnalyzer = None):
             """
 
             :param word: word in some form
             :param lexeme: word in the main form
-            :param tag: string of word tag in special format. Example of format:
+            :param raw_tag: string of word tag in special format. Example of format:
                          <i>OpencorporaTag('NOUN,inan,masc sing,accs')<i/>
-            :param tag_class: it is OpencorporaTag class passed from pymorphy2
-             (see <a href="https://pymorphy2.readthedocs.io/en/stable/user/guide.html#id4">
-             docs about OpencorporaTag class</a>).
+            :param analyzer: it is pymorphy2.MorphAnlyzer class passed from pymorphy2
+                It uses big dict (~15 GB) so the object of such class should be created one time
             """
             self.word = word
             self.lexeme = lexeme
             left = "OpencorporaTag('"
             right = "')"
-            self.raw_tag = tag[len(left):-len(right)]
-            if tag_class is not None:
-                self.tag = tag_class(self.raw_tag)
-            else:
+            self.raw_tag = raw_tag[len(left):-len(right)]
+            if analyzer is None:
                 self.tag = None
+                self.parse = None
+            else:
+                self.tag = analyzer.TagClass(self.raw_tag)
+                self.parse = choose_parse(word, tag=self.tag, lexeme=lexeme, analyzer=analyzer)
 
-    def __init__(self, sentence: Any, tag_class: type = None):
+    def __init__(self, *args, sentence: Any = None, analyzer: pymorphy2.MorphAnalyzer = None,
+            **kwargs):
         """
         :param sentence: a sentence to parse. Instead of string sentence, it can be
          a JSON object
+        :param analyzer: it is pymorphy2.MorphAnlyzer class passed from pymorphy2
+            It uses big dict (~15 GB) so the object of such class should be created one time
         """
-        if isinstance(sentence, str):
-            try:
-                # JSON string passed
-                json_obj = json.loads(sentence)
-            except json.JSONDecodeError:
-                # sentence passed
-                response = request_syntax_analysis(sentence)
-                json_obj = response.json()
+        if sentence is not None:
+            if isinstance(sentence, str):
+                try:
+                    # JSON string passed
+                    json_obj = json.loads(sentence)
+                except json.JSONDecodeError:
+                    # sentence passed
+                    response = request_syntax_analysis(sentence)
+                    json_obj = response.json()
+            else:
+                # JSON object passed
+                json_obj = sentence
+            sentence = json_obj['sentence']
+
+            vertex_count, vertex_attrs = _extract_vertices(json_obj, analyzer)
+            edges, edge_attrs = _extract_edges(json_obj)
+
+            super().__init__(self, directed=True, n=vertex_count, vertex_attrs=vertex_attrs,
+                    graph_attrs={'json': json_obj, 'sentence': sentence},
+                    edges=edges, edge_attrs=edge_attrs)
         else:
-            # JSON object passed
-            json_obj = sentence
-        sentence = json_obj['sentence']
-
-        vertex_count, vertex_attrs = _extract_vertices(json_obj, tag_class)
-        edges, edge_attrs = _extract_edges(json_obj)
-
-        super().__init__(self, directed=True, graph_attrs={'json': json_obj, 'sentence': sentence},
-                         n=vertex_count, vertex_attrs=vertex_attrs,
-                         edges=edges, edge_attrs=edge_attrs)
+            super().__init__(self, *args, **kwargs)
 
 
-def _extract_vertices(json_obj, tag_class: type = None):
+def _extract_vertices(json_obj, analyzer: pymorphy2.MorphAnalyzer = None):
     def get_attrs(mi_list):
         if len(mi_list) > 0:
             # word token
             mi_list_converted = []
             for item in mi_list:
                 morph_info = SentenceGraph.MorphInfo(word=item['word'], lexeme=item['lexem'],
-                                                     tag=item['tags'], tag_class=tag_class)
+                                                     raw_tag=item['tags'], analyzer=analyzer)
                 mi_list_converted.append(morph_info)
             return mi_list_converted, True
         # punctuation mark
