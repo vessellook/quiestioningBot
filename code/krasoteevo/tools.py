@@ -1,4 +1,5 @@
 """Some helper functions that cannot be categorized anywhere else"""
+from typing import Any
 
 from pymorphy2 import MorphAnalyzer
 from pymorphy2.units.by_analogy import KnownPrefixAnalyzer
@@ -35,16 +36,13 @@ def cut_affix(word, prefixes=_russian_prefixes, suffixes=_russian_postfixes, mor
     return tmp
 
 
-def choose_parse(word: str, analyzer: MorphAnalyzer, tag: MorphAnalyzer.TagClass = None,
-                 raw_tag: str = None, lexeme: str = None):
+def choose_parse(word: str, tag: Any, analyzer: MorphAnalyzer, normal_form: str = None):
     """Function to convert word to pymorphy2.Parse object"""
-    if lexeme is None:
-        lexeme = word
-    if tag is None:
-        if raw_tag is None:
-            raise ValueError("Specify *tag* or *raw_tag* attribute")
-        tag = analyzer.TagClass(raw_tag)
+    if normal_form is None:
+        normal_form = word
+    if isinstance(tag, str):
+        tag = analyzer.TagClass(tag)
     for parse in analyzer.parse(word):
-        if parse.tag == tag and parse.normal_form == lexeme:
+        if parse.tag == tag and parse.normal_form == normal_form:
             return parse
     raise RuntimeError("No parse matches")
