@@ -40,7 +40,7 @@ def get_example_json(number: int):
         file = open(_dir_path / name)
     except FileNotFoundError as err:
         raise FileNotFoundError(f"File {name} for example number {number} "
-                                 "doesn't exists in examples") from err
+                                "doesn't exists in examples") from err
     return json.load(file)
 
 
@@ -65,7 +65,7 @@ def get_example_text(number: int):
         file = open(_dir_path / name)
     except FileNotFoundError as err:
         raise FileNotFoundError(f"File {name} for example number {number} "
-                                         "doesn't exists in examples") from err
+                                "doesn't exists in examples") from err
     return file.read()
 
 
@@ -78,7 +78,8 @@ def _load(sentence: str, file_index: int):
     json_new = json.loads(text)
     correct = all((item in json_new for item in {'sentence', 'tokens', 'morphs', 'synts'}))
     if correct:
-        file = open(_dir_path / get_example_filename(file_index), 'w')
+        path = _dir_path / get_example_filename(file_index)
+        file = open(path, 'w')
         file.write(text)
         file.close()
         return True

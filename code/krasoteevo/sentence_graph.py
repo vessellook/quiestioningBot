@@ -7,8 +7,8 @@ from warnings import warn
 from igraph import Graph
 import pymorphy2
 
+from classes import MorphInfo
 from krasoteevo.request import request_syntax_analysis
-from krasoteevo.tools import choose_parse
 
 
 class SentenceGraph(Graph):
@@ -48,29 +48,6 @@ class SentenceGraph(Graph):
     'соч-союз', '1-компл', 'огранич', 'предл', etc
 
     """
-
-    class MorphInfo:
-        """Class representing morphological information about word"""
-
-        def __init__(self, word: str, normal_form: str, raw_tag: str,
-                     analyzer: pymorphy2.MorphAnalyzer = None):
-            """
-            :param word: word in some form
-            :param normal_form: word in the normal form
-            :param raw_tag: string of word tags
-            :param analyzer: it is `pymorphy2.MorphAnalyzer` object passed
-                from `pymorphy2`. It uses big dict (~15 GB) so the object
-                of such class should be created one time
-            """
-            self.word = word
-            self.normal_form = normal_form
-            self.raw_tag = raw_tag
-            if analyzer is None:
-                self.tag = None
-                self.parse = None
-            else:
-                self.tag = analyzer.TagClass(self.raw_tag)
-                self.parse = choose_parse(word, tag=self.tag, normal_form=normal_form, analyzer=analyzer)
 
     def __init__(self, sentence: Any = None, *args, analyzer: pymorphy2.MorphAnalyzer = None,
                  **kwargs):
@@ -117,8 +94,8 @@ def _extract_vertices(json_obj, analyzer: pymorphy2.MorphAnalyzer = None):
             # word token
             mi_list_converted = []
             for item in mi_list:
-                morph_info = SentenceGraph.MorphInfo(word=item['word'], normal_form=item['lexem'],
-                                                     raw_tag=clear(item['tags']), analyzer=analyzer)
+                morph_info = MorphInfo(word=item['word'], normal_form=item['lexem'],
+                                       raw_tag=clear(item['tags']), analyzer=analyzer)
                 mi_list_converted.append(morph_info)
             return mi_list_converted, True
         # punctuation mark

@@ -4,6 +4,7 @@ import random
 
 from igraph import plot, InternalError
 
+from classes import MorphInfo
 from krasoteevo.sentence_graph import SentenceGraph
 
 DEFAULT_VERTEX_COLOR = 'grey'
@@ -38,30 +39,31 @@ POS_TO_COLORS = {
 
 def _pos(vertex):
     """
-    :param v: vertex of SentenceGraph
-    :return: POS of the first SentenceGraph.MorphInfo in v['morph_info_list'] or None
+    :param vertex: vertex of SentenceGraph
+    :return: POS of the first MorphInfo in v['morph_info_list'] or None
     """
     if not vertex['is_word']:
         return None
-    morph_info: SentenceGraph.MorphInfo = vertex['morph_info_list'][0]
+    morph_info: MorphInfo = vertex['morph_info_list'][0]
     return morph_info.raw_tag.split(',')[0]
+
+
+def _double(iterable):
+    return iterable, iterable
 
 
 def show(graph: SentenceGraph):
     """Show colorful plot with SentenceGraph"""
-    def double(iterable):
-        return iterable, iterable
-
     copy: SentenceGraph = graph.copy()
     copy.simplify(loops=False, combine_edges={'type': ', '.join})
     copy.vs['label'] = [f"{v['token']} [{len(v['morph_info_list'])}]" if v['is_word']
-            else v['token'] for v in copy.vs]
+                        else v['token'] for v in copy.vs]
     copy.es['label'] = copy.es['type']
 
     copy.vs['color'] = [POS_TO_COLORS.get(_pos(v), DEFAULT_VERTEX_COLOR) for v in copy.vs]
-    copy.es['color'], copy.es['label_color'] = double(random.choices(COLORS, k=len(copy.es)))
+    copy.es['color'], copy.es['label_color'] = _double(random.choices(COLORS, k=len(copy.es)))
     try:
         layout = copy.layout_reingold_tilford()
     except InternalError:
         layout = copy.layout_kamada_kawai()
-    plot(copy, layout=layout, margin=(40, 20, 40, 20), bbox=(1200, 600))
+    plot(copy, layout=layout, margin=(60, 20, 60, 20), bbox=(1200, 600))
