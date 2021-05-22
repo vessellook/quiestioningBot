@@ -3,6 +3,7 @@
 import json
 import pathlib
 import os
+import re
 
 import pymorphy2
 
@@ -14,12 +15,15 @@ from krasoteevo.request import (
 
 _dir_path = pathlib.Path(__file__).parent.absolute() / 'examples_dir'
 
+filename_pattern = re.compile(r'^(0|[1-9][0-9]*)\.json$')
+filename_format = '{}.json'
+
 
 def get_count():
     """
     :return: return count of existing examples
     """
-    return len([path for path in os.listdir(_dir_path) if path[-5:] == '.json'])
+    return len(list(filter(filename_pattern.match, os.listdir(_dir_path))))
 
 
 def get_example_filename(number: int):
@@ -27,7 +31,7 @@ def get_example_filename(number: int):
     :param number: number of example. Starts from 0, upper bound is equal to `get_count() - 1`
     :return: name of file in JSON format
     """
-    return f'{number}.json'
+    return filename_format.format(number)
 
 
 def get_example_json(number: int):
@@ -36,12 +40,8 @@ def get_example_json(number: int):
     :return: JSON object that is loaded from example with number `number`
     """
     name = get_example_filename(number)
-    try:
-        file = open(_dir_path / name)
-    except FileNotFoundError as err:
-        raise FileNotFoundError(f"File {name} for example number {number} "
-                                "doesn't exists in examples") from err
-    return json.load(file)
+    with open(_dir_path / name) as file:
+        return json.load(file)
 
 
 def get_example_graph(number: int, analyzer: pymorphy2.MorphAnalyzer = None):
@@ -61,12 +61,8 @@ def get_example_text(number: int):
     :return: example with number `number` as a string
     """
     name = get_example_filename(number)
-    try:
-        file = open(_dir_path / name)
-    except FileNotFoundError as err:
-        raise FileNotFoundError(f"File {name} for example number {number} "
-                                "doesn't exists in examples") from err
-    return file.read()
+    with open(_dir_path / name) as file:
+        return file.read()
 
 
 def _load(sentence: str, file_index: int):
@@ -79,9 +75,8 @@ def _load(sentence: str, file_index: int):
     correct = all((item in json_new for item in {'sentence', 'tokens', 'morphs', 'synts'}))
     if correct:
         path = _dir_path / get_example_filename(file_index)
-        file = open(path, 'w')
-        file.write(text)
-        file.close()
+        with open(path, 'w') as file:
+            file.write(text)
         return True
     return False
 
