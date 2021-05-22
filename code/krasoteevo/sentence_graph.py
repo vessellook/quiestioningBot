@@ -7,7 +7,7 @@ from warnings import warn
 from igraph import Graph
 import pymorphy2
 
-from classes import MorphInfo
+from parse_proxy.morph_info import MorphInfo
 from krasoteevo.request import request_syntax_analysis
 
 
@@ -63,7 +63,7 @@ class SentenceGraph(Graph):
                     json_obj = json.loads(sentence)
                 except json.JSONDecodeError:
                     # sentence passed
-                    response = request_syntax_analysis(sentence)
+                    response = request_syntax_analysis(sentence, old_format=True)
                     json_obj = response.json()
             else:
                 # JSON object passed
@@ -90,15 +90,17 @@ def _extract_vertices(json_obj, analyzer: pymorphy2.MorphAnalyzer = None):
         return opencorpora_tag[len(_LEFT_OPENCORPORA_TAG):-len(_RIGHT_OPENCORPORA_TAG)]
 
     def get_attrs(mi_list):
-        if len(mi_list) > 0:
+        if isinstance(mi_list, dict):  # new JSON format
+            mi_list = list(filter(lambda homonym: homonym['active'], mi_list['homonyms']))
+        if mi_list:
             # word token
             mi_list_converted = []
             for item in mi_list:
                 morph_info = MorphInfo(word=item['word'], normal_form=item['lexem'],
-                                       raw_tag=clear(item['tags']), analyzer=analyzer)
+                                       grammemes=clear(item['tags']), analyzer=analyzer)
                 mi_list_converted.append(morph_info)
             return mi_list_converted, True
-        # punctuation mark
+            # punctuation mark
         return None, False
 
     attrs = {'morph_info_list': [], 'is_word': [], 'token': [], 'id': []}
@@ -114,7 +116,14 @@ def _extract_vertices(json_obj, analyzer: pymorphy2.MorphAnalyzer = None):
 def _extract_edges(json_obj):
     edges = []
     attrs = {'type': []}
-    synts_unique = set(((item[0], item[1], item[2]) for item in json_obj['synts']))
+    if not json_obj['synts']:
+        return edges, attrs
+    if isinstance(json_obj['synts'][0], list):
+        synts_unique = set(((item[0], item[1], item[2]) for item in json_obj['synts']))
+    elif isinstance(json_obj['synts'][0], dict):
+        synts_unique = set(((item['head_i'], item['dependent_i'], item['dep_type']) for item in json_obj['synts']))
+    else:
+        raise Exception('bad format')
     for item in synts_unique:
         edges.append((item[0], item[1]))
         attrs['type'].append(item[2])

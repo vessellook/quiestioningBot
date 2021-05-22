@@ -11,10 +11,11 @@ class TooLongSentenceException(Exception):
     """Class for cases in which sentence length more than some adequate number"""
 
 
-def request_syntax_analysis(sentence: str) -> requests.Response:
+def request_syntax_analysis(sentence: str, old_format: bool = False) -> requests.Response:
     """
     Send request to the service to parse Russian sentence
 
+    :param old_format: mark to get old or new format of JSON
     :param sentence: the Russian sentence you want to parse
 
     :raises EmptySentenceException: empty sentence is not allowed
@@ -23,12 +24,16 @@ def request_syntax_analysis(sentence: str) -> requests.Response:
 
     :return: the requests.Response object with syntax analysis result data in JSON format
     """
-    if len(sentence) == 0:
+    if not sentence:
         raise EmptySentenceException('Empty sentence')
     if len(sentence) > 300:
         raise TooLongSentenceException('Too big sentence')
+    if old_format:
+        host = '185.17.143.225'
+    else:
+        host = 'krasoteevo.ru'
     params = {'format': 'json', 'text': sentence}
-    response = requests.get("https://krasoteevo.ru/syntax", params=params,
+    response = requests.get(f"https://{host}/syntax", params=params,
                             verify=False  # don't verify SSL certificate
                             )
     return response
