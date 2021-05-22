@@ -1,14 +1,19 @@
+from pprint import pprint
+
 from igraph import Vertex
 from pymorphy2 import MorphAnalyzer
 
 from krasoteevo.examples import get_example_graph
 from krasoteevo.sentence_graph import SentenceGraph
-from classes import ComplexVerb, ParseLike, QuestionType as QType, MorphInfo
+from parse_proxy.question_type import QuestionType as QType
+from parse_proxy.complex_verb import ComplexVerb
+from parse_proxy.morph_info import MorphInfo
+from parse_proxy import ParseProxy
 from predicates import is_present, is_move_verb, is_feeling_verb
 
 
 class Question:
-    def __init__(self, question_type: QType, target_word: ParseLike, target_vertex: Vertex):
+    def __init__(self, question_type: QType, target_word: ParseProxy, target_vertex: Vertex):
         self.question_type = question_type
         self.target_parse = target_word
 
@@ -60,17 +65,11 @@ class Question:
 
 TIME_ADVERBS = ('послезавтра', 'завтра', 'сегодня', 'вчера', 'позавчера')
 
-TIME_UNITS = ('секунда', 'минута', 'час', 'день', 'неделя', 'декада', 'месяц', 'год', 'десятилетие',
-              'столетие', 'век', 'тысячелетие')
-
-TIME_PHRASES = ('перед сном', 'перед ужином', 'перед обедом', 'перед ужином', 'до нашей эры',
+TIME_PHRASES = ('сон', 'ужин', 'обед', 'ужин', 'до нашей эры',
                 'нашей эры')
 
-MONTHS = ('январь', 'февраль', 'март', 'апрель', 'май', 'июнь', 'июль', 'август', 'сентябрь',
-          'октябрь', 'ноябрь', 'декабрь')
 
-
-def verb(vertex: Vertex, word: ParseLike, analyzer: MorphAnalyzer):
+def verb(vertex: Vertex, word: ParseProxy, analyzer: MorphAnalyzer):
     question_types = {QType.HOW, QType.WHEN, QType.WHERE, QType.WHERE_TO,
                       QType.WHERE_FROM}
     edges = vertex.out_edges()
@@ -102,12 +101,13 @@ def verb(vertex: Vertex, word: ParseLike, analyzer: MorphAnalyzer):
         else:
             question_types.discard(QType.WHERE_FROM)
             question_types.discard(QType.WHERE_TO)
+            question_types.discard(QType.WHERE)
             question_types.discard(QType.WHEN)
             question_types.discard(QType.WHY)
     return [Question(question_type, word, vertex) for question_type in question_types]
 
 
-def noun(vertex: Vertex, morph_info: ParseLike, analyzer: MorphAnalyzer):
+def noun(vertex: Vertex, morph_info: ParseProxy, analyzer: MorphAnalyzer):
     word = analyzer.parse(morph_info.word)[0]
     edge_types = [edge['type'] for edge in vertex.out_edges()]
     questions = [Question(QType.WHICH, word, vertex)]
@@ -127,6 +127,8 @@ def get_questions(graph: SentenceGraph, analyzer: MorphAnalyzer):
         if 'NOUN' in morph_info.tag:
             questions.extend(noun(vertex, morph_info, analyzer))
         elif morph_info.tag.POS in {'VERB', 'GRND', 'PRTF', 'PRTS'}:
+            if {'1per'} in morph_info.tag:
+                morph_info = morph_info.inflect({'2per'})
             questions.extend(verb(vertex, morph_info, analyzer))
         elif 'NUMR' in morph_info.tag:
             if morph_info.word in {'двое', 'трое'} or morph_info.word[-1:] == 'о':
@@ -143,9 +145,8 @@ def main():
     number = 5
     graph = get_example_graph(number, analyzer=analyzer)
 
-    for question in get_questions(graph, analyzer=analyzer):
-        print(question)
-    print('\n', graph['json'])
+    pprint([str(question) for question in get_questions(graph, analyzer=analyzer)])
+    pprint(graph['json'])
     # show(graph)
 
 
