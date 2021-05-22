@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "first version of schema of JSON format used by krasoteevo.ru",
+  "type": "object",
+  "properties": {
+    "sentence": {
+      "type": "string"
+    },
+    "tokens": {
+      "type": "array",
+      "description": "array of words",
+      "items": {
+        "type": "string"
+      }
+    },
+    "morphs": {
+      "type": "array",
+      "description": "array of morph info lists",
+      "items": {
+        "type": "array",
+        "description": "morph info list",
+        "items": {
+          "type": "object",
+          "description": "morph info",
+          "properties": {
+            "word": {
+              "type": "string"
+            },
+            "lexem": {
+              "type": "string"
+            },
+            "tags": {
+              "type": "string",
+              "pattern": "^OpencorporaTag\\('[A-Za-z ,0-9]+'\\)$"
+            }
+          }
+        }
+      }
+    },
+    "synts": {
+      "type": "array",
+      "description": "array of links between tokens",
+      "items": {
+        "type": "array",
+        "description": "link between tokens",
+        "items": [
+          {
+            "type": "integer",
+            "description": "source[main] token index"
+          },
+          {
+            "type": "integer",
+            "description": "target[dependent] token index"
+          },
+          {
+            "type": "string",
+            "description": "link's syntax type"
+          },
+          {
+            "type": "string",
+            "description": "source[main] token"
+          },
+          {
+            "type": "string",
+            "description": "target[dependent] token"
+          }
+        ]
+      }
+    }
+  }
+}

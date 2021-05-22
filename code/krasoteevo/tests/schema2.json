@@ -1,0 +1,106 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "first version of schema of JSON format used by krasoteevo.ru",
+  "type": "object",
+  "properties": {
+    "sentence": {
+      "type": "string"
+    },
+    "tokens": {
+      "type": "array",
+      "description": "array of words",
+      "items": {
+        "type": "string"
+      }
+    },
+    "morphs": {
+      "type": "array",
+      "description": "array of morph info lists",
+      "items": {
+        "type": "object",
+        "description": "info about each token",
+        "properties": {
+          "index": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "token": {
+            "type": "string"
+          },
+          "lower": {
+            "type": "string"
+          },
+          "homonyms": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "description": "morph info",
+              "properties": {
+                "index": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "word": {
+                  "type": "string"
+                },
+                "lexem": {
+                  "type": "string"
+                },
+                "tags": {
+                  "type": "string",
+                  "pattern": "^OpencorporaTag\\('[A-Za-z ,0-9]+'\\)$"
+                },
+                "active": {
+                  "type": "boolean"
+                }
+              }
+            }
+          },
+          "banned_cases": {
+            "type": "array"
+          },
+          "features": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "synts": {
+      "type": "array",
+      "description": "array of links between tokens",
+      "items": {
+        "type": "object",
+        "properties": {
+          "dep_type": {
+            "type": "string"
+          },
+          "head": {
+            "type": "string"
+          },
+          "dependent": {
+            "type": "string"
+          },
+          "head_i": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "dependent_i": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "head_homonym_i": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "dependent_homonym_i": {
+            "type": "integer",
+            "minimum": 0
+          }
+        }
+      }
+    }
+  }
+}
