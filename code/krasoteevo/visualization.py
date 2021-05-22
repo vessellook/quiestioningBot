@@ -4,7 +4,7 @@ import random
 
 from igraph import plot, InternalError
 
-from classes import MorphInfo
+from parse_proxy.morph_info import MorphInfo
 from krasoteevo.sentence_graph import SentenceGraph
 
 DEFAULT_VERTEX_COLOR = 'grey'
@@ -45,7 +45,7 @@ def _pos(vertex):
     if not vertex['is_word']:
         return None
     morph_info: MorphInfo = vertex['morph_info_list'][0]
-    return morph_info.raw_tag.split(',')[0]
+    return morph_info.grammemes.split(',')[0]
 
 
 def _double(iterable):
