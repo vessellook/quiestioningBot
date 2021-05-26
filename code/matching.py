@@ -16,6 +16,7 @@ class Node:
 
     def children(self, *children):
         self._children = children
+        return self
 
     def match(self, vertex: Vertex):
         if not vertex['morph_inf_list']:
