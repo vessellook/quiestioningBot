@@ -13,7 +13,18 @@ from krasoteevo.request import (
     TooLongSentenceException,
     EmptySentenceException)
 
-_dir_path = pathlib.Path(__file__).parent.absolute() / 'examples_dir'
+
+__all__ = [
+    'get_count',
+    'get_example_filename',
+    'get_example_json',
+    'get_example_graph',
+    'get_example_text',
+    'update_examples'
+]
+
+
+_dir_path = pathlib.Path(__file__).parent.absolute()
 
 filename_pattern = re.compile(r'^(0|[1-9][0-9]*)\.json$')
 filename_format = '{}.json'
@@ -71,15 +82,20 @@ def _load(sentence: str, file_index: int):
     except (TooLongSentenceException, EmptySentenceException):
         return False
     text = response.text
-    json_new = json.loads(text)
-    correct = all((item in json_new for item in {'sentence', 'tokens', 'morphs', 'synts'}))
-    if correct:
-        path = _dir_path / get_example_filename(file_index)
-        with open(path, 'w') as file:
-            file.write(text)
-        return True
-    return False
+    
+    try:
+        json_new = json.loads(text)
+    except json.JSONDecodeError:
+        return False
 
+    correct = all(item in json_new for item in {'sentence', 'tokens', 'morphs', 'synts'})
+    if not correct:
+        return False
+    path = _dir_path / get_example_filename(file_index)
+    with open(path, 'w') as file:
+        file.write(text)
+    return True
+    
 
 def update_examples(new_sentences: list = None, only_new: bool = True):
     """Function to reload existing examples and add new examples"""
@@ -99,7 +115,8 @@ def update_examples(new_sentences: list = None, only_new: bool = True):
     if not only_new:
         print('Start to reload old sentences')
         for file_index in range(count):
-            json_old = json.load(_dir_path / get_example_filename(file_index))
+            with open(_dir_path / get_example_filename(file_index)) as file:
+                json_old = json.load(file)
             sentence = json_old['sentence']
             if _load(sentence, file_index):
                 print(f'{get_example_filename(file_index)} reloading succeed')

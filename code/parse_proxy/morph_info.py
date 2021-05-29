@@ -1,6 +1,6 @@
 from pymorphy2 import MorphAnalyzer
 
-from parse_proxy import choose_parse
+from .parse_proxy import choose_parse
 
 
 class MorphInfo:

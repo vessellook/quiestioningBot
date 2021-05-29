@@ -84,9 +84,7 @@ def verb(vertex: Vertex, word: ParseProxy, analyzer: MorphAnalyzer):
         question_types.discard(QType.WHERE)
         question_types.discard(QType.HOW)
     elif is_feeling_verb(word, analyzer):
-        question_types.discard(QType.WHERE_FROM)
-        question_types.discard(QType.WHERE_TO)
-        question_types.discard(QType.WHERE)
+        question_types.difference_update({QType.WHERE_FROM, QType.WHERE_TO, QType.WHERE})
     else:
         question_types.discard(QType.WHERE_FROM)
         question_types.discard(QType.WHERE_TO)
@@ -99,11 +97,8 @@ def verb(vertex: Vertex, word: ParseProxy, analyzer: MorphAnalyzer):
         elif 'ADVB' in child.tag:
             question_types.discard(QType.HOW)
         else:
-            question_types.discard(QType.WHERE_FROM)
-            question_types.discard(QType.WHERE_TO)
-            question_types.discard(QType.WHERE)
-            question_types.discard(QType.WHEN)
-            question_types.discard(QType.WHY)
+            question_types.discard({QType.WHERE_FROM, QType.WHERE_TO, QType.WHERE, QType.WHEN,
+                                    QType.WHY})
     return [Question(question_type, word, vertex) for question_type in question_types]
 
 

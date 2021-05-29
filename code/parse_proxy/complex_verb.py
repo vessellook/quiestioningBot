@@ -1,4 +1,4 @@
-from parse_proxy import ParseProxy
+from .parse_proxy import ParseProxy
 
 
 class ComplexVerb:

@@ -2,7 +2,7 @@ from enum import Enum
 
 from pymorphy2 import MorphAnalyzer
 
-from parse_proxy import choose_parse
+from .parse_proxy import choose_parse
 
 
 class QuestionType(Enum):
@@ -16,11 +16,14 @@ class QuestionType(Enum):
     HOW = {'word': 'как', 'tag': 'ADVB,Ques'}
     WHY = {'word': 'почему', 'tag': 'ADVB,Ques'}
 
-    def __init__(self, value):
-        self._value_ = value['word']
+    def __new__(cls, value):
+        self = super().__new__(cls, value['word'])
         self.word = value['word']
         self.raw_tag = value['tag']
-        self.normal_form = value['normal_form'] if 'normal_form' in value else value['word']
+        self.normal_form = value.get('normal_form', value['word'])
+        return self       
+
+    def __init__(self, value):
         self._parse = None
         self._morph = None
 
