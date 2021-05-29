@@ -1,0 +1,873 @@
+{
+  "sentence": "Какое же счастье, какой праздник, когда вдруг у ворот этого домишки останавливаются деревенские, набитые соломой сани, пара запряженных впротяжку лохматых деревенских лошадей!",
+  "tokens": [
+    "Какое",
+    "же",
+    "счастье",
+    ",",
+    "какой",
+    "праздник",
+    ",",
+    "когда",
+    "вдруг",
+    "у",
+    "ворот",
+    "этого",
+    "домишки",
+    "останавливаются",
+    "деревенские",
+    ",",
+    "набитые",
+    "соломой",
+    "сани",
+    ",",
+    "пара",
+    "запряженных",
+    "впротяжку",
+    "лохматых",
+    "деревенских",
+    "лошадей",
+    "!"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Какое",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "какое",
+          "lexem": "какой",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "какое",
+          "lexem": "какой",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "же",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "же",
+          "lexem": "же",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "же",
+          "lexem": "же",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "счастье",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "счастье",
+          "lexem": "счастие",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "счастье",
+          "lexem": "счастие",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "счастье",
+          "lexem": "счастие",
+          "tags": "S ЕД СР ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "какой",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД ЖЕН ПР",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД ЖЕН РОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД ЖЕН ТВОР",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД ЖЕН ДАТ",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "праздник",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "праздник",
+          "lexem": "праздник",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "праздник",
+          "lexem": "праздник",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "когда",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "когда",
+          "lexem": "когда",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "когда",
+          "lexem": "когда",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "вдруг",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вдруг",
+          "lexem": "вдруг",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "у",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "у",
+          "lexem": "у",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "у",
+          "lexem": "у",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "ворот",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ворот",
+          "lexem": "ворота",
+          "tags": "S МН РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ворот",
+          "lexem": "ворот",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "ворот",
+          "lexem": "ворот",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "этого",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "этого",
+          "lexem": "это",
+          "tags": "S ЕД СР РОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "этого",
+          "lexem": "этот",
+          "tags": "A ЕД СР РОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "этого",
+          "lexem": "этот",
+          "tags": "A ЕД МУЖ РОД",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "этого",
+          "lexem": "этот",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "домишки",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "домишки",
+          "lexem": "домишко",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "домишки",
+          "lexem": "домишко",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "домишки",
+          "lexem": "домишко",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "останавливаются",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "останавливаются",
+          "lexem": "останавливаться",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "деревенские",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "деревенские",
+          "lexem": "деревенский",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "деревенские",
+          "lexem": "деревенский",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "набитые",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "набитые",
+          "lexem": "набитый",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "набитые",
+          "lexem": "набитый",
+          "tags": "A МН ВИН",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "набитые",
+          "lexem": "набить",
+          "tags": "V ПРИЧ МН ИМ ПРОШ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "набитые",
+          "lexem": "набить",
+          "tags": "V ПРИЧ МН ВИН ПРОШ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "соломой",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "соломой",
+          "lexem": "солома",
+          "tags": "S ЕД ЖЕН ТВОР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "сани",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сани",
+          "lexem": "сани",
+          "tags": "S МН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "сани",
+          "lexem": "сани",
+          "tags": "S МН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "сани",
+          "lexem": "саня",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "сани",
+          "lexem": "саня",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": "пара",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пара",
+          "lexem": "пара",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "пара",
+          "lexem": "пар",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "пара",
+          "lexem": "пара",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "token": "запряженных",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "запряжённых",
+          "lexem": "запрячь",
+          "tags": "V ПРИЧ МН РОД ПРОШ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "запряжённых",
+          "lexem": "запрячь",
+          "tags": "V ПРИЧ МН ВИН ПРОШ",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "запряжённых",
+          "lexem": "запрячь",
+          "tags": "V ПРИЧ МН ПР ПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "token": "впротяжку",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "впротяжку",
+          "lexem": "впротяжка",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "впротяжку",
+          "lexem": "впротяжку",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "token": "лохматых",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "лохматых",
+          "lexem": "лохматый",
+          "tags": "A МН РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "лохматых",
+          "lexem": "лохматый",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "лохматых",
+          "lexem": "лохматый",
+          "tags": "A МН ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "token": "деревенских",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "деревенских",
+          "lexem": "деревенский",
+          "tags": "A МН РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "деревенских",
+          "lexem": "деревенский",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "деревенских",
+          "lexem": "деревенский",
+          "tags": "A МН ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "token": "лошадей",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "лошадей",
+          "lexem": "лошадь",
+          "tags": "S МН ЖЕН РОД ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "лошадей",
+          "lexem": "лошадь",
+          "tags": "S МН ЖЕН ВИН ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "лошадей",
+      "dependent": "лохматых",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 23,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "лошадей",
+      "dependent": "деревенских",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 24,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "праздник",
+      "dependent": "какой",
+      "head_i": 5,
+      "head_homonym_i": 1,
+      "dependent_i": 4,
+      "dependent_homonym_i": 5
+    },
+    {
+      "dep_type": "опред",
+      "head": "домишки",
+      "dependent": "этого",
+      "head_i": 12,
+      "head_homonym_i": 1,
+      "dependent_i": 11,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "предл",
+      "head": "у",
+      "dependent": "ворот",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "счастье",
+      "dependent": "праздник",
+      "head_i": 2,
+      "head_homonym_i": 1,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "атриб",
+      "head": "ворот",
+      "dependent": "домишки",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "атриб",
+      "head": "пара",
+      "dependent": "лошадей",
+      "head_i": 20,
+      "head_homonym_i": 1,
+      "dependent_i": 25,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "атриб",
+      "head": "впротяжку",
+      "dependent": "лошадей",
+      "head_i": 22,
+      "head_homonym_i": 0,
+      "dependent_i": 25,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "останавливаются",
+      "dependent": "сани",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "останавливаются",
+      "dependent": "какое",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "останавливаются",
+      "dependent": "какое",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "останавливаются",
+      "dependent": "счастье",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "останавливаются",
+      "dependent": "у",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "запряжённых",
+      "dependent": "впротяжку",
+      "head_i": 21,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "запряжённых",
+      "dependent": "впротяжку",
+      "head_i": 21,
+      "head_homonym_i": 1,
+      "dependent_i": 22,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "запряжённых",
+      "dependent": "впротяжку",
+      "head_i": 21,
+      "head_homonym_i": 2,
+      "dependent_i": 22,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "подч-союзн",
+      "head": "когда",
+      "dependent": "останавливаются",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "счастье",
+      "dependent": "праздник",
+      "head_i": 2,
+      "head_homonym_i": 1,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "сочин",
+      "head": "деревенские",
+      "dependent": "набитые",
+      "head_i": 14,
+      "head_homonym_i": 0,
+      "dependent_i": 16,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "деревенские",
+      "dependent": "набитые",
+      "head_i": 14,
+      "head_homonym_i": 1,
+      "dependent_i": 16,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "обст",
+      "head": "останавливаются",
+      "dependent": "вдруг",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "останавливаются",
+      "dependent": "у",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "запряжённых",
+      "dependent": "впротяжку",
+      "head_i": 21,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "обст",
+      "head": "запряжённых",
+      "dependent": "впротяжку",
+      "head_i": 21,
+      "head_homonym_i": 1,
+      "dependent_i": 22,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "обст",
+      "head": "запряжённых",
+      "dependent": "впротяжку",
+      "head_i": 21,
+      "head_homonym_i": 2,
+      "dependent_i": 22,
+      "dependent_homonym_i": 1
+    }
+  ]
+}

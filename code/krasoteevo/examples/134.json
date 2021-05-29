@@ -1,0 +1,244 @@
+{
+  "sentence": "Теперь им уже пора было быть.",
+  "tokens": [
+    "Теперь",
+    "им",
+    "уже",
+    "пора",
+    "было",
+    "быть",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Теперь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "теперь",
+          "lexem": "теперь",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "им",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "им",
+          "lexem": "они",
+          "tags": "S МН ДАТ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "им",
+          "lexem": "имя",
+          "tags": "S ЕД СР РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "им",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ТВОР",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "им",
+          "lexem": "оно",
+          "tags": "S ЕД СР ТВОР",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "уже",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "уже",
+          "lexem": "уже",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "уже",
+          "lexem": "уже",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "уже",
+          "lexem": "уж",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "уже",
+          "lexem": "узкий",
+          "tags": "A СРАВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "пора",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пора",
+          "lexem": "пора",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "пора",
+          "lexem": "пора",
+          "tags": "V ПРЕДК",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "было",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "было",
+          "lexem": "быть",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "было",
+          "lexem": "было",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "быть",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "быть",
+          "lexem": "быть",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "колич-огран",
+      "head": "уже",
+      "dependent": "теперь",
+      "head_i": 2,
+      "head_homonym_i": 3,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "агент",
+      "head": "уже",
+      "dependent": "им",
+      "head_i": 2,
+      "head_homonym_i": 3,
+      "dependent_i": 1,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "агент",
+      "head": "уже",
+      "dependent": "им",
+      "head_i": 2,
+      "head_homonym_i": 3,
+      "dependent_i": 1,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "предик",
+      "head": "уже",
+      "dependent": "пора",
+      "head_i": 2,
+      "head_homonym_i": 3,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "дат-субъект",
+      "head": "пора",
+      "dependent": "им",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пора",
+      "dependent": "им",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пора",
+      "dependent": "им",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 1,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пора",
+      "dependent": "им",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 1,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "обст",
+      "head": "уже",
+      "dependent": "теперь",
+      "head_i": 2,
+      "head_homonym_i": 3,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

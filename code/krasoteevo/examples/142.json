@@ -1,0 +1,654 @@
+{
+  "sentence": "Войдя, она даже не поцеловала меня, только жалостно улыбнулась, садясь на диван и снимая, отцепляя от волос шляпку.",
+  "tokens": [
+    "Войдя",
+    ",",
+    "она",
+    "даже",
+    "не",
+    "поцеловала",
+    "меня",
+    ",",
+    "только",
+    "жалостно",
+    "улыбнулась",
+    ",",
+    "садясь",
+    "на",
+    "диван",
+    "и",
+    "снимая",
+    ",",
+    "отцепляя",
+    "от",
+    "волос",
+    "шляпку",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Войдя",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "войдя",
+          "lexem": "войти",
+          "tags": "V ДЕЕПР СОВ ПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "она",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "она",
+          "lexem": "она",
+          "tags": "S ЕД ЖЕН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "даже",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "даже",
+          "lexem": "даже",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "не",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "не",
+          "lexem": "не",
+          "tags": "PART",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "поцеловала",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "поцеловала",
+          "lexem": "поцеловать",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "меня",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "меня",
+          "lexem": "я",
+          "tags": "S ЕД ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "меня",
+          "lexem": "я",
+          "tags": "S ЕД РОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "только",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "только",
+          "lexem": "только",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "только",
+          "lexem": "только",
+          "tags": "PART",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "только",
+          "lexem": "только",
+          "tags": "CONJ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "жалостно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "жалостно",
+          "lexem": "жалостно",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "жалостно",
+          "lexem": "жалостный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "улыбнулась",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "улыбнулась",
+          "lexem": "улыбнуться",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "садясь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "садясь",
+          "lexem": "садиться",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "на",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "на",
+          "lexem": "на",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "диван",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "диван",
+          "lexem": "диван",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "диван",
+          "lexem": "диван",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "снимая",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "снимая",
+          "lexem": "снимать",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "отцепляя",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "отцепляя",
+          "lexem": "отцеплять",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": "от",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "от",
+          "lexem": "от",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": "волос",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "волос",
+          "lexem": "волос",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "волос",
+          "lexem": "волос",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "волос",
+          "lexem": "волос",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "token": "шляпку",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "шляпку",
+          "lexem": "шляпка",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предл",
+      "head": "на",
+      "dependent": "диван",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "от",
+      "dependent": "волос",
+      "head_i": 19,
+      "head_homonym_i": 0,
+      "dependent_i": 20,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "огранич",
+      "head": "жалостно",
+      "dependent": "только",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "огранич",
+      "head": "жалостно",
+      "dependent": "только",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "огранич",
+      "head": "жалостно",
+      "dependent": "только",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "огранич",
+      "head": "поцеловала",
+      "dependent": "не",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "поцеловала",
+      "dependent": "войдя",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "поцеловала",
+      "dependent": "она",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "поцеловала",
+      "dependent": "меня",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "садясь",
+      "dependent": "на",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "отцепляя",
+      "dependent": "от",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 19,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "отцепляя",
+      "dependent": "шляпку",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "поцеловала",
+      "dependent": "меня",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "волос",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 20,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "шляпку",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "диван",
+      "dependent": "и",
+      "head_i": 14,
+      "head_homonym_i": 1,
+      "dependent_i": 15,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "садясь",
+      "dependent": "на",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "отцепляя",
+      "dependent": "от",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 19,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "sentence": "— Нет, пойду.",
+  "tokens": [
+    "—",
+    "Нет",
+    ",",
+    "пойду",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Нет",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "нет",
+          "lexem": "нет",
+          "tags": "V ПРЕДК",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "нет",
+          "lexem": "нет",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "нет",
+          "lexem": "нет",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "пойду",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пойду",
+          "lexem": "пойти",
+          "tags": "V ЕД СОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": []
+}

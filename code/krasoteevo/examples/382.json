@@ -1,0 +1,368 @@
+{
+  "sentence": "— Он был не в себе вчера, — задумчиво проговорил Разумихин.",
+  "tokens": [
+    "—",
+    "Он",
+    "был",
+    "не",
+    "в",
+    "себе",
+    "вчера",
+    ",",
+    "—",
+    "задумчиво",
+    "проговорил",
+    "Разумихин",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Он",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "он",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "был",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "был",
+          "lexem": "быть",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "не",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "не",
+          "lexem": "не",
+          "tags": "PART",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "себе",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "себе",
+          "lexem": "себя",
+          "tags": "S ЕД ДАТ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "себе",
+          "lexem": "себя",
+          "tags": "S ЕД ПР",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "себе",
+          "lexem": "себе",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "вчера",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вчера",
+          "lexem": "вчера",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "задумчиво",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "задумчиво",
+          "lexem": "задумчиво",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "задумчиво",
+          "lexem": "задумчивый",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "проговорил",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "проговорил",
+          "lexem": "проговорить",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "Разумихин",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "разумихин",
+          "lexem": "разумихин",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "себе",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "огранич",
+      "head": "в",
+      "dependent": "не",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "был",
+      "dependent": "он",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "был",
+      "dependent": "разумихин",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "был",
+      "dependent": "в",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "был",
+      "dependent": "в",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "был",
+      "dependent": "вчера",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "был",
+      "dependent": "вчера",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

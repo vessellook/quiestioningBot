@@ -1,0 +1,454 @@
+{
+  "sentence": "Милые, деревенские и эти сани, набитые соломой!",
+  "tokens": [
+    "Милые",
+    ",",
+    "деревенские",
+    "и",
+    "эти",
+    "сани",
+    ",",
+    "набитые",
+    "соломой",
+    "!"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Милые",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "милые",
+          "lexem": "милый",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "милые",
+          "lexem": "милый",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "деревенские",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "деревенские",
+          "lexem": "деревенский",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "деревенские",
+          "lexem": "деревенский",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "эти",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "эти",
+          "lexem": "этот",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "эти",
+          "lexem": "этот",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "сани",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сани",
+          "lexem": "сани",
+          "tags": "S МН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "сани",
+          "lexem": "сани",
+          "tags": "S МН ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "сани",
+          "lexem": "саня",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "сани",
+          "lexem": "саня",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "набитые",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "набитые",
+          "lexem": "набитый",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "набитые",
+          "lexem": "набитый",
+          "tags": "A МН ВИН",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "набитые",
+          "lexem": "набить",
+          "tags": "V ПРИЧ МН ИМ ПРОШ",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "набитые",
+          "lexem": "набить",
+          "tags": "V ПРИЧ МН ВИН ПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "соломой",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "соломой",
+          "lexem": "солома",
+          "tags": "S ЕД ЖЕН ТВОР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "сани",
+      "dependent": "набитые",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "сани",
+      "dependent": "набитые",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "опред",
+      "head": "сани",
+      "dependent": "набитые",
+      "head_i": 5,
+      "head_homonym_i": 1,
+      "dependent_i": 7,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "опред",
+      "head": "сани",
+      "dependent": "набитые",
+      "head_i": 5,
+      "head_homonym_i": 1,
+      "dependent_i": 7,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "опред",
+      "head": "сани",
+      "dependent": "эти",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "сани",
+      "dependent": "эти",
+      "head_i": 5,
+      "head_homonym_i": 1,
+      "dependent_i": 4,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "эти",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "эти",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "сани",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "сани",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "набитые",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "набитые",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "сочин",
+      "head": "милые",
+      "dependent": "деревенские",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "милые",
+      "dependent": "деревенские",
+      "head_i": 0,
+      "head_homonym_i": 1,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "сочин",
+      "head": "деревенские",
+      "dependent": "и",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "деревенские",
+      "dependent": "и",
+      "head_i": 2,
+      "head_homonym_i": 1,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

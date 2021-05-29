@@ -1,0 +1,90 @@
+{
+  "sentence": "Какая ужасная лестница!",
+  "tokens": [
+    "Какая",
+    "ужасная",
+    "лестница",
+    "!"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Какая",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "какая",
+          "lexem": "какой",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "какая",
+          "lexem": "какать",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "ужасная",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ужасная",
+          "lexem": "ужасный",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "лестница",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "лестница",
+          "lexem": "лестница",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "лестница",
+      "dependent": "ужасная",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "лестница",
+      "dependent": "какая",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

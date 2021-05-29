@@ -1,0 +1,648 @@
+{
+  "sentence": "Ровно в девять часов Разумихин явился в нумера Бакалеева.",
+  "tokens": [
+    "Ровно",
+    "в",
+    "девять",
+    "часов",
+    "Разумихин",
+    "явился",
+    "в",
+    "нумера",
+    "Бакалеева",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Ровно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ровно",
+          "lexem": "ровно",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "ровно",
+          "lexem": "ровно",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "ровно",
+          "lexem": "ровно",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "ровно",
+          "lexem": "ровно",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "ровно",
+          "lexem": "ровно",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "ровно",
+          "lexem": "ровно",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "ровно",
+          "lexem": "ровно",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "ровно",
+          "lexem": "ровно",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "ровно",
+          "lexem": "ровно",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "ровно",
+          "lexem": "ровный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "девять",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "девять",
+          "lexem": "девять",
+          "tags": "NUM ИМ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "девять",
+          "lexem": "девять",
+          "tags": "NUM ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "часов",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "часов",
+          "lexem": "час",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "часов",
+          "lexem": "часы",
+          "tags": "S МН РОД НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "Разумихин",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "разумихин",
+          "lexem": "разумихин",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "явился",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "явился",
+          "lexem": "явиться",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "нумера",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "нумера",
+          "lexem": "нумера",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "нумера",
+          "lexem": "нумер",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "нумёра",
+          "lexem": "нумёра",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "нумера",
+          "lexem": "нумер",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "нумера",
+          "lexem": "нумер",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "нумера",
+          "lexem": "нумер",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "нумера",
+          "lexem": "нумер",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "Бакалеева",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "бакалеева",
+          "lexem": "бакалеев",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "бакалеева",
+          "lexem": "бакалеев",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "бакалеева",
+          "lexem": "бакалеев",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "количест",
+      "head": "часов",
+      "dependent": "девять",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "количест",
+      "head": "часов",
+      "dependent": "девять",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "часов",
+      "dependent": "разумихин",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "часов",
+      "dependent": "разумихин",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "нумера",
+      "dependent": "бакалеева",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "нумера",
+      "dependent": "бакалеева",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "нумера",
+      "dependent": "бакалеева",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "нумёра",
+      "dependent": "бакалеева",
+      "head_i": 7,
+      "head_homonym_i": 2,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "нумёра",
+      "dependent": "бакалеева",
+      "head_i": 7,
+      "head_homonym_i": 2,
+      "dependent_i": 8,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "нумёра",
+      "dependent": "бакалеева",
+      "head_i": 7,
+      "head_homonym_i": 2,
+      "dependent_i": 8,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "нумера",
+      "dependent": "бакалеева",
+      "head_i": 7,
+      "head_homonym_i": 6,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "нумера",
+      "dependent": "бакалеева",
+      "head_i": 7,
+      "head_homonym_i": 6,
+      "dependent_i": 8,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "нумера",
+      "dependent": "бакалеева",
+      "head_i": 7,
+      "head_homonym_i": 6,
+      "dependent_i": 8,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "часов",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "часов",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "нумера",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "нумёра",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "нумера",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 6
+    },
+    {
+      "dep_type": "предик",
+      "head": "явился",
+      "dependent": "ровно",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "явился",
+      "dependent": "в",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "явился",
+      "dependent": "в",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "явился",
+      "dependent": "в",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

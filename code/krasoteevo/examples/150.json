@@ -1,0 +1,539 @@
+{
+  "sentence": "Но бог с ним, лучше смерть, чем эти муки...",
+  "tokens": [
+    "Но",
+    "бог",
+    "с",
+    "ним",
+    ",",
+    "лучше",
+    "смерть",
+    ",",
+    "чем",
+    "эти",
+    "муки",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Но",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "но",
+          "lexem": "но",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "но",
+          "lexem": "но",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "бог",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "бог",
+          "lexem": "бог",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "с",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "с",
+          "lexem": "с",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "с",
+          "lexem": "с",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 15,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 16,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 17,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 18,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 19,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 20,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 21,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 22,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 23,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 24,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 25,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "ним",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ним",
+          "lexem": "они",
+          "tags": "S МН ДАТ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "ним",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ТВОР",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "ним",
+          "lexem": "оно",
+          "tags": "S ЕД СР ТВОР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "лучше",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "лучше",
+          "lexem": "хороший",
+          "tags": "A СРАВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "лучше",
+          "lexem": "лучше",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "смерть",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "смерть",
+          "lexem": "смерть",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "смерть",
+          "lexem": "смерть",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "чем",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "чем",
+          "lexem": "чем",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "чем",
+          "lexem": "что",
+          "tags": "S ЕД СР ТВОР",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "чём",
+          "lexem": "что",
+          "tags": "S ЕД СР ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "эти",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "эти",
+          "lexem": "этот",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "эти",
+          "lexem": "этот",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "муки",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "муки",
+          "lexem": "мука",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "муки",
+          "lexem": "мука",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "муки",
+          "lexem": "мука",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "агент",
+      "head": "лучше",
+      "dependent": "ним",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "с",
+      "dependent": "ним",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "атриб",
+      "head": "бог",
+      "dependent": "с",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "лучше",
+      "dependent": "бог",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "лучше",
+      "dependent": "смерть",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "лучше",
+      "dependent": "муки",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "лучше",
+      "dependent": "эти",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "лучше",
+      "dependent": "эти",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "но",
+      "dependent": "лучше",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "но",
+      "dependent": "ним",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "но",
+      "dependent": "эти",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "но",
+      "dependent": "эти",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "сравнит",
+      "head": "лучше",
+      "dependent": "чем",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

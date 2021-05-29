@@ -1,0 +1,76 @@
+{
+  "sentence": "Надо добывать.",
+  "tokens": [
+    "Надо",
+    "добывать",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Надо",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "надо",
+          "lexem": "надо",
+          "tags": "V ПРЕДК",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "надо",
+          "lexem": "над",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "добывать",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "добывать",
+          "lexem": "добывать",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "1-компл",
+      "head": "добывать",
+      "dependent": "надо",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "обст",
+      "head": "добывать",
+      "dependent": "надо",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 1
+    }
+  ]
+}

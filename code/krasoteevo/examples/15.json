@@ -1,0 +1,137 @@
+{
+  "sentence": "Что за лапти такие?",
+  "tokens": [
+    "Что",
+    "за",
+    "лапти",
+    "такие",
+    "?"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Что",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что",
+          "lexem": "что",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "что",
+          "lexem": "что",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ИМ",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "что",
+          "lexem": "что",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "за",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "за",
+          "lexem": "за",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "лапти",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "лапти",
+          "lexem": "лапоть",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "лапти",
+          "lexem": "лапоть",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "лапти",
+          "lexem": "лапоть",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "такие",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "такие",
+          "lexem": "такой",
+          "tags": "A МН ИМ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "такие",
+          "lexem": "такой",
+          "tags": "A МН ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "?",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "?",
+          "lexem": "?",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предл",
+      "head": "за",
+      "dependent": "лапти",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 2
+    }
+  ]
+}

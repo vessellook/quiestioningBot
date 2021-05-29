@@ -1,0 +1,266 @@
+{
+  "sentence": "Кинулись разгребать снег, подняли тело — оказывается, знакомый человек...",
+  "tokens": [
+    "Кинулись",
+    "разгребать",
+    "снег",
+    ",",
+    "подняли",
+    "тело",
+    "—",
+    "оказывается",
+    ",",
+    "знакомый",
+    "человек",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Кинулись",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "кинулись",
+          "lexem": "кинуться",
+          "tags": "V МН СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "разгребать",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "разгребать",
+          "lexem": "разгребать",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "снег",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "снег",
+          "lexem": "снег",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "снег",
+          "lexem": "снег",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "подняли",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "подняли",
+          "lexem": "поднять",
+          "tags": "V МН СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "тело",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тело",
+          "lexem": "тело",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "тело",
+          "lexem": "тело",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "оказывается",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "оказывается",
+          "lexem": "оказываться",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "оказывается",
+          "lexem": "оказывается",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "знакомый",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "знакомый",
+          "lexem": "знакомый",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "знакомый",
+          "lexem": "знакомый",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "человек",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "человек",
+          "lexem": "человек",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "человек",
+          "lexem": "человек",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "человек",
+      "dependent": "знакомый",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "оказывается",
+      "dependent": "снег",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "оказывается",
+      "dependent": "тело",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "оказывается",
+      "dependent": "человек",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "кинулись",
+      "dependent": "подняли",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "кинулись",
+      "dependent": "разгребать",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

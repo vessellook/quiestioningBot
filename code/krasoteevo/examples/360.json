@@ -1,0 +1,357 @@
+{
+  "sentence": "Вместо того пришла сегодня поутру от него вот эта записка...",
+  "tokens": [
+    "Вместо",
+    "того",
+    "пришла",
+    "сегодня",
+    "поутру",
+    "от",
+    "него",
+    "вот",
+    "эта",
+    "записка",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Вместо",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вместо",
+          "lexem": "вместо",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "того",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "того",
+          "lexem": "тот",
+          "tags": "A ЕД СР РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "того",
+          "lexem": "тот",
+          "tags": "A ЕД МУЖ РОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "того",
+          "lexem": "тот",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "того",
+          "lexem": "того",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "того",
+          "lexem": "того",
+          "tags": "S ЕД СР РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "того",
+          "lexem": "того",
+          "tags": "S ЕД СР ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "того",
+          "lexem": "того",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "того",
+          "lexem": "того",
+          "tags": "S ЕД СР ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "того",
+          "lexem": "того",
+          "tags": "S ЕД СР ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "пришла",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пришла",
+          "lexem": "прийти",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "сегодня",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сегодня",
+          "lexem": "сегодня",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "поутру",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "поутру",
+          "lexem": "поутру",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "от",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "от",
+          "lexem": "от",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "него",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "него",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "него",
+          "lexem": "оно",
+          "tags": "S ЕД СР РОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "него",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "него",
+          "lexem": "оно",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "вот",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вот",
+          "lexem": "вот",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "эта",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "эта",
+          "lexem": "этот",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "записка",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "записка",
+          "lexem": "записка",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "него",
+      "dependent": "того",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "опред",
+      "head": "него",
+      "dependent": "того",
+      "head_i": 6,
+      "head_homonym_i": 1,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "записка",
+      "dependent": "эта",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "от",
+      "dependent": "него",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "от",
+      "dependent": "него",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "пришла",
+      "dependent": "записка",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пришла",
+      "dependent": "вместо",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пришла",
+      "dependent": "от",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "пришла",
+      "dependent": "вместо",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "пришла",
+      "dependent": "сегодня",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "пришла",
+      "dependent": "поутру",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "пришла",
+      "dependent": "от",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "пришла",
+      "dependent": "сегодня",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

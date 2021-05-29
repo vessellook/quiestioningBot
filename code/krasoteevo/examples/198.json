@@ -1,0 +1,571 @@
+{
+  "sentence": "И однако ж, одеваясь, он осмотрел свой костюм тщательнее обыкновенного.",
+  "tokens": [
+    "И",
+    "однако",
+    "ж",
+    ",",
+    "одеваясь",
+    ",",
+    "он",
+    "осмотрел",
+    "свой",
+    "костюм",
+    "тщательнее",
+    "обыкновенного",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "И",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 15,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 16,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 17,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 18,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 19,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 20,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 21,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 22,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 23,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 24,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 25,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 26,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН ПР ОД",
+          "active": false
+        },
+        {
+          "index": 27,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 28,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 29,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 30,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 31,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 32,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 33,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 34,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 35,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 36,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 37,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 38,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД ЖЕН ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "однако",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "однако",
+          "lexem": "однако",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "однако",
+          "lexem": "однако",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "ж",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ж",
+          "lexem": "ж",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "ж",
+          "lexem": "ж",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "одеваясь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "одеваясь",
+          "lexem": "одеваться",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "он",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "он",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "осмотрел",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "осмотрел",
+          "lexem": "осмотреть",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "свой",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "свой",
+          "lexem": "свой",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "свой",
+          "lexem": "свой",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "костюм",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "костюм",
+          "lexem": "костюм",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "костюм",
+          "lexem": "костюм",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "тщательнее",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тщательнее",
+          "lexem": "тщательный",
+          "tags": "A СРАВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "обыкновенного",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "обыкновенного",
+          "lexem": "обыкновенный",
+          "tags": "A ЕД СР РОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "обыкновенного",
+          "lexem": "обыкновенный",
+          "tags": "A ЕД МУЖ РОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "обыкновенного",
+          "lexem": "обыкновенный",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "костюм",
+      "dependent": "свой",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "обст",
+      "head": "осмотрел",
+      "dependent": "одеваясь",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "осмотрел",
+      "dependent": "он",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "тщательнее",
+      "dependent": "костюм",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "осмотрел",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "свой",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "свой",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "сравнит",
+      "head": "тщательнее",
+      "dependent": "обыкновенного",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 1
+    }
+  ]
+}

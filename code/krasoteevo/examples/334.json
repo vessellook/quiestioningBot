@@ -1,0 +1,383 @@
+{
+  "sentence": "Непременно должны были быть какие-нибудь достоинства; иначе понять ничего нельзя...",
+  "tokens": [
+    "Непременно",
+    "должны",
+    "были",
+    "быть",
+    "какие-нибудь",
+    "достоинства",
+    ";",
+    "иначе",
+    "понять",
+    "ничего",
+    "нельзя",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Непременно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "непременно",
+          "lexem": "непременно",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "непременно",
+          "lexem": "непременно",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "непременно",
+          "lexem": "непременный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "должны",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "должны",
+          "lexem": "должный",
+          "tags": "A КР МН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "были",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "были",
+          "lexem": "быть",
+          "tags": "V МН НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "были",
+          "lexem": "быль",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "были",
+          "lexem": "быль",
+          "tags": "S ЕД ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "были",
+          "lexem": "быль",
+          "tags": "S ЕД ЖЕН ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "были",
+          "lexem": "быль",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 5,
+          "word": "были",
+          "lexem": "быль",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "быть",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "быть",
+          "lexem": "быть",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "какие-нибудь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "какие-нибудь",
+          "lexem": "какой-нибудь",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "какие-нибудь",
+          "lexem": "какой-нибудь",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "достоинства",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "достоинства",
+          "lexem": "достоинство",
+          "tags": "S ЕД СР РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "достоинства",
+          "lexem": "достоинство",
+          "tags": "S МН СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "достоинства",
+          "lexem": "достоинство",
+          "tags": "S МН СР ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ";",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ";",
+          "lexem": ";",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "иначе",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "иначе",
+          "lexem": "иначе",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "иначе",
+          "lexem": "иначе",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "понять",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "понять",
+          "lexem": "понять",
+          "tags": "V ИНФ СОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "ничего",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ничего",
+          "lexem": "ничего",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ничего",
+          "lexem": "ничего",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "ничего",
+          "lexem": "ничто",
+          "tags": "S ЕД СР РОД",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "ничего",
+          "lexem": "ничего",
+          "tags": "S ЕД СР ИМ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "нельзя",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "нельзя",
+          "lexem": "нельзя",
+          "tags": "V ПРЕДК",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предик",
+      "head": "должны",
+      "dependent": "были",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "предик",
+      "head": "должны",
+      "dependent": "достоинства",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "должны",
+      "dependent": "какие-нибудь",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "быть",
+      "dependent": "какие-нибудь",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "быть",
+      "dependent": "какие-нибудь",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "понять",
+      "dependent": "ничего",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "нельзя",
+      "dependent": "ничего",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "сочин",
+      "head": "быть",
+      "dependent": "понять",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "должны",
+      "dependent": "непременно",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "понять",
+      "dependent": "иначе",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "понять",
+      "dependent": "ничего",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "нельзя",
+      "dependent": "ничего",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

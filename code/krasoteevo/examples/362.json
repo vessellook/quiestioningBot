@@ -1,0 +1,442 @@
+{
+  "sentence": "Вы лучше всех знаете характер Роди и лучше всех можете посоветовать.",
+  "tokens": [
+    "Вы",
+    "лучше",
+    "всех",
+    "знаете",
+    "характер",
+    "Роди",
+    "и",
+    "лучше",
+    "всех",
+    "можете",
+    "посоветовать",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Вы",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вы",
+          "lexem": "вы",
+          "tags": "S МН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "лучше",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "лучше",
+          "lexem": "хороший",
+          "tags": "A СРАВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "лучше",
+          "lexem": "лучше",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "всех",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "всех",
+          "lexem": "весь",
+          "tags": "A МН РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "всех",
+          "lexem": "весь",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "всех",
+          "lexem": "весь",
+          "tags": "A МН ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "знаете",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "знаете",
+          "lexem": "знать",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 2-Л",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "знаете",
+          "lexem": "знаете",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "характер",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "характер",
+          "lexem": "характер",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "характер",
+          "lexem": "характер",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "Роди",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "роди",
+          "lexem": "родя",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "роди",
+          "lexem": "родя",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "роди",
+          "lexem": "родить",
+          "tags": "V ЕД СОВ ПОВ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "роди",
+          "lexem": "родить",
+          "tags": "V ЕД НЕСОВ ПОВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "лучше",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "лучше",
+          "lexem": "хороший",
+          "tags": "A СРАВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "лучше",
+          "lexem": "лучше",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "всех",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "всех",
+          "lexem": "весь",
+          "tags": "A МН РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "всех",
+          "lexem": "весь",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "всех",
+          "lexem": "весь",
+          "tags": "A МН ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "можете",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "можете",
+          "lexem": "мочь",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 2-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "посоветовать",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "посоветовать",
+          "lexem": "посоветовать",
+          "tags": "V ИНФ СОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "аппоз",
+      "head": "характер",
+      "dependent": "роди",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "характер",
+      "dependent": "роди",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "лучше",
+      "dependent": "вы",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "лучше",
+      "dependent": "характер",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "лучше",
+      "dependent": "характер",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "лучше",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "лучше",
+      "dependent": "и",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "можете",
+      "dependent": "посоветовать",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сравнит",
+      "head": "лучше",
+      "dependent": "всех",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сравнит",
+      "head": "лучше",
+      "dependent": "всех",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

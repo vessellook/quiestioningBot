@@ -1,0 +1,568 @@
+{
+  "sentence": "Тогда в лесах просыпались и мяукали орлята, ревел барс, тявкали чекалки...",
+  "tokens": [
+    "Тогда",
+    "в",
+    "лесах",
+    "просыпались",
+    "и",
+    "мяукали",
+    "орлята",
+    ",",
+    "ревел",
+    "барс",
+    ",",
+    "тявкали",
+    "чекалки",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Тогда",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тогда",
+          "lexem": "тогда",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "лесах",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "лесах",
+          "lexem": "лес",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "лесах",
+          "lexem": "леса",
+          "tags": "S МН ЖЕН ПР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "просыпались",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "просыпались",
+          "lexem": "просыпаться",
+          "tags": "V МН НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "просыпались",
+          "lexem": "просыпаться",
+          "tags": "V МН СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "мяукали",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мяукали",
+          "lexem": "мяукать",
+          "tags": "V МН НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "орлята",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "орлята",
+          "lexem": "орлёнок",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "ревел",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ревел",
+          "lexem": "реветь",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "барс",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "барс",
+          "lexem": "барс",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "тявкали",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тявкали",
+          "lexem": "тявкать",
+          "tags": "V МН НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "чекалки",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "чекалки",
+          "lexem": "чекалка",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "чекалки",
+          "lexem": "чекалка",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "чекалки",
+          "lexem": "чекалка",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "лесах",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "лесах",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "просыпались",
+      "dependent": "орлята",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "просыпались",
+      "dependent": "чекалки",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 12,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "мяукали",
+      "dependent": "орлята",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "мяукали",
+      "dependent": "чекалки",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "ревел",
+      "dependent": "барс",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпались",
+      "dependent": "в",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпались",
+      "dependent": "в",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "мяукали",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "мяукали",
+      "dependent": "ревел",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "просыпались",
+      "dependent": "и",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "просыпались",
+      "dependent": "и",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "просыпались",
+      "dependent": "тогда",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "просыпались",
+      "dependent": "тогда",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "просыпались",
+      "dependent": "в",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "просыпались",
+      "dependent": "в",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

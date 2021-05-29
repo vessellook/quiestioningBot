@@ -1,0 +1,458 @@
+{
+  "sentence": "— Знаете вы что-нибудь подробно об этой истории? — спросила Авдотья Романовна.",
+  "tokens": [
+    "—",
+    "Знаете",
+    "вы",
+    "что-нибудь",
+    "подробно",
+    "об",
+    "этой",
+    "истории",
+    "?",
+    "—",
+    "спросила",
+    "Авдотья",
+    "Романовна",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Знаете",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "знаете",
+          "lexem": "знать",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 2-Л",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "знаете",
+          "lexem": "знаете",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "вы",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вы",
+          "lexem": "вы",
+          "tags": "S МН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "что-нибудь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что-нибудь",
+          "lexem": "что-нибудь",
+          "tags": "S ЕД СР ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "что-нибудь",
+          "lexem": "что-нибудь",
+          "tags": "S ЕД СР ИМ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "подробно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "подробно",
+          "lexem": "подробно",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "подробно",
+          "lexem": "подробный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "об",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "об",
+          "lexem": "о",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "об",
+          "lexem": "об",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "этой",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "этой",
+          "lexem": "этот",
+          "tags": "A ЕД ЖЕН РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "этой",
+          "lexem": "этот",
+          "tags": "A ЕД ЖЕН ПР",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "этой",
+          "lexem": "этот",
+          "tags": "A ЕД ЖЕН ТВОР",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "этой",
+          "lexem": "этот",
+          "tags": "A ЕД ЖЕН ДАТ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "истории",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "истории",
+          "lexem": "история",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "истории",
+          "lexem": "история",
+          "tags": "S ЕД ЖЕН ПР НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "истории",
+          "lexem": "история",
+          "tags": "S ЕД ЖЕН ДАТ НЕОД",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "истории",
+          "lexem": "история",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "истории",
+          "lexem": "история",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "?",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "?",
+          "lexem": "?",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "спросила",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "спросила",
+          "lexem": "спросить",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "Авдотья",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "авдотья",
+          "lexem": "авдотья",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "Романовна",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "романовна",
+          "lexem": "романович",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "истории",
+      "dependent": "этой",
+      "head_i": 7,
+      "head_homonym_i": 1,
+      "dependent_i": 6,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "опред",
+      "head": "истории",
+      "dependent": "этой",
+      "head_i": 7,
+      "head_homonym_i": 2,
+      "dependent_i": 6,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "авдотья",
+      "dependent": "романовна",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "об",
+      "dependent": "истории",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "знаете",
+      "dependent": "вы",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "спросила",
+      "dependent": "авдотья",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "знаете",
+      "dependent": "что-нибудь",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "знаете",
+      "dependent": "об",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "спросила",
+      "dependent": "истории",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "обст",
+      "head": "знаете",
+      "dependent": "подробно",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "знаете",
+      "dependent": "об",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

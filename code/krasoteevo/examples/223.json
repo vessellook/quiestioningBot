@@ -1,0 +1,838 @@
+{
+  "sentence": "— Те, я думаю, — отвечал Разумихин, поняв цель вопроса, — и будут, конечно, про свои семейные дела говорить.",
+  "tokens": [
+    "—",
+    "Те",
+    ",",
+    "я",
+    "думаю",
+    ",",
+    "—",
+    "отвечал",
+    "Разумихин",
+    ",",
+    "поняв",
+    "цель",
+    "вопроса",
+    ",",
+    "—",
+    "и",
+    "будут",
+    ",",
+    "конечно",
+    ",",
+    "про",
+    "свои",
+    "семейные",
+    "дела",
+    "говорить",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Те",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "те",
+          "lexem": "тот",
+          "tags": "A МН ИМ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "те",
+          "lexem": "тот",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "те",
+          "lexem": "ты",
+          "tags": "S ЕД ДАТ",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "те",
+          "lexem": "ты",
+          "tags": "S ЕД ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "я",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "думаю",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "думаю",
+          "lexem": "думать",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "думаю",
+          "lexem": "думать",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "отвечал",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "отвечал",
+          "lexem": "отвечать",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "Разумихин",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "разумихин",
+          "lexem": "разумихин",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "поняв",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "поняв",
+          "lexem": "понять",
+          "tags": "V ДЕЕПР СОВ ПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "цель",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "цель",
+          "lexem": "цель",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "цель",
+          "lexem": "цель",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "цель",
+          "lexem": "целить",
+          "tags": "V ЕД НЕСОВ ПОВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "вопроса",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вопроса",
+          "lexem": "вопрос",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "будут",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "будут",
+          "lexem": "быть",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "конечно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "конечно",
+          "lexem": "конечно",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "конечно",
+          "lexem": "конечно",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "конечно",
+          "lexem": "конечный",
+          "tags": "A КР ЕД СР",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": "про",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "про",
+          "lexem": "про",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "про",
+          "lexem": "про",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "про",
+          "lexem": "про",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "про",
+          "lexem": "про",
+          "tags": "S ЕД ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "про",
+          "lexem": "про",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "про",
+          "lexem": "про",
+          "tags": "S ЕД ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "про",
+          "lexem": "про",
+          "tags": "S ЕД ЖЕН ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "token": "свои",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "свои",
+          "lexem": "свой",
+          "tags": "A МН ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "свои",
+          "lexem": "свой",
+          "tags": "A МН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "token": "семейные",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "семейные",
+          "lexem": "семейный",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "семейные",
+          "lexem": "семейный",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "token": "дела",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "дела",
+          "lexem": "дело",
+          "tags": "S ЕД СР РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "дела",
+          "lexem": "дело",
+          "tags": "S МН СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "дела",
+          "lexem": "дело",
+          "tags": "S МН СР ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "дела",
+          "lexem": "деть",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "token": "говорить",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "говорить",
+          "lexem": "говорить",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "дела",
+      "dependent": "семейные",
+      "head_i": 23,
+      "head_homonym_i": 2,
+      "dependent_i": 22,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "разумихин",
+      "dependent": "цель",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "отвечал",
+      "dependent": "поняв",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "атриб",
+      "head": "цель",
+      "dependent": "вопроса",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "атриб",
+      "head": "цель",
+      "dependent": "вопроса",
+      "head_i": 11,
+      "head_homonym_i": 1,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "думаю",
+      "dependent": "я",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "думаю",
+      "dependent": "я",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "думаю",
+      "dependent": "разумихин",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "отвечал",
+      "dependent": "разумихин",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "будут",
+      "dependent": "дела",
+      "head_i": 16,
+      "head_homonym_i": 0,
+      "dependent_i": 23,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "думаю",
+      "dependent": "те",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "думаю",
+      "dependent": "те",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 1,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "думаю",
+      "dependent": "цель",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 11,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "думаю",
+      "dependent": "про",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 20,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "поняв",
+      "dependent": "цель",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "конечно",
+      "dependent": "про",
+      "head_i": 18,
+      "head_homonym_i": 2,
+      "dependent_i": 20,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "будут",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 16,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "свои",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "свои",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "семейные",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "семейные",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "сочин",
+      "head": "думаю",
+      "dependent": "и",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 15,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "отвечал",
+      "dependent": "и",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "разумихин",
+      "dependent": "цель",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "дела",
+      "dependent": "про",
+      "head_i": 23,
+      "head_homonym_i": 3,
+      "dependent_i": 20,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "дела",
+      "dependent": "говорить",
+      "head_i": 23,
+      "head_homonym_i": 3,
+      "dependent_i": 24,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

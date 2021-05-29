@@ -1,0 +1,1766 @@
+{
+  "sentence": "Лучше всего, прочтите ее сами; тут есть пункт, который очень меня беспокоит... вы сейчас увидите сами, какой это пункт, и... скажите мне ваше откровенное мнение, Дмитрий Прокофьич!",
+  "tokens": [
+    "Лучше",
+    "всего",
+    ",",
+    "прочтите",
+    "ее",
+    "сами",
+    ";",
+    "тут",
+    "есть",
+    "пункт",
+    ",",
+    "который",
+    "очень",
+    "меня",
+    "беспокоит",
+    "...",
+    "вы",
+    "сейчас",
+    "увидите",
+    "сами",
+    ",",
+    "какой",
+    "это",
+    "пункт",
+    ",",
+    "и",
+    "...",
+    "скажите",
+    "мне",
+    "ваше",
+    "откровенное",
+    "мнение",
+    ",",
+    "Дмитрий",
+    "Прокофьич",
+    "!"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Лучше",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "лучше",
+          "lexem": "хороший",
+          "tags": "A СРАВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "лучше",
+          "lexem": "лучше",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "всего",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "всего",
+          "lexem": "весь",
+          "tags": "A ЕД СР РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "всего",
+          "lexem": "всего",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "всего",
+          "lexem": "всего",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "всего",
+          "lexem": "весь",
+          "tags": "A ЕД МУЖ РОД",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "всего",
+          "lexem": "весь",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "прочтите",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "прочтите",
+          "lexem": "прочесть",
+          "tags": "V МН СОВ ПОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "ее",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "её",
+          "lexem": "она",
+          "tags": "S ЕД ЖЕН ВИН",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД МУЖ РОД",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД МУЖ ДАТ",
+          "active": true
+        },
+        {
+          "index": 5,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        },
+        {
+          "index": 6,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД МУЖ ТВОР",
+          "active": true
+        },
+        {
+          "index": 7,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД МУЖ ПР",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД ЖЕН РОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД ЖЕН ДАТ",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД ЖЕН ВИН",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД ЖЕН ТВОР",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД ЖЕН ПР",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД СР ИМ",
+          "active": false
+        },
+        {
+          "index": 15,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД СР РОД",
+          "active": false
+        },
+        {
+          "index": 16,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД СР ДАТ",
+          "active": false
+        },
+        {
+          "index": 17,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 18,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД СР ТВОР",
+          "active": false
+        },
+        {
+          "index": 19,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A ЕД СР ПР",
+          "active": false
+        },
+        {
+          "index": 20,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A МН ИМ",
+          "active": false
+        },
+        {
+          "index": 21,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A МН РОД",
+          "active": false
+        },
+        {
+          "index": 22,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A МН ДАТ",
+          "active": false
+        },
+        {
+          "index": 23,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A МН ТВОР",
+          "active": false
+        },
+        {
+          "index": 24,
+          "word": "её",
+          "lexem": "её",
+          "tags": "A МН ПР",
+          "active": false
+        },
+        {
+          "index": 25,
+          "word": "её",
+          "lexem": "она",
+          "tags": "S ЕД ЖЕН РОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "сами",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сами",
+          "lexem": "сам",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "сами",
+          "lexem": "сам",
+          "tags": "A МН ВИН",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ";",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ";",
+          "lexem": ";",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "тут",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тут",
+          "lexem": "тут",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "тут",
+          "lexem": "тут",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "тут",
+          "lexem": "тут",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "тут",
+          "lexem": "тута",
+          "tags": "S МН ЖЕН РОД НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "есть",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "есть",
+          "lexem": "есть",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "есть",
+          "lexem": "есть",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "есть",
+          "lexem": "быть",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "есть",
+          "lexem": "быть",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "пункт",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пункт",
+          "lexem": "пункт",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "пункт",
+          "lexem": "пункт",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "который",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "который",
+          "lexem": "который",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "который",
+          "lexem": "который",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "очень",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "очень",
+          "lexem": "очень",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "меня",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "меня",
+          "lexem": "я",
+          "tags": "S ЕД ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "меня",
+          "lexem": "я",
+          "tags": "S ЕД РОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "беспокоит",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "беспокоит",
+          "lexem": "беспокоить",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "вы",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вы",
+          "lexem": "вы",
+          "tags": "S МН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "сейчас",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сейчас",
+          "lexem": "сейчас",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "увидите",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "увидите",
+          "lexem": "увидеть",
+          "tags": "V МН СОВ НЕПРОШ ИЗЪЯВ 2-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": "сами",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сами",
+          "lexem": "сам",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "сами",
+          "lexem": "сам",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "сами",
+          "lexem": "сами",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "token": "какой",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД ЖЕН ПР",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД ЖЕН РОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД ЖЕН ТВОР",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД ЖЕН ДАТ",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 5,
+          "word": "какой",
+          "lexem": "какой",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "token": "это",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "это",
+          "lexem": "это",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "это",
+          "lexem": "это",
+          "tags": "S ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "это",
+          "lexem": "это",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "это",
+          "lexem": "этот",
+          "tags": "A ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "это",
+          "lexem": "этот",
+          "tags": "A ЕД СР ИМ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "token": "пункт",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пункт",
+          "lexem": "пункт",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "пункт",
+          "lexem": "пункт",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "token": "скажите",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "скажите",
+          "lexem": "сказать",
+          "tags": "V МН СОВ ПОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "token": "мне",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ДАТ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ПР",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "token": "ваше",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ваше",
+          "lexem": "ваш",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ваше",
+          "lexem": "ваш",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "token": "откровенное",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "откровенное",
+          "lexem": "откровенный",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "откровенное",
+          "lexem": "откровенный",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "token": "мнение",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мнение",
+          "lexem": "мнение",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "мнение",
+          "lexem": "мнение",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "token": "Дмитрий",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "дмитрий",
+          "lexem": "дмитрий",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "дмитрий",
+          "lexem": "дмитрия",
+          "tags": "S МН ЖЕН РОД ОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "дмитрий",
+          "lexem": "дмитрия",
+          "tags": "S МН ЖЕН ВИН ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "token": "Прокофьич",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ РОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ ДАТ",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ ТВОР",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ ПР",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН РОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН ДАТ",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН ВИН",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН ТВОР",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН ПР",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР ИМ",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР РОД",
+          "active": false
+        },
+        {
+          "index": 15,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР ДАТ",
+          "active": false
+        },
+        {
+          "index": 16,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 17,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР ТВОР",
+          "active": false
+        },
+        {
+          "index": 18,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР ПР",
+          "active": false
+        },
+        {
+          "index": 19,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН ИМ",
+          "active": false
+        },
+        {
+          "index": 20,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН РОД",
+          "active": false
+        },
+        {
+          "index": 21,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН ДАТ",
+          "active": false
+        },
+        {
+          "index": 22,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 23,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН ТВОР",
+          "active": false
+        },
+        {
+          "index": 24,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "мнение",
+      "dependent": "откровенное",
+      "head_i": 31,
+      "head_homonym_i": 0,
+      "dependent_i": 30,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "пункт",
+      "dependent": "который",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "вы",
+      "dependent": "сами",
+      "head_i": 16,
+      "head_homonym_i": 0,
+      "dependent_i": 19,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "мнение",
+      "dependent": "ваше",
+      "head_i": 31,
+      "head_homonym_i": 0,
+      "dependent_i": 29,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "дмитрий",
+      "dependent": "прокофьич",
+      "head_i": 33,
+      "head_homonym_i": 0,
+      "dependent_i": 34,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "дмитрий",
+      "dependent": "прокофьич",
+      "head_i": 33,
+      "head_homonym_i": 1,
+      "dependent_i": 34,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "дмитрий",
+      "dependent": "прокофьич",
+      "head_i": 33,
+      "head_homonym_i": 2,
+      "dependent_i": 34,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "мнение",
+      "dependent": "дмитрий",
+      "head_i": 31,
+      "head_homonym_i": 0,
+      "dependent_i": 33,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "есть",
+      "dependent": "тут",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 7,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "есть",
+      "dependent": "пункт",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "есть",
+      "dependent": "это",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 22,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "есть",
+      "dependent": "мнение",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 31,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "увидите",
+      "dependent": "вы",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 16,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "прочтите",
+      "dependent": "её",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "прочтите",
+      "dependent": "её",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "прочтите",
+      "dependent": "её",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "прочтите",
+      "dependent": "её",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 5
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "прочтите",
+      "dependent": "её",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 6
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "прочтите",
+      "dependent": "сами",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "прочтите",
+      "dependent": "сами",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "прочтите",
+      "dependent": "какой",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 5
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "есть",
+      "dependent": "меня",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "есть",
+      "dependent": "меня",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "есть",
+      "dependent": "какой",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 5
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "есть",
+      "dependent": "какой",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 21,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "есть",
+      "dependent": "какой",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 21,
+      "dependent_homonym_i": 5
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "есть",
+      "dependent": "пункт",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 23,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "есть",
+      "dependent": "мне",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 28,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "есть",
+      "dependent": "дмитрий",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 33,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "увидите",
+      "dependent": "меня",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "увидите",
+      "dependent": "какой",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "увидите",
+      "dependent": "какой",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 5
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "скажите",
+      "dependent": "пункт",
+      "head_i": 27,
+      "head_homonym_i": 0,
+      "dependent_i": 23,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "скажите",
+      "dependent": "мне",
+      "head_i": 27,
+      "head_homonym_i": 0,
+      "dependent_i": 28,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "скажите",
+      "dependent": "дмитрий",
+      "head_i": 27,
+      "head_homonym_i": 0,
+      "dependent_i": 33,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "есть",
+      "dependent": "меня",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "есть",
+      "dependent": "меня",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 13,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "скажите",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 27,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "мне",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 28,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "мне",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 28,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "ваше",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 29,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "ваше",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 29,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "откровенное",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 30,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "откровенное",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 30,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "дмитрий",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 33,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "дмитрий",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 33,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "дмитрий",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 33,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "прокофьич",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 34,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "увидите",
+      "dependent": "и",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 25,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "всего",
+      "dependent": "её",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "сочин",
+      "head": "всего",
+      "dependent": "её",
+      "head_i": 1,
+      "head_homonym_i": 3,
+      "dependent_i": 4,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "обст",
+      "head": "увидите",
+      "dependent": "очень",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "увидите",
+      "dependent": "сейчас",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "прочтите",
+      "dependent": "есть",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сравнит",
+      "head": "лучше",
+      "dependent": "всего",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сравнит",
+      "head": "лучше",
+      "dependent": "всего",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 3
+    }
+  ]
+}

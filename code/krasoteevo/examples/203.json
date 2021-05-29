@@ -1,0 +1,750 @@
+{
+  "sentence": "Вымылся он в это утро рачительно, — у Настасьи нашлось мыло, — вымыл волосы, шею и особенно руки.",
+  "tokens": [
+    "Вымылся",
+    "он",
+    "в",
+    "это",
+    "утро",
+    "рачительно",
+    ",",
+    "—",
+    "у",
+    "Настасьи",
+    "нашлось",
+    "мыло",
+    ",",
+    "—",
+    "вымыл",
+    "волосы",
+    ",",
+    "шею",
+    "и",
+    "особенно",
+    "руки",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Вымылся",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вымылся",
+          "lexem": "вымыться",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "он",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "он",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "это",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "это",
+          "lexem": "это",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "это",
+          "lexem": "это",
+          "tags": "S ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "это",
+          "lexem": "это",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "это",
+          "lexem": "этот",
+          "tags": "A ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "это",
+          "lexem": "этот",
+          "tags": "A ЕД СР ИМ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "утро",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "утро",
+          "lexem": "утро",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "утро",
+          "lexem": "утро",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "рачительно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "рачительно",
+          "lexem": "рачительный",
+          "tags": "A КР ЕД СР",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "у",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "у",
+          "lexem": "у",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "у",
+          "lexem": "у",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "Настасьи",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "настасьи",
+          "lexem": "настасья",
+          "tags": "S ЕД ЖЕН РОД ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "настасьи",
+          "lexem": "настасья",
+          "tags": "S МН ЖЕН ИМ ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "нашлось",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "нашлось",
+          "lexem": "найтись",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "мыло",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мыло",
+          "lexem": "мыло",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "мыло",
+          "lexem": "мыло",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "мыло",
+          "lexem": "мыть",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "вымыл",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вымыл",
+          "lexem": "вымыть",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "волосы",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "волосы",
+          "lexem": "волос",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "волосы",
+          "lexem": "волос",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "шею",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "шею",
+          "lexem": "шея",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": "особенно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "особенно",
+          "lexem": "особенно",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "особенно",
+          "lexem": "особенно",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "особенно",
+          "lexem": "особенный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": "руки",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "руки",
+          "lexem": "рука",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "руки",
+          "lexem": "рука",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "руки",
+          "lexem": "рука",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предл",
+      "head": "у",
+      "dependent": "настасьи",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "вымылся",
+      "dependent": "он",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "рачительно",
+      "dependent": "утро",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "нашлось",
+      "dependent": "мыло",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "утро",
+      "dependent": "это",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 3,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "вымылся",
+      "dependent": "в",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "нашлось",
+      "dependent": "у",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "нашлось",
+      "dependent": "волосы",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "нашлось",
+      "dependent": "шею",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "нашлось",
+      "dependent": "руки",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 20,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "руки",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 20,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "руки",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 20,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "руки",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 20,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "сочин",
+      "head": "вымылся",
+      "dependent": "нашлось",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "шею",
+      "dependent": "и",
+      "head_i": 17,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "вымылся",
+      "dependent": "в",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "нашлось",
+      "dependent": "у",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

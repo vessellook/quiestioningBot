@@ -1,0 +1,1374 @@
+{
+  "sentence": "Дальше пошел безграничный простор нагих равнин с курганами и могильниками, нестерпимое сухое солнце, небо подобное пыльной туче, потом призраки первых гор на горизонте...",
+  "tokens": [
+    "Дальше",
+    "пошел",
+    "безграничный",
+    "простор",
+    "нагих",
+    "равнин",
+    "с",
+    "курганами",
+    "и",
+    "могильниками",
+    ",",
+    "нестерпимое",
+    "сухое",
+    "солнце",
+    ",",
+    "небо",
+    "подобное",
+    "пыльной",
+    "туче",
+    ",",
+    "потом",
+    "призраки",
+    "первых",
+    "гор",
+    "на",
+    "горизонте",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Дальше",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "дальше",
+          "lexem": "далёкий",
+          "tags": "A СРАВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "пошел",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пошёл",
+          "lexem": "пойти",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "безграничный",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "безграничный",
+          "lexem": "безграничный",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "безграничный",
+          "lexem": "безграничный",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "простор",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "простор",
+          "lexem": "простор",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "простор",
+          "lexem": "простор",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "нагих",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "нагих",
+          "lexem": "нагой",
+          "tags": "A МН РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "нагих",
+          "lexem": "нагой",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "нагих",
+          "lexem": "нагой",
+          "tags": "A МН ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "равнин",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "равнин",
+          "lexem": "равнина",
+          "tags": "S МН ЖЕН РОД НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "с",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "с",
+          "lexem": "с",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "с",
+          "lexem": "с",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД ЖЕН ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН ЖЕН ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 15,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 16,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 17,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 18,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 19,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S ЕД СР ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 20,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 21,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 22,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 23,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 24,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 25,
+          "word": "с",
+          "lexem": "с",
+          "tags": "S МН СР ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "курганами",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "курганами",
+          "lexem": "курган",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "курганами",
+          "lexem": "курган",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "могильниками",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "могильниками",
+          "lexem": "могильник",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "нестерпимое",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "нестерпимое",
+          "lexem": "нестерпимый",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "нестерпимое",
+          "lexem": "нестерпимый",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "сухое",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сухое",
+          "lexem": "сухой",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "сухое",
+          "lexem": "сухой",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "солнце",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "солнце",
+          "lexem": "солнце",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "солнце",
+          "lexem": "солнце",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "солнце",
+          "lexem": "солнце",
+          "tags": "S ЕД СР ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "небо",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "небо",
+          "lexem": "небо",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "нёбо",
+          "lexem": "нёбо",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "небо",
+          "lexem": "небо",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "нёбо",
+          "lexem": "нёбо",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "подобное",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "подобное",
+          "lexem": "подобный",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "подобное",
+          "lexem": "подобный",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "пыльной",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пыльной",
+          "lexem": "пыльный",
+          "tags": "A ЕД ЖЕН ДАТ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "пыльной",
+          "lexem": "пыльный",
+          "tags": "A ЕД ЖЕН РОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "пыльной",
+          "lexem": "пыльный",
+          "tags": "A ЕД ЖЕН ТВОР",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "пыльной",
+          "lexem": "пыльный",
+          "tags": "A ЕД ЖЕН ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "туче",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "туче",
+          "lexem": "туча",
+          "tags": "S ЕД ЖЕН ДАТ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "туче",
+          "lexem": "туча",
+          "tags": "S ЕД ЖЕН ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": "потом",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "потом",
+          "lexem": "потом",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "потом",
+          "lexem": "пот",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "token": "призраки",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "призраки",
+          "lexem": "призрак",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "призраки",
+          "lexem": "призрак",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "призраки",
+          "lexem": "призрак",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "token": "первых",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "первых",
+          "lexem": "первый",
+          "tags": "A МН РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "первых",
+          "lexem": "первый",
+          "tags": "A МН ПР",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "первых",
+          "lexem": "первый",
+          "tags": "A МН ВИН",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "первых",
+          "lexem": "первое",
+          "tags": "S МН СР РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "первых",
+          "lexem": "первое",
+          "tags": "S МН СР ПР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "token": "гор",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "гор",
+          "lexem": "гора",
+          "tags": "S МН ЖЕН РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "гор",
+          "lexem": "гор",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "token": "на",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "на",
+          "lexem": "на",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "token": "горизонте",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "горизонте",
+          "lexem": "горизонт",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "простор",
+      "dependent": "безграничный",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "равнин",
+      "dependent": "нагих",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "солнце",
+      "dependent": "нестерпимое",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "солнце",
+      "dependent": "сухое",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "небо",
+      "dependent": "подобное",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 16,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "нёбо",
+      "dependent": "подобное",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 16,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "небо",
+      "dependent": "подобное",
+      "head_i": 15,
+      "head_homonym_i": 2,
+      "dependent_i": 16,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "опред",
+      "head": "нёбо",
+      "dependent": "подобное",
+      "head_i": 15,
+      "head_homonym_i": 3,
+      "dependent_i": 16,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "опред",
+      "head": "туче",
+      "dependent": "пыльной",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "гор",
+      "dependent": "первых",
+      "head_i": 23,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "с",
+      "dependent": "курганами",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "на",
+      "dependent": "горизонте",
+      "head_i": 24,
+      "head_homonym_i": 0,
+      "dependent_i": 25,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "солнце",
+      "dependent": "небо",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "солнце",
+      "dependent": "нёбо",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "атриб",
+      "head": "простор",
+      "dependent": "равнин",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "атриб",
+      "head": "призраки",
+      "dependent": "гор",
+      "head_i": 21,
+      "head_homonym_i": 0,
+      "dependent_i": 23,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "атриб",
+      "head": "призраки",
+      "dependent": "гор",
+      "head_i": 21,
+      "head_homonym_i": 1,
+      "dependent_i": 23,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "атриб",
+      "head": "гор",
+      "dependent": "на",
+      "head_i": 23,
+      "head_homonym_i": 0,
+      "dependent_i": 24,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "дальше",
+      "dependent": "солнце",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "дальше",
+      "dependent": "призраки",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "дальше",
+      "dependent": "призраки",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "пошёл",
+      "dependent": "простор",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пошёл",
+      "dependent": "могильниками",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пошёл",
+      "dependent": "туче",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пошёл",
+      "dependent": "потом",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 20,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "могильниками",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "нестерпимое",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "нестерпимое",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "сухое",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "сухое",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "небо",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "нёбо",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "небо",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "нёбо",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "подобное",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 16,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "подобное",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 16,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "пыльной",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "пыльной",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "пыльной",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "туче",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "потом",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 20,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "первых",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "первых",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "первых",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "первых",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "гор",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 23,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "горизонте",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 25,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "курганами",
+      "dependent": "и",
+      "head_i": 7,
+      "head_homonym_i": 1,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "пошёл",
+      "dependent": "с",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

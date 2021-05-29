@@ -1,0 +1,57 @@
+{
+  "sentence": "Болтушка ужасная!",
+  "tokens": [
+    "Болтушка",
+    "ужасная",
+    "!"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Болтушка",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "болтушка",
+          "lexem": "болтушка",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "болтушка",
+          "lexem": "болтушка",
+          "tags": "S ЕД ИМ ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "ужасная",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ужасная",
+          "lexem": "ужасный",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": []
+}

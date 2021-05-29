@@ -1,0 +1,374 @@
+{
+  "sentence": "Горячее солнце было уже сильно, чисто и радостно.",
+  "tokens": [
+    "Горячее",
+    "солнце",
+    "было",
+    "уже",
+    "сильно",
+    ",",
+    "чисто",
+    "и",
+    "радостно",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Горячее",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "горячее",
+          "lexem": "горячий",
+          "tags": "A СРАВ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "горячее",
+          "lexem": "горячее",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "горячее",
+          "lexem": "горячее",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "горячее",
+          "lexem": "горячий",
+          "tags": "A ЕД СР ИМ",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "горячее",
+          "lexem": "горячий",
+          "tags": "A ЕД СР ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "солнце",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "солнце",
+          "lexem": "солнце",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "солнце",
+          "lexem": "солнце",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "солнце",
+          "lexem": "солнце",
+          "tags": "S ЕД СР ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "было",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "было",
+          "lexem": "быть",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "было",
+          "lexem": "было",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "уже",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "уже",
+          "lexem": "уже",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "уже",
+          "lexem": "уже",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "уже",
+          "lexem": "уж",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "уже",
+          "lexem": "узкий",
+          "tags": "A СРАВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "сильно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сильно",
+          "lexem": "сильно",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "сильно",
+          "lexem": "сильный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "чисто",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "чисто",
+          "lexem": "чисто",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "чисто",
+          "lexem": "чистый",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "радостно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "радостно",
+          "lexem": "радостно",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "радостно",
+          "lexem": "радостный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предик",
+      "head": "было",
+      "dependent": "горячее",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "было",
+      "dependent": "солнце",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "было",
+      "dependent": "уже",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "было",
+      "dependent": "сильно",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

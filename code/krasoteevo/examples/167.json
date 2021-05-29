@@ -1,0 +1,154 @@
+{
+  "sentence": "Они вышли на улицу.",
+  "tokens": [
+    "Они",
+    "вышли",
+    "на",
+    "улицу",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Они",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "они",
+          "lexem": "они",
+          "tags": "S МН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "вышли",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вышли",
+          "lexem": "выйти",
+          "tags": "V МН СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "вышли",
+          "lexem": "выслать",
+          "tags": "V ЕД СОВ ПОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "на",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "на",
+          "lexem": "на",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "улицу",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "улицу",
+          "lexem": "улица",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предл",
+      "head": "на",
+      "dependent": "улицу",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "вышли",
+      "dependent": "они",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "вышли",
+      "dependent": "на",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "вышли",
+      "dependent": "на",
+      "head_i": 1,
+      "head_homonym_i": 1,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "вышли",
+      "dependent": "на",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "вышли",
+      "dependent": "на",
+      "head_i": 1,
+      "head_homonym_i": 1,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

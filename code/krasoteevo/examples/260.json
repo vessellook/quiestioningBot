@@ -1,0 +1,97 @@
+{
+  "sentence": "Вчерашний хмель сидит...",
+  "tokens": [
+    "Вчерашний",
+    "хмель",
+    "сидит",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Вчерашний",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вчерашний",
+          "lexem": "вчерашний",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "вчерашний",
+          "lexem": "вчерашний",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "хмель",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "хмель",
+          "lexem": "хмель",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "хмель",
+          "lexem": "хмель",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "сидит",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сидит",
+          "lexem": "сидеть",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "хмель",
+      "dependent": "вчерашний",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "сидит",
+      "dependent": "хмель",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

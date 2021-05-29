@@ -1,0 +1,641 @@
+{
+  "sentence": "Да, даже проснулся отец нынче уже совсем не таким, как просыпался все эти масленичные дни.",
+  "tokens": [
+    "Да",
+    ",",
+    "даже",
+    "проснулся",
+    "отец",
+    "нынче",
+    "уже",
+    "совсем",
+    "не",
+    "таким",
+    ",",
+    "как",
+    "просыпался",
+    "все",
+    "эти",
+    "масленичные",
+    "дни",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Да",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "да",
+          "lexem": "да",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "да",
+          "lexem": "да",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "да",
+          "lexem": "да",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "даже",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "даже",
+          "lexem": "даже",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "проснулся",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "проснулся",
+          "lexem": "проснуться",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "отец",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "отец",
+          "lexem": "отец",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "нынче",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "нынче",
+          "lexem": "нынче",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "уже",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "уже",
+          "lexem": "уже",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "уже",
+          "lexem": "уже",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "уже",
+          "lexem": "уж",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "уже",
+          "lexem": "узкий",
+          "tags": "A СРАВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "совсем",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "совсем",
+          "lexem": "совсем",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "не",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "не",
+          "lexem": "не",
+          "tags": "PART",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "таким",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "таким",
+          "lexem": "такой",
+          "tags": "A ЕД МУЖ ТВОР",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "таким",
+          "lexem": "такой",
+          "tags": "A ЕД СР ТВОР",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "таким",
+          "lexem": "такой",
+          "tags": "A МН ДАТ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "как",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "как",
+          "lexem": "как",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "как",
+          "lexem": "как",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "как",
+          "lexem": "как",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "просыпался",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "просыпался",
+          "lexem": "просыпаться",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "просыпался",
+          "lexem": "просыпаться",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "все",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "всё",
+          "lexem": "всё",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "все",
+          "lexem": "весь",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "все",
+          "lexem": "весь",
+          "tags": "A МН ВИН",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "всё",
+          "lexem": "весь",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "всё",
+          "lexem": "весь",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "эти",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "эти",
+          "lexem": "этот",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "эти",
+          "lexem": "этот",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "масленичные",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "масленичные",
+          "lexem": "масленичный",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "масленичные",
+          "lexem": "масленичный",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "дни",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "дни",
+          "lexem": "день",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "дни",
+          "lexem": "день",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "дни",
+      "dependent": "масленичные",
+      "head_i": 16,
+      "head_homonym_i": 1,
+      "dependent_i": 15,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "колич-огран",
+      "head": "уже",
+      "dependent": "нынче",
+      "head_i": 6,
+      "head_homonym_i": 3,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "колич-огран",
+      "head": "уже",
+      "dependent": "совсем",
+      "head_i": 6,
+      "head_homonym_i": 3,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "огранич",
+      "head": "таким",
+      "dependent": "не",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "проснулся",
+      "dependent": "отец",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "уже",
+      "dependent": "дни",
+      "head_i": 6,
+      "head_homonym_i": 3,
+      "dependent_i": 16,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "проснулся",
+      "dependent": "все",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "проснулся",
+      "dependent": "всё",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "проснулся",
+      "dependent": "всё",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "проснулся",
+      "dependent": "эти",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "таким",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "таким",
+      "head_i": 12,
+      "head_homonym_i": 1,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "все",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "все",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "всё",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "всё",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "все",
+      "head_i": 12,
+      "head_homonym_i": 1,
+      "dependent_i": 13,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "все",
+      "head_i": 12,
+      "head_homonym_i": 1,
+      "dependent_i": 13,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "всё",
+      "head_i": 12,
+      "head_homonym_i": 1,
+      "dependent_i": 13,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "всё",
+      "head_i": 12,
+      "head_homonym_i": 1,
+      "dependent_i": 13,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "эти",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "эти",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "эти",
+      "head_i": 12,
+      "head_homonym_i": 1,
+      "dependent_i": 14,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "просыпался",
+      "dependent": "эти",
+      "head_i": 12,
+      "head_homonym_i": 1,
+      "dependent_i": 14,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "подч-союзн",
+      "head": "как",
+      "dependent": "просыпался",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "подч-союзн",
+      "head": "как",
+      "dependent": "просыпался",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "обст",
+      "head": "уже",
+      "dependent": "нынче",
+      "head_i": 6,
+      "head_homonym_i": 3,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "уже",
+      "dependent": "совсем",
+      "head_i": 6,
+      "head_homonym_i": 3,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сравнит",
+      "head": "уже",
+      "dependent": "как",
+      "head_i": 6,
+      "head_homonym_i": 3,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

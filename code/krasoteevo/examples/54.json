@@ -1,0 +1,906 @@
+{
+  "sentence": "Была когда-то Россия, был снежный уездный городишко, была масленица - и был гимназистик Саша, которого милая, чувствительная тетя Варя, заменившая ему родную мать, называла подснежником.",
+  "tokens": [
+    "Была",
+    "когда-то",
+    "Россия",
+    ",",
+    "был",
+    "снежный",
+    "уездный",
+    "городишко",
+    ",",
+    "была",
+    "масленица",
+    "-",
+    "и",
+    "был",
+    "гимназистик",
+    "Саша",
+    ",",
+    "которого",
+    "милая",
+    ",",
+    "чувствительная",
+    "тетя",
+    "Варя",
+    ",",
+    "заменившая",
+    "ему",
+    "родную",
+    "мать",
+    ",",
+    "называла",
+    "подснежником",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Была",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "была",
+          "lexem": "быть",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "когда-то",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "когда-то",
+          "lexem": "когда-то",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "Россия",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "россия",
+          "lexem": "россия",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "был",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "был",
+          "lexem": "быть",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "снежный",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "снежный",
+          "lexem": "снежный",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "снежный",
+          "lexem": "снежный",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "уездный",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "уездный",
+          "lexem": "уездный",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "уездный",
+          "lexem": "уездный",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "городишко",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "городишко",
+          "lexem": "городишко",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "городишко",
+          "lexem": "городишко",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "была",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "была",
+          "lexem": "быть",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "масленица",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "масленица",
+          "lexem": "масленица",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "-",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "-",
+          "lexem": "-",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "был",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "был",
+          "lexem": "быть",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "гимназистик",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "гимназистик",
+          "lexem": "гимназистик",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "Саша",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "саша",
+          "lexem": "саша",
+          "tags": "S ЕД ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "которого",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "которого",
+          "lexem": "который",
+          "tags": "A ЕД СР РОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "которого",
+          "lexem": "который",
+          "tags": "A ЕД МУЖ РОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "которого",
+          "lexem": "который",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "милая",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "милая",
+          "lexem": "милый",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": "чувствительная",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "чувствительная",
+          "lexem": "чувствительный",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "token": "тетя",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тётя",
+          "lexem": "тётя",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "token": "Варя",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "варя",
+          "lexem": "варя",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "варя",
+          "lexem": "варить",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "token": "заменившая",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "заменившая",
+          "lexem": "заменить",
+          "tags": "V ПРИЧ ЕД ЖЕН ИМ ПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "token": "ему",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ему",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ДАТ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ему",
+          "lexem": "оно",
+          "tags": "S ЕД СР ДАТ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "token": "родную",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "родную",
+          "lexem": "родный",
+          "tags": "A ЕД ЖЕН ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "родную",
+          "lexem": "родной",
+          "tags": "A ЕД ЖЕН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "token": "мать",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мать",
+          "lexem": "мать",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "мать",
+          "lexem": "мать",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "token": "называла",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "называла",
+          "lexem": "называть",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "token": "подснежником",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "подснежником",
+          "lexem": "подснежник",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "городишко",
+      "dependent": "снежный",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "опред",
+      "head": "городишко",
+      "dependent": "уездный",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "варя",
+      "dependent": "заменившая",
+      "head_i": 22,
+      "head_homonym_i": 0,
+      "dependent_i": 24,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "мать",
+      "dependent": "родную",
+      "head_i": 27,
+      "head_homonym_i": 1,
+      "dependent_i": 26,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "мать",
+      "dependent": "родную",
+      "head_i": 27,
+      "head_homonym_i": 1,
+      "dependent_i": 26,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "квазиагент",
+      "head": "саша",
+      "dependent": "которого",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "агент",
+      "head": "называла",
+      "dependent": "подснежником",
+      "head_i": 29,
+      "head_homonym_i": 0,
+      "dependent_i": 30,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "гимназистик",
+      "dependent": "саша",
+      "head_i": 14,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "тётя",
+      "dependent": "варя",
+      "head_i": 21,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "саша",
+      "dependent": "тётя",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "была",
+      "dependent": "россия",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "была",
+      "dependent": "масленица",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "был",
+      "dependent": "городишко",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "был",
+      "dependent": "гимназистик",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "заменившая",
+      "dependent": "ему",
+      "head_i": 24,
+      "head_homonym_i": 0,
+      "dependent_i": 25,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "называла",
+      "dependent": "мать",
+      "head_i": 29,
+      "head_homonym_i": 0,
+      "dependent_i": 27,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "называла",
+      "dependent": "подснежником",
+      "head_i": 29,
+      "head_homonym_i": 0,
+      "dependent_i": 30,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "был",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "саша",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "которого",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "которого",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "тётя",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 21,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "варя",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "ему",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 25,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "родную",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 26,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "родную",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 26,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "мать",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 27,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "подснежником",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 30,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "была",
+      "dependent": "был",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "был",
+      "dependent": "называла",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 29,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "был",
+      "dependent": "и",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "была",
+      "dependent": "когда-то",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "sentence": "Третий звонок оглушил меня, тронувшийся поезд поверг в оцепенение...",
+  "tokens": [
+    "Третий",
+    "звонок",
+    "оглушил",
+    "меня",
+    ",",
+    "тронувшийся",
+    "поезд",
+    "поверг",
+    "в",
+    "оцепенение",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Третий",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "третий",
+          "lexem": "третий",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "третий",
+          "lexem": "третий",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "звонок",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "звонок",
+          "lexem": "звонок",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "звонок",
+          "lexem": "звонок",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "звонок",
+          "lexem": "звонкий",
+          "tags": "A КР ЕД МУЖ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "оглушил",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "оглушил",
+          "lexem": "оглушить",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "меня",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "меня",
+          "lexem": "я",
+          "tags": "S ЕД ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "меня",
+          "lexem": "я",
+          "tags": "S ЕД РОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "тронувшийся",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тронувшийся",
+          "lexem": "тронуться",
+          "tags": "V ПРИЧ ЕД МУЖ ИМ ПРОШ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "тронувшийся",
+          "lexem": "тронуться",
+          "tags": "V ПРИЧ ЕД МУЖ ВИН ПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "поезд",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "поезд",
+          "lexem": "поезд",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "поезд",
+          "lexem": "поезд",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "поверг",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "поверг",
+          "lexem": "повергнуть",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "оцепенение",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "оцепенение",
+          "lexem": "оцепенение",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "оцепенение",
+          "lexem": "оцепенение",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "поезд",
+      "dependent": "тронувшийся",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "звонок",
+      "dependent": "третий",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "оцепенение",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "оцепенение",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "оглушил",
+      "dependent": "звонок",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "оглушил",
+      "dependent": "поезд",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "оглушил",
+      "dependent": "меня",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "тронувшийся",
+      "dependent": "в",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "тронувшийся",
+      "dependent": "в",
+      "head_i": 5,
+      "head_homonym_i": 1,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "оглушил",
+      "dependent": "меня",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "обст",
+      "head": "тронувшийся",
+      "dependent": "в",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "тронувшийся",
+      "dependent": "в",
+      "head_i": 5,
+      "head_homonym_i": 1,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

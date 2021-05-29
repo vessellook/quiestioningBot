@@ -1,0 +1,625 @@
+{
+  "sentence": "Школьник высадил полностью заряженный гаджет, потратив на игры и учёбу одинаковое время.",
+  "tokens": [
+    "Школьник",
+    "высадил",
+    "полностью",
+    "заряженный",
+    "гаджет",
+    ",",
+    "потратив",
+    "на",
+    "игры",
+    "и",
+    "учёбу",
+    "одинаковое",
+    "время",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Школьник",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "школьник",
+          "lexem": "школьник",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "высадил",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "высадил",
+          "lexem": "высадить",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "полностью",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "полностью",
+          "lexem": "полностью",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "заряженный",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "заряженный",
+          "lexem": "зарядить",
+          "tags": "V ПРИЧ ЕД МУЖ ИМ ПРОШ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "заряженный",
+          "lexem": "зарядить",
+          "tags": "V ПРИЧ ЕД МУЖ ВИН ПРОШ",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "заряжённый",
+          "lexem": "зарядить",
+          "tags": "V ПРИЧ ЕД МУЖ ИМ ПРОШ",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "заряжённый",
+          "lexem": "зарядить",
+          "tags": "V ПРИЧ ЕД МУЖ ВИН ПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "гаджет",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "гаджет",
+          "lexem": "гаджет",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "гаджет",
+          "lexem": "гаджет",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "потратив",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "потратив",
+          "lexem": "потратить",
+          "tags": "V ДЕЕПР СОВ ПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "на",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "на",
+          "lexem": "на",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "игры",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "игры",
+          "lexem": "игра",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "игры",
+          "lexem": "игра",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "игры",
+          "lexem": "игра",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "учёбу",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "учёбу",
+          "lexem": "учёба",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "одинаковое",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "одинаковое",
+          "lexem": "одинаковый",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "одинаковое",
+          "lexem": "одинаковый",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "время",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "время",
+          "lexem": "время",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "время",
+          "lexem": "время",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "гаджет",
+      "dependent": "заряженный",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "гаджет",
+      "dependent": "заряжённый",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "опред",
+      "head": "время",
+      "dependent": "одинаковое",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "время",
+      "dependent": "одинаковое",
+      "head_i": 12,
+      "head_homonym_i": 1,
+      "dependent_i": 11,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "на",
+      "dependent": "игры",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "огранич",
+      "head": "заряженный",
+      "dependent": "полностью",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "огранич",
+      "head": "заряженный",
+      "dependent": "полностью",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "огранич",
+      "head": "заряжённый",
+      "dependent": "полностью",
+      "head_i": 3,
+      "head_homonym_i": 2,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "огранич",
+      "head": "заряжённый",
+      "dependent": "полностью",
+      "head_i": 3,
+      "head_homonym_i": 3,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "высадил",
+      "dependent": "потратив",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "высадил",
+      "dependent": "школьник",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "высадил",
+      "dependent": "гаджет",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "заряженный",
+      "dependent": "учёбу",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "заряжённый",
+      "dependent": "учёбу",
+      "head_i": 3,
+      "head_homonym_i": 2,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "заряжённый",
+      "dependent": "учёбу",
+      "head_i": 3,
+      "head_homonym_i": 3,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "заряженный",
+      "dependent": "время",
+      "head_i": 3,
+      "head_homonym_i": 1,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "заряжённый",
+      "dependent": "время",
+      "head_i": 3,
+      "head_homonym_i": 2,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "заряжённый",
+      "dependent": "время",
+      "head_i": 3,
+      "head_homonym_i": 3,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "потратив",
+      "dependent": "на",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "потратив",
+      "dependent": "учёбу",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "потратив",
+      "dependent": "время",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "учёбу",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "одинаковое",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "одинаковое",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "время",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "время",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "сочин",
+      "head": "игры",
+      "dependent": "и",
+      "head_i": 8,
+      "head_homonym_i": 2,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "потратив",
+      "dependent": "на",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

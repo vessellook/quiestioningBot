@@ -1,0 +1,85 @@
+{
+  "sentence": "— Ах, пора!..",
+  "tokens": [
+    "—",
+    "Ах",
+    ",",
+    "пора",
+    "!.."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Ах",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ах",
+          "lexem": "ах",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "пора",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пора",
+          "lexem": "пора",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "пора",
+          "lexem": "пора",
+          "tags": "V ПРЕДК",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "!..",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!..",
+          "lexem": "!..",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": []
+}

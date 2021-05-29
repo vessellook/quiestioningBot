@@ -1,0 +1,344 @@
+{
+  "sentence": "Мне кажется, ваш приезд будет иметь на него спасительнейшее влияние.",
+  "tokens": [
+    "Мне",
+    "кажется",
+    ",",
+    "ваш",
+    "приезд",
+    "будет",
+    "иметь",
+    "на",
+    "него",
+    "спасительнейшее",
+    "влияние",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Мне",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ДАТ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "кажется",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "кажется",
+          "lexem": "казаться",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "кажется",
+          "lexem": "кажется",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "ваш",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ваш",
+          "lexem": "ваш",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ваш",
+          "lexem": "ваш",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "приезд",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "приезд",
+          "lexem": "приезд",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "приезд",
+          "lexem": "приезд",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "будет",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "будет",
+          "lexem": "быть",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "иметь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "иметь",
+          "lexem": "иметь",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "на",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "на",
+          "lexem": "на",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "него",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "него",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "него",
+          "lexem": "оно",
+          "tags": "S ЕД СР РОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "него",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ВИН",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "него",
+          "lexem": "оно",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "спасительнейшее",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "спасительнейшее",
+          "lexem": "спасительный",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "спасительнейшее",
+          "lexem": "спасительный",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "влияние",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "влияние",
+          "lexem": "влияние",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "влияние",
+          "lexem": "влияние",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "влияние",
+      "dependent": "спасительнейшее",
+      "head_i": 10,
+      "head_homonym_i": 1,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "приезд",
+      "dependent": "ваш",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "на",
+      "dependent": "него",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "аналит",
+      "head": "будет",
+      "dependent": "иметь",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "будет",
+      "dependent": "приезд",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "будет",
+      "dependent": "влияние",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "кажется",
+      "dependent": "мне",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "иметь",
+      "dependent": "на",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "иметь",
+      "dependent": "него",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "иметь",
+      "dependent": "на",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "sentence": "А пусть!",
+  "tokens": [
+    "А",
+    "пусть",
+    "!"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "А",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "а",
+          "lexem": "а",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "а",
+          "lexem": "а",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "а",
+          "lexem": "а",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН ПР ОД",
+          "active": false
+        },
+        {
+          "index": 15,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 16,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 17,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 18,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 19,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 20,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 21,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 22,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 23,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 24,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 25,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 26,
+          "word": "а",
+          "lexem": "а",
+          "tags": "S ЕД ЖЕН ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "пусть",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пусть",
+          "lexem": "пусть",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "пусть",
+          "lexem": "пусть",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": []
+}

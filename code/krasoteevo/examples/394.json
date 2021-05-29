@@ -1,0 +1,88 @@
+{
+  "sentence": "Дунечка тоже оделась.",
+  "tokens": [
+    "Дунечка",
+    "тоже",
+    "оделась",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Дунечка",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "дунёчка",
+          "lexem": "дунёчек",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "дунечка",
+          "lexem": "дунечка",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "дунечка",
+          "lexem": "дунечка",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "тоже",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тоже",
+          "lexem": "тоже",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "оделась",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "оделась",
+          "lexem": "одеться",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предик",
+      "head": "оделась",
+      "dependent": "дунечка",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 2
+    }
+  ]
+}

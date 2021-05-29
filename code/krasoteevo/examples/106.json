@@ -1,0 +1,692 @@
+{
+  "sentence": "Я боюсь, Дмитрий Прокофьич! — прибавила она, робко взглянув на него.",
+  "tokens": [
+    "Я",
+    "боюсь",
+    ",",
+    "Дмитрий",
+    "Прокофьич",
+    "!",
+    "—",
+    "прибавила",
+    "она",
+    ",",
+    "робко",
+    "взглянув",
+    "на",
+    "него",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Я",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН ПР ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 15,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 16,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 17,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 18,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 19,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 20,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 21,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 22,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 23,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 24,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ЖЕН ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "боюсь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "боюсь",
+          "lexem": "бояться",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "Дмитрий",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "дмитрий",
+          "lexem": "дмитрий",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "дмитрий",
+          "lexem": "дмитрия",
+          "tags": "S МН ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "дмитрий",
+          "lexem": "дмитрия",
+          "tags": "S МН ЖЕН ВИН ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "Прокофьич",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ РОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ ДАТ",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ ТВОР",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД МУЖ ПР",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН РОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН ДАТ",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН ВИН",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН ТВОР",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД ЖЕН ПР",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР ИМ",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР РОД",
+          "active": false
+        },
+        {
+          "index": 15,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР ДАТ",
+          "active": false
+        },
+        {
+          "index": 16,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 17,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР ТВОР",
+          "active": false
+        },
+        {
+          "index": 18,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A ЕД СР ПР",
+          "active": false
+        },
+        {
+          "index": 19,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН ИМ",
+          "active": false
+        },
+        {
+          "index": 20,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН РОД",
+          "active": false
+        },
+        {
+          "index": 21,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН ДАТ",
+          "active": false
+        },
+        {
+          "index": 22,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 23,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН ТВОР",
+          "active": false
+        },
+        {
+          "index": 24,
+          "word": "прокофьич",
+          "lexem": "прокофьич",
+          "tags": "A МН ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "прибавила",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "прибавила",
+          "lexem": "прибавить",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "она",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "она",
+          "lexem": "она",
+          "tags": "S ЕД ЖЕН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "робко",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "робко",
+          "lexem": "робко",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "робко",
+          "lexem": "робкий",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "взглянув",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "взглянув",
+          "lexem": "взглянуть",
+          "tags": "V ДЕЕПР СОВ ПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "на",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "на",
+          "lexem": "на",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "него",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "него",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "него",
+          "lexem": "оно",
+          "tags": "S ЕД СР РОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "него",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ВИН",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "него",
+          "lexem": "оно",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "аппоз",
+      "head": "дмитрий",
+      "dependent": "прокофьич",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "на",
+      "dependent": "него",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "предик",
+      "head": "боюсь",
+      "dependent": "я",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "боюсь",
+      "dependent": "дмитрий",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "прибавила",
+      "dependent": "она",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "взглянув",
+      "dependent": "на",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "взглянув",
+      "dependent": "него",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "взглянув",
+      "dependent": "робко",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "взглянув",
+      "dependent": "на",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

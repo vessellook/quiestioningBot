@@ -1,0 +1,203 @@
+{
+  "sentence": "Что сделать, чем помочь?",
+  "tokens": [
+    "Что",
+    "сделать",
+    ",",
+    "чем",
+    "помочь",
+    "?"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Что",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что",
+          "lexem": "что",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "что",
+          "lexem": "что",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ВИН",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ИМ",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "что",
+          "lexem": "что",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "сделать",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сделать",
+          "lexem": "сделать",
+          "tags": "V ИНФ СОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "чем",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "чем",
+          "lexem": "чем",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "чем",
+          "lexem": "что",
+          "tags": "S ЕД СР ТВОР",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "чём",
+          "lexem": "что",
+          "tags": "S ЕД СР ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "помочь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "помочь",
+          "lexem": "помочь",
+          "tags": "V ИНФ СОВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "помочь",
+          "lexem": "помочь",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "помочь",
+          "lexem": "помочь",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "?",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "?",
+          "lexem": "?",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "агент",
+      "head": "помочь",
+      "dependent": "чем",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "сделать",
+      "dependent": "что",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "сделать",
+      "dependent": "помочь",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "помочь",
+      "dependent": "чем",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "обст",
+      "head": "сделать",
+      "dependent": "что",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "релят",
+      "head": "что",
+      "dependent": "помочь",
+      "head_i": 0,
+      "head_homonym_i": 2,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

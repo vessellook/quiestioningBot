@@ -1,0 +1,257 @@
+{
+  "sentence": "— Уж конечно, маменька, — внушительно заметила Авдотья Романовна.",
+  "tokens": [
+    "—",
+    "Уж",
+    "конечно",
+    ",",
+    "маменька",
+    ",",
+    "—",
+    "внушительно",
+    "заметила",
+    "Авдотья",
+    "Романовна",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Уж",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "уж",
+          "lexem": "уж",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "уж",
+          "lexem": "уж",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "уж",
+          "lexem": "уж",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "конечно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "конечно",
+          "lexem": "конечно",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "конечно",
+          "lexem": "конечно",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "конечно",
+          "lexem": "конечный",
+          "tags": "A КР ЕД СР",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "маменька",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "маменька",
+          "lexem": "маменька",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "внушительно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "внушительно",
+          "lexem": "внушительно",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "внушительно",
+          "lexem": "внушительный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "заметила",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "заметила",
+          "lexem": "заметить",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "Авдотья",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "авдотья",
+          "lexem": "авдотья",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "Романовна",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "романовна",
+          "lexem": "романович",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "аппоз",
+      "head": "авдотья",
+      "dependent": "романовна",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "заметила",
+      "dependent": "маменька",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "заметила",
+      "dependent": "авдотья",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "конечно",
+      "dependent": "уж",
+      "head_i": 2,
+      "head_homonym_i": 2,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "заметила",
+      "dependent": "внушительно",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

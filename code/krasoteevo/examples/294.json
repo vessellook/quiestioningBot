@@ -1,0 +1,90 @@
+{
+  "sentence": "Ужасно иногда неразговорчив!",
+  "tokens": [
+    "Ужасно",
+    "иногда",
+    "неразговорчив",
+    "!"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Ужасно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ужасно",
+          "lexem": "ужасно",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ужасно",
+          "lexem": "ужасный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "иногда",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "иногда",
+          "lexem": "иногда",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "неразговорчив",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "неразговорчив",
+          "lexem": "неразговорчивый",
+          "tags": "A КР ЕД МУЖ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "обст",
+      "head": "неразговорчив",
+      "dependent": "ужасно",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "неразговорчив",
+      "dependent": "иногда",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

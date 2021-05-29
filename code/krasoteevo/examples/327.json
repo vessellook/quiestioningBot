@@ -1,0 +1,201 @@
+{
+  "sentence": "Преспокойно бы перешагнул через все препятствия.",
+  "tokens": [
+    "Преспокойно",
+    "бы",
+    "перешагнул",
+    "через",
+    "все",
+    "препятствия",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Преспокойно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "преспокойно",
+          "lexem": "преспокойно",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "преспокойно",
+          "lexem": "преспокойный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "бы",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "бы",
+          "lexem": "бы",
+          "tags": "PART",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "перешагнул",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "перешагнул",
+          "lexem": "перешагнуть",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "через",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "через",
+          "lexem": "через",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "все",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "всё",
+          "lexem": "всё",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "все",
+          "lexem": "весь",
+          "tags": "A МН ИМ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "все",
+          "lexem": "весь",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "всё",
+          "lexem": "весь",
+          "tags": "A ЕД СР ИМ",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "всё",
+          "lexem": "весь",
+          "tags": "A ЕД СР ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "препятствия",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "препятствия",
+          "lexem": "препятствие",
+          "tags": "S МН СР ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "препятствия",
+          "lexem": "препятствие",
+          "tags": "S ЕД СР РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "препятствия",
+          "lexem": "препятствие",
+          "tags": "S МН СР ИМ НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предл",
+      "head": "через",
+      "dependent": "препятствия",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аналит",
+      "head": "перешагнул",
+      "dependent": "бы",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "перешагнул",
+      "dependent": "через",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "перешагнул",
+      "dependent": "преспокойно",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "перешагнул",
+      "dependent": "через",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

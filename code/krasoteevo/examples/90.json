@@ -1,0 +1,160 @@
+{
+  "sentence": "Он прост, тих, чем-то озабочен.",
+  "tokens": [
+    "Он",
+    "прост",
+    ",",
+    "тих",
+    ",",
+    "чем-то",
+    "озабочен",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Он",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "он",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "прост",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "прост",
+          "lexem": "простой",
+          "tags": "A КР ЕД МУЖ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "тих",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тих",
+          "lexem": "тихнуть",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "тих",
+          "lexem": "тихий",
+          "tags": "A КР ЕД МУЖ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "чем-то",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "чем-то",
+          "lexem": "что-то",
+          "tags": "S ЕД СР ТВОР",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "чём-то",
+          "lexem": "что-то",
+          "tags": "S ЕД СР ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "озабочен",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "озабочен",
+          "lexem": "озаботить",
+          "tags": "V ПРИЧ КР ЕД МУЖ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "озабочен",
+          "lexem": "озабоченный",
+          "tags": "A КР ЕД МУЖ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предик",
+      "head": "прост",
+      "dependent": "он",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "прост",
+      "dependent": "чем-то",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

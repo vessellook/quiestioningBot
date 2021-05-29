@@ -1,0 +1,250 @@
+{
+  "sentence": "— Да вздор же, говорю; какая твердая мысль!",
+  "tokens": [
+    "—",
+    "Да",
+    "вздор",
+    "же",
+    ",",
+    "говорю",
+    ";",
+    "какая",
+    "твердая",
+    "мысль",
+    "!"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Да",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "да",
+          "lexem": "да",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "да",
+          "lexem": "да",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "да",
+          "lexem": "да",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "вздор",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вздор",
+          "lexem": "вздор",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "вздор",
+          "lexem": "вздор",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "же",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "же",
+          "lexem": "же",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "же",
+          "lexem": "же",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "говорю",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "говорю",
+          "lexem": "говорить",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ";",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ";",
+          "lexem": ";",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "какая",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "какая",
+          "lexem": "какой",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "какая",
+          "lexem": "какать",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "твердая",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "твёрдая",
+          "lexem": "твёрдый",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "мысль",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мысль",
+          "lexem": "мысль",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "мысль",
+          "lexem": "мысль",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "мысль",
+      "dependent": "твёрдая",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "мысль",
+      "dependent": "какая",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "говорю",
+      "dependent": "какая",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "говорю",
+      "dependent": "вздор",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "говорю",
+      "dependent": "мысль",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

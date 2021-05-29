@@ -1,0 +1,92 @@
+{
+  "sentence": "Мне да тебе?",
+  "tokens": [
+    "Мне",
+    "да",
+    "тебе",
+    "?"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Мне",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ДАТ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "да",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "да",
+          "lexem": "да",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "да",
+          "lexem": "да",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "да",
+          "lexem": "да",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "тебе",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тебе",
+          "lexem": "ты",
+          "tags": "S ЕД ДАТ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "тебе",
+          "lexem": "ты",
+          "tags": "S ЕД ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "?",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "?",
+          "lexem": "?",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": []
+}

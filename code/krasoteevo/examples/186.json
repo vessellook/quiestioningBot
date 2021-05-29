@@ -1,0 +1,78 @@
+{
+  "sentence": "Нумера?",
+  "tokens": [
+    "Нумера",
+    "?"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Нумера",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "нумера",
+          "lexem": "нумера",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "нумера",
+          "lexem": "нумер",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "нумёра",
+          "lexem": "нумёра",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "нумера",
+          "lexem": "нумер",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "нумера",
+          "lexem": "нумер",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "нумера",
+          "lexem": "нумер",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "нумера",
+          "lexem": "нумер",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "?",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "?",
+          "lexem": "?",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": []
+}

@@ -1,0 +1,83 @@
+{
+  "sentence": "Ваня идёт гулять.",
+  "tokens": [
+    "Ваня",
+    "идёт",
+    "гулять",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Ваня",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ваня",
+          "lexem": "ваня",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "идёт",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "идёт",
+          "lexem": "идти",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "гулять",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "гулять",
+          "lexem": "гулять",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предик",
+      "head": "идёт",
+      "dependent": "ваня",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "идёт",
+      "dependent": "гулять",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

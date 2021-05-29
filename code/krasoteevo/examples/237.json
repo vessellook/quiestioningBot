@@ -1,0 +1,453 @@
+{
+  "sentence": "Ведь эти мономаны из капли океан сделают, небылицу в лицах наяву видят...",
+  "tokens": [
+    "Ведь",
+    "эти",
+    "мономаны",
+    "из",
+    "капли",
+    "океан",
+    "сделают",
+    ",",
+    "небылицу",
+    "в",
+    "лицах",
+    "наяву",
+    "видят",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Ведь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ведь",
+          "lexem": "ведь",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "ведь",
+          "lexem": "ведь",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "эти",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "эти",
+          "lexem": "этот",
+          "tags": "A МН ИМ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "эти",
+          "lexem": "этот",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "мономаны",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мономаны",
+          "lexem": "мономан",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "из",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "из",
+          "lexem": "из",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "из",
+          "lexem": "иза",
+          "tags": "S МН ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "из",
+          "lexem": "иза",
+          "tags": "S МН ЖЕН ВИН ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "капли",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "капли",
+          "lexem": "капля",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "капли",
+          "lexem": "капля",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "капли",
+          "lexem": "капля",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "океан",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "океан",
+          "lexem": "океан",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "океан",
+          "lexem": "океан",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "сделают",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сделают",
+          "lexem": "сделать",
+          "tags": "V МН СОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "небылицу",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "небылицу",
+          "lexem": "небылица",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "лицах",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "лицах",
+          "lexem": "лицо",
+          "tags": "S МН СР ПР НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "лицах",
+          "lexem": "лицо",
+          "tags": "S МН СР ПР ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "наяву",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "наяву",
+          "lexem": "наяву",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "видят",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "видят",
+          "lexem": "видеть",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "элект",
+      "head": "мономаны",
+      "dependent": "из",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "из",
+      "dependent": "капли",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "лицах",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "лицах",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "сделают",
+      "dependent": "мономаны",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "сделают",
+      "dependent": "эти",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "сделают",
+      "dependent": "океан",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "сделают",
+      "dependent": "небылицу",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "океан",
+      "dependent": "небылицу",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "сделают",
+      "dependent": "из",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "видят",
+      "dependent": "в",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "видят",
+      "dependent": "наяву",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

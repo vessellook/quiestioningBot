@@ -1,0 +1,273 @@
+{
+  "sentence": "Ты, как доктор, разумеется, больше меня прав имеешь.",
+  "tokens": [
+    "Ты",
+    ",",
+    "как",
+    "доктор",
+    ",",
+    "разумеется",
+    ",",
+    "больше",
+    "меня",
+    "прав",
+    "имеешь",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Ты",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ты",
+          "lexem": "ты",
+          "tags": "S ЕД ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "как",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "как",
+          "lexem": "как",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "как",
+          "lexem": "как",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "как",
+          "lexem": "как",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "доктор",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "доктор",
+          "lexem": "доктор",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "разумеется",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "разумеется",
+          "lexem": "разумеется",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "разумеется",
+          "lexem": "разуметься",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "больше",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "больше",
+          "lexem": "большой",
+          "tags": "A СРАВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "больше",
+          "lexem": "больше",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "меня",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "меня",
+          "lexem": "я",
+          "tags": "S ЕД ВИН",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "меня",
+          "lexem": "я",
+          "tags": "S ЕД РОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "прав",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "прав",
+          "lexem": "право",
+          "tags": "S МН СР РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "прав",
+          "lexem": "правый",
+          "tags": "A КР ЕД МУЖ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "имеешь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "имеешь",
+          "lexem": "иметь",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 2-Л",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "об-аппоз",
+      "head": "ты",
+      "dependent": "доктор",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "разумеется",
+      "dependent": "ты",
+      "head_i": 5,
+      "head_homonym_i": 1,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "подч-союзн",
+      "head": "как",
+      "dependent": "доктор",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сравнит",
+      "head": "больше",
+      "dependent": "меня",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "сравнит",
+      "head": "больше",
+      "dependent": "прав",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сравн-союзн",
+      "head": "как",
+      "dependent": "доктор",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

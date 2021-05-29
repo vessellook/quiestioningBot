@@ -1,0 +1,111 @@
+{
+  "sentence": "Еще больше буду!..»",
+  "tokens": [
+    "Еще",
+    "больше",
+    "буду",
+    "!..",
+    "»"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Еще",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ещё",
+          "lexem": "ещё",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ещё",
+          "lexem": "ещё",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "больше",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "больше",
+          "lexem": "большой",
+          "tags": "A СРАВ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "больше",
+          "lexem": "больше",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "буду",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "буду",
+          "lexem": "быть",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "!..",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!..",
+          "lexem": "!..",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "»",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "»",
+          "lexem": "»",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "обст",
+      "head": "больше",
+      "dependent": "ещё",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "буду",
+      "dependent": "больше",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 1
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "sentence": "«Женихов подарок», — подумал Разумихин.",
+  "tokens": [
+    "«",
+    "Женихов",
+    "подарок",
+    "»",
+    ",",
+    "—",
+    "подумал",
+    "Разумихин",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "«",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "«",
+          "lexem": "«",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Женихов",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "женихов",
+          "lexem": "жених",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "женихов",
+          "lexem": "жених",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "женихов",
+          "lexem": "женихов",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "женихов",
+          "lexem": "женихов",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "подарок",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "подарок",
+          "lexem": "подарок",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "подарок",
+          "lexem": "подарок",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "»",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "»",
+          "lexem": "»",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "подумал",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "подумал",
+          "lexem": "подумать",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "Разумихин",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "разумихин",
+          "lexem": "разумихин",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "подарок",
+      "dependent": "женихов",
+      "head_i": 2,
+      "head_homonym_i": 1,
+      "dependent_i": 1,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "предик",
+      "head": "подумал",
+      "dependent": "подарок",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "подумал",
+      "dependent": "разумихин",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

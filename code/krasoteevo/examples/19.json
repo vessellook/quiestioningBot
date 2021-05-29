@@ -1,0 +1,720 @@
+{
+  "sentence": "Шапка, борода, старый полушубок, разбитые валенки — все в снегу, все обмерзло...",
+  "tokens": [
+    "Шапка",
+    ",",
+    "борода",
+    ",",
+    "старый",
+    "полушубок",
+    ",",
+    "разбитые",
+    "валенки",
+    "—",
+    "все",
+    "в",
+    "снегу",
+    ",",
+    "все",
+    "обмерзло",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Шапка",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "шапка",
+          "lexem": "шапка",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "борода",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "борода",
+          "lexem": "борода",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "старый",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "старый",
+          "lexem": "старый",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "старый",
+          "lexem": "старый",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "полушубок",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "полушубок",
+          "lexem": "полушубок",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "полушубок",
+          "lexem": "полушубок",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "разбитые",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "разбитые",
+          "lexem": "разбитый",
+          "tags": "A МН ИМ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "разбитые",
+          "lexem": "разбитый",
+          "tags": "A МН ВИН",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "разбитые",
+          "lexem": "разбить",
+          "tags": "V ПРИЧ МН ИМ ПРОШ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "разбитые",
+          "lexem": "разбить",
+          "tags": "V ПРИЧ МН ВИН ПРОШ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "валенки",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "валенки",
+          "lexem": "валенок",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "валенки",
+          "lexem": "валенок",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "все",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "всё",
+          "lexem": "всё",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "все",
+          "lexem": "весь",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "все",
+          "lexem": "весь",
+          "tags": "A МН ВИН",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "всё",
+          "lexem": "весь",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "всё",
+          "lexem": "весь",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "снегу",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "снегу",
+          "lexem": "снег",
+          "tags": "S ЕД МУЖ МЕСТН НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "снегу",
+          "lexem": "снег",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "снегу",
+          "lexem": "снег",
+          "tags": "S ЕД МУЖ ПАРТ НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "все",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "всё",
+          "lexem": "всё",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "все",
+          "lexem": "весь",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "все",
+          "lexem": "весь",
+          "tags": "A МН ВИН",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "всё",
+          "lexem": "весь",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "всё",
+          "lexem": "весь",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "обмерзло",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "обмёрзло",
+          "lexem": "обмёрзлый",
+          "tags": "A КР ЕД СР",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "обмёрзло",
+          "lexem": "обмёрзнуть",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "полушубок",
+      "dependent": "старый",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "полушубок",
+      "dependent": "старый",
+      "head_i": 5,
+      "head_homonym_i": 1,
+      "dependent_i": 4,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "опред",
+      "head": "валенки",
+      "dependent": "разбитые",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "снегу",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "шапка",
+      "dependent": "борода",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "борода",
+      "dependent": "полушубок",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "полушубок",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "полушубок",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "валенки",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "валенки",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "все",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "все",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "всё",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "всё",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "все",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 10,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "все",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 10,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "всё",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 10,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "всё",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 10,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "в",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "в",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "все",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "все",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "всё",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "всё",
+      "head_i": 15,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "все",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 14,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "все",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 14,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "всё",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 14,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "обмёрзло",
+      "dependent": "всё",
+      "head_i": 15,
+      "head_homonym_i": 1,
+      "dependent_i": 14,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "сочин",
+      "head": "шапка",
+      "dependent": "борода",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "борода",
+      "dependent": "полушубок",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

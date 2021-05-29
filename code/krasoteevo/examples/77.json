@@ -1,0 +1,517 @@
+{
+  "sentence": "Ах, как хорош после комнаты зимний сырой воздух, пахнущий праздничным чадом из труб!",
+  "tokens": [
+    "Ах",
+    ",",
+    "как",
+    "хорош",
+    "после",
+    "комнаты",
+    "зимний",
+    "сырой",
+    "воздух",
+    ",",
+    "пахнущий",
+    "праздничным",
+    "чадом",
+    "из",
+    "труб",
+    "!"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Ах",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ах",
+          "lexem": "ах",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "как",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "как",
+          "lexem": "как",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "как",
+          "lexem": "как",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "как",
+          "lexem": "как",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "хорош",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "хорош",
+          "lexem": "хороший",
+          "tags": "A КР ЕД МУЖ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "после",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "после",
+          "lexem": "после",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "после",
+          "lexem": "после",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "после",
+          "lexem": "посол",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "комнаты",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "комнаты",
+          "lexem": "комната",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "комнаты",
+          "lexem": "комната",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "комнаты",
+          "lexem": "комната",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "зимний",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "зимний",
+          "lexem": "зимний",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "зимний",
+          "lexem": "зимний",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "сырой",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сырой",
+          "lexem": "сырой",
+          "tags": "A ЕД ЖЕН РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "сырой",
+          "lexem": "сырой",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "сырой",
+          "lexem": "сырой",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "сырой",
+          "lexem": "сырой",
+          "tags": "A ЕД ЖЕН ДАТ",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "сырой",
+          "lexem": "сырой",
+          "tags": "A ЕД ЖЕН ТВОР",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "сырой",
+          "lexem": "сырой",
+          "tags": "A ЕД ЖЕН ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "воздух",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "воздух",
+          "lexem": "воздух",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "воздух",
+          "lexem": "воздух",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "пахнущий",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пахнущий",
+          "lexem": "пахнуть",
+          "tags": "V ПРИЧ ЕД МУЖ ИМ НЕПРОШ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "пахнущий",
+          "lexem": "пахнуть",
+          "tags": "V ПРИЧ ЕД МУЖ ВИН НЕПРОШ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "праздничным",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "праздничным",
+          "lexem": "праздничный",
+          "tags": "A ЕД МУЖ ТВОР",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "праздничным",
+          "lexem": "праздничный",
+          "tags": "A ЕД СР ТВОР",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "праздничным",
+          "lexem": "праздничный",
+          "tags": "A МН ДАТ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "чадом",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "чадом",
+          "lexem": "чад",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "чадом",
+          "lexem": "чадо",
+          "tags": "S ЕД СР ТВОР ОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "чадом",
+          "lexem": "чад",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "из",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "из",
+          "lexem": "из",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "из",
+          "lexem": "иза",
+          "tags": "S МН ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "из",
+          "lexem": "иза",
+          "tags": "S МН ЖЕН ВИН ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "труб",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "труб",
+          "lexem": "труба",
+          "tags": "S МН ЖЕН РОД НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "комнаты",
+      "dependent": "сырой",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "воздух",
+      "dependent": "зимний",
+      "head_i": 8,
+      "head_homonym_i": 1,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "воздух",
+      "dependent": "пахнущий",
+      "head_i": 8,
+      "head_homonym_i": 1,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "чадом",
+      "dependent": "праздничным",
+      "head_i": 12,
+      "head_homonym_i": 2,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "элект",
+      "head": "чадом",
+      "dependent": "из",
+      "head_i": 12,
+      "head_homonym_i": 1,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "элект",
+      "head": "чадом",
+      "dependent": "из",
+      "head_i": 12,
+      "head_homonym_i": 2,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "после",
+      "dependent": "комнаты",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "из",
+      "dependent": "труб",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "хорош",
+      "dependent": "воздух",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "хорош",
+      "dependent": "после",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "хорош",
+      "dependent": "чадом",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пахнущий",
+      "dependent": "чадом",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пахнущий",
+      "dependent": "чадом",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "подч-союзн",
+      "head": "как",
+      "dependent": "хорош",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "хорош",
+      "dependent": "после",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "пахнущий",
+      "dependent": "из",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

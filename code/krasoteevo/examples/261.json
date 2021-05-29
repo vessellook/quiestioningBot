@@ -1,0 +1,304 @@
+{
+  "sentence": "До свидания; поблагодари от меня Прасковью Павловну свою за ночлег.",
+  "tokens": [
+    "До",
+    "свидания",
+    ";",
+    "поблагодари",
+    "от",
+    "меня",
+    "Прасковью",
+    "Павловну",
+    "свою",
+    "за",
+    "ночлег",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "До",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "до",
+          "lexem": "до",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "свидания",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "свидания",
+          "lexem": "свидание",
+          "tags": "S ЕД СР РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "свидания",
+          "lexem": "свидание",
+          "tags": "S МН СР ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "свидания",
+          "lexem": "свидание",
+          "tags": "S МН СР ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ";",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ";",
+          "lexem": ";",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "поблагодари",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "поблагодари",
+          "lexem": "поблагодарить",
+          "tags": "V ЕД СОВ ПОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "от",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "от",
+          "lexem": "от",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "меня",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "меня",
+          "lexem": "я",
+          "tags": "S ЕД ВИН",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "меня",
+          "lexem": "я",
+          "tags": "S ЕД РОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "Прасковью",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "прасковью",
+          "lexem": "прасковья",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "Павловну",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "павловну",
+          "lexem": "павлович",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "свою",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "свою",
+          "lexem": "свой",
+          "tags": "A ЕД ЖЕН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "за",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "за",
+          "lexem": "за",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "ночлег",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ночлег",
+          "lexem": "ночлег",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "ночлег",
+          "lexem": "ночлег",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "павловну",
+      "dependent": "свою",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "прасковью",
+      "dependent": "павловну",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "до",
+      "dependent": "свидания",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "от",
+      "dependent": "меня",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "за",
+      "dependent": "ночлег",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "поблагодари",
+      "dependent": "до",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "поблагодари",
+      "dependent": "от",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "поблагодари",
+      "dependent": "прасковью",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "поблагодари",
+      "dependent": "за",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "поблагодари",
+      "dependent": "от",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "поблагодари",
+      "dependent": "за",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

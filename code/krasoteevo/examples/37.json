@@ -1,0 +1,280 @@
+{
+  "sentence": "Решили, что, значит, ночевать остался, если бог донес.",
+  "tokens": [
+    "Решили",
+    ",",
+    "что",
+    ",",
+    "значит",
+    ",",
+    "ночевать",
+    "остался",
+    ",",
+    "если",
+    "бог",
+    "донес",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Решили",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "решили",
+          "lexem": "решить",
+          "tags": "V МН СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "что",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что",
+          "lexem": "что",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "что",
+          "lexem": "что",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "что",
+          "lexem": "что",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "значит",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "значит",
+          "lexem": "значит",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "значит",
+          "lexem": "значить",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "ночевать",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ночевать",
+          "lexem": "ночевать",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "остался",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "остался",
+          "lexem": "остаться",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "если",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "если",
+          "lexem": "если",
+          "tags": "CONJ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "бог",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "бог",
+          "lexem": "бог",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "донес",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "донёс",
+          "lexem": "донести",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предик",
+      "head": "значит",
+      "dependent": "что",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 2,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "предик",
+      "head": "донёс",
+      "dependent": "бог",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "подч-союзн",
+      "head": "если",
+      "dependent": "донёс",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "решили",
+      "dependent": "остался",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "значит",
+      "dependent": "ночевать",
+      "head_i": 4,
+      "head_homonym_i": 1,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "остался",
+      "dependent": "если",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

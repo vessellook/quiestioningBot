@@ -1,0 +1,314 @@
+{
+  "sentence": "— Которые так дорого вам достались, маменька, — прибавила Авдотья Романовна.",
+  "tokens": [
+    "—",
+    "Которые",
+    "так",
+    "дорого",
+    "вам",
+    "достались",
+    ",",
+    "маменька",
+    ",",
+    "—",
+    "прибавила",
+    "Авдотья",
+    "Романовна",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Которые",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "которые",
+          "lexem": "который",
+          "tags": "A МН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "которые",
+          "lexem": "который",
+          "tags": "A МН ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "так",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "так",
+          "lexem": "так",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "так",
+          "lexem": "так",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "так",
+          "lexem": "так",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "дорого",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "дорого",
+          "lexem": "дорого",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "дорого",
+          "lexem": "дорогой",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "вам",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вам",
+          "lexem": "вы",
+          "tags": "S МН ДАТ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "достались",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "достались",
+          "lexem": "достаться",
+          "tags": "V МН СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "маменька",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "маменька",
+          "lexem": "маменька",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "прибавила",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "прибавила",
+          "lexem": "прибавить",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "Авдотья",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "авдотья",
+          "lexem": "авдотья",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "Романовна",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "романовна",
+          "lexem": "романович",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "аппоз",
+      "head": "авдотья",
+      "dependent": "романовна",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "прибавила",
+      "dependent": "маменька",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "прибавила",
+      "dependent": "авдотья",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "достались",
+      "dependent": "которые",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "достались",
+      "dependent": "которые",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "достались",
+      "dependent": "вам",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "достались",
+      "dependent": "прибавила",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "достались",
+      "dependent": "так",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "обст",
+      "head": "достались",
+      "dependent": "дорого",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

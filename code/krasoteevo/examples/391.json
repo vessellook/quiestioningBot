@@ -1,0 +1,766 @@
+{
+  "sentence": "Пора, Дунечка, пора! — тревожно засуетилась Пульхерия Александровна, — еще подумает, что мы со вчерашнего сердимся, что так долго нейдем.",
+  "tokens": [
+    "Пора",
+    ",",
+    "Дунечка",
+    ",",
+    "пора",
+    "!",
+    "—",
+    "тревожно",
+    "засуетилась",
+    "Пульхерия",
+    "Александровна",
+    ",",
+    "—",
+    "еще",
+    "подумает",
+    ",",
+    "что",
+    "мы",
+    "со",
+    "вчерашнего",
+    "сердимся",
+    ",",
+    "что",
+    "так",
+    "долго",
+    "нейдем",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Пора",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пора",
+          "lexem": "пора",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "пора",
+          "lexem": "пора",
+          "tags": "V ПРЕДК",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "Дунечка",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "дунёчка",
+          "lexem": "дунёчек",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "дунечка",
+          "lexem": "дунечка",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "дунечка",
+          "lexem": "дунечка",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "пора",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пора",
+          "lexem": "пора",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "пора",
+          "lexem": "пора",
+          "tags": "V ПРЕДК",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "тревожно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тревожно",
+          "lexem": "тревожный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "тревожно",
+          "lexem": "тревожно",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "засуетилась",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "засуетилась",
+          "lexem": "засуетиться",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "Пульхерия",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пульхерия",
+          "lexem": "пульхерия",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "Александровна",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "александровна",
+          "lexem": "александрович",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "еще",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ещё",
+          "lexem": "ещё",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ещё",
+          "lexem": "ещё",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "подумает",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "подумает",
+          "lexem": "подумать",
+          "tags": "V ЕД СОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "что",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что",
+          "lexem": "что",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "что",
+          "lexem": "что",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "что",
+          "lexem": "что",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "мы",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мы",
+          "lexem": "мы",
+          "tags": "S МН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "со",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "со",
+          "lexem": "с",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": "вчерашнего",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вчерашнего",
+          "lexem": "вчерашний",
+          "tags": "A ЕД МУЖ РОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "вчерашнего",
+          "lexem": "вчерашний",
+          "tags": "A ЕД СР РОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "вчерашнего",
+          "lexem": "вчерашний",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": "сердимся",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сердимся",
+          "lexem": "сердиться",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "token": "что",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что",
+          "lexem": "что",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "что",
+          "lexem": "что",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "что",
+          "lexem": "что",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "token": "так",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "так",
+          "lexem": "так",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "так",
+          "lexem": "так",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "так",
+          "lexem": "так",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "token": "долго",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "долго",
+          "lexem": "долго",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "долго",
+          "lexem": "долгий",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "token": "нейдем",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "нейдём",
+          "lexem": "нейти",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "аппоз",
+      "head": "пульхерия",
+      "dependent": "александровна",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "пора",
+      "dependent": "дунечка",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "пора",
+      "dependent": "дунечка",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "дунечка",
+      "dependent": "пора",
+      "head_i": 2,
+      "head_homonym_i": 1,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "дунечка",
+      "dependent": "пора",
+      "head_i": 2,
+      "head_homonym_i": 2,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "засуетилась",
+      "dependent": "пора",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "засуетилась",
+      "dependent": "пульхерия",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "подумает",
+      "dependent": "что",
+      "head_i": 14,
+      "head_homonym_i": 0,
+      "dependent_i": 16,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "предик",
+      "head": "подумает",
+      "dependent": "что",
+      "head_i": 14,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "предик",
+      "head": "сердимся",
+      "dependent": "мы",
+      "head_i": 20,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "сердимся",
+      "dependent": "со",
+      "head_i": 20,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "пора",
+      "dependent": "дунечка",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "сочин",
+      "head": "пора",
+      "dependent": "дунечка",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "сочин",
+      "head": "дунечка",
+      "dependent": "пора",
+      "head_i": 2,
+      "head_homonym_i": 1,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "дунечка",
+      "dependent": "пора",
+      "head_i": 2,
+      "head_homonym_i": 2,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "засуетилась",
+      "dependent": "тревожно",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "обст",
+      "head": "подумает",
+      "dependent": "ещё",
+      "head_i": 14,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "сердимся",
+      "dependent": "со",
+      "head_i": 20,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

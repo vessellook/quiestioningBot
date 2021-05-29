@@ -1,0 +1,890 @@
+{
+  "sentence": "— Мне кажется, — говорила она, — что он что-то подозревает, что он даже знает что-то, — может быть, прочитал какое-нибудь ваше письмо, подобрал ключ к моему столу...",
+  "tokens": [
+    "—",
+    "Мне",
+    "кажется",
+    ",",
+    "—",
+    "говорила",
+    "она",
+    ",",
+    "—",
+    "что",
+    "он",
+    "что-то",
+    "подозревает",
+    ",",
+    "что",
+    "он",
+    "даже",
+    "знает",
+    "что-то",
+    ",",
+    "—",
+    "может",
+    "быть",
+    ",",
+    "прочитал",
+    "какое-нибудь",
+    "ваше",
+    "письмо",
+    ",",
+    "подобрал",
+    "ключ",
+    "к",
+    "моему",
+    "столу",
+    "..."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Мне",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ДАТ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "кажется",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "кажется",
+          "lexem": "казаться",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "кажется",
+          "lexem": "кажется",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "говорила",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "говорила",
+          "lexem": "говорить",
+          "tags": "V ЕД НЕСОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "она",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "она",
+          "lexem": "она",
+          "tags": "S ЕД ЖЕН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "что",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что",
+          "lexem": "что",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "что",
+          "lexem": "что",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "что",
+          "lexem": "что",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "он",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "он",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "что-то",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что-то",
+          "lexem": "что-то",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "что-то",
+          "lexem": "что-то",
+          "tags": "S ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "что-то",
+          "lexem": "что-то",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "подозревает",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "подозревает",
+          "lexem": "подозревать",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "что",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что",
+          "lexem": "что",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "что",
+          "lexem": "что",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "что",
+          "lexem": "что",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "он",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "он",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "даже",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "даже",
+          "lexem": "даже",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "знает",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "знает",
+          "lexem": "знать",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "что-то",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что-то",
+          "lexem": "что-то",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "что-то",
+          "lexem": "что-то",
+          "tags": "S ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "что-то",
+          "lexem": "что-то",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "token": "может",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "может",
+          "lexem": "мочь",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "может",
+          "lexem": "может",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "token": "быть",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "быть",
+          "lexem": "быть",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "token": "прочитал",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "прочитал",
+          "lexem": "прочитать",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "token": "какое-нибудь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "какое-нибудь",
+          "lexem": "какой-нибудь",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "какое-нибудь",
+          "lexem": "какой-нибудь",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "token": "ваше",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ваше",
+          "lexem": "ваш",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ваше",
+          "lexem": "ваш",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "token": "письмо",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "письмо",
+          "lexem": "письмо",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "письмо",
+          "lexem": "письмо",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "token": "подобрал",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "подобрал",
+          "lexem": "подобрать",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "token": "ключ",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ключ",
+          "lexem": "ключ",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ключ",
+          "lexem": "ключ",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "token": "к",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "к",
+          "lexem": "к",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "к",
+          "lexem": "как",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "token": "моему",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "моему",
+          "lexem": "мой",
+          "tags": "A ЕД МУЖ ДАТ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "моему",
+          "lexem": "мой",
+          "tags": "A ЕД СР ДАТ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "token": "столу",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "столу",
+          "lexem": "стол",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "столу",
+          "lexem": "стол",
+          "tags": "S ЕД МУЖ МЕСТН НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "token": "...",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "...",
+          "lexem": "...",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "письмо",
+      "dependent": "какое-нибудь",
+      "head_i": 27,
+      "head_homonym_i": 1,
+      "dependent_i": 25,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "опред",
+      "head": "письмо",
+      "dependent": "ваше",
+      "head_i": 27,
+      "head_homonym_i": 1,
+      "dependent_i": 26,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "опред",
+      "head": "столу",
+      "dependent": "моему",
+      "head_i": 33,
+      "head_homonym_i": 0,
+      "dependent_i": 32,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "к",
+      "dependent": "столу",
+      "head_i": 31,
+      "head_homonym_i": 0,
+      "dependent_i": 33,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "атриб",
+      "head": "ключ",
+      "dependent": "к",
+      "head_i": 30,
+      "head_homonym_i": 0,
+      "dependent_i": 31,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "говорила",
+      "dependent": "она",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "подозревает",
+      "dependent": "что",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "предик",
+      "head": "подозревает",
+      "dependent": "он",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "подозревает",
+      "dependent": "что-то",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "подозревает",
+      "dependent": "что",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "предик",
+      "head": "знает",
+      "dependent": "он",
+      "head_i": 17,
+      "head_homonym_i": 0,
+      "dependent_i": 15,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "знает",
+      "dependent": "что-то",
+      "head_i": 17,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "знает",
+      "dependent": "письмо",
+      "head_i": 17,
+      "head_homonym_i": 0,
+      "dependent_i": 27,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "прочитал",
+      "dependent": "ключ",
+      "head_i": 24,
+      "head_homonym_i": 0,
+      "dependent_i": 30,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "кажется",
+      "dependent": "мне",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "говорила",
+      "dependent": "прочитал",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 24,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "знает",
+      "dependent": "быть",
+      "head_i": 17,
+      "head_homonym_i": 0,
+      "dependent_i": 22,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

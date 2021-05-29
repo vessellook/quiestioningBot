@@ -1,0 +1,118 @@
+{
+  "sentence": "Значит, душа желает.",
+  "tokens": [
+    "Значит",
+    ",",
+    "душа",
+    "желает",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Значит",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "значит",
+          "lexem": "значит",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "значит",
+          "lexem": "значить",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "душа",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "душа",
+          "lexem": "душа",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "душа",
+          "lexem": "душ",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "душа",
+          "lexem": "душить",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "желает",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "желает",
+          "lexem": "желать",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "обст",
+      "head": "значит",
+      "dependent": "душа",
+      "head_i": 0,
+      "head_homonym_i": 1,
+      "dependent_i": 2,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "сочин",
+      "head": "значит",
+      "dependent": "желает",
+      "head_i": 0,
+      "head_homonym_i": 1,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

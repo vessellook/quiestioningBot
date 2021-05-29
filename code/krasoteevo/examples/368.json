@@ -1,0 +1,1367 @@
+{
+  "sentence": "Пишу же в том предположении, что Родион Романович, казавшийся при посещении моем столь больным, через два часа вдруг выздоровел, а стало быть, выходя со двора, может и к вам прибыть.",
+  "tokens": [
+    "Пишу",
+    "же",
+    "в",
+    "том",
+    "предположении",
+    ",",
+    "что",
+    "Родион",
+    "Романович",
+    ",",
+    "казавшийся",
+    "при",
+    "посещении",
+    "моем",
+    "столь",
+    "больным",
+    ",",
+    "через",
+    "два",
+    "часа",
+    "вдруг",
+    "выздоровел",
+    ",",
+    "а",
+    "стало",
+    "быть",
+    ",",
+    "выходя",
+    "со",
+    "двора",
+    ",",
+    "может",
+    "и",
+    "к",
+    "вам",
+    "прибыть",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Пишу",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "пишу",
+          "lexem": "писать",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "же",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "же",
+          "lexem": "же",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "же",
+          "lexem": "же",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "том",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "том",
+          "lexem": "тот",
+          "tags": "A ЕД СР ПР",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "том",
+          "lexem": "тот",
+          "tags": "A ЕД МУЖ ПР",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "том",
+          "lexem": "том",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "том",
+          "lexem": "том",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "том",
+          "lexem": "том",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 5,
+          "word": "том",
+          "lexem": "тома",
+          "tags": "S МН ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "том",
+          "lexem": "тома",
+          "tags": "S МН ЖЕН ВИН ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "предположении",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "предположении",
+          "lexem": "предположение",
+          "tags": "S ЕД СР ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "что",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "что",
+          "lexem": "что",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "что",
+          "lexem": "что",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ВИН",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "что",
+          "lexem": "что",
+          "tags": "S ЕД СР ИМ",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "что",
+          "lexem": "что",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "Родион",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "родион",
+          "lexem": "родион",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "Романович",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "романович",
+          "lexem": "романович",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "казавшийся",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "казавшийся",
+          "lexem": "казаться",
+          "tags": "V ПРИЧ ЕД МУЖ ИМ ПРОШ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "казавшийся",
+          "lexem": "казаться",
+          "tags": "V ПРИЧ ЕД МУЖ ВИН ПРОШ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "при",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "при",
+          "lexem": "при",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "при",
+          "lexem": "переть",
+          "tags": "V ЕД НЕСОВ ПОВ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "при",
+          "lexem": "пря",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "посещении",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "посещении",
+          "lexem": "посещение",
+          "tags": "S ЕД СР ПР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "моем",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "моём",
+          "lexem": "мой",
+          "tags": "A ЕД МУЖ ПР",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "моём",
+          "lexem": "мой",
+          "tags": "A ЕД СР ПР",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "моем",
+          "lexem": "мыть",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "столь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "столь",
+          "lexem": "столь",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "больным",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "больным",
+          "lexem": "больной",
+          "tags": "A ЕД МУЖ ТВОР",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "больным",
+          "lexem": "больной",
+          "tags": "A МН ДАТ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "больным",
+          "lexem": "больной",
+          "tags": "A ЕД СР ТВОР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "через",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "через",
+          "lexem": "через",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "два",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "два",
+          "lexem": "два",
+          "tags": "NUM МУЖ ИМ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "два",
+          "lexem": "два",
+          "tags": "NUM МУЖ ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "два",
+          "lexem": "два",
+          "tags": "NUM СР ИМ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "два",
+          "lexem": "два",
+          "tags": "NUM СР ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": "часа",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "часа",
+          "lexem": "час",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": "вдруг",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вдруг",
+          "lexem": "вдруг",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "token": "выздоровел",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "выздоровел",
+          "lexem": "выздороветь",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "token": "а",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "а",
+          "lexem": "а",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "а",
+          "lexem": "а",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "а",
+          "lexem": "а",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "token": "стало",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "стало",
+          "lexem": "стать",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "token": "быть",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "быть",
+          "lexem": "быть",
+          "tags": "V ИНФ НЕСОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "token": "выходя",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "выходя",
+          "lexem": "выходить",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "token": "со",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "со",
+          "lexem": "с",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S ЕД ЖЕН ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "со",
+          "lexem": "со",
+          "tags": "S МН ЖЕН ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "token": "двора",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "двора",
+          "lexem": "двор",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "token": "может",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "может",
+          "lexem": "мочь",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "может",
+          "lexem": "может",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "token": "и",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "и",
+          "lexem": "и",
+          "tags": "CONJ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "и",
+          "lexem": "и",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "и",
+          "lexem": "и",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "и",
+          "lexem": "и",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "token": "к",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "к",
+          "lexem": "к",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "к",
+          "lexem": "как",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ РОД ОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ ДАТ ОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ ТВОР ОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "к",
+          "lexem": "к",
+          "tags": "S МН МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "token": "вам",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вам",
+          "lexem": "вы",
+          "tags": "S МН ДАТ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "token": "прибыть",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "прибыть",
+          "lexem": "прибыть",
+          "tags": "V ИНФ СОВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "романович",
+      "dependent": "казавшийся",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "количест",
+      "head": "часа",
+      "dependent": "два",
+      "head_i": 19,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "количест",
+      "head": "часа",
+      "dependent": "два",
+      "head_i": 19,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "родион",
+      "dependent": "романович",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "том",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "том",
+      "head_i": 2,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "предл",
+      "head": "при",
+      "dependent": "посещении",
+      "head_i": 11,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "через",
+      "dependent": "часа",
+      "head_i": 17,
+      "head_homonym_i": 0,
+      "dependent_i": 19,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "со",
+      "dependent": "двора",
+      "head_i": 28,
+      "head_homonym_i": 0,
+      "dependent_i": 29,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "к",
+      "dependent": "вам",
+      "head_i": 33,
+      "head_homonym_i": 0,
+      "dependent_i": 34,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "об-аппоз",
+      "head": "том",
+      "dependent": "родион",
+      "head_i": 3,
+      "head_homonym_i": 3,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "быть",
+      "dependent": "выходя",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 27,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "пишу",
+      "dependent": "что",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "пишу",
+      "dependent": "в",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "казавшийся",
+      "dependent": "при",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "моем",
+      "dependent": "через",
+      "head_i": 13,
+      "head_homonym_i": 2,
+      "dependent_i": 17,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "выздоровел",
+      "dependent": "через",
+      "head_i": 21,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "выходя",
+      "dependent": "со",
+      "head_i": 27,
+      "head_homonym_i": 0,
+      "dependent_i": 28,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "может",
+      "dependent": "к",
+      "head_i": 31,
+      "head_homonym_i": 0,
+      "dependent_i": 33,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "прибыть",
+      "dependent": "к",
+      "head_i": 35,
+      "head_homonym_i": 0,
+      "dependent_i": 33,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "а",
+      "dependent": "стало",
+      "head_i": 23,
+      "head_homonym_i": 0,
+      "dependent_i": 24,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "прибыть",
+      "head_i": 32,
+      "head_homonym_i": 0,
+      "dependent_i": 35,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "а",
+      "dependent": "двора",
+      "head_i": 23,
+      "head_homonym_i": 0,
+      "dependent_i": 29,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "и",
+      "dependent": "вам",
+      "head_i": 32,
+      "head_homonym_i": 0,
+      "dependent_i": 34,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "пишу",
+      "dependent": "моем",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "сочин",
+      "head": "выздоровел",
+      "dependent": "а",
+      "head_i": 21,
+      "head_homonym_i": 0,
+      "dependent_i": 23,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "сочин",
+      "head": "быть",
+      "dependent": "и",
+      "head_i": 25,
+      "head_homonym_i": 0,
+      "dependent_i": 32,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "пишу",
+      "dependent": "в",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "казавшийся",
+      "dependent": "при",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "моем",
+      "dependent": "столь",
+      "head_i": 13,
+      "head_homonym_i": 2,
+      "dependent_i": 14,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "выздоровел",
+      "dependent": "через",
+      "head_i": 21,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "выздоровел",
+      "dependent": "вдруг",
+      "head_i": 21,
+      "head_homonym_i": 0,
+      "dependent_i": 20,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "выходя",
+      "dependent": "со",
+      "head_i": 27,
+      "head_homonym_i": 0,
+      "dependent_i": 28,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "прибыть",
+      "dependent": "к",
+      "head_i": 35,
+      "head_homonym_i": 0,
+      "dependent_i": 33,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "стало",
+      "dependent": "быть",
+      "head_i": 24,
+      "head_homonym_i": 0,
+      "dependent_i": 25,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+  "sentence": "— Сегодня, очень рано, мы получили от Петра Петровича записку в ответ на наше вчерашнее извещение о приезде.",
+  "tokens": [
+    "—",
+    "Сегодня",
+    ",",
+    "очень",
+    "рано",
+    ",",
+    "мы",
+    "получили",
+    "от",
+    "Петра",
+    "Петровича",
+    "записку",
+    "в",
+    "ответ",
+    "на",
+    "наше",
+    "вчерашнее",
+    "извещение",
+    "о",
+    "приезде",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Сегодня",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сегодня",
+          "lexem": "сегодня",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "очень",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "очень",
+          "lexem": "очень",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "рано",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "рано",
+          "lexem": "рано",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "мы",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мы",
+          "lexem": "мы",
+          "tags": "S МН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "получили",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "получили",
+          "lexem": "получить",
+          "tags": "V МН СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "от",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "от",
+          "lexem": "от",
+          "tags": "PR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "Петра",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "петра",
+          "lexem": "пётр",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "петра",
+          "lexem": "пётр",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "петра",
+          "lexem": "петра",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "Петровича",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "петровича",
+          "lexem": "петрович",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "петровича",
+          "lexem": "петрович",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "записку",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "записку",
+          "lexem": "записка",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "ответ",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ответ",
+          "lexem": "ответ",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ответ",
+          "lexem": "ответ",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "на",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "на",
+          "lexem": "на",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": "наше",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "наше",
+          "lexem": "наш",
+          "tags": "A ЕД СР ИМ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "наше",
+          "lexem": "наш",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "вчерашнее",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вчерашнее",
+          "lexem": "вчерашний",
+          "tags": "A ЕД СР ИМ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "вчерашнее",
+          "lexem": "вчерашний",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "извещение",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "извещение",
+          "lexem": "извещение",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "извещение",
+          "lexem": "извещение",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "о",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "о",
+          "lexem": "о",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "о",
+          "lexem": "о",
+          "tags": "INTJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД ЖЕН ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН ЖЕН ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН ЖЕН РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН ЖЕН ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН ЖЕН ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН ЖЕН ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 13,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН ЖЕН ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 14,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 15,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 16,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 17,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 18,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 19,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 20,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 21,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 22,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 23,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 24,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 25,
+          "word": "о",
+          "lexem": "о",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": "приезде",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "приезде",
+          "lexem": "приезд",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "извещение",
+      "dependent": "вчерашнее",
+      "head_i": 17,
+      "head_homonym_i": 1,
+      "dependent_i": 16,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "опред",
+      "head": "извещение",
+      "dependent": "наше",
+      "head_i": 17,
+      "head_homonym_i": 1,
+      "dependent_i": 15,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "квазиагент",
+      "head": "ответ",
+      "dependent": "на",
+      "head_i": 13,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "квазиагент",
+      "head": "ответ",
+      "dependent": "на",
+      "head_i": 13,
+      "head_homonym_i": 1,
+      "dependent_i": 14,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "петра",
+      "dependent": "петровича",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "петра",
+      "dependent": "петровича",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "от",
+      "dependent": "петра",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "ответ",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "ответ",
+      "head_i": 12,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "на",
+      "dependent": "извещение",
+      "head_i": 14,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "о",
+      "dependent": "приезде",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 19,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "получили",
+      "dependent": "мы",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "получили",
+      "dependent": "от",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "получили",
+      "dependent": "записку",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "получили",
+      "dependent": "от",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "получили",
+      "dependent": "в",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "получили",
+      "dependent": "на",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 14,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "получили",
+      "dependent": "о",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "получили",
+      "dependent": "сегодня",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "sentence": "— Да кому ж рассказал?",
+  "tokens": [
+    "—",
+    "Да",
+    "кому",
+    "ж",
+    "рассказал",
+    "?"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Да",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "да",
+          "lexem": "да",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "да",
+          "lexem": "да",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "да",
+          "lexem": "да",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "кому",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "кому",
+          "lexem": "кто",
+          "tags": "S ЕД МУЖ ДАТ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "кому",
+          "lexem": "кома",
+          "tags": "S ЕД ЖЕН ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "кому",
+          "lexem": "ком",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "ж",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ж",
+          "lexem": "ж",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "ж",
+          "lexem": "ж",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "рассказал",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "рассказал",
+          "lexem": "рассказать",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "?",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "?",
+          "lexem": "?",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "1-компл",
+      "head": "рассказал",
+      "dependent": "кому",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "рассказал",
+      "dependent": "кому",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "рассказал",
+      "dependent": "кому",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 2
+    }
+  ]
+}

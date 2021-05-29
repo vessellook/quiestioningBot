@@ -1,0 +1,189 @@
+{
+  "sentence": "Платье свое он тщательно отчистил щеткой.",
+  "tokens": [
+    "Платье",
+    "свое",
+    "он",
+    "тщательно",
+    "отчистил",
+    "щеткой",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Платье",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "платье",
+          "lexem": "платье",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "платье",
+          "lexem": "платье",
+          "tags": "S ЕД СР ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "платье",
+          "lexem": "платье",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "свое",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "своё",
+          "lexem": "свой",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "своё",
+          "lexem": "свой",
+          "tags": "A ЕД СР ИМ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "он",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "он",
+          "lexem": "он",
+          "tags": "S ЕД МУЖ ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "тщательно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тщательно",
+          "lexem": "тщательно",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "тщательно",
+          "lexem": "тщательный",
+          "tags": "A КР ЕД СР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "отчистил",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "отчистил",
+          "lexem": "отчистить",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "щеткой",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "щёткой",
+          "lexem": "щётка",
+          "tags": "S ЕД ЖЕН ТВОР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "платье",
+      "dependent": "своё",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "агент",
+      "head": "отчистил",
+      "dependent": "щёткой",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "отчистил",
+      "dependent": "он",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "отчистил",
+      "dependent": "платье",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "отчистил",
+      "dependent": "щёткой",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 5,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "отчистил",
+      "dependent": "тщательно",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sentence": "Исступленному-то ипохондрику!",
+  "tokens": [
+    "Исступленному-то",
+    "ипохондрику",
+    "!"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Исступленному-то",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "исступлённому-то",
+          "lexem": "исступлённый-то",
+          "tags": "A ЕД МУЖ ДАТ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "исступлённому-то",
+          "lexem": "исступлённый-то",
+          "tags": "A ЕД СР ДАТ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "ипохондрику",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ипохондрику",
+          "lexem": "ипохондрик",
+          "tags": "S ЕД МУЖ ДАТ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "!",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "!",
+          "lexem": "!",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "ипохондрику",
+      "dependent": "исступлённому-то",
+      "head_i": 1,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "sentence": "— Кстати, имеешь ты какое-нибудь влияние на тех-то, на мать да сестру?",
+  "tokens": [
+    "—",
+    "Кстати",
+    ",",
+    "имеешь",
+    "ты",
+    "какое-нибудь",
+    "влияние",
+    "на",
+    "тех-то",
+    ",",
+    "на",
+    "мать",
+    "да",
+    "сестру",
+    "?"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Кстати",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "кстати",
+          "lexem": "кстати",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "кстати",
+          "lexem": "кстати",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "имеешь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "имеешь",
+          "lexem": "иметь",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 2-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "ты",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ты",
+          "lexem": "ты",
+          "tags": "S ЕД ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "какое-нибудь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "какое-нибудь",
+          "lexem": "какой-нибудь",
+          "tags": "A ЕД СР ВИН",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "какое-нибудь",
+          "lexem": "какой-нибудь",
+          "tags": "A ЕД СР ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "влияние",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "влияние",
+          "lexem": "влияние",
+          "tags": "S ЕД СР ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "влияние",
+          "lexem": "влияние",
+          "tags": "S ЕД СР ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "на",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "на",
+          "lexem": "на",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "тех-то",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "тех-то",
+          "lexem": "тот-то",
+          "tags": "A МН РОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "тех-то",
+          "lexem": "тот-то",
+          "tags": "A МН ВИН",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "тех-то",
+          "lexem": "тот-то",
+          "tags": "A МН ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "на",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "на",
+          "lexem": "на",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "мать",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мать",
+          "lexem": "мать",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "мать",
+          "lexem": "мать",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "да",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "да",
+          "lexem": "да",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "да",
+          "lexem": "да",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "да",
+          "lexem": "да",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "сестру",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сестру",
+          "lexem": "сестра",
+          "tags": "S ЕД ЖЕН ВИН ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "?",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "?",
+          "lexem": "?",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "влияние",
+      "dependent": "какое-нибудь",
+      "head_i": 6,
+      "head_homonym_i": 1,
+      "dependent_i": 5,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предл",
+      "head": "на",
+      "dependent": "мать",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "атриб",
+      "head": "влияние",
+      "dependent": "на",
+      "head_i": 6,
+      "head_homonym_i": 1,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "имеешь",
+      "dependent": "ты",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "имеешь",
+      "dependent": "влияние",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "имеешь",
+      "dependent": "на",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "имеешь",
+      "dependent": "сестру",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "имеешь",
+      "dependent": "на",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

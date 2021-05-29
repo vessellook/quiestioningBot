@@ -1,0 +1,531 @@
+{
+  "sentence": "Дай мне нарзану, — сказала она в первый раз говоря мне «ты».",
+  "tokens": [
+    "Дай",
+    "мне",
+    "нарзану",
+    ",",
+    "—",
+    "сказала",
+    "она",
+    "в",
+    "первый",
+    "раз",
+    "говоря",
+    "мне",
+    "«",
+    "ты",
+    "»",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Дай",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "дай",
+          "lexem": "дать",
+          "tags": "V ЕД СОВ ПОВ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "дай",
+          "lexem": "дая",
+          "tags": "S МН ЖЕН РОД ОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "дай",
+          "lexem": "дая",
+          "tags": "S МН ЖЕН ВИН ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "мне",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ДАТ",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "нарзану",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "нарзану",
+          "lexem": "нарзан",
+          "tags": "S ЕД МУЖ ПАРТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "нарзану",
+          "lexem": "нарзан",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "сказала",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "сказала",
+          "lexem": "сказать",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "она",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "она",
+          "lexem": "она",
+          "tags": "S ЕД ЖЕН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "первый",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "первый",
+          "lexem": "первый",
+          "tags": "A ЕД МУЖ ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "первый",
+          "lexem": "первый",
+          "tags": "A ЕД МУЖ ВИН",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "раз",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "раз",
+          "lexem": "раз",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "раз",
+          "lexem": "раз",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "раз",
+          "lexem": "раз",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "раз",
+          "lexem": "раз",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": true
+        },
+        {
+          "index": 4,
+          "word": "раз",
+          "lexem": "раз",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "говоря",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "говоря",
+          "lexem": "говорить",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "мне",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ДАТ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "мне",
+          "lexem": "я",
+          "tags": "S ЕД ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "«",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "«",
+          "lexem": "«",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "ты",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ты",
+          "lexem": "ты",
+          "tags": "S ЕД ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "»",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "»",
+          "lexem": "»",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "раз",
+      "dependent": "первый",
+      "head_i": 9,
+      "head_homonym_i": 3,
+      "dependent_i": 8,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "опред",
+      "head": "раз",
+      "dependent": "первый",
+      "head_i": 9,
+      "head_homonym_i": 4,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аддит",
+      "head": "первый",
+      "dependent": "раз",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "аддит",
+      "head": "первый",
+      "dependent": "раз",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "аддит",
+      "head": "первый",
+      "dependent": "раз",
+      "head_i": 8,
+      "head_homonym_i": 1,
+      "dependent_i": 9,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "аддит",
+      "head": "первый",
+      "dependent": "раз",
+      "head_i": 8,
+      "head_homonym_i": 1,
+      "dependent_i": 9,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "раз",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "раз",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "обст",
+      "head": "сказала",
+      "dependent": "говоря",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 10,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "сказала",
+      "dependent": "она",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 6,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "сказала",
+      "dependent": "ты",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "сказала",
+      "dependent": "дай",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 0,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "сказала",
+      "dependent": "в",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "говоря",
+      "dependent": "мне",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "сказала",
+      "dependent": "в",
+      "head_i": 5,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "говоря",
+      "dependent": "раз",
+      "head_i": 10,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 1
+    }
+  ]
+}

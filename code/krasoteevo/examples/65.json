@@ -1,0 +1,338 @@
+{
+  "sentence": "Живет Саша \"на хлебах\", в мещанском домишке.",
+  "tokens": [
+    "Живет",
+    "Саша",
+    "\"",
+    "на",
+    "хлебах",
+    "\"",
+    ",",
+    "в",
+    "мещанском",
+    "домишке",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Живет",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "живёт",
+          "lexem": "жить",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Саша",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "саша",
+          "lexem": "саша",
+          "tags": "S ЕД ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "\"",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "\"",
+          "lexem": "\"",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "на",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "на",
+          "lexem": "на",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "на",
+          "lexem": "на",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "хлебах",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "хлебах",
+          "lexem": "хлеб",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "\"",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "\"",
+          "lexem": "\"",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "в",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "в",
+          "lexem": "в",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": false
+        },
+        {
+          "index": 3,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 5,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 6,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S ЕД МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 7,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 8,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 9,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ДАТ НЕОД",
+          "active": false
+        },
+        {
+          "index": 10,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 11,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ТВОР НЕОД",
+          "active": false
+        },
+        {
+          "index": 12,
+          "word": "в",
+          "lexem": "в",
+          "tags": "S МН МУЖ ПР НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "мещанском",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "мещанском",
+          "lexem": "мещанский",
+          "tags": "A ЕД МУЖ ПР",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "мещанском",
+          "lexem": "мещанский",
+          "tags": "A ЕД СР ПР",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "домишке",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "домишке",
+          "lexem": "домишко",
+          "tags": "S ЕД МУЖ ПР НЕОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "домишке",
+          "lexem": "домишко",
+          "tags": "S ЕД МУЖ ДАТ НЕОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "домишке",
+      "dependent": "мещанском",
+      "head_i": 9,
+      "head_homonym_i": 0,
+      "dependent_i": 8,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "на",
+      "dependent": "хлебах",
+      "head_i": 3,
+      "head_homonym_i": 0,
+      "dependent_i": 4,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предл",
+      "head": "в",
+      "dependent": "домишке",
+      "head_i": 7,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "живёт",
+      "dependent": "саша",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "живёт",
+      "dependent": "на",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "живёт",
+      "dependent": "в",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "живёт",
+      "dependent": "на",
+      "head_i": 0,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

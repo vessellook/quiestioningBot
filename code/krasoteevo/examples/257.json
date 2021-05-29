@@ -1,0 +1,488 @@
+{
+  "sentence": "— Да чего ты-то выпытываешь? — раздражительно крикнул Разумихин, — почем я знаю, шиш или ни шиша?",
+  "tokens": [
+    "—",
+    "Да",
+    "чего",
+    "ты-то",
+    "выпытываешь",
+    "?",
+    "—",
+    "раздражительно",
+    "крикнул",
+    "Разумихин",
+    ",",
+    "—",
+    "почем",
+    "я",
+    "знаю",
+    ",",
+    "шиш",
+    "или",
+    "ни",
+    "шиша",
+    "?"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "Да",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "да",
+          "lexem": "да",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "да",
+          "lexem": "да",
+          "tags": "CONJ",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "да",
+          "lexem": "да",
+          "tags": "INTJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "чего",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "чего",
+          "lexem": "что",
+          "tags": "S ЕД СР РОД",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "чего",
+          "lexem": "чего",
+          "tags": "ADV",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "ты-то",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ты-то",
+          "lexem": "ты-то",
+          "tags": "S ЕД ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": "выпытываешь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "выпытываешь",
+          "lexem": "выпытывать",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 2-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "?",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "?",
+          "lexem": "?",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "раздражительно",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "раздражительно",
+          "lexem": "раздражительный",
+          "tags": "A КР ЕД СР",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": "крикнул",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "крикнул",
+          "lexem": "крикнуть",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "Разумихин",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "разумихин",
+          "lexem": "разумихин",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "почем",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "почём",
+          "lexem": "почём",
+          "tags": "ADV",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "я",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "я",
+          "lexem": "я",
+          "tags": "S ЕД ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "знаю",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "знаю",
+          "lexem": "знать",
+          "tags": "V ЕД НЕСОВ НЕПРОШ ИЗЪЯВ 1-Л",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "шиш",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "шиш",
+          "lexem": "шиш",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "шиш",
+          "lexem": "шиш",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "шиш",
+          "lexem": "шиш",
+          "tags": "S ЕД МУЖ ИМ НЕОД",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "шиш",
+          "lexem": "шиш",
+          "tags": "S ЕД МУЖ ВИН НЕОД",
+          "active": false
+        },
+        {
+          "index": 4,
+          "word": "шиш",
+          "lexem": "шиш",
+          "tags": "S ЕД МУЖ ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "или",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "или",
+          "lexem": "или",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "ни",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ни",
+          "lexem": "ни",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "ни",
+          "lexem": "ни",
+          "tags": "CONJ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": "шиша",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "шиша",
+          "lexem": "шиш",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "шиша",
+          "lexem": "шиш",
+          "tags": "S ЕД МУЖ РОД НЕОД",
+          "active": true
+        },
+        {
+          "index": 2,
+          "word": "шиша",
+          "lexem": "шиш",
+          "tags": "S ЕД МУЖ РОД ОД",
+          "active": true
+        },
+        {
+          "index": 3,
+          "word": "шиша",
+          "lexem": "шиш",
+          "tags": "S ЕД МУЖ ВИН ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": "?",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "?",
+          "lexem": "?",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "предик",
+      "head": "выпытываешь",
+      "dependent": "ты-то",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "выпытываешь",
+      "dependent": "шиш",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 16,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "предик",
+      "head": "крикнул",
+      "dependent": "разумихин",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 9,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "крикнул",
+      "dependent": "я",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "крикнул",
+      "dependent": "шиш",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 16,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "предик",
+      "head": "крикнул",
+      "dependent": "шиш",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 16,
+      "dependent_homonym_i": 4
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "крикнул",
+      "dependent": "шиша",
+      "head_i": 8,
+      "head_homonym_i": 0,
+      "dependent_i": 19,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "выпытываешь",
+      "dependent": "чего",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "ни",
+      "dependent": "шиша",
+      "head_i": 18,
+      "head_homonym_i": 1,
+      "dependent_i": 19,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "ни",
+      "dependent": "шиша",
+      "head_i": 18,
+      "head_homonym_i": 1,
+      "dependent_i": 19,
+      "dependent_homonym_i": 2
+    },
+    {
+      "dep_type": "соч-союзн",
+      "head": "ни",
+      "dependent": "шиша",
+      "head_i": 18,
+      "head_homonym_i": 1,
+      "dependent_i": 19,
+      "dependent_homonym_i": 3
+    },
+    {
+      "dep_type": "обст",
+      "head": "выпытываешь",
+      "dependent": "чего",
+      "head_i": 4,
+      "head_homonym_i": 0,
+      "dependent_i": 2,
+      "dependent_homonym_i": 1
+    }
+  ]
+}

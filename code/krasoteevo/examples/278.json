@@ -1,0 +1,428 @@
+{
+  "sentence": "— После, маменька, — вмешалась Дуня, — ведь они еще не знают, кто такая Марфа Петровна.",
+  "tokens": [
+    "—",
+    "После",
+    ",",
+    "маменька",
+    ",",
+    "—",
+    "вмешалась",
+    "Дуня",
+    ",",
+    "—",
+    "ведь",
+    "они",
+    "еще",
+    "не",
+    "знают",
+    ",",
+    "кто",
+    "такая",
+    "Марфа",
+    "Петровна",
+    "."
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "После",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "после",
+          "lexem": "после",
+          "tags": "PR",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "после",
+          "lexem": "после",
+          "tags": "ADV",
+          "active": false
+        },
+        {
+          "index": 2,
+          "word": "после",
+          "lexem": "посол",
+          "tags": "S ЕД МУЖ ПР ОД",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "token": "маменька",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "маменька",
+          "lexem": "маменька",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "token": "вмешалась",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "вмешалась",
+          "lexem": "вмешаться",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "token": "Дуня",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "дуня",
+          "lexem": "дуня",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "token": "—",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "—",
+          "lexem": "—",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "token": "ведь",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ведь",
+          "lexem": "ведь",
+          "tags": "PART",
+          "active": false
+        },
+        {
+          "index": 1,
+          "word": "ведь",
+          "lexem": "ведь",
+          "tags": "CONJ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "token": "они",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "они",
+          "lexem": "они",
+          "tags": "S МН ИМ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "token": "еще",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "ещё",
+          "lexem": "ещё",
+          "tags": "ADV",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "ещё",
+          "lexem": "ещё",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "token": "не",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "не",
+          "lexem": "не",
+          "tags": "PART",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "token": "знают",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "знают",
+          "lexem": "знать",
+          "tags": "V МН НЕСОВ НЕПРОШ ИЗЪЯВ 3-Л",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "token": ",",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ",",
+          "lexem": ",",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "token": "кто",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "кто",
+          "lexem": "кто",
+          "tags": "S ЕД МУЖ ИМ",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "token": "такая",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "такая",
+          "lexem": "такой",
+          "tags": "A ЕД ЖЕН ИМ",
+          "active": true
+        },
+        {
+          "index": 1,
+          "word": "такая",
+          "lexem": "такать",
+          "tags": "V ДЕЕПР НЕСОВ НЕПРОШ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "token": "Марфа",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "марфа",
+          "lexem": "марфа",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "token": "Петровна",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "петровна",
+          "lexem": "петрович",
+          "tags": "S ЕД ЖЕН ИМ ОД",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "token": ".",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": ".",
+          "lexem": ".",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": [
+    {
+      "dep_type": "опред",
+      "head": "марфа",
+      "dependent": "такая",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "аппоз",
+      "head": "марфа",
+      "dependent": "петровна",
+      "head_i": 18,
+      "head_homonym_i": 0,
+      "dependent_i": 19,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "огранич",
+      "head": "знают",
+      "dependent": "не",
+      "head_i": 14,
+      "head_homonym_i": 0,
+      "dependent_i": 13,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "знают",
+      "dependent": "такая",
+      "head_i": 14,
+      "head_homonym_i": 0,
+      "dependent_i": 17,
+      "dependent_homonym_i": 1
+    },
+    {
+      "dep_type": "предик",
+      "head": "вмешалась",
+      "dependent": "маменька",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 3,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "вмешалась",
+      "dependent": "дуня",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 7,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "вмешалась",
+      "dependent": "марфа",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 18,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "предик",
+      "head": "знают",
+      "dependent": "они",
+      "head_i": 14,
+      "head_homonym_i": 0,
+      "dependent_i": 11,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "1-компл",
+      "head": "вмешалась",
+      "dependent": "после",
+      "head_i": 6,
+      "head_homonym_i": 0,
+      "dependent_i": 1,
+      "dependent_homonym_i": 0
+    },
+    {
+      "dep_type": "обст",
+      "head": "знают",
+      "dependent": "ещё",
+      "head_i": 14,
+      "head_homonym_i": 0,
+      "dependent_i": 12,
+      "dependent_homonym_i": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "sentence": "Не полегчало?",
+  "tokens": [
+    "Не",
+    "полегчало",
+    "?"
+  ],
+  "morphs": [
+    {
+      "index": 0,
+      "token": "Не",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "не",
+          "lexem": "не",
+          "tags": "PART",
+          "active": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "token": "полегчало",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "полегчало",
+          "lexem": "полегчать",
+          "tags": "V ЕД СОВ ПРОШ ИЗЪЯВ",
+          "active": true
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "token": "?",
+      "homonyms": [
+        {
+          "index": 0,
+          "word": "?",
+          "lexem": "?",
+          "tags": "NID",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "synts": []
+}
