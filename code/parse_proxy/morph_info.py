@@ -24,9 +24,10 @@ class MorphInfo:
             self._parse = None
             self.analyzer = None
         else:
-            self.tag = analyzer.TagClass(self.grammemes)
-            self._parse = choose_parse(word, tag=self.tag, normal_form=normal_form,
+            print(grammemes, word)
+            self._parse = choose_parse(word, tag=grammemes, normal_form=normal_form,
                                        analyzer=analyzer)
+            self.tag = self._parse.tag
             self.analyzer = analyzer
 
     @property

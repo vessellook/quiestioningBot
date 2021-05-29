@@ -45,7 +45,10 @@ def _pos(vertex):
     if not vertex['is_word']:
         return None
     morph_info: MorphInfo = vertex['morph_info_list'][0]
-    return morph_info.grammemes.split(',')[0]
+    try:
+        return morph_info.tag.POS
+    except AttributeError:
+        return morph_info.grammemes.replace(',', ' ').split(' ')[0]
 
 
 def _double(iterable):

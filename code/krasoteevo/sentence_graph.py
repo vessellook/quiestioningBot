@@ -9,6 +9,7 @@ import pymorphy2
 
 from parse_proxy.morph_info import MorphInfo
 from krasoteevo.request import request_syntax_analysis
+from krasoteevo.krasoteevo_tag import KrasoteevoTag
 
 
 class SentenceGraph(Graph):
@@ -92,16 +93,28 @@ def _extract_vertices(json_obj, analyzer: pymorphy2.MorphAnalyzer = None):
     def get_attrs(mi_list):
         if isinstance(mi_list, dict):  # new JSON format
             mi_list = list(filter(lambda homonym: homonym['active'], mi_list['homonyms']))
-        if mi_list:
-            # word token
-            mi_list_converted = []
-            for item in mi_list:
-                morph_info = MorphInfo(word=item['word'], normal_form=item['lexem'],
-                                       grammemes=clear(item['tags']), analyzer=analyzer)
-                mi_list_converted.append(morph_info)
-            return mi_list_converted, True
-            # punctuation mark
-        return None, False
+            if mi_list:
+                # word token
+                mi_list_converted = []
+                for item in mi_list:
+                    morph_info = MorphInfo(word=item['word'], normal_form=item['lexem'],
+                                           grammemes=KrasoteevoTag(item['tags']),
+                                           analyzer=analyzer)
+                    mi_list_converted.append(morph_info)
+                return mi_list_converted, True
+                # punctuation mark
+            return None, False
+        else:  # old JSON format
+            if mi_list:
+                # word token
+                mi_list_converted = []
+                for item in mi_list:
+                    morph_info = MorphInfo(word=item['word'], normal_form=item['lexem'],
+                                           grammemes=clear(item['tags']), analyzer=analyzer)
+                    mi_list_converted.append(morph_info)
+                return mi_list_converted, True
+                # punctuation mark
+            return None, False
 
     attrs = {'morph_info_list': [], 'is_word': [], 'token': [], 'id': []}
     for num, (token, morph_info_list) in enumerate(zip(json_obj['tokens'], json_obj['morphs'])):

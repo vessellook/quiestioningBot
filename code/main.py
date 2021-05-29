@@ -5,6 +5,7 @@ from pymorphy2 import MorphAnalyzer
 
 from krasoteevo.examples import get_example_graph
 from krasoteevo.sentence_graph import SentenceGraph
+from krasoteevo.visualization import show
 from parse_proxy.question_type import QuestionType as QType
 from parse_proxy.complex_verb import ComplexVerb
 from parse_proxy.morph_info import MorphInfo
@@ -141,8 +142,8 @@ def main():
     graph = get_example_graph(number, analyzer=analyzer)
 
     pprint([str(question) for question in get_questions(graph, analyzer=analyzer)])
-    pprint(graph['json'])
-    # show(graph)
+    # pprint(graph['json'])
+    show(graph)
 
 
 if __name__ == '__main__':

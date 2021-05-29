@@ -1,0 +1,2 @@
+class KrasoteevoTag(str):
+    pass

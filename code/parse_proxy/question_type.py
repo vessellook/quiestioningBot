@@ -17,7 +17,8 @@ class QuestionType(Enum):
     WHY = {'word': 'почему', 'tag': 'ADVB,Ques'}
 
     def __new__(cls, value):
-        self = super().__new__(cls, value['word'])
+        self = object.__new__(cls)
+        self._value_ = value['word']
         self.word = value['word']
         self.raw_tag = value['tag']
         self.normal_form = value.get('normal_form', value['word'])
