@@ -4,11 +4,11 @@ from igraph import Vertex
 class Node:
     def __init__(self, *, grammemes=None, white_list=None, black_list=None):
         if isinstance(grammemes, str):
-            grammemes = tuple(grammemes)
+            grammemes = frozenset(grammemes)
         if isinstance(white_list, str):
-            white_list = tuple(white_list)
+            white_list = frozenset(white_list)
         if isinstance(black_list, str):
-            black_list = tuple(black_list)
+            black_list = frozenset(black_list)
         self.grammemes = grammemes
         self.white_list = white_list
         self.black_list = black_list

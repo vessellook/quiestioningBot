@@ -127,7 +127,7 @@ def get_questions(graph: SentenceGraph, analyzer: MorphAnalyzer):
                 morph_info = morph_info.inflect({'2per'})
             questions.extend(verb(vertex, morph_info, analyzer))
         elif 'NUMR' in morph_info.tag:
-            if morph_info.word in {'двое', 'трое'} or morph_info.word[-1:] == 'о':
+            if morph_info.normal_form in {'двое', 'трое'} or morph_info.normal_form[-1:] == 'о':
                 questions.append(Question(QType.WHO, morph_info, vertex))
     return questions
 
